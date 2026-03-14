@@ -52,6 +52,7 @@ const htmlParts = [
   '<div id="root"></div>',
   '<script src="https://unpkg.com/react@18/umd/react.production.min.js"></script>',
   '<script src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>',
+  '<script src="https://unpkg.com/prop-types@15/prop-types.min.js"></script>',
   '<script src="https://unpkg.com/recharts@2.12.7/umd/Recharts.js"></script>',
   '<script>',
   js,
