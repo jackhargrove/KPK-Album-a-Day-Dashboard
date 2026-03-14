@@ -31,31 +31,37 @@ const js = result.outputText
   .replace(/Object\.defineProperty\(exports.*?\);\s*/g, "")
   .replace(/exports\.default\s*=\s*\w+;\s*/g, "");
 
-const html = `<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>/mu/ essentials - Album a Day Dashboard</title>
-<style>
-  * { margin: 0; padding: 0; box-sizing: border-box; }
-  body { background: #0d0d0d; }
-  ::-webkit-scrollbar { width: 6px; height: 6px; }
-  ::-webkit-scrollbar-track { background: #111; }
-  ::-webkit-scrollbar-thumb { background: #333; border-radius: 3px; }
-</style>
-</head>
-<body>
-<div id="root"></div>
-<script src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
-<script src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
-<script src="https://unpkg.com/recharts@2.12.7/umd/Recharts.js"></script>
-<script>
-${js}
-ReactDOM.createRoot(document.getElementById("root")).render(React.createElement(Dashboard));
-</script>
-</body>
-</html>`;
+// Build HTML via concatenation (NOT template literals) to avoid
+// backticks in the compiled JS breaking the output
+const htmlParts = [
+  '<!DOCTYPE html>',
+  '<html lang="en">',
+  '<head>',
+  '<meta charset="UTF-8">',
+  '<meta name="viewport" content="width=device-width, initial-scale=1.0">',
+  '<title>/mu/ essentials - Album a Day Dashboard</title>',
+  '<style>',
+  '  * { margin: 0; padding: 0; box-sizing: border-box; }',
+  '  body { background: #0d0d0d; }',
+  '  ::-webkit-scrollbar { width: 6px; height: 6px; }',
+  '  ::-webkit-scrollbar-track { background: #111; }',
+  '  ::-webkit-scrollbar-thumb { background: #333; border-radius: 3px; }',
+  '</style>',
+  '</head>',
+  '<body>',
+  '<div id="root"></div>',
+  '<script src="https://unpkg.com/react@18/umd/react.production.min.js"></script>',
+  '<script src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>',
+  '<script src="https://unpkg.com/recharts@2.12.7/umd/Recharts.js"></script>',
+  '<script>',
+  js,
+  'ReactDOM.createRoot(document.getElementById("root")).render(React.createElement(Dashboard));',
+  '</script>',
+  '</body>',
+  '</html>',
+];
+
+const html = htmlParts.join("\n");
 
 mkdirSync("dist", { recursive: true });
 writeFileSync("dist/index.html", html);
