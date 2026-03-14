@@ -3,11 +3,12 @@ import ts from "typescript";
 
 const jsx = readFileSync("dashboard.jsx", "utf8");
 
-// Strip import lines and add CDN-compatible destructuring
+// Strip import lines and "export default" for browser compatibility
 const stripped = jsx
   .split("\n")
   .filter((line) => !line.startsWith("import "))
-  .join("\n");
+  .join("\n")
+  .replace(/export default /g, "");
 
 const preamble = `const { useState, useMemo } = React;
 const { BarChart, Bar, XAxis, YAxis, Tooltip, ResponsiveContainer, Cell, PieChart, Pie } = Recharts;
@@ -24,7 +25,11 @@ const result = ts.transpileModule(source, {
   },
 });
 
-const js = result.outputText;
+// Clean up any module artifacts TypeScript may emit
+const js = result.outputText
+  .replace(/^"use strict";\s*/m, "")
+  .replace(/Object\.defineProperty\(exports.*?\);\s*/g, "")
+  .replace(/exports\.default\s*=\s*\w+;\s*/g, "");
 
 const html = `<!DOCTYPE html>
 <html lang="en">
