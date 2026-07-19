@@ -1,5 +1,5 @@
 import { readFileSync, writeFileSync, mkdirSync } from "fs";
-import * as ts from "typescript";
+import ts from "typescript";
 
 const jsx = readFileSync("dashboard.jsx", "utf8");
 
