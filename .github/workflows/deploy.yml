@@ -26,7 +26,7 @@ jobs:
         with:
           node-version: 22
 
-      - run: npm install typescript
+      - run: npm install typescript@5
       - run: node build.mjs
 
       - uses: actions/configure-pages@v5
