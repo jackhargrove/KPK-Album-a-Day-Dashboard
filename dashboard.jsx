@@ -184,7 +184,7 @@ const ALBUMS = [
   { artist: "The Replacements", title: "Let It Be", year: 1984, genre: "Indie / Alt", section: "Classics", listenOrder: 167, aidanTier: "S", aidanPrior: true, listened: true },
   { artist: "Faust", title: "Faust", year: 1971, genre: "Experimental", section: "Classics", listenOrder: 215, aidanTier: "C", listened: true },
   { artist: "不失者 (Fushitsusha)", title: "1st", year: 1989, genre: "Experimental", section: "Classics", listenOrder: 260, aidanTier: "C", listened: true },
-  { artist: "Les Rallizes Dénudés", title: "'77 Live", year: 1991, genre: "Experimental", section: "Classics", listenOrder: 202, aidanTier: "C", aidanPrior: true, listened: true },
+  { artist: "Les Rallizes Dénudés", title: "'77 Live", year: 1977, genre: "Experimental", section: "Classics", listenOrder: 202, aidanTier: "C", aidanPrior: true, listened: true },
   { artist: "XTC", title: "Skylarking", year: 1986, genre: "Pop / Rock", section: "Classics", listenOrder: 83, priorListen: true, aidanTier: "B", listened: true },
   { artist: "Black Flag", title: "Damaged", year: 1981, genre: "Punk / Post-Punk", section: "Classics", listenOrder: 43, aidanTier: "D", listened: true },
   { artist: "Kate Bush", title: "Hounds of Love", year: 1985, genre: "Pop / Rock", section: "Classics", listenOrder: 172, priorListen: true, aidanTier: "C", listened: true },
