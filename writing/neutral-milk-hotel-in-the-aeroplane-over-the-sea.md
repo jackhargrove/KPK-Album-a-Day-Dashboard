@@ -1,7 +1,6 @@
 ---
 album: Neutral Milk Hotel - In the Aeroplane Over the Sea
-writer: hargrove
-summary-writer: aidan
+writer: aidan
 ---
 
 # Summary
@@ -16,11 +15,6 @@ Similar Albums: The Olivia Tremor Control - *Black Foliage: Animation Music Volu
 
 # Write-up
 
-Neutral Milk Hotel was nominally a quartet, but *In The Aeroplane Over the Sea* is universally seen as the project of the frontman, Jeff Mangum. Mangum started making music in high school with 3 other friends under the imaginary label Elephant 6.  After high school, they ended up making the imaginary label into a real one, with the bands The Olivia Tremor Control, The Apples in Stereo and Mangum's own Neutral Milk Hotel forming the basis for the label. They took after the psychedelic rock of the 60s, with the Beach Boys standing foremost among their inspirations to the point that they named their recording studio Pet Sounds. All the bands overlapped members, producing and backing each others’ albums. Working mostly alone, with Elephant 6 member Robert Schneider producing, Mangum put out the decently well-received record *On Avery Island*, which gave him the confidence and street cred to work on his sophomore album with a full band backing him.
-
-In The Aeroplane Over The Sea was heavily inspired by *The Diary of a Young Girl* by Anne Frank, which had a profound emotional effect on Mangum, as well as Lewis Carroll's *Through The Looking Glass* (*Alice in Wonderland* for the philistines among us), but isn't a proper concept album. Schneider continued as producer, while the remainder of the band were a motley crew whom Mangum had picked up on tour for *On Avery Island*. Julian Koster on bass was from NY, and he picked up drummer Jeremy Barnes from Chicago, while Scott Spillane met Mangum while working at a pizza restaurant Mangum ate at on tour. Mangum insisted on lo-fi production against the wishes of Schneider, who wanted something closer to The Beach Boys. Schneider achieved the signature warm sound of the album without any effects pedals, instead simply maxing out each individual instrument on a cassette tape. The resulting album was relatively well received, the most positive reviewer, Pitchfork gave it a 8.7/10. And though it generated enough buzz to get a tour, it didn't really make waves.
-
-The ensuing tour was a sort of disaster, as Mangum behaved chaotically on stage, throwing members across the stage, while the band was so broke they couldn't afford hotels. This, combined with the high expectation after releasing a successful album, overwhelmed Mangum; he had a breakdown, locking himself in his house and preparing for Y2K, shunning publicity. Without its leader, the band broke up. As the internet became a thing, the albums reputation rose from decent to divine as message boards including, /mu/, trumpeted the album as the pinnacle of what music could be. In every other version of the /mu/ list, this album is separated from all the other essentials in the top right corner, with its cover art double the size of all other albums.
 
 # Hargrove's review
 
