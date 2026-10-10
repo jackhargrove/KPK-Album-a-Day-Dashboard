@@ -13,7 +13,7 @@ The dashboard renders as a Claude artifact (JSX with Recharts). There is also an
 
 ## Album Pages (writing/)
 
-- `writing/<slug>.md` — one file per album (318). Front matter `album:` must exactly match `artist + " - " + title` in ALBUMS; `writer:` (`hargrove` | `aidan`) is the byline for both the Summary and Write-up. Sections: `# Summary`, `# Write-up`, `# Hargrove's review`, `# Aidan's review` (an empty section renders a "coming soon" placeholder).
+- `writing/<slug>.md` — one file per album (318). Front matter `album:` must exactly match `artist + " - " + title` in ALBUMS; `writer:` (`hargrove` | `aidan`) is the byline for both the Summary and Write-up; optional `summary-writer:` overrides the Summary byline (e.g. Neutral Milk Hotel). Sections: `# Summary`, `# Write-up`, `# Hargrove's review`, `# Aidan's review` (an empty section renders a "coming soon" placeholder).
 - Markdown subset only: paragraphs, trailing-two-space line breaks, `- ` lists, `*italic*`, `**bold**`, `\*` escapes, bare URLs.
 - `album-pages.mjs` — dependency-free generator (reads ALBUMS / HARGROVE_RANKING / TIER_BREAKS / colors straight out of dashboard.jsx). `build.mjs` writes `dist/album/<slug>/index.html` and injects `ALBUM_PAGES` (key → slug) so the dashboard table links album titles.
 - Imported from Apple Notes (Reviews folder) with track-by-track notes and stale "Ordinal ranking" lines removed; text otherwise verbatim.

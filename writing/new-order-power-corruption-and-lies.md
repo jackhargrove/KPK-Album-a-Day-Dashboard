@@ -6,7 +6,7 @@ writer: aidan
 # Summary
 
 Sunday 6/22 Album of the Day -> *Power, Corruption & Lies*  
-Year: 1982  
+Year: 1983  
 Artist: New Order  
 Section: Classics  
 3 Adjectives: Stylish, futuristic, rhythmic  

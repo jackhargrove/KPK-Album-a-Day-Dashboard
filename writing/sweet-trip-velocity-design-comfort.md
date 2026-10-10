@@ -5,6 +5,13 @@ writer: aidan
 
 # Summary
 
+Next Album of the Day -> *Velocity : Design : Comfort*  
+Year: 2003  
+Artist: Sweet Trip  
+3 Adjectives: Hyper, futuristic, technological  
+Genre: Dream pop, shoegaze  
+Length: 1:03:25  
+Similar Albums: The Radio Dept - *Lesser Matters*, Stereolab - *Transient Random-Noise Bursts with Announcements*, Candy Claws - *Ceres & Calypso in the Deep Time*
 
 # Write-up
 

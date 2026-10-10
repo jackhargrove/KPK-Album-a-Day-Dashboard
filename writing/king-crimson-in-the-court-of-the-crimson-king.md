@@ -14,18 +14,14 @@ Length: 43:54
 Similar Albums: Pink Floyd - *The Dark Side of the Moon*, Yes - *Closer to the Edge*, Jethro Tull - *Thick as a Brick*  
 \*\*\*\*\*DISCLAIMER\*\*\*\*\*  
 This is yet another annoying situation where Spotify only has a deluxe edition. This will be a recurring problem with older albums because of Industry Rule #4,080: record company people are shady! This album only has the following 5 tracks:  
-- 21st Century Schizoid Man - including “Mirrors”  
+1. 21st Century Schizoid Man - including “Mirrors”  
+2. I Talk to the Wind  
+3. Epitaph - including “March for No Reason” and “Tomorrow and Tomorrow”  
+4. Moonchild - including “The Dream” and “The Illusion”  
+5. The Court of the Crimson King - including “The Return of the Fire Witch” and “The Dance of the Puppets”  
 Genre: Progressive rock
 
 # Write-up
-
-- I Talk to the Wind
-
-- Epitaph - including “March for No Reason” and “Tomorrow and Tomorrow”
-
-- Moonchild - including “The Dream” and “The Illusion”
-
-- The Court of the Crimson King - including “The Return of the Fire Witch” and “The Dance of the Puppets”
 
 Story/Fun Facts: Although King Crimson’s lineup has shifted drastically over their 50 year career, this debut album was made with their original five man lineup: guitarist Robert Fripp, bassist and lead vocalist Greg Lake, drummer Michael Giles, woodwind multi-instrumentalist and primary composer Ian McDonald, and lyricist Peter Sinfield. The earliest iteration of the band formed in the mid 1960s when Peter Giles and his brother Michael Giles met Robert Fripp in their hometown of Dorset, England. They formed a short-lived jazz-rock group aptly named Giles, Giles, and Fripp. Hoping to grow the band, they recruited Ian McDonald and Peter Sinfield, and Fripp ended up forcing Peter Giles out of the band and replacing him with Greg Lake because Peter Giles was not on board with the complex direction the band’s sound was taking. And thus, King Crimson was born.
 

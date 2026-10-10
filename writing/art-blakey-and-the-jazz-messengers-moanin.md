@@ -6,7 +6,7 @@ writer: aidan
 # Summary
 
 Thursday 8/14 Album of the Day -> *Moanin'*  
-Year: 1958  
+Year: 1959  
 Artist: Art Blakey & the Jazz Messengers  
 Section: Jazz  
 3 Adjectives: Playful, warm, energetic  

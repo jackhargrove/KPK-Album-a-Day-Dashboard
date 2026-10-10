@@ -5,6 +5,14 @@ writer: aidan
 
 # Summary
 
+Next Album of the Day -> *Songs of Love and Hate*  
+Year: 1971  
+Artist: Leonard Cohen  
+Section: Classics  
+3 Adjectives: Religious, romantic, poetic  
+Genre: Contemporary folk, singer-songwriter  
+Length: 44:21  
+Similar Albums: Joni Mitchell - *Blue*, Bruce Cockburn - *Dancing in the Dragon’s Jaws*, Townes Van Zandt - *Townes Van Zandt*
 
 # Write-up
 

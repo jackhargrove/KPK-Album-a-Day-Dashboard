@@ -5,6 +5,17 @@ writer: aidan
 
 # Summary
 
+Sunday 5/4 Album of the Day -> *Flood*  
+Year: 2000  
+Artist: Boris  
+Section: Modern  
+3 Adjectives: Solitary, melancholy, isolated  
+Genre: Drone, post rock, drone metal  
+Length: 1:10:32  
+Similar Albums: Earth - *Earth 2: Special Low Frequency Version*, Sunn O))) - *Monoliths and Dimensions*, Swans - *Soundtracks for the Blind*  
+\*\*\*\*\*DISCLAIMER\*\*\*\*\*  
+Album not on streaming, you know the drill. Below is a link for YouTube:  
+https://www.youtube.com/watch?v=CvCLhq8okxc
 
 # Write-up
 

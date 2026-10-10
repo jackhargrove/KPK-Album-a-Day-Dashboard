@@ -1,10 +1,18 @@
 ---
 album: Neutral Milk Hotel - In the Aeroplane Over the Sea
 writer: hargrove
+summary-writer: aidan
 ---
 
 # Summary
 
+Next Album of the Day -> *In The Aeroplane Over the Sea*  
+Year: 1998  
+Artist: Neutral Milk Hotel  
+3 Adjectives: Warm, emotional, enveloping  
+Genre: Lo-fi, indie rock  
+Length: 39:55  
+Similar Albums: The Olivia Tremor Control - *Black Foliage: Animation Music Volume One*, Beulah - *When Your Heartstrings Break*, The Microphones - “*The Glow” Pt. 2*
 
 # Write-up
 

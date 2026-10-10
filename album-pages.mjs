@@ -62,7 +62,7 @@ export function parseWriting(text) {
 }
 
 // ---------------------------------------------------------------------------
-// Minimal Markdown: paragraphs, "  " line breaks, "- " lists, *italic*, **bold**, \* escapes, bare URLs
+// Minimal Markdown: paragraphs, "  " line breaks, "- " / "1. " lists, *italic*, **bold**, \* escapes, bare URLs
 
 const escapeHtml = (s) =>
   s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
@@ -85,6 +85,9 @@ export function renderMarkdown(md) {
       const lines = block.split("\n");
       if (lines.every((l) => l.startsWith("- "))) {
         return "<ul>" + lines.map((l) => "<li>" + inline(l.slice(2)) + "</li>").join("") + "</ul>";
+      }
+      if (lines.every((l) => /^\d+\. /.test(l))) {
+        return "<ol>" + lines.map((l) => "<li>" + inline(l.replace(/^\d+\. /, "")) + "</li>").join("") + "</ol>";
       }
       return "<p>" + lines.map((l, i) => inline(l.replace(/ {2}$/, "")) + (i < lines.length - 1 ? "<br>" : "")).join("") + "</p>";
     })
@@ -168,7 +171,8 @@ h2 .by { letter-spacing:1px; text-transform:none; color:var(--faint); font-size:
 .prose p + p { margin-top:1em; }
 .prose em { color:#e8e8e8; }
 .prose a, .note a { color:var(--accent); overflow-wrap:anywhere; }
-.prose ul { padding-left:1.2em; margin:1em 0; }
+.prose ul, .prose ol { padding-left:1.4em; margin:1em 0; }
+.prose li + li { margin-top:.5em; }
 .aotd { font-size:12px; color:var(--dim); margin-bottom:14px; }
 .aotd em { font-style:italic; color:var(--text); }
 dl.facts, dl.tracks { display:grid; grid-template-columns:max-content 1fr; gap:7px 18px; font-size:13px; line-height:1.5; }
@@ -200,7 +204,9 @@ export function renderAlbumPage({ album, writing, prev, next, data }) {
   const { GENRE_COLORS, TIER_COLORS } = data;
   const s = writing.sections;
   const writer = writing.meta.writer;
-  const by = NAMES[writer] ? '<span class="by">by ' + NAMES[writer] + "</span>" : "";
+  const byline = (w) => (NAMES[w] ? '<span class="by">by ' + NAMES[w] + "</span>" : "");
+  const by = byline(writer);
+  const summaryBy = byline(writing.meta["summary-writer"] || writer);
   const link = (a, label) => (a ? '<a href="../' + a.slug + '/">' + label + "</a>" : '<span style="opacity:.3">' + label + "</span>");
   const t = escapeHtml(album.title), ar = escapeHtml(album.artist);
 
@@ -241,7 +247,7 @@ export function renderAlbumPage({ album, writing, prev, next, data }) {
       (album.aidanPrior ? '<span class="prior">heard before</span>' : "") + "</div>",
     "</div>",
     "</header>",
-    "<section><h2>Summary " + by + "</h2>" + (summary || pending("No summary yet.")) + "</section>",
+    summary ? "<section><h2>Summary " + summaryBy + "</h2>" + summary + "</section>" : "",
     "<section><h2>Write-up " + by + '</h2><div class="prose">' +
       (writeup || pending(writer === "aidan" ? "Aidan’s write-up is coming soon." : "No write-up.")) + "</div></section>",
     '<section class="review"><h2>Hargrove’s review</h2><div class="prose">' + (hRev || pending("No review.")) + "</div></section>",

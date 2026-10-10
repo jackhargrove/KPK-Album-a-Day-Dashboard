@@ -5,6 +5,14 @@ writer: aidan
 
 # Summary
 
+Next Album of the Day -> *Ambient 1 : Music for Airports*  
+Year: 1977  
+Artist: Brian Eno  
+Section: Electronic  
+3 Adjectives: Tranquil, simple, relaxing  
+Genre: Ambient, electronic, experimental  
+Length: 42:20 (48:01 remastered on Spotify)  
+Similar Albums: Stars of the Lid - *The Tired Sounds Of Stars of the Lid*, Global Communication - *76:14*, William Basinski - *The Disintegration Loops*
 
 # Write-up
 

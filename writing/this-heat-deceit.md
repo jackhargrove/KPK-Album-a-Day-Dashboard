@@ -6,7 +6,7 @@ writer: aidan
 # Summary
 
 Thursday 9/3 Album of the Day -> *Deceit*  
-Year: 1984  
+Year: 1981  
 Artist: This Heat  
 Section: Classics  
 3 Adjectives: Anxious, avant-garde, complex  

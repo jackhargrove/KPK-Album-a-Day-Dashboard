@@ -6,7 +6,7 @@ writer: aidan
 # Summary
 
 Saturday 9/6 Album of the Day -> *Obey*  
-Year: 1995  
+Year: 1996  
 Artist: Brainbombs  
 Section: Modern  
 3 Adjectives: Provocative, abrasive, misanthropic  

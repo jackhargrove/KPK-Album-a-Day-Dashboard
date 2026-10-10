@@ -6,7 +6,7 @@ writer: aidan
 # Summary
 
 Wednesday 8/27 Album of the Day -> *NEU!*  
-Year: 1971  
+Year: 1972  
 Artist: NEU!  
 Section: Classics  
 3 Adjectives: Repetitive, hypnotic, futuristic  

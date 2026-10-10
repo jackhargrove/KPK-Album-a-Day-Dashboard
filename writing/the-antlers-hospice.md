@@ -1,6 +1,6 @@
 ---
 album: The Antlers - Hospice
-writer: hargrove
+writer: aidan
 ---
 
 # Summary
@@ -12,11 +12,11 @@ Section: Modern
 3 Adjectives: Sad, melancholic, morbid  
 Genre: Indie rock, slowcore, chamber pop  
 Length: 51:47  
-Similar Albums: Lisa Germano - *Geek the Girl*, Red House Painters - *Red House Painters [Rollercoaster]*, Carissa’s Wierd - *Songs About Leaving*
+Similar Albums: Lisa Germano - *Geek the Girl*, Red House Painters - *Red House Painters [Rollercoaster]*, Carissa’s Wierd - *Songs About Leaving*  
+Prologue: instrumental intro, very loud noise near the beginning which I can appreciate, kinda fine
 
 # Write-up
 
-Hospice is the third album by the Brooklyn based indie rock band The Antlers. The Antlers started as a solo project of Peter Silberman while he was attending NYU. It was heavy inspired by The Microphones, to the point that the band's name is taken from a Microphones single. The first two albums he put out, Uprooted and In The Attic Of The Universe, were self released projects. He followed it up with two EPs, which featured Sharon Van Etten and Micheal Lerner, the latter of whom would go on to join The Antlers. 2009's Hospice saw The Antlers grow into a full fledged band, with Lerner on drums, Darby Cicci on trumpet/banjo, Justin Stivers on bass and Van Etten singing vocals on four tracks. It was a breakout hit, garnering "Best New Music" from Pitchfork. In those days, that was enough to make a career, and the album was included on several "best of 2009" lists. The band released 2 more well received full albums and 2 more EPs before going on hiatus due to Silberman developing tinnitus. The band has since then switched to a more acoustic sound and released two more albums. Hospice is their best known work. It is a concept album centering around a toxic relationship between a hospice worker and a terminal bone cancer patient and Memorial Sloan Kettering (hence the song title) in New York City. Sharon Van Etten, who sung guest vocals on this album, has gone on to have a successful solo career of her own singing slightly less sad indie rock.
 
 # Hargrove's review
 

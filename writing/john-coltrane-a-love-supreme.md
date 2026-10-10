@@ -5,6 +5,14 @@ writer: aidan
 
 # Summary
 
+Thursday 5/1 Album of the Day -> *A Love Supreme*  
+Year: 1964  
+Artist: John Coltrane  
+Section: Jazz  
+3 Adjectives: Religious, passionate, uplifting  
+Genre: Spiritual jazz, modal jazz  
+Length: 32:47  
+Similar Albums: Alice Coltrane - *Journey in Satchidananda*, Pharoah Sanders - *Karma*, Sun Ra and His Arkestra - *Sleeping Beauty*
 
 # Write-up
 

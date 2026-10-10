@@ -6,7 +6,7 @@ writer: aidan
 # Summary
 
 Thursday 4/2 Album of the Day -> *Violent Femmes*  
-Year: 1982  
+Year: 1983  
 Artist: Violent Femmes  
 Section: Classics  
 3 Adjectives: Anxious, vulgar, rebellious  

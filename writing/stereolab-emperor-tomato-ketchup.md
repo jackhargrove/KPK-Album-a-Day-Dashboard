@@ -6,7 +6,7 @@ writer: aidan
 # Summary
 
 Saturday 4/5 Album of the Day -> *Emperor Tomato Ketchup*  
-Year: 1995  
+Year: 1996  
 Artist: Stereolab  
 Section: Modern  
 3 Adjectives: Retro, cultured, futuristic  
