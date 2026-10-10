@@ -1,5 +1,6 @@
-import { readFileSync, writeFileSync, mkdirSync } from "fs";
+import { readFileSync, writeFileSync, mkdirSync, readdirSync } from "fs";
 import ts from "typescript";
+import { buildAlbumPages } from "./album-pages.mjs";
 
 const jsx = readFileSync("dashboard.jsx", "utf8");
 
@@ -31,6 +32,18 @@ const js = result.outputText
   .replace(/Object\.defineProperty\(exports.*?\);\s*/g, "")
   .replace(/exports\.default\s*=\s*\w+;\s*/g, "");
 
+// Album pages: one static page per writing/<slug>.md
+const writingFiles = readdirSync("writing")
+  .filter((f) => f.endsWith(".md"))
+  .sort()
+  .map((f) => ({ slug: f.slice(0, -3), text: readFileSync("writing/" + f, "utf8") }));
+const { pages, index } = buildAlbumPages(jsx, writingFiles);
+for (const page of pages) {
+  mkdirSync("dist/album/" + page.slug, { recursive: true });
+  writeFileSync("dist/album/" + page.slug + "/index.html", page.html);
+}
+console.log("Built " + pages.length + " album pages");
+
 // Build HTML via concatenation (NOT template literals) to avoid
 // backticks in the compiled JS breaking the output
 const htmlParts = [
@@ -54,6 +67,7 @@ const htmlParts = [
   '<script src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>',
   '<script src="https://unpkg.com/prop-types@15/prop-types.min.js"></script>',
   '<script src="https://unpkg.com/recharts@2.12.7/umd/Recharts.js"></script>',
+  '<script>var ALBUM_PAGES = ' + JSON.stringify(index).replace(/</g, "\\u003c") + ';</script>',
   '<script>',
   js,
   'ReactDOM.createRoot(document.getElementById("root")).render(React.createElement(Dashboard));',

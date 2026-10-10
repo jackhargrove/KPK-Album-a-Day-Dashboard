@@ -1,0 +1,37 @@
+---
+album: Röyksopp - Melody A.M.
+writer: hargrove
+---
+
+# Summary
+
+Saturday 7/4 Album of the Day -> *Melody A.M.*  
+Year: 2001  
+Artist: Röyksopp  
+Section: Electronic  
+3 Adjectives: Nocturnal, peaceful, soothing  
+Genre: Downtempo  
+Length: 45:58  
+Similar Albums: Boards of Canada - *Music Has the Right to Children*, Madonna - *Ray of Light*, Goldfrapp - *Felt Mountain*
+
+# Write-up
+
+Röyksopp is a Norwegian electronic music duo formed in Tromsø, Norway, in 1998 consisting of Svein Berge and Torbjørn Brundtland. The duo’s name comes from “Røyksopp”, the Norwegian word for a type of mushroom known as a “puffball”; the letter “ö” does not exist in the Norwegian alphabet, but in the Swedish alphabet, it makes the same sound as “ø”. The pair met when Berge was 12 and Brundtland was 13 in 1990. Tromsø, one of the most northern cities in Norway, became known as the country’s “techno capital” in the early 90s, and the two started making electronic music as part of this scene. Biosphere also originates from Tromsø’s electronic music scene. While their early music ventures didn’t amount to anything, Berge and Brundtland reunited in 1998 in the more southern city of Bergen. In the 90s, Bergen became known throughout Europe as the center of Norwegian popular culture, particularly music, and Röyksopp pioneered a musical movement named the “Bergen Wave” by the British press. While in Bergen, the pair became friends with Geir Jenssen (Biosphere), who mentored them and tried to get them a record deal. After forming Röyksopp, they finally took his advice, releasing the debut single “So Easy” in 1999. Though originally a limited release, its use in a T-Mobile commercial made it a hit in the UK.
+
+This success spurred Röyksopp to sign with the British label Wall of Sound, who put out the duo’s debut album *Melody A.M.* in 2001. The album’s music belongs to the downtempo subgenre of EDM, a style of slow, chill electronic music that was heavily inspired by trip hop and ambient techno. Boards of Canada and Moby also made downtempo music. At that time, downtempo was the buzziest sound in “electronica”, and *Melody A.M.* received much attention and acclaim from critics. The album also sold well, topping the Norwegian charts and hitting #9 in the UK. The track “Eple” was used by Apple as the startup music for Mac OS X Panther. The track “Remind Me” became well-known in the US when it was used in 2006 GEICO commercial. “Eple” includes a samples of a track by Ol’ Dirty Bastard.
+
+Röyksopp released a second album, *The Understanding*, in 2005. It was a further success, helping popularize the duo in the US. The 2006 live album *Röyksopp’s Night Out* features a cover of Queens of the Stone Age’s “Go With the Flow” from the album *Songs for the Deaf*. Röyksopp’s third album, 2009’s *Junior*, became its first to chart on the Billboard 200 in the US. It was followed by *Senior* in 2010. Since then, the duo has released six further albums, with the most recent releasing in 2025. Röyksopp is well-known for its high-energy live performances in which the two members often wear elaborate costumes.
+
+# Hargrove's review
+
+The last little cycle of this project we did was very light on electronic music (there were only three records from the electronic section in 11 weeks: The Prodigy, Merzbow, and Chuck Person), so Röyksopp begins the process of easing us back into a genre that will be overrepresented here in the homestretch. Unfortunately, *Melody A.M.* sounds as generic as electronic music possibly can. There are a few standouts on this record, largely coming from the non-vocal tracks, but this record overall just washes over me and leaves me feeling empty. The sound of the record is actually more varied than I expected, but whether Röyksopp is doing trip hop, deep house, or ambient, you can be assured that it will sound like a million other things you’ve already heard. The best tracks on this album are the ones that find a strong melody and keep it in the foreground no matter what; “Eple”, “In Space”, and “Remind Me” all come to mind. “Röyksopp’s Night Out” is an oddity, a compositionally ambitious piece that nails its various sections and sounds genuinely distinctive. Otherwise, nothing stands out to me about this record. I’ve listened to it eight times. I can even play a few of the tracks in my head, meaning it’s not entirely forgettable. But, fuck, I still have no idea what it wants me to feel. If Röyksopp’s goal was to make me feel nothing, then this record was at least a wild success there.
+
+“So Easy” is admittedly pretty catchy. The “blue on blue” melody sticks with me. However, this is one of those tracks that washes over me with nothing to show for it once it’s over. A damn good synth lead carries “Eple”, a great melody with a cool, chiming timbre. This track isn’t groundbreaking by any means, but it sounds distinctive, and I enjoy it. I really hate “Sparks”. It’s some of the worst trip hop I’ve ever heard in my life. Both the instrumental and vocals are straight up Portishead knockoffs, and the composition itself isn’t remotely interesting. It’s just bland, bland, bland. “In Space” follows a similar design as “Eple” but this time with a cool harp taking the lead melody. Röyksopp does its best work with these instrumental melodies that feel like they’re reaching out into the distance, positive and striving. The soaring strings in the background add to that feeling as well. I like the house elements of “Poor Leno”, particularly the clanging drum in the non-vocal sections, but I can’t get that flavor of Eurotrash out of my mouth. I find the vocals nearly unbearable. “A Higher Place” starts out fine enough, but it never really goes anywhere. The recurring vocal sample bugs me, and I particularly dislike the way it breaks down into nothingness halfway through. It finds some footing afterward but on the whole is too inconsistent for me. I really like the opening section of “Röyksopp’s Night Out”. It has a much tenser chord progression than the prior tracks. I also like the static electricity synths freaking out all over the place. The track transitions seamlessly over to a funky bass synth in the midsection. I usually like the positive sounds on this album, but this track captures a sinister mood the right way. “Remind Me” is the only vocal track I like from this album. The singer isn’t the most emotive but the lyrics capture the mixed emotions of going back to your hometown well. It actually reminds me of going home for during COVID. The line “Brave men tell the truth/The wise man's tools are analogies and puzzles/A woman holds her tongue/Knowing silence will speak for her” captures a particular hometown romance for me as well. Instrumentally, it contains the same qualities I enjoyed about “Eple” and “In Space”. The album ends on two complete filler duds in “She’s So” and “40 Years Back/Come”. They’re aimless collages of vacuous spacey synths that pad out the runtime. Bleh.
+
+This is actually a tough album to rate because I really did like a few tracks while being totally nonplussed by the album as a whole. I also re-listened to the Biosphere album today and still don’t particularly care for it. I am just not on the same wavelength as the Norwegians when it comes to electronic music, I suppose.
+
+Favorite tracks: Eple, In Space, Röyksopp’s Night Out, Remind Me
+
+Least favorite track: Sparks
+
+# Aidan's review

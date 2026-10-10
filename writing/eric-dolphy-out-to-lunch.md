@@ -1,0 +1,37 @@
+---
+album: Eric Dolphy - Out to Lunch
+writer: hargrove
+---
+
+# Summary
+
+Saturday 1/10 Album of the Day -> *Out to Lunch*  
+Year: 1964  
+Artist: Eric Dolphy  
+Section: Jazz  
+3 Adjectives: Playful, rhythmic, complex  
+Genre: Avant-garde jazz, post-bop  
+Length: 42:31  
+Similar Albums: Don Cherry - *Complete Communion*, Cecil Taylor - *The World of Cecil Taylor*, Ornette Coleman - *Ornette!*
+
+# Write-up
+
+Eric Dolphy was a jazz and classical multi-instrumentalist born in 1928 and raised in Los Angeles. He is best known for playing the bass clarinet, a rarely used instrument in jazz before he popularized it, as well as the alto saxophone and the flute. He was born to Panamanian immigrants and became classically trained in clarinet and saxophone from a young age. He was introduced to jazz in the 1940s by the director of a youth church choir. He continued playing classical as well, with a particular fondness for Igor Stravinsky. After a stint in the army, he moved to New York City in 1958 to play in a quintet. In 1960, he became close with legendary bassist Charles Mingus, who he had known from growing up in LA (though both were now in NYC). Dolphy played on numerous albums with Mingus as bandleader, though not the one we listened to (*The Black Saint and the Sinner Lady*), and they toured together as well. Dolphy also became close with saxophonist John Coltrane. After Coltrane left Miles Davis’ Great Quintet, Dolphy joined the new band Coltrane formed. Dolphy, a lifelong experimentalist, was instrumental in Coltrane’s turn from hard bop into the avant-garde in the mid 60s. Notably, Coltrane’s famous improvisational style of making large interval jumps melodically was inspired by Dolphy. Speaking of avant-garde, Dolphy also collaborated with Ornette Coleman, playing bass clarinet on Coleman’s seminal 1960 record *Free Jazz: A Collective Improvisation* that began and named the genre of free jazz. Anyway, the point is Dolphy was super plugged in to the NYC avant-garde jazz scene of the early 60s. Miles Davis famously hated him though (for his music, not personally).
+
+Dolphy recorded 14 albums as bandleader, typically in the post-bop, third stream (jazz/classical fusion) and avant-garde jazz styles. He played as a sideman in some free jazz albums, but never quite explored the style himself, usually keeping some level of bop structure. Today’s album, *Out to Lunch*, was the last he recorded in his lifetime and often considered his best. It was recorded in early 1964 and features Freddie Hubbard on trumpet (who also appeared on Wayne Shorter’s *Speak No Evil* and has an album of his own on the list), Bobby Hutcherson on vibraphone, Richard Davis on double bass, and Tony Williams on drums. Dolphy plays bass clarinet on the first two tracks, flute on the third track, and alto sax on the fourth and fifth tracks. The track “Hat and Beard” was named in honor of Thelonious Monk. The track “Gazzelloni” was named after Dolphy’s flute teacher. The final two tracks come closer to free jazz, with Williams playing a broken rhythm on drums but still keeping the pulse. Dolphy composed all five tracks.
+
+After recording *Out to Lunch*, Dolphy, Davis, and Williams played on Andrew Hill’s *Point of Departure*, which is on our list. Immediately afterward, Dolphy went to Europe to tour with Mingus. When the tour was over, Dolphy chose to stay in Europe as he considered Europeans more receptive to his avant-garde styles than Americans. Unfortunately, in June 1964, Dolphy collapsed on stage in Berlin and fell into a diabetic coma. He died at age 36 after arriving in the hospital. There is some dispute over whether the doctors attempted to treat him for diabetes, or instead assumed he had overdosed on drugs and did not treat him (Dolphy abstained from drugs and alcohol his entire life, very rare for a jazz musician of his era). His death sent shockwaves through the jazz community, many of whom saw him as a major influence and liked him on a personal level. *Out to Lunch* released posthumously later in 1964 to great acclaim, often mentioned in the same breath as Ornette Coleman’s *The Shape of Jazz to Come* and Coltrane’s *A Love Supreme* as one of the greatest avant-garde jazz albums. Frank Zappa, a noted fan, released the track “The Eric Dolphy Memorial Barbecue” in 1970.
+
+# Hargrove's review
+
+Man, I’m really having trouble breaking through with this one. I don’t hate it at all; in fact, it’s oddly pleasant to have playing in my AirPods. But I cannot crack anything further than that. There aren’t melodies that stick with me, any satisfying grooves, any sense of progression or growth. In a way, maybe that austerity is the point. It forces you to focus on the freedom of the solos, the telepathic interplay of the rhythm section. I just wish I got more out of that. Instrumentally, the major standout for me is the vibraphone. I found my favorite spots on the record to be ones where it just went crazy with arpeggios and dissonant chords. Freddie Hubbard’s trumpet was my favorite solo instrument, sounding like a buzzing bee. Of Dolphy’s three instruments, my favorite by far was the flute, particularly the opening of “Gazzelloni”. After that was the alto sax, which sounds serviceable on the final two tracks. I was really not crazy about the bass clarinet on the first two tracks, however. I was quite impressed with the bass. Davis gets a certain timbre that I don’t hear elsewhere, occasionally using a bow to play it. His bass lines also often feel unresolved in the most tantalizing way. I did not care for the drums much at all though unfortunately, which sucks after reading about all the praise Williams’ fellow musicians heap on him. Oh well. At the end of the day, I just feel like kind of an outsider to this album. I can pick out certain aspects I like or dislike but, as a whole, I can’t absorb like I do most other music. That puts it below comparable works like *The Shape of Jazz to Come* or *A Love Supreme*, both of which pulled me into their world. It remains above albums I actively dislike, however.
+
+“Hat and Beard” is mostly fine. It doesn’t do a ton for me, but it has its moments. I just really don’t like what Dolphy does with the bass clarinet on this one in particular. I don’t really know why. It’s more breathy than it is actually melodic. “Something Tender, Something Sweet” is a step up, but it’s still missing something. It’s slow and spy-like, reminding me of Ornette Coleman in how nocturnal it sounds. But it ultimately doesn’t amount to much. The opening section of “Gazzelloni” is my favorite part of the album. I like the flute, sue me. The second half also has the best drumming on the album, as well as some weird vibraphone bullshit (complimentary). It feels weird how little I have to say about “Out to Lunch”, an ambitious 12 minute behemoth. The vibraphone is good? That’s about it. “Straight Up and Down” has a great head at the beginning and end. It’s full of swagger. I also like the low-key midsection. It’s one of the better tracks.
+
+This feels short, but ultimately I just don’t have a ton to say. And I listened to this a lot. It always leaves a little something that makes me think “maybe the next listen is the one where I get it”. I still have that feeling. We will see. One parting thought is that I hope there’s another jazz album with a flute. We need more of that!
+
+Favorite tracks: Gazzelloni, Straight Up and Down
+
+Least favorite track: Hat and Beard
+
+# Aidan's review

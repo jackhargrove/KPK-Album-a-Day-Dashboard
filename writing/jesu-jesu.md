@@ -1,0 +1,36 @@
+---
+album: Jesu - Jesu
+writer: hargrove
+---
+
+# Summary
+
+Friday 7/11 Album of the Day -> *Jesu*  
+Year: 2004  
+Artist: Jesu  
+Pronounced: yay-zoo  
+Section: Metal  
+3 Adjectives: Atmospheric, hypnotic, cold  
+Genre: Doomgaze, drone metal  
+Length: 1:14:25  
+Similar Albums: The Angelic Process - *Weighing Souls With Sand*, Chelsea Wolfe - *Hiss Spun*, Holy Fawn - *Death Spells*
+
+# Write-up
+
+Jesu is the side project of British experimental metal artist Justin Broadrick, best known for his time with industrial metal band Godflesh. Jesu began in 2003 and its original lineup consisted of Broadrick on guitar and vocals, Diarmuid Dalton on bass, and Ted Parsons (member of Swans 1985-87, 1991, 1993-94) on drums. Broadrick was born and raised in Birmingham, England, the same city that produced early heavy metal pioneers Black Sabbath and Judas Priest. Broadrick became interested in highly experimental industrial and power electronics music as a teenager. He joined local group Fall of Because at age 15 in 1984, and was also briefly a member of legendary grindcore (fusion of extreme metal and hardcore punk) band Napalm Death in the mid-80s. Fall of Because became Godflesh in 1988, when Broadrick was 19 years old. Godflesh became one of the most important bands in the budding industrial metal movement, which paralleled the industrial rock movement of Nine Inch Nails that exploded in the early 90s. They were extremely influential, bridging the gap from late 70s post-punk to the diverse metal scene of the 90s, and were innovative in their use of drum machines in metal. They released 6 albums in their initial run from 1988-2002, with their 1989 debut *Streetcleaner* being their most well-liked. After their 2001 album *Hymns*, which ends with a song titled “Jesu”, Godflesh broke up.
+
+Still in his early 30s after two decades of musical success, Broadrick didn’t know exactly what he would do next. He had been interested in the drone metal scene, and one band in particular was doing something very interesting. The Angelic Process, a drone metal band from Athens, Georgia, had released two albums in the early 2000s that combined the heavy and slow atmospheres of doom and drone metal with the inventive guitar techniques and loud walls of sound developed by My Bloody Valentine and the rest of the shoegaze movement. Kris Angylus, the leader of The Angelic Process, was also obsessed with Swans and took major influence from their 90s sound. This sound would come to be called “doomgaze” retrospectively, but at the time it was just considered an outgrowth of post-metal. Doomgaze is also unrelated to blackgaze, a movement within black metal in the early 2010s that combined black metal with shoegaze. The Angelic Process was on hiatus by 2004, and Jesu picked up where they left off with an EP and then a self-titled album *Jesu* in the doomgaze style. Jesu’s debut was decently well-received, but was not a critical or commercial smash hit. Jesu’s music that followed would lean more into shoegaze than metal and would include more pop melodies. Doomgaze as a “movement” had largely faded by the late 2000s, although legendary indie group Have a Nice Life took a lot of influence from doomgaze bands for their seminal 2008 album *Deathconsciousness*. Doomgaze would have a revival in the indie scene of the mid-2010s, with Sacramento-based musician Chelsea Wolfe producing surprisingly popular music in the style. Jesu has made music consistently since 2003, and Godflesh also got back together in 2009. Broadrick also made an album with slowcore and indie folk artist Mark Kozelek of Red House Painters and Sun Kil Moon in 2016 called *Jesu/Sun Kil Moon*.
+
+# Hargrove's review
+
+Blackgaze is one of the few metal genres that I was familiar with coming into this list, and I expected doomgaze to be a similar idea. I was wrong! This album is much more a natural extension of the drone metal sound of Boris et al with shoegaze guitar techniques than it was an outright fusion of the sound of metal with shoegaze like blackgaze is. I really enjoyed my first listen of this album. The riffs are heavy and relentless, the pace is glacial, the vocals have an indie rock and emo inflection that I really enjoy, and the shoegaze techniques are used to sustain the overbearing atmosphere perfectly. Unfortunately, the album’s two greatest weaknesses, its length and its lack of dynamism, resulted in diminishing returns over my next five listens. The atmosphere is great and all, but without top-notch songwriting or diverse instrumentation, it can become a slog by the end. I think all of the first five tracks, through “Walk on Water”, are very good. The final three tracks aren’t bad, but they really could have been cut. None of them are among my favorite tracks, and by the time I got to them I was a little burnt out on the monolithic sound. CD era delenda est! Still, even though I’m a bit down on the album after too many listens, I think there’s a lot of great stuff here. While I do love Deafheaven, I don’t think they use the shoegaze elements to the same great effect as Jesu. The ringing feedback and sustained distortion were perfect tools for creating the atmosphere that Broadrick wanted.
+
+“Your Path to Divinity” starts slowly but powerfully, with 4 straight minutes of chords. The atmosphere is set, and I love it when the vocals come in. The feedback throughout is just gorgeous. “Friends Are Evil” has one of the strongest atmospheres. The guitars ring nonstop, and parts of the song really remind me of good alt rock and emo. The drums (drum programming? Unsure) in the midsection go crazy. I think it goes on a bit too long, but the underlying song is one of the strongest, and that earns it a place in my favorite tracks. “Tired of Me” was consistently my favorite track on every listen. The chords are so heavy as to be percussive, and I adore the second chord in the repeated four bar sequence. The lyrics are some of the most affecting and the atmosphere is just oppressive. Great track. “We All Faulter” is my least favorite of the first five, but it’s short enough that I don’t mind it. It approaches a slowed-down pop song with a pulsating rhythm that feels ritualistic. “Walk on Water” is the album’s final banger. The vocals are repetitive in a good way, hypnotizing me on every listen. I also love the penultimate chord in the progression that sounds unexpectedly high. “Sun Day” is too atmospheric for its own good. It drifts away into that (admittedly pretty) gliding feedback that slips through your fingers. I do like the chugging guitar, but there’s too much empty space throughout. “Man/Woman” is the most metal song and my favorite of the last few. It almost makes me want to headbang. The atmosphere near the end is cool, but not enough to be one of my favorite tracks. “Guardian Angel” has a damn heavy riff, but at this point in the album I’m a little sick of those. And the back half of the song is too empty.
+
+Overall, I think this is a cool and unique sound, but I wish the execution were a little bit better. My opinion shifted rapidly over the week, so it’s possible I’ll come back to this in a while and enjoy it more. As it is, it’s just solid.
+
+Favorite tracks: Your Path to Divinity, Friends Are Evil, Tired of Me, Walk on Water
+
+Least favorite track: Guardian Angel
+
+# Aidan's review

@@ -11,6 +11,13 @@ The dashboard renders as a Claude artifact (JSX with Recharts). There is also an
 - `dashboard.jsx` — The main React component. This is the only file you need to edit.
 - `mu-essentials-dashboard.html` — Standalone HTML export (needs rebuilding after JSX changes via TypeScript transpilation, see below)
 
+## Album Pages (writing/)
+
+- `writing/<slug>.md` — one file per album (318). Front matter `album:` must exactly match `artist + " - " + title` in ALBUMS; `writer:` (`hargrove` | `aidan`) is the byline for both the Summary and Write-up. Sections: `# Summary`, `# Write-up`, `# Hargrove's review`, `# Aidan's review` (an empty section renders a "coming soon" placeholder).
+- Markdown subset only: paragraphs, trailing-two-space line breaks, `- ` lists, `*italic*`, `**bold**`, `\*` escapes, bare URLs.
+- `album-pages.mjs` — dependency-free generator (reads ALBUMS / HARGROVE_RANKING / TIER_BREAKS / colors straight out of dashboard.jsx). `build.mjs` writes `dist/album/<slug>/index.html` and injects `ALBUM_PAGES` (key → slug) so the dashboard table links album titles.
+- Imported from Apple Notes (Reviews folder) with track-by-track notes and stale "Ordinal ranking" lines removed; text otherwise verbatim.
+
 ## Data Model
 
 Each album in the `ALBUMS` array has these fields:

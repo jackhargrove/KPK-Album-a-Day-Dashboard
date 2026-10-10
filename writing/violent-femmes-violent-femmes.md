@@ -1,0 +1,37 @@
+---
+album: Violent Femmes - Violent Femmes
+writer: aidan
+---
+
+# Summary
+
+Thursday 4/2 Album of the Day -> *Violent Femmes*  
+Year: 1982  
+Artist: Violent Femmes  
+Section: Classics  
+3 Adjectives: Anxious, vulgar, rebellious  
+Genre: Folk punk, alternative rock  
+Length: 35:58  
+Similar Albums: The Pogues - *If I Should Fall From Grace With God*, Jonathan Richman & The Modern Lovers - *Rockin' and Romance*, Kimya Dawson - *My Cute Fiend Sweet Princess*  
+\*\*\*\*\*BONUS TRACK ALERT\*\*\*\*\*  
+See playlist below if you hate bonus tracks  
+https://open.spotify.com/playlist/1CtUlGs5jIv3x3JgrPhgeT?si=c78bc289f13f4246
+
+# Write-up
+
+
+# Hargrove's review
+
+“Blister in the Sun” is one of the best songs of all time, just to get that out of the way. I heard it for the first time when I was too young to remember, and it’s been a part of my life since then. Otherwise, I had never listened to the rest of this album before. And that’s a little strange because the rest of my family are Violent Femmes superfans. My mom and dad have been since the 80s, and even my younger sister has seen them in concert twice.  On my first couple of listens, the songs that followed “Blister in the Sun” were quite hit or miss for me. I could feel an overarching charm and appeal to the record, but there was just nothing ingrained in my very being in the same way that the opener was. With each passing listen, however, I grew to appreciate the other songs more. Gano has a real pop sensibility in his songwriting, his vocals stay on the right side of the quirky/annoying line about 75% of the time, and Ritchie’s acoustic bass is pure sex. I am a noted acoustic bass guitar hater because my dad had one when I was a kid and it’s usually so quiet as to be useless. I don’t know how Ritchie made it sound so front-and-center here, but it’s amazing. I enjoy folk punk and cowpunk as a concept, particularly Minutemen’s “Corona” and all of Neutral Milk Hotel and some of the Pogues, and the best tracks on *Violent Femmes* stack up admirably against the genre’s best. It’s also quite shocking to me that this album came out in 1983. It feels like it could have come out in any number of decades, but the 90s seems the obvious fit. The confessional lyrics and power pop songwriting feel like an obvious influence on emo. In particular, there were times where I felt like this album was *Pinkerton* with slightly worse songwriting and full folk instrumentation. After completing all my listens, I’ve found five tracks that, while not as good as “Blister in the Sun”, are all clear hits and not misses. That leaves four that range from decent to grating. If this album’s sound and vibe were stretched across more consistent songwriting for the full length of an album, I could see this reaching high A or low S. As it is, I’m content with high B.
+
+“When I’m out walking, I strut my stuff/Yeah, and I’m so strung out/I’m high as a kite, I just might/Stop to check you out/Let me go on/Like I blister in the sun/Let me go on/Big hands, I know you’re the one”. What a way to start an album. There are few songs more fun to scream along to. This is the type of shit that made me want to try drugs when I was 13. There’s just so much to love about it, whether the iconic riff, the quiet/loud dynamics, the perfectly timed snare drum, the erratic vocal delivery, or the power folk pop songwriting. Banger. Gano gives one of his best vocal performances on “Kiss Off”, perhaps the only track on the album to evoke a simmering, restrained angst. The escalation on the counting verse rules, as does the chorus. Unfortunately, “Please Do Not Go” finds itself almost entirely on the wrong side of the quirky/annoying line. Did we really need a reggae track here? And the “bye bye bye bye bye bye” sections are unbelievably grating. I actually relate to the lyrical sentiment here quite a bit, but Gano is so annoying it makes me hate myself. Thankfully, he fully redeems himself with the vocal performance of a lifetime on “Add It Up”, one of the all-time great incel anthems. I love the escaltion from “kiss” to “screw” to “fuck”, the crazy acoustic bass line, and the way Gano just leaves it all out on the field. The lyrics to “Confessions” read like emo over a decade before modern emo was a thing. The acoustic bass work is nice, but otherwise this is a pretty low-key track that overstays its welcome at over 5 minutes.
+
+On the flipside, “Prove My Love” packs a banger into just two-and-a-half minutes. I love the nice pop song structure, the folksy vibe, the momentum in the verses met by the call-and-response climax in the chorus, and the lyrics “Just last night, I was reminded of/Just how bad it had gotten/And just how sick I had become”. It’s just a raucous good time, enhanced by the campfire song refrain “Third verse, same as the first”. “Promise” is another short and sweet track with another great performance from Gano. It’s only pretty good until the transcendent “Ba da ba dap” scatting line which I adore. I also love the percussive use of the acoustic bass in the chorus, as well as the line “Well, y'know that I want your loving/But my logic tells me it ain't never gonna happen/And then my defenses say I didn't want it anyway/But you know sometimes I'm a liar”. I don’t much care for “To the Kill” at all. It has a cool guitar solo in the middle, but the song around it does little to justify its existence. I like the xylophone texture in “Gone Daddy Gone”, but otherwise this track rubs me the wrong way for reasons I can’t even understand, let alone articulate. On paper I should love it, but for whatever reason I feel nothing when I hear it. I wish I knew why. The delicate and pretty “Good Feeling” is the perfect closer to this album. Sometimes I’m hard on albums when they have downbeat or slow closers, but I think it just works here. It’s nice to hear some respite for our frantic and crazed narrator, even if it’s heroin induced.
+
+For this kind of album, 75% good weird and 25% bad weird is a pretty good composition. I wish it were more consistent, but I’ll take it for those high highs.
+
+Favorite tracks: Blister in the Sun, Kiss Off, Add It Up, Prove My Love, Promise, Good Feeling
+
+Least favorite track: Please Do Not Go
+
+# Aidan's review

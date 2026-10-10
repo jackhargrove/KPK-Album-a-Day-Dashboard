@@ -681,6 +681,9 @@ const TIER_COLORS = {
 
 const TIER_ORDER = ["SS", "S", "A", "B", "C", "D", "F"];
 
+// "Artist - Title" → album page slug; injected by build.mjs (absent when run as a standalone artifact)
+const ALBUM_LINKS = typeof ALBUM_PAGES !== "undefined" ? ALBUM_PAGES : {};
+
 const DECADE_COLORS = {
   "1950s": "#8B7355",
   "1960s": "#C23B22",
@@ -1250,7 +1253,11 @@ export default function Dashboard() {
                     onMouseEnter={e => e.currentTarget.style.background = "#161616"} onMouseLeave={e => e.currentTarget.style.background = "transparent"}>
                     <td style={{ padding: "7px 12px", fontSize: 11, color: a.listened ? ((viewer === "aidan" ? a.aidanPrior : a.priorListen) ? "#5B8DBE" : "#3A8A6E") : "#333" }}>{a.listened ? ((viewer === "aidan" ? a.aidanPrior : a.priorListen) ? "★" : "✓") : "○"}</td>
                     <td style={{ padding: "7px 12px", color: "#ccc" }}>{a.artist}</td>
-                    <td style={{ padding: "7px 12px", color: "#999" }}>{a.title}</td>
+                    <td style={{ padding: "7px 12px", color: "#999" }}>
+                      {ALBUM_LINKS[a.artist + " - " + a.title]
+                        ? <a href={"album/" + ALBUM_LINKS[a.artist + " - " + a.title] + "/"} style={{ color: "inherit", textDecoration: "none", borderBottom: "1px dotted #444" }}>{a.title}</a>
+                        : a.title}
+                    </td>
                     <td style={{ padding: "7px 12px", color: "#666", fontVariantNumeric: "tabular-nums" }}>{a.year}</td>
                     <td style={{ padding: "7px 12px" }}>
                       <span style={{ display: "inline-flex", alignItems: "center", gap: 5, color: GENRE_COLORS[a.genre] || "#666", fontSize: 11 }}>

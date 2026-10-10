@@ -1,0 +1,35 @@
+---
+album: The Knife - Silent Shout
+writer: hargrove
+---
+
+# Summary
+
+Thursday 9/24 Album of the Day -> *Silent Shout*  
+Year: 2006  
+Artist: The Knife  
+Section: Electronic  
+3 Adjectives: Cold, mechanical, atmpospheric  
+Genre: Electropop, synthpop  
+Length: 48:36  
+Similar Albums: Lady Gaga - *Born This Way*, Gorillaz - *Plastic Beach*, Kanye West - *808s & Heartbreak*
+
+# Write-up
+
+The Knife was an electronic music duo formed in Gothenburg, Sweden in 1999 consisting of siblings Karin Dreijer (vocals and production) and Olof Dreijer (production). See above for the write-up I did on *Shaking the Habitual* nearly a year-and-a-half ago for more information on the duo. *Silent Shout* was the Knife’s third studio album, released in 2006. It was the duo’s first album since the unexpected international success of “Heartbeats” off the Knife’s second album, *Deep Cuts*. *Silent Shout* continued in the synthpop/electropop direction of “Heartbeats”, but with a darker atmosphere inspired by gothic rock pioneer Siouxsie Sioux and techno elements inspired by Aphex Twin. The album produced four singles: “Silent Shout”, “Marble House”, “We Share Our Mothers’ Health”, and “Like a Pen”. *Silent Shout* received immense critical praise, particularly from Pitchfork; the publication named it the number one album of 2006, as well as the 15th best album of the 2000s in its 2009 list. Commercially, the album was a modest success, selling 65,000 copies in the US and 75,000 in Europe.
+
+# Hargrove's review
+
+More than any other genre section, I’ve struggled to connect with records in the electronic section. Serendipitously, however, we’re finishing the electronic section with an album that I’ve enjoyed for years in the Knife’s *Silent Shout*. I’ve made it clear many times over at this point the respect I have for a well-executed pop song. There’s plenty of dreck out there, sure, but nothing beats a catchy verse/chorus/verse/chorus/bridge/chorus structure put together by a gifted and interesting songwriter with an ear for melody and perhaps even unconventional timbres. For this reason, pure genre pieces are less likely (though certainly not impossible) to break through to me, whether that be an EDM dance floor mix or a hardcore hip hop record that’s all verses and no hooks. On *Silent Shout*, the Knife produces track after track of pop bangers with all the intensity, energy, and aggression of techno. At its best, it creates tracks like “We Share Our Mothers’ Health”, “Like a Pen”, “Marble House”, “Silent Shout”, “Forest Families”, and “Neverland”, some of the most exhilarating and adrenaline-fueled pop bangers I’ve ever heard. The tracks weave between influences from different EDM styles, whether the ice cold synths of techno, the euphoric arpeggios of trance, or the rhythms of breakbeat; no matter what the source, they come together in service of a bop. Karin Dreijer’s voice(s) matches the intensity of any number of synths, her accent piercing through the pandemonium. I can’t say enough good things about the best tracks on here. *Silent Shout* is far from a perfect album, though. Inconsistency holds it back, particularly in the quieter songs. I like “From Off to On”, but “The Captain”, “Na Na Na”, and especially “Still Light” waste time and take up space. Karin’s…unique artistic vision also gets to be too much at times, as on the hook of “One Hit”. But when it works, it works, and some of my all-time favorite electronic songs come out of it.
+
+“Silent Shout” wastes no time starting with that pounding bass synth, It builds ip the track with a four-on-the-floor kick and a trance arpeggio line. I love the synth melody, particularly the way it gets progressively more frenetic. It’s a chaotic freakout of a melody and yet it never sounds out of control or unpleasant. “Neverland” also revolves around a strong synth melody, but this time it’s staid and consistent instead of all over the place. It’s not flashy, but it’s a solid banger with an awesome steel drum breakdown. I appreciate the chiming synths of “The Captain” but I don’t want to hear this long, slow burn here. I find the vocal melody in the second half appealing, but Karin’s delivery questionable at best. Thankfully, my favorite track “We Share Our Mothers’ Health” follows. I love how the clanging synths slowly come together before coalescing into a blistering instrumental, a technique that becomes a kind of motif on this album. And holy shit is it intense! There are so many different synth melodies butting up against one another that it approaches a breakbeat percussive effect. I love Karin’s vocal delivery, especially the contrast between the deep vocals and their normal voice. For some reason, the line “We came down from the north” always sticks with me. It’s a pop banger that gets my blood pumping and my heart rate up like no other. “Na Na Na” is a quiet interlude that doesn’t move me musically, but it certainly has attention-grabbing lyrics.
+
+I’ve always loved the opening rhythm of “Marble House” that sounds like rocks banging together. It evokes both the agoraphobic emptiness of a giant marble house, as well as the hardness of the material. It’s slower than the other singles but also bulkier, growing into a monster of a track. I also enjoy the catchy chorus and the melodrama of it all. “Like a Pen” also starts out with an unorthodox percussion instrument alone. I love how the hi-hats on the off-beats open up over the course of a phrase. It’s perhaps the fiercest track; that synth melody is relentless and Karin’s vocals sound like they’re constantly grasping for something more. “From Off to On” is the best of the four quiet tracks. I find it simultaneously tender, hefty, delicate, and pretty. “Forest Families” brings back the trance arpeggio synth idea from the opener. It’s used for a different effect this time, however, clashing triplets against a 4/4 beat to give the impression of time running out. Claustrophobic lyrics about a conservative rural town add to this suffocating feel, particularly “They said we had a communist in the family/I had to wear a mask” and “Too far away from the city/We came to breathe clean air/Nature lover's safe oasis”. “One Hit” is the only intense track that I don’t love. Karin gives the performance her all, certainly, and there are some banger lyrics. But FUCK is the chorus annoying. Do Scandinavians really laugh like that? “Still Light” ends the album on a disappointing note. Not only is it mopey and quiet, but it’s easily the worst of the mopey and quiet songs. Karin sounds awful too. It’s a serious blemish on a great album.
+
+As much as I love some of the tracks, the overall inconsistency prevents me from putting this into S Tier. It’ll have to settle for high A instead. If there were an individual track tier list, though, “We Share Our Mothers’ Health” would be SS Tier.
+
+Favorite tracks: Silent Shout, Neverland, We Share Our Mothers’ Health, Marble House, Like a Pen, From Off to On, Forest Families
+
+Least favorite track: Still Light
+
+# Aidan's review

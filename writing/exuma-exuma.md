@@ -1,0 +1,35 @@
+---
+album: Exuma - Exuma
+writer: hargrove
+---
+
+# Summary
+
+Wednesday 6/25 Album of the Day -> *Exuma*  
+Year: 1970  
+Artist: Exuma  
+Section: Classics  
+3 Adjectives: Tribal, ritualistic, tropical  
+Genre: Caribbean folk music, psychedelic folk, junkanoo  
+Length: 38:41  
+Similar Albums: Lula Côrtes & Zé Ramalho - *Paêbirú*, Linda Perhacs - *Parallelograms*, Ave Sangria - *Ave Sangria*  
+\*\*\*\*\*DISCLAIMER\*\*\*\*\*  
+This album is for some reason titled *Exuma, the Obeah Man* on Spotify. It appears to be the correct album though.
+
+# Write-up
+
+Exuma is the stage name of Macfarlane Gregory Anthony Mackey, also known as Tony McKay, a musician from The Bahamas. He was born on Cat Island in 1942 and raised in the capital Nassau, and he took his stage name from the Exuma district of The Bahamas. He grew up with the traditional music of The Bahamas, particularly the style played at the annual Bahamian festival of Junkanoo, and was introduced to American blues and rock n roll as a teenager. He moved to New York City to study architecture at the age of 17 in 1959. He soon dropped out of architecture school but remained in NYC, where he acquired a guitar and began teaching himself traditional Bahamian calypsos he remembered from his childhood. Throughout the 60s he became a performer in the now famous Greenwich Village scene, alongside up-and-comers like Bob Dylan, Jimi Hendrix, and Barbra Streisand. He founded the Exuma project in 1969 alongside his friend Sally O’Brien. He was discovered in Greenwich Village by music manager Bob Wyld, who produced his debut album *Exuma* in 1970.
+
+On his self-titled debut, Exuma established his character of Exuma, the Obeah Man. Obeah is a type of religious “magic” practiced in the Caribbean with roots in pre-colonial West Africa, similar to Haitian Voodoo. The album also references Dambala, one of the most important deities (Lwa) in both Obeah and Voodoo, mamaloi and papaloi, the terms for Voodoo priests and priestesses, and Shango, a Yoruba deity from West Africa. In addition to these Afro-Caribbean religious figures, the album makes reference to the Christian God and traditions, as well as some pagan figures (e.g., Charon). This reflects the highly syncretic religions of the Caribbean. Exuma painted the album’s cover himself. The music on the record combines the traditional Caribbean folk styles of calypso, Junkanoo, and goombay with the American folk and psychedelic music of the 1960s Greenwich Village scene. The record was a modest commercial success and caught the attention of legendary American singer Nina Simone, who would cover its opener. The album is still remembered as a bizarre and unique record, with its opener being on the soundtrack of Jordan Peele’s film *Nope*.
+
+Exuma’s second album, *Exuma II*, would come out later in 1970 as a continuation of the first record. By 1973, Exuma had released four more albums on a major label, none of which garnered the same attention as his first. In 1975, he created his own record label, on which he would release for the rest of his career. He would become a multimedia artist, also creating theatrical pieces and visual art. He left NYC in the early 80s to move to New Orleans, where he became a regular at the annual New Orleans Jazz & Heritage Festival. By 1994, he had moved to rural Colorado to lead a peaceful life. He also spent time in Miami. He died in 1997 in his childhood home in Nassau, The Bahamas, at the age of 54. He is one of the most famous Bahamians of all time and was awarded the British Empire Medal by Queen Elizabeth II for his contributions to Bahamian culture.
+
+# Hargrove's review
+
+This album is a nice change of pace! It’s definitely super unique sounding, and it has been a really fun listen over the last few days. I think the first three tracks are all quite good, the next two tracks are awful and a painful 10 minutes to get through every time, and then the last two tracks are the best on the album. “You Don’t Know What’s Going On” is the top highlight of the album for me. It takes everything this album does well, Exuma’s distinctive vocals, the interesting mix of guitar with tribal sounds, the amazing drum beats, and the angelic backing vocals, and it packages all of them into a short, perfect pop song. This is especially welcome when even some of the other good songs go on a bit too long. I also think the jarring Ray Charles shoutout is so on the nose for an album that combines the traditional with the modern, reminding you that this came out in 1970 despite the references to traditional practices and religion. The closer “The Vision” is my second favorite on the album. I think it has a great chord progression, really cool linear lyrical movement between the vocals, and yet another great use of backing vocals. It also has one of my favorite lead vocal performances from Exuma on the album. It does unfortunately go on for a bit too long, which is a bit of a theme in the first three songs. The opener “Exuma, the Obeah Man” might not be the best song on the album (in fact it’s my 5th favorite), but it’s the perfect song to introduce the listener to the world of Exuma. There are parts where he sounds completely wild while giving his origin story, especially on the “na na na na nas”. The repetition of “Obeah” also becomes hypnotic. “Dambala” is my favorite track of the opening three, giving a much mellower vibe in contrast to the opener. I really like the way the verses sound vocally, especially starting in the second verse with the backing singer; it just sounds off-kilter and super cool. And the “You slavers will know what it’s like to be a slave” verse sends shivers down my spine every time. “Mama Loi, Papa Loi” is another great track and one that has the best, most fleshed-out chorus of any song on here, as well as some of the best guitar work. There are elements of this track that have a real “horror” feel, and I can just see children getting scared about it over a campfire. “Junkanoo” is a real nothing track, but thankfully it’s kept pretty short. I can definitely see how its meant to evoke the sounds and feelings of a festival, but without the visual element it just feels disjointed and unsatisfying. Some of the noises, particularly the galloping percussion and the whistle, are just grating. “Seance in the Sixth Fret” is worse though because it doesn’t even have the good sense to be short. I do appreciate its risk-taking and experimentation, but it’s over 7 minutes of an incessant repeating guitar riff surrounded by chaos. I dread listening to it every time. Overall, this album is 5 quite good songs that don’t sound like anything we’ve heard before separated by a 10 minute ocean of actively negative experience. I enjoy the vibe of this album and the songs I like well enough to keep this in B Tier, but I will be revisiting those individual songs much more often than the album as a whole.
+
+Favorite tracks: Exuma the Obeah Man, Dambala, Mama Loi Papa Loi, You Don’t Know What’s Going On, The Vision
+
+Least favorite track: Seance in the Sixth Fret
+
+# Aidan's review

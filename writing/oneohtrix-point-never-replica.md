@@ -1,0 +1,37 @@
+---
+album: Oneohtrix Point Never - Replica
+writer: hargrove
+---
+
+# Summary
+
+Thursday 4/3 Album of the Day -> *Replica*  
+Year: 2011  
+Artist: Oneohtrix Point Never  
+Section: Electronic  
+3 Adjectives: Mysterious, ominous, meditative  
+Genre: Ambient, plunderphonics, glitch, vaporwave  
+Length: 40:54  
+Similar Albums: Chuck Person - *Chuck Person’s Eccojams Vol. 1*, Tim Hecker - *Virgins*, C418 - *Minecraft - Volume Alpha*
+
+# Write-up
+
+Oneohtrix Point Never is the primary solo project of experimental electronic musician Daniel Lopatin. Lopatin is based in Brooklyn, but he grew up just outside of Boston (basically Carms fr fr). The name “Oneohtrix Point Never” is a play on a Boston-area radio station, Magic 106.7. He began playing the synthesizer in high school, beginning his interest with computer music. He moved to Brooklyn to attend grad school for archival science, the study of curating archives, which would have a significant impact on the way he made music. He released 4 albums under the name Oneohtrix Point Never between 2007 and 2010 that used synthesizers to experiment with electronic, ambient, and New Age music. These albums gained an underground following and made him an important figure in the hypnagogic pop movement. In 2010, under the name Chuck Person, Lopatin released *Chuck Person’s Ecojams Vol. 1*, where he moved away from his typical synthesizer music and instead built everything out of chopped and screwed samples of pop music from the 80s and 90s. That album is now considered to be the original vaporwave album, and is also on this list. The next year, Lopatin returned to his Oneohtrix Point Never project and released its fifth album *Replica* to critical acclaim. The ONP project has since released 5 more albums, some of which are supposed to be really good. Lopatin has also started writing scores for movies by the Safdie Brothers including *Good Time* and *Uncut Gems*, as well as becoming one of The Weeknd’s main producers. In 2014, he toured with Nine Inch Nails as a replacement for Death Grips. He has also collaborated with FKA Twigs, Iggy Pop, and David Byrne.
+
+*Replica* was the first record from Lopatin after his groundbreaking *Chuck Person’s Eccojams Vol. 1*, and it built on the style he developed in that record. The album primarily consists of samples from 80s and 90s TV commercials. For example, the piano on “Power of Persuasion” is taken from an American Express commercial, “Child Soldier” is built around McDonald’s and Nabisco ads, and “Up” samples a L’Oreal commercial. This method is consistent with Lopatin’s career-long interest in transforming the old into something completely new and was extremely influential on vaporwave and all the microgenres therein.
+
+# Hargrove's review
+
+I have listened to *Chuck Person’s Eccojams Vol. 1* and have heard much about Oneohtrix Point Never, but this is the first time I’ve ever listened to an album. I really liked it! It’s honestly super cool. It sounds like what I had hoped *Ambient 1: Music for Airports* would sound like. It’s really a perfect combination of ambient and dynamic. I think it’s genuinely super interesting how OPN uses looped samples as quarter notes instead of as multi-bar phrases like almost everyone else does. This album does a great job in multiple songs of having the music slowly transition from structured and rhythmic to freeform and ethereal. There are a few songs that build incredible atmospheres, there are some songs that are kinda sorta bangers, and there are others that combine the two perfectly. Really, really good record and my favorite so far of the electronic side of ambient.
+
+Right off the bat “Andro” is an awesome opener. It just glides in so smoothly and lets you know that you’re in for something cool. You can really hear the Eno influence with the kind of angelic exhaling voices, but it uses them in a way that’s distinct from how Eno did. And the song just continuously builds in the most interesting way, ending with tribal percussions and shrieks. How did we get there from the smoothness of the opening? We were boiled slowly like a frog. “Power of Percussion” has my favorite use of samples, creating rhythm without drums or bass through staccato loops. It’s just really like nothing else I’ve heard before other than Chuck Person. The piano is fantastic (from legendary French film scorer Michel Legrand, no less) and it’s used in a chilling way befitting a horrorcore hip hop beat. The synth also gives a seedy night club vibe. “Sleep Dealer” is my least favorite track, a bit too choppy for my tastes, but I still like it. It takes a while to find its groove, but the plosive vocal samples are intriguing. “Remember” is the most ambient track and static for quite a while; it takes forever to build, but once it does it’s quite powerful. I’m a big fan of the chord progression of the piano on “Replica”, it sounds like music you would play when it’s raining in a city. I wish the rest of the music around the piano line was more dynamic, but the atmosphere is unbeatable.
+
+“Nassau” is definitely the most abrasive song of the bunch, but I’ve grown to like it quite a bit. The harsh sample-percussion and the chaotic, watery sounds in the opening would go perfectly in a bubblegum bass instrumental. The song is also one of the best examples of transition, going from fast and chaotic to slow and meditative. “Submersible” is exactly what it says on the tin: it sounds like I’m in a submarine. It’s very watery, very floaty, crescendoing and pulsing through the deep sea. It’s good, it’s fine. “Up” is the only song with real drums throughout and it’s an intense beat. I don’t love the repeated vocal sample, but I do love the slow growing cacophony. A shining example of the album gliding from rhythmic to ethereal. “Child Soldier” is one of my favorite tracks, in no small thanks to the striking vocal-sample-as-percussion. This song genuinely feels like hip hop with the unexpected rhythmic complexity and the samples. It’s also just about the most dynamic track on the album. “Explain” is a great track as well, and an awesome closer in the way that it mirrors “Andro” at the start. It’s again using those Eno angel voices, but with a much darker undercurrent. The foreground kind of sounds like a spa, but there’s this growing discontent in the background. The melody is also rustic and nice, sounds like something you would hear at Lon Lon Ranch in Hyrule.
+
+Overall, I liked this album a lot more than I thought I would. It really straddles the line between “music” and “artistic sound collage” so well, bringing the best qualities of both. I didn’t know about the TV commercial thing the first few times I listened, but it was cool to find that out to and connect it to the muzak of it all. It’s like *Ambient 1: Music for Airports* in that it provides an interesting alternative to soulless muzak, but it does entirely through samples of muzak! Pretty damn cool, and it sounds pretty damn good too.
+
+Favorite tracks: Andro, Power of Persuasion, Replica, Nassau, Child Soldier, Explain
+
+Least favorite track: Sleep Dealer
+
+# Aidan's review
