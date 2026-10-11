@@ -11,6 +11,10 @@ The dashboard renders as a Claude artifact (JSX with Recharts). There is also an
 - `dashboard.jsx` — The main React component. This is the only file you need to edit.
 - `mu-essentials-dashboard.html` — Standalone HTML export (needs rebuilding after JSX changes via TypeScript transpilation, see below)
 
+## Naming
+
+Artist and album names follow the original /mu/ list as Jack spells them (e.g. "Godspeed You! Black Emperor", "my bloody valentine", "CAN", "The Mothers of Invention"). Names in a non-Latin script are followed by a romanization in brackets: "ミドリ [Midori]", "98.12.28 男達の別れ [98.12.28 Otokotachi no wakare]". Optional album fields: `group` (combines projects in Most Represented Artists, e.g. VU & Nico → The Velvet Underground) and `sortAs` (artist sort key, e.g. "Hosono"). Renaming an album means updating ALBUMS, HARGROVE_RANKING, LIST_ORDER and the writing file's `album:` line together; keep the existing slug/URL.
+
 ## Original List Order
 
 `LIST_ORDER` in dashboard.jsx is the original /mu/ essentials 2018 order (section by section, as on the chart image), keyed like HARGROVE_RANKING (`artist + " - " + title`). Sorting the album table by Section uses it.
