@@ -58,19 +58,21 @@ Each album in the `ALBUMS` array has these fields:
 }
 ```
 
-## Genres (11 total)
+## Genres (15 total)
 
-Indie / Alt, Electronic, Experimental, Pop / Rock, Punk / Post-Punk, Hip-Hop, Jazz, Metal, Prog, Folk / Singer-Songwriter, Industrial
+Indie / Alt, Pop / Rock, Punk / Post-Punk / Hardcore, Psychedelia, Post-Rock, Prog & Krautrock, Metal, Industrial & Noise, Electronic, Ambient, Hip-Hop, R&B / Soul / Funk, Jazz, Classical, Folk / Singer-Songwriter (reworked 2026-10-11; "Experimental" was retired)
 
 ## Tier Breaks (Hargrove)
 
-- SS: rank 1-13
-- S: rank 14-41
-- A: rank 42-79
-- B: rank 80-135
-- C: rank 136-174
-- D: rank 175-199
-- F: rank 200-212
+Defined by `TIER_BREAKS` in dashboard.jsx (rank = position in HARGROVE_RANKING, 318 total):
+
+- SS: rank 1-20
+- S: rank 21-60
+- A: rank 61-120
+- B: rank 121-199
+- C: rank 200-258
+- D: rank 259-299
+- F: rank 300-318
 
 Aidan has tiers but NO granular ranking. His tier sort is SS→S→A→B→C→D→F, alphabetical by artist within tiers.
 
@@ -99,9 +101,10 @@ When a new album is listened to (album #213, #214, etc.):
 ## Genre Classification Principles
 
 - Genre assignments are debated and deliberate; Jack has final say but welcomes pushback
-- "Industrial" includes: NIN, Whitehouse, Sotos, Coil, Big Black (×2), Foetus, Daughters, Swans' Filth
-- "Folk / Singer-Songwriter" abbreviates to "Folk / S-S" in the genre ranking chart
-- "Punk / Post-Punk" abbreviates to "Punk / P-P" in the genre ranking chart
+- "Punk / Post-Punk / Hardcore" also covers post-hardcore and emo (Brand New, American Football, Fugazi, Unwound…)
+- "Psychedelia" is a catch-all for psychedelic music that doesn't fit elsewhere (The Doors stay Pop / Rock)
+- Big Black is split on purpose: Atomizer = Industrial & Noise, Songs About Fucking = Punk / Post-Punk / Hardcore
+- Classical exists for Morton Feldman (and Moondog) even though it is small
 - Safe as Milk is Pop/Rock (not Experimental like Trout Mask Replica)
 - NIN stays in Industrial even though it could be Metal
 - Slint is Punk/Post-Punk (not Experimental, despite being the ur-post-rock album)
