@@ -1107,7 +1107,10 @@ export default function Dashboard() {
       const key = a.group || a.artist;
       counts[key] = (counts[key] || 0) + 1;
     });
-    return Object.entries(counts).filter(([,c]) => c >= 2).sort(([,a],[,b]) => b - a).map(([name, count]) => ({ name, count }));
+    // most albums first; alphabetical (case-insensitive) within the same count
+    return Object.entries(counts).filter(([,c]) => c >= 2)
+      .sort(([na, a], [nb, b]) => b - a || na.localeCompare(nb, "en", { sensitivity: "base" }))
+      .map(([name, count]) => ({ name, count }));
   }, [statusFiltered]);
 
   const filtered = useMemo(() => {
