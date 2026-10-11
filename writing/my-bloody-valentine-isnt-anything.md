@@ -30,6 +30,6 @@ It’s nothing crazy but I’m glad I finally listened to it. The most productiv
 
 Favorite tracks: Soft as Snow (But Warm Inside), Lose My Breath, (When You Wake) You’re Still in a Dream, No More Sorry, Feed Me With Your Kiss, You Never Should
 
-Least favorite tracks: All I Need
+Least favorite track: All I Need
 
 # Aidan's review

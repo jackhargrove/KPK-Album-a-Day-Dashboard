@@ -34,6 +34,6 @@ This album has some of their best work, but they didn’t have enough ideas to s
 
 Favorite tracks: Come Up And Get Me, Lil Boy, No Love, Black Dice, World of Dogs, Lock Your Doors, Artificial Death in the West
 
-Least favorite tracks: Stockton
+Least favorite track: Stockton
 
 # Aidan's review

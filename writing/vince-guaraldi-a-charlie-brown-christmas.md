@@ -35,6 +35,6 @@ Just good stuff. So pretty. So smooth. So nice. I’m glad this list made me lis
 
 Favorite tracks: O Tannenbaum, What Child Is This, My Little Drum, Linus And Lucy, Christmas Time Is Here - Instrumental, Christmas Time Is Here - Vocal, Skating, Christmas Is Coming
 
-Least favorite tracks: The Christmas Song
+Least favorite track: The Christmas Song
 
 # Aidan's review

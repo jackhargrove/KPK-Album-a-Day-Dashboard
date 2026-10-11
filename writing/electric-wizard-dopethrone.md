@@ -35,6 +35,6 @@ What can I say, I expected to like this album, and I did like this album. I cann
 
 Favorite tracks: Vinum Sabbathi, Funeralopolis, Weird Tales - I. Electric Frost - II. Golgatha - III. Altar of Melektaus, Barbarian, I, the Witchfinder, Dopethrone
 
-Least favorite tracks: We Hate You
+Least favorite track: We Hate You
 
 # Aidan's review

@@ -30,7 +30,7 @@ Overall, I enjoyed this album, but certainly less so than our last 3 albums. “
 
 Favorite Tracks: IN THE FLIGHT, Smilin’Days Summer Holiday, MELODY, Yurameki IN THE AIR, Long Season
 
-Least favorite tracks: Tayorinai Tenshi
+Least favorite track: Tayorinai Tenshi
 
 7.5/10
 

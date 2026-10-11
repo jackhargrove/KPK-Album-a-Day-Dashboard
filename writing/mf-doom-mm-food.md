@@ -38,6 +38,6 @@ This is a very good album. It’s full of tracks that I’ve added to my liked s
 
 Favorite tracks: Beef Rapp, Potholderz, One Beer, Deep Fried Frenz, Kon Karne, Kon Queso, Rapp Snitch Knishes, Vomitspit, Kookies
 
-Least favorite tracks: Guinnessez
+Least favorite track: Guinnessez
 
 # Aidan's review

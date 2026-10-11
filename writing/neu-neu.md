@@ -29,6 +29,6 @@ I enjoyed this and I’m glad I listened to it, but it just made me want to list
 
 Favorite tracks: Hallogallo, Weissensee, Negativland
 
-Least favorite tracks: Sonderangebot
+Least favorite track: Sonderangebot
 
 # Aidan's review
