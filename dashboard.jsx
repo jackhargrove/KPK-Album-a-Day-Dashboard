@@ -59,7 +59,7 @@ const ALBUMS = [
   { artist: "Talk Talk", title: "Spirit of Eden", year: 1988, genre: "Post-Rock", section: "Classics", listenOrder: 73, aidanTier: "C", listened: true },
   { artist: "Talk Talk", title: "Laughing Stock", year: 1991, genre: "Post-Rock", section: "Modern", listenOrder: 180, aidanTier: "S", aidanPrior: true, listened: true },
   { artist: "The Mars Volta", title: "Frances the Mute", year: 2005, genre: "Prog & Krautrock", section: "Modern", listenOrder: 199, aidanTier: "A", listened: true },
-  { artist: "Unwound", title: "Leaves Turn Inside You", year: 2001, genre: "Indie / Alt", section: "Modern", listenOrder: 100, aidanTier: "A", listened: true },
+  { artist: "Unwound", title: "Leaves Turn Inside You", year: 2001, genre: "Punk / Post-Punk / Hardcore", section: "Modern", listenOrder: 100, aidanTier: "A", listened: true },
   { artist: "Brand New", title: "The Devil and God Are Raging Inside Me", year: 2006, genre: "Punk / Post-Punk / Hardcore", section: "Modern", listenOrder: 19, priorListen: true, aidanTier: "S", aidanPrior: true, listened: true },
   { artist: "The Magnetic Fields", title: "69 Love Songs", year: 1999, genre: "Indie / Alt", section: "Modern", listenOrder: 145, aidanTier: "S", aidanPrior: true, listened: true },
   { artist: "Mr. Bungle", title: "Mr. Bungle", year: 1991, genre: "Metal", section: "Modern", listenOrder: 281, aidanTier: "C", listened: true },

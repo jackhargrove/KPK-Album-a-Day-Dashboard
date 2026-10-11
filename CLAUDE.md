@@ -101,7 +101,7 @@ When a new album is listened to (album #213, #214, etc.):
 ## Genre Classification Principles
 
 - Genre assignments are debated and deliberate; Jack has final say but welcomes pushback
-- "Punk / Post-Punk / Hardcore" includes hardcore and post-hardcore (Fugazi, At the Drive-In, Brand New); Unwound, American Football, The Brave Little Abacus and The Dismemberment Plan stay Indie / Alt
+- "Punk / Post-Punk / Hardcore" includes hardcore and post-hardcore (Fugazi, At the Drive-In, Brand New, Unwound); American Football, The Brave Little Abacus and The Dismemberment Plan stay Indie / Alt
 - "Psychedelia" is a catch-all for psychedelic music that doesn't fit elsewhere (The Doors stay Pop / Rock)
 - Big Black is split on purpose: Atomizer = Industrial & Noise, Songs About Fucking = Punk / Post-Punk / Hardcore
 - Classical exists for Morton Feldman (and Moondog) even though it is small
