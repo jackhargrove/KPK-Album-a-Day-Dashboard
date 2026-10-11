@@ -9,7 +9,7 @@ Next Album of the Day -> *Torch of the Mystics*
 Year: 1990  
 Artist: Sun City Girls  
 Section: Modern  
-3 Adjectives:  
+3 Adjectives: Chaotic, worldly, cacophonous  
 Genre: Psychedelic folk, experimental rock  
 Length: 38:27  
 Similar Albums: Faust - *Faust IV*, Guided by Voices - *Bee Thousand*, OOIOO - *Gold and Green*
