@@ -1,12 +1,19 @@
 ---
 album: My Bloody Valentine - You Made Me Realise
 writer: hargrove
+summary-writer: aidan
 ---
 
 # Summary
 
+Next Album of the Day -> *you made me realise*  
 Year: 1988  
-Genre: Noise pop, post-punk, shoegaze
+Artist: my bloody valentine  
+Section: Classics  
+3 Adjectives: Cluttered, lush, warm  
+Genre: Noise pop, dream pop, shoegaze  
+Length: 17:13  
+Similar Albums: The Pastels - *Truckload of Trouble*, The Jesus and Mary Chain - *Psychocandy*, Lush - *Spooky*
 
 # Write-up
 
