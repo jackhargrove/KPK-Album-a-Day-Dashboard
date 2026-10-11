@@ -1309,6 +1309,13 @@ export default function Dashboard() {
           </a>
         )}
 
+        {PAGE === "home" && (
+          <a href="lists/" style={{ display: "flex", justifyContent: "space-between", alignItems: "center", background: "#111", border: "1px solid #1a1a1a", borderRadius: 4, padding: "14px 20px", marginTop: -20, marginBottom: 32, color: "#999", fontSize: 12, textDecoration: "none", letterSpacing: 1 }}>
+            <span>THE LISTS →</span>
+            <span style={{ color: "#555", letterSpacing: 0 }}>original /mu/ chart · final tier lists</span>
+          </a>
+        )}
+
         {PAGE !== "home" && <>
         <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: 24, marginBottom: 32 }}>
           <div style={{ background: "#111", border: "1px solid #1a1a1a", borderRadius: 4, padding: 20 }}>

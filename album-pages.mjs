@@ -263,6 +263,52 @@ export function renderAlbumPage({ album, writing, prev, next, data }) {
 }
 
 // ---------------------------------------------------------------------------
+// The Lists page (/lists/): the original /mu/ chart plus both final tier lists.
+// images = file names present in images/; Aidan's tier list shows once "aidan-tier-list.*" exists.
+
+const LISTS_CSS = `
+.figure { margin-top:16px; }
+.figure a { display:block; border:1px solid var(--line); border-radius:4px; overflow:hidden; background:#000; text-align:center; line-height:0; }
+.figure img { display:inline-block; max-width:100%; height:auto; }
+.figure .cap { font-size:11px; color:var(--faint); margin-top:8px; }
+.placeholder { margin-top:16px; border:1px dashed #333; border-radius:4px; padding:48px 16px; text-align:center; font-size:12px; color:var(--faint); }
+`;
+
+export function renderListsPage(images) {
+  const find = (stem) => images.find((f) => f.replace(/\.[^.]+$/, "") === stem);
+  const figure = (file, alt) =>
+    '<div class="figure"><a href="../images/' + encodeURI(file) + '"><img src="../images/' + encodeURI(file) + '" alt="' + escapeHtml(alt) + '"></a>' +
+    '<p class="cap">Tap to open full size</p></div>';
+  const section = (title, sub, file, alt, missing) =>
+    "<section><h2>" + title + (sub ? ' <span class="by">' + sub + "</span>" : "") + "</h2>" +
+    (file ? figure(file, alt) : '<div class="placeholder">' + missing + "</div>") + "</section>";
+  const list = find("mu-essentials-2018"), hargrove = find("hargrove-tier-list"), aidan = find("aidan-tier-list");
+  return [
+    "<!DOCTYPE html>",
+    '<html lang="en">',
+    "<head>",
+    '<meta charset="UTF-8">',
+    '<meta name="viewport" content="width=device-width, initial-scale=1.0">',
+    "<title>The Lists · /mu/ essentials</title>",
+    '<link rel="preconnect" href="https://fonts.googleapis.com">',
+    '<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>',
+    '<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=Space+Mono:wght@700&display=swap" rel="stylesheet">',
+    "<style>" + CSS + LISTS_CSS + "</style>",
+    "</head>",
+    "<body>",
+    '<div class="wrap">',
+    '<nav class="top"><a href="../">← Dashboard</a><a href="../charts/">Charts &amp; stats →</a></nav>',
+    '<header class="album"><div class="artist">/mu/ essentials 2018</div><h1>The Lists</h1></header>',
+    section("The original list", "/mu/ essentials 2018 · 318 albums", list, "The /mu/ essentials 2018 chart", "Image coming soon."),
+    section("Hargrove’s final tier list", "SS → F", hargrove, "Hargrove's final tier list", "Coming soon."),
+    section("Aidan’s final tier list", "SS → F", aidan, "Aidan's final tier list", "Aidan’s tier list is coming soon."),
+    "</div>",
+    "</body>",
+    "</html>",
+  ].join("\n");
+}
+
+// ---------------------------------------------------------------------------
 // Entry point: files = [{ slug, text }]  →  { pages: [{ slug, html }], index: { "Artist - Title": slug } }
 
 export function buildAlbumPages(jsx, files) {

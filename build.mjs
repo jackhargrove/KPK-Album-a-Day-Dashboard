@@ -1,6 +1,6 @@
-import { readFileSync, writeFileSync, mkdirSync, readdirSync } from "fs";
+import { readFileSync, writeFileSync, mkdirSync, readdirSync, copyFileSync } from "fs";
 import ts from "typescript";
-import { buildAlbumPages } from "./album-pages.mjs";
+import { buildAlbumPages, renderListsPage } from "./album-pages.mjs";
 
 const jsx = readFileSync("dashboard.jsx", "utf8");
 
@@ -43,6 +43,14 @@ for (const page of pages) {
   writeFileSync("dist/album/" + page.slug + "/index.html", page.html);
 }
 console.log("Built " + pages.length + " album pages");
+
+// The Lists page + images (original chart, tier lists)
+const images = readdirSync("images").filter((f) => /\.(jpe?g|png|webp|gif|avif)$/i.test(f));
+mkdirSync("dist/images", { recursive: true });
+for (const f of images) copyFileSync("images/" + f, "dist/images/" + f);
+mkdirSync("dist/lists", { recursive: true });
+writeFileSync("dist/lists/index.html", renderListsPage(images));
+console.log("Built dist/lists/index.html with " + images.length + " images");
 
 // Build HTML via concatenation (NOT template literals) to avoid
 // backticks in the compiled JS breaking the output.
