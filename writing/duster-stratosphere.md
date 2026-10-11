@@ -12,8 +12,7 @@ Section: Modern
 3 Adjectives: Spacey, melancholic, atmospheric  
 Genre: Slowcore, space rock  
 Length: 53:52  
-Similar Albums: Codeine - *Frigid Stars LP*, Mogwai - *Come On Die Young*, Karate - *The Bed Is in the Ocean*  
-Moon Age: kinda fun and funky and spacey, a good start to this album
+Similar Albums: Codeine - *Frigid Stars LP*, Mogwai - *Come On Die Young*, Karate - *The Bed Is in the Ocean*
 
 # Write-up
 

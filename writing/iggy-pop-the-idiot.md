@@ -12,10 +12,7 @@ Section: Classics
 3 Adjectives: Cold, hedonistic, anxious  
 Genre: Art rock, post-punk, art punk  
 Length: 38:49  
-Similar Albums: Talking Heads - *Fear of Music*, Devo - *Q: Are We Not Men? A: We are Devo!*, Wipers - *Youth of America*  
-Sister Midnight: very *Station to Station* of Bowie here, very funky, they jam on the 1 pretty hard, fun good song, synth goes crazy  
-Nightclubbing: slinky, sleazy, great lyrical choice from Iggy, the old drum machine sounds pretty cool, that guitar solo freakout is great, the choral voices are creepy and hilarious in the second verse, pretty great parody of nightlife  
-Funtime: driving drum beat like krautrock, it’s an alright song, maybe even borderline, “Hey baby we like your pants/All aboard for funtime”
+Similar Albums: Talking Heads - *Fear of Music*, Devo - *Q: Are We Not Men? A: We are Devo!*, Wipers - *Youth of America*
 
 # Write-up
 

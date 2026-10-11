@@ -12,17 +12,7 @@ Section: Modern
 3 Adjectives:  
 Genre: Psychedelic folk, experimental rock  
 Length: 38:27  
-Similar Albums:  
-Tarmac 23: Positively dreadful. Voice gets worse every time I listen. Doesn’t at least have the charm of Captain Beefheart  
-Esoterica of Abyssinia: I like the guitar, has a decent groove  
-Space Prophet Dogon: Actually like this one overall, the vocals sound good and the guitar goes well with it  
-The Shining Path: It’s alright, the whistled melody is nice, like the offbeat guitars, don’t care for the singing  
-The Flower: kind of sounds like a later Beatles song tbh, but not in a good way, somewhat interesting but I don’t enjoy the breakdowns  
-Café Batik: HATE HATE HATE HATE HATE, just like shut up man, what does this voice do for me, chords are cool I guess  
-Radar 1941: I really like this song, nice surfer Arabic vibes like “Misirlou”, real bright spot for me here  
-Papa Legba: stupid. this is why honkeys shouldn’t be allowed to play the blues  
-The Vinegar Stroke: pretty insignificant, not totally terrible, but doesn’t leave an impression  
-Burial in the Sky: atmospheric I guess? Yeah, the atmosphere of the Moon! Gottem.
+Similar Albums: Faust - *Faust IV*, Guided by Voices - *Bee Thousand*, OOIOO - *Gold and Green*
 
 # Write-up
 

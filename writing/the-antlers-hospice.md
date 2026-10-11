@@ -12,8 +12,7 @@ Section: Modern
 3 Adjectives: Sad, melancholic, morbid  
 Genre: Indie rock, slowcore, chamber pop  
 Length: 51:47  
-Similar Albums: Lisa Germano - *Geek the Girl*, Red House Painters - *Red House Painters [Rollercoaster]*, Carissa’s Wierd - *Songs About Leaving*  
-Prologue: instrumental intro, very loud noise near the beginning which I can appreciate, kinda fine
+Similar Albums: Lisa Germano - *Geek the Girl*, Red House Painters - *Red House Painters [Rollercoaster]*, Carissa’s Wierd - *Songs About Leaving*
 
 # Write-up
 

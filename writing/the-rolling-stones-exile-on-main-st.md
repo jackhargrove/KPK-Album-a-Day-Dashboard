@@ -12,11 +12,7 @@ Section: Classics
 3 Adjectives: Raw, playful, energetic  
 Genre: Blues rock, roots rock  
 Length: 1:05:27  
-Similar Albums: Creedence Clearwater Revival - *Cosmo’s Factory*, The Band - *The Band*, Dire Straits - *Dire Straits*  
-Rocks Off: really like this song, horns are amazing, melody one of the catchiest on the album, the muddled vocals actually work here, “The sunshine bores the daylights out of me/Chasing shadows, moonlight mystery”  
-Rip This Joint: kinda quaint, kinda annoying, a little fun but not my fave, piano very jangly but vocals are ehhhhhh  
-Shake Your Hips: I like this one, big atmosphere add, feels very old timey  
-Casino Boogie: a little forgettable, I think this song would have been better off later in the album, the instrumental outro is very good though, and overall I love the twang
+Similar Albums: Creedence Clearwater Revival - *Cosmo’s Factory*, The Band - *The Band*, Dire Straits - *Dire Straits*
 
 # Write-up
 

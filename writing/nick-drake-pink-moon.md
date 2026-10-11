@@ -12,9 +12,7 @@ Section: Classics
 3 Adjectives: Mellow, calm, poetic  
 Genre: Contemporary folk, singer-songwriter  
 Length: 28:22  
-Similar Albums: Elliot Smith - *Either/Or*, Bob Dylan - *The Freewheelin' Bob Dylan*, Big Thief - *Dragon Warm Mountain I Believe In You*  
-Pink Moon: one of the best songs ever written, incredible vocal performance, amazing melody, perfectly restrained piano, lyrics which are the exact right balance between opaque and direct  
-Place To Be: definitely a Beatles shoutout right, lyrics are some of the most affecting on the album
+Similar Albums: Elliot Smith - *Either/Or*, Bob Dylan - *The Freewheelin' Bob Dylan*, Big Thief - *Dragon Warm Mountain I Believe In You*
 
 # Write-up
 

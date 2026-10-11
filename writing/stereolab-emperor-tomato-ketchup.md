@@ -12,20 +12,7 @@ Section: Modern
 3 Adjectives: Retro, cultured, futuristic  
 Genre: Post-rock, experimental pop  
 Length: 57:15  
-Similar Albums: Tortoise - *TNT*, Electrelane - *The Power Out*, Le Tigre - *Le Tigre*  
-Metronomic Underground: vocal line is so catchy, also like the nonsense backing vocals, guitar loop is energetic and syncopated, too long though, but the cacophony at the end is so earned  
-Cybele’s Reverie: translated lyrics are quite good, structure is odd but I enjoy it, chorus fantastic, instrumental fits the themes well, like the strings too  
-Percolator: bass goes crazy, much tension in the strings, in 5/4 and I like the off-balance, saxophone ending sounds like a spy film, don’t like the watery synth  
-Les Yper-Sound: eh, glitch ending is fun but otherwise quaint and forgettable  
-Spark Plug: has that annoying watery synth again but the ends of the verses are my favorite part of the album  
-Olv 26: I like the lyrics but the song does little for me  
-The Noise of Carpet: vocals are great, drums and cymbals especially are perfect, love the lyrics too, just wish they would stop with the fucking synth  
-Tomorrow Is Already Here: good use of stereo in the opening, keyboard kinda stupid, least favorite track fs  
-Emperor Tomato Ketchup: the voice layering is cute, the second verse vocal melody is stellar, nice but not substantial  
-Monstre Sacre: much moodier than the rest of the album, really static though, the swelling strings are a good idea but again just not a piece that wows me  
-Motoroller Scalatron: STOP WITH THE SYNTH, super catchy vocal melody though I must admit, 7/4 and I like the off-kilter and unevenness  
-Slow Fast Hazel: good drums, angelic vocals and I like the dual vocal track, it builds well but it keeps losing steam, and STOP. WITH. THE. SYNTH.  
-Anonymous Collective: Kind of a whimper to end the album on but I like the near-droning bass and the instrumental melody, vocals leave me cold though, ends with the synth for no reason to flip me off
+Similar Albums: Tortoise - *TNT*, Electrelane - *The Power Out*, Le Tigre - *Le Tigre*
 
 # Write-up
 

@@ -12,9 +12,7 @@ Section: Classics
 3 Adjectives: Anxious, raw, manic  
 Genre: Post-punk, art punk, experimental rock  
 Length: 36:37  
-Similar Albums: Wire - *154*, Wipers - *Youth of America*, The Fall - *Hex Enduction Hour*  
-Non-Alignment Pact: love the bass guitar, don’t care for the 50s rock chorus at all, I’ve never loved the early punk 50s rock vibe stuff, but that bass line does rule, I also just don’t love the vocalist  
-The Modern Dance: much better than the previous track, I like the repetition of “merdre, merdre”, good use of Thomas’ unique vocal qualities, and I like the intermixing of older rock sounds with foreboding sections
+Similar Albums: Wire - *154*, Wipers - *Youth of America*, The Fall - *Hex Enduction Hour*
 
 # Write-up
 

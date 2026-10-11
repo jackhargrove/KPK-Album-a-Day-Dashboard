@@ -15,8 +15,7 @@ Length: 52:50
 Similar Albums: Magdalena Bay - *Imaginal Disk*, Salem - *King Night*, Grimes - *Art Angels*  
 \*\*\*\*\*DISCLAIMER\*\*\*\*\*  
 There are two version on streaming. The one titled “Crystal Castles (II)” has 3 bonus tracks, the one titled “(II)” has a different version of “Not in Love” which features Robert Smith. Correct track list below:  
-https://open.spotify.com/playlist/52T23rRRZkzznl1mpA7lE8?si=769386efc6c3457a  
-Fainting Spells: starts with some serious ear rape, the track that reminds me most of the debut album, you know me, I like the abrasive electronics in the beat and Glass’ distorted vocals, she sounds super creepy
+https://open.spotify.com/playlist/52T23rRRZkzznl1mpA7lE8?si=769386efc6c3457a
 
 # Write-up
 

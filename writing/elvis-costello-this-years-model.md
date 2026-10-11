@@ -12,8 +12,7 @@ Section: Classics
 3 Adjectives: Sarcastic, satirical, sexual  
 Genre: New wave, pop rock, power pop  
 Length: 35:41  
-Similar Albums: Blondie - *Parallel Lines*, Devo - *Q: Are We Not Men? A: We Are Devo!*, XTC - *English Settlement*  
-No Action: “If I'm inserting my coin, I'm doing just fine”, love the brief vocals-only intro, great sarcastic pop song to start on, catchy chorus, short and sweet, good opener
+Similar Albums: Blondie - *Parallel Lines*, Devo - *Q: Are We Not Men? A: We Are Devo!*, XTC - *English Settlement*
 
 # Write-up
 

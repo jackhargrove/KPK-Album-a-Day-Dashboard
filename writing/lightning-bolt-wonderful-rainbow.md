@@ -12,8 +12,7 @@ Section: Modern
 3 Adjectives: Noisy, manic, chaotic  
 Genre: Noise rock, math rock, brutal prog  
 Length: 41:38  
-Similar Albums: black midi - *Hellfire*, Hella - *Hold Your Horse Is*, Six Finger Satellite - *Severe Exposure*  
-Hello Morning: kind of a tuning instruments opener, don’t hate it, it feels like collecting thoughts, good start to the album
+Similar Albums: black midi - *Hellfire*, Hella - *Hold Your Horse Is*, Six Finger Satellite - *Severe Exposure*
 
 # Write-up
 

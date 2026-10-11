@@ -15,10 +15,7 @@ Length: 1:00:39
 Similar Albums: Nujabes - *Modal Soul*, The Go! Team - *Thunder, Lightning, Strike*, Prefuse 73 - *Vocal Studies + Uprock Narratives*  
 \*\*\*\*\*DISCLAIMER\*\*\*\*\*  
 Spotify only has this as a deluxe edition. Original track list playlist below:  
-https://open.spotify.com/playlist/6BdMB5g5lorjv6Sj04eKLx?si=c8118f33b8284cb6  
-Since I Left You: super mega banger, so sunny, the backing vocals are really what makes it work, and the twinkling sample that comes in occasionally, great bass line, just a wonderful wonderful song  
-Stay Another Season: these transitional tracks are quite important to album flow, pretty good but doesn’t establish enough of a personality on its own  
-Radio: throbbing dance kick drum, good rhythm from the vocal samples, it’s just so hard to pick out individual songs on this album, very good but I’ll call borderline
+https://open.spotify.com/playlist/6BdMB5g5lorjv6Sj04eKLx?si=c8118f33b8284cb6
 
 # Write-up
 

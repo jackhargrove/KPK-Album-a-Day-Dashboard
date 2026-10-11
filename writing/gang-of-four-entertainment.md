@@ -12,10 +12,7 @@ Section: Classics
 3 Adjectives: Political, conscious, raw  
 Genre: Post-punk, dance punk  
 Length: 39:53  
-Similar Albums: LCD Soundsystem - *This Is Happening*, Talking Heads - *Fear of Music*, XTC - *Black Sea*  
-Ether: strong opener, “White noise in a white room”, I like the traded vocals, great bass line, cool use of dub echo in the breakdown before the outro  
-Natural’s Not in It: “This heaven gives me migraine”, I hate the way he says “migraine”, pretty good drumming, I like the strike on the and of 2, it’s aight, borderline  
-Not Great Men: driven by the bass line and clanging guitar, got the ska focus on the ands, I find the vocal melody relatively weak, just kind of a quaint song (derogatory)
+Similar Albums: LCD Soundsystem - *This Is Happening*, Talking Heads - *Fear of Music*, XTC - *Black Sea*
 
 # Write-up
 

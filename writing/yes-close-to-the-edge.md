@@ -12,8 +12,7 @@ Section: Classics
 3 Adjectives: Epic, complex, poetic  
 Genre: Progressive rock, symphonic prog  
 Length: 37:42  
-Similar Albums: Genesis - *Selling England by the Pound*, Camel - *Mirage*, Renaissance - *Scheherazade and Other Stories*  
-**Close to the Edge**: it’s aight, nothing mind-blowing but I like it more than I expected, man the vocals are annoying though
+Similar Albums: Genesis - *Selling England by the Pound*, Camel - *Mirage*, Renaissance - *Scheherazade and Other Stories*
 
 # Write-up
 

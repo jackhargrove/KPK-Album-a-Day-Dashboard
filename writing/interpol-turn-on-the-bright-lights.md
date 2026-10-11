@@ -12,9 +12,7 @@ Section: Modern
 3 Adjectives: Urban, nocturnal, cold  
 Genre: Post-punk revival, indie rock  
 Length: 49:02  
-Similar Albums: Joy Division - *Unknown Pleasures*, The National - *Boxer*, Television - *Marquee Moon*  
-Untitled: this song is so good, one of the three eternal bangers from this album, the bass line is maybe the coolest part, really just the perfect intro song, such a burning to it  
-Obstacle 1: this is the first one that has the effect on Banks’ voice that I really like, the guitar is stellar, the bass is better, the vocal line is super catchy, drums are good too
+Similar Albums: Joy Division - *Unknown Pleasures*, The National - *Boxer*, Television - *Marquee Moon*
 
 # Write-up
 

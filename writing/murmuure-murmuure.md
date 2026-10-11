@@ -15,9 +15,7 @@ Length: 29:13
 Similar Albums: Oranssi Pazuzu - *Mestarin kynsi*, Burzum - *Hvis lyset tar oss*, Sadness - *Circle of Veins*  
 \*\*\*\*\*DISCLAIMER\*\*\*\*\*  
 Not on streaming, Youtube playlist listed below:  
-https://www.youtube.com/watch?v=JeUZkn3GA9I  
-Primo vere: cool opening, I like that distant horn sound, like a bugle signaling to a far away group, great moment when the drums come in, complex drum beat, constant white noise from the distorted guitars, cool opener  
-Reincarnate: I like the static electricity textures, like how the guitar constantly clips in and out, the 6/8 time signature works really well with this sound, its hypnotic and tumbling, good main riff, very ambient final two minutes
+https://www.youtube.com/watch?v=JeUZkn3GA9I
 
 # Write-up
 

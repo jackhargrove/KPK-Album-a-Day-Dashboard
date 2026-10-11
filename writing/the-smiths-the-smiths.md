@@ -12,8 +12,7 @@ Section: Classics
 3 Adjectives: Unsettling, gay, existential  
 Genre: Jangle pop, post-punk  
 Length: 42:55  
-Similar Albums: The Stone Roses - *The Stone Roses*, R.E.M. - *Murmur*, The Sundays - *Reading, Writing and Arithmetic*  
-Reel Around the Fountain: pretty decent opener I must say, kind of laid-back and “sunny” but a great representation of their sound, I think the lyrics are pretty sweet and heartfelt, Marr’s guitar is tastefully restrained
+Similar Albums: The Stone Roses - *The Stone Roses*, R.E.M. - *Murmur*, The Sundays - *Reading, Writing and Arithmetic*
 
 # Write-up
 

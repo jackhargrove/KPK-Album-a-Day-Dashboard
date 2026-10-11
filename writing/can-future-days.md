@@ -12,10 +12,7 @@ Section: Classics
 3 Adjectives: Hypnotic, warm, tropical  
 Genre: Krautrock, psychedelic rock, ambient  
 Length: 41:04  
-Similar Albums: Manuel Göttsching - *E2-E4*, Stereolab - *Dots and Loops*, Ash Ra Tempel - *Ash Ra Tempel*  
-Future Days: starts with a minute of hazy noise, interesting drum rhythm, kind of funky almost Latin, super syncopated, angelic vocal melody from Damo, the studio experimentation near the end is interesting but I’m not crazy impressed by it  
-Spray: has more exotic percussion, more pounding kick drum, kind of fun honestly, but then it does drift off into aimlessness  
-Moonshake: great pop track reminiscent of the bangers on *Ege Bamyası*, love the way he says “whoa, whoa, whoa, whoa” as well as the guitar right after, drums are classic krautrock
+Similar Albums: Manuel Göttsching - *E2-E4*, Stereolab - *Dots and Loops*, Ash Ra Tempel - *Ash Ra Tempel*
 
 # Write-up
 

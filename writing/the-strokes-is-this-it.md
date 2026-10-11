@@ -15,9 +15,7 @@ Length: 36:28
 Similar Albums: Arctic Monkeys - *Whatever People Say I Am, That’s What I’m Not,* The White Stripes - *Elephant*, Yeah Yeah Yeahs - *Fever To Tell*  
 \*\*\*\*\*DISCLAIMER\*\*\*\*\*  
 After 9/11, The Strokes felt bad and cut out the song “New York City Cops” (which criticized our heroic law enforcement members) from the US releases. The woke mob will not win and the song slaps, so the original track listing is below:  
-https://open.spotify.com/playlist/2WCfkCOc9fYxuSQg9U4TwO?si=18834d89a2fd47e4  
-Is This It: great opener, the lead guitar is really expressive and fun, Julian sounds so resigned, interesting to start so downbeat, catchy chorus  
-The Modern Age: one of the few guitar solos on the album, the drums are very tribalistic and ritualistic, pretty decent sunny track, borderline favorite
+https://open.spotify.com/playlist/2WCfkCOc9fYxuSQg9U4TwO?si=18834d89a2fd47e4
 
 # Write-up
 

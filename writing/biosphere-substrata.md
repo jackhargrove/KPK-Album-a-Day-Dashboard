@@ -15,13 +15,7 @@ Length: 58:28
 Similar Albums: The KLF - *Chill Out*, Aphex Twin - *Selected Ambient Works Volume II*, Tim Hecker - *Virgins*  
 \*\*\*\*\*DISCLAIMER\*\*\*\*\*  
 This album is available on streaming combined with another album as *Substrata + Man with a Movie Camera*. Only the first 11 tracks (through “Silene”) are a part of this album. A Spotify playlist of only those tracks is available below:  
-https://open.spotify.com/playlist/6RNtFHHPbGU421scIpiCrM?si=r7mm4wb8QEScZyKjyJQqaw&pi=W1o0oYPRSK6ku  
-As the Sun Kissed the Horizon: whole lotta nothing  
-Poa Alpina: the atmosphere in the beginning is pretty cool, I like the voices  
-Chukhung: like this one much better than the last, the texture is much more 3 dimensional and there’s more going on, very dynamic, big fan of the echo and the jangly bits  
-The Things I Tell You: Bo-o-o-o-o-o-o-oring, don’t super care for the mechanical beep boops in the second half either  
-Times When I Know You’ll Be Sad: I like the guitar line on this one, that final strum is always so nice, the drowning out at the end is well done too  
-Hyperborea: talking talking talking talking BEEP BOOP BEEP BOOP BEEP BOOP, really just does nothing for me
+https://open.spotify.com/playlist/6RNtFHHPbGU421scIpiCrM?si=r7mm4wb8QEScZyKjyJQqaw&pi=W1o0oYPRSK6ku
 
 # Write-up
 

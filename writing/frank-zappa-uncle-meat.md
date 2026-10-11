@@ -15,9 +15,7 @@ Length: 74:53
 Similar Albums: King Crimson - *Larks' Tongues in Apsic*, black midi - *Hellfire*, Captain Beefheart & The Magic Band - *Lick My Decals Off, Baby*  
 \*\*\*\*\*DISCLAIMER\*\*\*\*\*  
 Streaming has a later CD release only. Find a playlist of the original track listing below:  
-https://open.spotify.com/playlist/3MnSd79ZkUKNLiitAZbA6T?si=8563898d83c24a4f  
-Uncle Meat: Main Title Theme: one of the nicer instrumentals, definitely signals weirdness but is still pleasant to listen to, hard to describe the sound really, it’s like baroque almost  
-The Voice of Cheese: not crazy about these skits
+https://open.spotify.com/playlist/3MnSd79ZkUKNLiitAZbA6T?si=8563898d83c24a4f
 
 # Write-up
 

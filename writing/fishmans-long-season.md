@@ -12,8 +12,7 @@ Section: Modern
 3 Adjectives: Lush, mellow, aquatic  
 Genre: Neo-psychedelia, dream pop  
 Length: 35:16  
-Similar Albums: Candy Claws - *Ceres & Calypso in the Deep Time*, Yo La Tengo - *And Then Nothing Turned Itself Inside-Out*, Faye Wong - *Fúzào*  
-Long Season:
+Similar Albums: Candy Claws - *Ceres & Calypso in the Deep Time*, Yo La Tengo - *And Then Nothing Turned Itself Inside-Out*, Faye Wong - *Fúzào*
 
 # Write-up
 

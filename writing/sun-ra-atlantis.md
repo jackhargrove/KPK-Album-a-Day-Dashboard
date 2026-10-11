@@ -15,9 +15,7 @@ Length: 42:55
 Similar Albums: Ornette Coleman - *Science Fiction*, Pharoah Sanders - *Love in Us All*, John Coltrane - *Ascension*  
 \*\*\*\*\*DISCLAIMER\*\*\*\*\*  
 The album on streaming has two versions of the same song. Find a playlist with the original track listing below:  
-https://open.spotify.com/playlist/0aIK2GdGVeckTEBNuRl5x3?si=e3aliFVoTT6SYvSNCDXZsw&pi=wSHmnoETRIGxE  
-Mu: nice bouncy rhythm, smooth sax, appropriate amount of tribal drumming, I kind of like this style of free jazz, not too frantic or loud, kind of a roundabout journey, clavinet sound is cool as well  
-Lemuria: really a continuation of the prior track, I’m not crazy about these two or anything, but they have appeal, good bass line
+https://open.spotify.com/playlist/0aIK2GdGVeckTEBNuRl5x3?si=e3aliFVoTT6SYvSNCDXZsw&pi=wSHmnoETRIGxE
 
 # Write-up
 

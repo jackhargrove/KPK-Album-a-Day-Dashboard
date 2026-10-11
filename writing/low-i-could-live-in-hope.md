@@ -12,9 +12,7 @@ Section: Modern
 3 Adjectives: Lethargic, melancholic, resigned  
 Genre: Slowcore, dream pop  
 Length: 57:05  
-Similar Albums: Giles Corey - *Giles Corey*, Mojave 3 - *Ask Me Tomorrow*, Red House Painters - *Down Colorful Hill*  
-Words: good bass intro that will continue through the rest of the album, the chorus is really nice both vocally and melodically, slide bass is cool, the mood it creates is really strong as well, great track  
-Fear: good track that continues the atmosphere, but largely insignificant
+Similar Albums: Giles Corey - *Giles Corey*, Mojave 3 - *Ask Me Tomorrow*, Red House Painters - *Down Colorful Hill*
 
 # Write-up
 

@@ -12,9 +12,7 @@ Section: Classics
 3 Adjectives: Surreal, manic, rhythmic  
 Genre: Krautrock, psychedelic rock, experimental rock  
 Length: 1:13:15  
-Similar Albums: Embryo - *Embryo’s Rache*, The Mothers of Invention - *Freak Out!*, Faust - *Faust IV*  
-Paperhouse: very nice melody from Damo to kick things off, sick breakdown, very inventive use of the bass drum from Liebezeit, great breakdown  
-Mushroom: super catchy vocal line from Damo, “When I saw skies were red/I was born, and I was dead”
+Similar Albums: Embryo - *Embryo’s Rache*, The Mothers of Invention - *Freak Out!*, Faust - *Faust IV*
 
 # Write-up
 

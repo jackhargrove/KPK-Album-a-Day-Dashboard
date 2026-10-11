@@ -12,8 +12,7 @@ Section: Classics
 3 Adjectives: Atmospheric, psychedelic, epic  
 Genre: Art rock, progressive rock  
 Length: 42:49  
-Similar Albums: Yes - *Fragile*, Genesis - *Selling England by the Pound*, Supertramp - *Crime of the Century*  
-Speak to Me: the bass drum as heartbeat is a pretty cool sound effect, this track is a decent collage, I can’t deny that this album is thematically and sonically cohesive even if I don’t love it
+Similar Albums: Yes - *Fragile*, Genesis - *Selling England by the Pound*, Supertramp - *Crime of the Century*
 
 # Write-up
 

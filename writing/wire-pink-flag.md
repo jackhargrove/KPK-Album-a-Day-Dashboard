@@ -12,21 +12,7 @@ Section: Classics
 3 Adjectives: Minimal, short, explosive  
 Genre: Post-punk, punk, art punk  
 Length: 35:37  
-Similar Albums: The Clash - *London Calling*, Gang of Four - *Entertainment!*, The Minutemen - *Double Nickels on the Dime*  
-Reuters: one of the better songs lyrically, the vocals are snarled, the guitars are simple but overwhelming, does a great job at building up an oppressive and apocalyptic mood  
-Field Day for the Sundays: nice upbeat little ditty, the pauses for the drum are great, the lyrics are also a funny analysis of fame  
-Three Girl Rhumba: I love the guitar riff, it’s so fuzzy but also bright and defiant, also like the way he says “the impossible”  
-Ex Lion Tamer: this song is fine, if you go by the punk music of the late 70s early 80s you would think TV is the greatest threat to society in history, good bass line, one of the poppier tracks  
-Lowdown: almost spoken word over a pretty static instrumental, the drums steal the show on this song, not my favorite  
-Start to Move: great drums once again, much more dynamic song, the guitar is as fuzzy as ever  
-Brazil: again great drums, not a very memorable track though  
-It’s So Obvious: another song where the drums are the standout, very tightly closed hi-hat being hit, ends abruptly  
-Surgeon’s Girl: not one of my favorites, feels a little too heavy on the punk and a little light on the art, vocals get pretty annoying  
-Pink Flag: reminds me of “Reuters”, once again the guitars dominate everything (although the drums are insanely crisp) and the atmosphere is oppressive, the accelerando is an interesting point on the album and then the drums go DUMMY  
-The Commercial: only instrumental on the album, and again a rhythmically-focused track with just brilliant drumming  
-Straight Line: great drums once again, I like the vocal melody  
-106 Beats That: guess what’s great here? It’s the drums, but also the guitar and the keyboard (?) in the second half are frantic, great song  
-Mr Suit: lyrics are pretty generic boring punk, it’s alright, kinda shouty
+Similar Albums: The Clash - *London Calling*, Gang of Four - *Entertainment!*, The Minutemen - *Double Nickels on the Dime*
 
 # Write-up
 

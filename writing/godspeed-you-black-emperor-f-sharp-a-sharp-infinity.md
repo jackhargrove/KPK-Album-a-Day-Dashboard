@@ -12,8 +12,7 @@ Section: Modern
 3 Adjectives: Apocalyptic, nocturnal, suspenseful  
 Genre: Post-rock  
 Length: 1:03:29  
-Similar Albums: Swans - *The Glowing Man*, Mogwai - *Come On Die Young*, Sigur Rós - *()*  
-**The Dead Flag Blues**:
+Similar Albums: Swans - *The Glowing Man*, Mogwai - *Come On Die Young*, Sigur Rós - *()*
 
 # Write-up
 

@@ -12,8 +12,7 @@ Section: Modern
 3 Adjectives: Ethereal, lush, atmospheric  
 Genre: Dream pop, shoegaze  
 Length: 37:50  
-Similar Albums: Candy Claws - *Ceres & Calypso in the Deep Time*, Slowdive - *Just for a Day*, Beach House - *Bloom*  
-Cherry-Coloured Funk: love the guitar tone that this starts out on, one of the best vocal performances from Fraser, deeply pretty song, don’t have much more to say than that
+Similar Albums: Candy Claws - *Ceres & Calypso in the Deep Time*, Slowdive - *Just for a Day*, Beach House - *Bloom*
 
 # Write-up
 

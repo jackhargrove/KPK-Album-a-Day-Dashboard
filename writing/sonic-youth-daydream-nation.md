@@ -5,9 +5,6 @@ writer: aidan
 
 # Summary
 
-Teen Age Riot: Top 5 song we’ve listened to so far  
-Silver Rocket: kind of a post-hardcore math rocky vibe, I enjoy it, the breakdown in the middle kinda sucks though  
-The Sprawl: Kim is fucking awesome on the rant at the beginning, I like the initial noodling, but it goes on too long for me
 
 # Write-up
 

@@ -12,10 +12,7 @@ Section: Classics
 3 Adjectives: Instrumental, technical, warm  
 Genre: American primitivism, acoustic blues  
 Length: 1:16:12  
-Similar Albums: Jim O'Rourke - *Bad Timing*, Robbie Basho - *Visions of the Century*, Leo Kottke - *6- & 12-String Guitar*  
-Introduction: Berkeley, California???  
-When the Springtime Comes Again: slow start, it does kind of sound like springtime honestly, it’s got really nice dynamics to it, I don’t really understand how he does this with just one strumming hand  
-Joe Kirby Blues: has a nice downtempo, darker vibe to it
+Similar Albums: Jim O'Rourke - *Bad Timing*, Robbie Basho - *Visions of the Century*, Leo Kottke - *6- & 12-String Guitar*
 
 # Write-up
 

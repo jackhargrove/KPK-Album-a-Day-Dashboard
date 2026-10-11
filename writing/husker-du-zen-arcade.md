@@ -12,8 +12,7 @@ Section: Classics
 3 Adjectives: Noisy, rebellious, anxious  
 Genre: Hardcore punk, post-hardcore, alternative rock  
 Length: 1:10:09  
-Similar Albums: Minutemen - *Double Nickels on the Dime*, Dinosaur Jr. - *You're Living All Over Me*, Sonic Youth - *Goo*  
-Something I Learned Today: a lot of the songs on this album will fundamentally sound like this but this one does that sound best, the guitar is both hazy and sharp, the hardcore shouting is lyrical, it’s a good song
+Similar Albums: Minutemen - *Double Nickels on the Dime*, Dinosaur Jr. - *You're Living All Over Me*, Sonic Youth - *Goo*
 
 # Write-up
 

@@ -15,8 +15,7 @@ Length: 37:58
 Similar Albums: Sleater-Kinney - *The Woods*, Swans - *The Great Annihilator*, Various Artists - *No New York*  
 \*\*\*\*\*DISCLAIMER\*\*\*\*\*  
 Streaming has 4 bonus tracks, original track listing is below  
-https://open.spotify.com/playlist/6n60XkLhk0k5jJfVb6PpVv?si=a50fb793f9c44176  
-Intro: pretty nice and twinkly guitar for Sonic Youth standards at this time
+https://open.spotify.com/playlist/6n60XkLhk0k5jJfVb6PpVv?si=a50fb793f9c44176
 
 # Write-up
 
