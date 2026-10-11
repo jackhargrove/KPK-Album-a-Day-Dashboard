@@ -156,8 +156,8 @@ header.album { padding:28px 0 24px; border-bottom:1px solid var(--line); }
 .artist { font-size:12px; letter-spacing:2px; text-transform:uppercase; color:var(--dim); margin-bottom:8px; }
 .head { display:flex; gap:28px; align-items:flex-start; }
 .head .info { min-width:0; flex:1; }
-.cover { flex:none; display:block; width:200px; line-height:0; border-radius:4px; overflow:hidden; box-shadow:0 6px 24px rgba(0,0,0,.5); }
-.cover img { display:block; width:100%; height:auto; }
+.cover { flex:none; display:block; line-height:0; border-radius:4px; overflow:hidden; box-shadow:0 6px 24px rgba(0,0,0,.5); }
+.cover img { display:block; width:auto; height:auto; max-width:200px; max-height:240px; }  /* square → 200×200; cassette covers keep their shape */
 h1 { font-family:'Space Mono', monospace; font-size:clamp(26px, 6vw, 38px); line-height:1.15; color:#fff; font-weight:700; overflow-wrap:anywhere; }
 .meta { display:flex; flex-wrap:wrap; gap:6px 16px; margin-top:14px; font-size:12px; color:var(--dim); }
 .meta .genre { display:inline-flex; align-items:center; gap:6px; }
@@ -194,7 +194,7 @@ footer a { text-decoration:none; color:var(--dim); }
   dl.facts, dl.tracks { grid-template-columns:1fr; gap:2px; }
   dl.facts dd, dl.tracks dd { margin-bottom:8px; }
   .head { flex-direction:column; gap:20px; }
-  .cover { width:100%; max-width:320px; }
+  .cover img { max-width:100%; max-height:340px; }
 }
 `;
 
