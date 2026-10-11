@@ -11,7 +11,7 @@ Artist: Sonic Youth
 Section: Classics  
 3 Adjectives: Rebellious, mature, artsy  
 Genre: Alternative rock, noise rock  
-Length: 1:00:47  
+Length: 1:10:47  
 Similar Albums: Wipers - *Youth of America*, Minutemen - *Double Nickels on the Dime*, Hüsker Dü - *Zen Arcade*
 
 # Write-up
