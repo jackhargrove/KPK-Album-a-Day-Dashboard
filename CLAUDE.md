@@ -18,7 +18,7 @@ The dashboard renders as a Claude artifact (JSX with Recharts). There is also an
 ## Site Pages
 
 - `build.mjs` renders dashboard.jsx twice, setting `DASHBOARD_PAGE`: `/` = header (with overall progress bar), link to charts, album list; `/charts/` = header, link back, all charts. Without `DASHBOARD_PAGE` (standalone artifact) everything shows.
-- `/lists/` = "The Lists": `images/mu-essentials-2018.jpg` (original chart), `images/hargrove-tier-list.webp`, and Aidan's tier list, which appears automatically once a file named `images/aidan-tier-list.<jpg|png|webp>` is added (placeholder until then). build.mjs copies `images/` into the site.
+- `/lists/` = "The Lists": `images/mu-essentials-2018.jpg` (original chart), `images/hargrove-tier-list.jpg`, and Aidan's tier list, which appears automatically once a file named `images/aidan-tier-list.<jpg|png|webp>` is added (placeholder until then). build.mjs copies `images/` into the site.
 - Viewer / status choices travel between the two pages as URL params (`?viewer=aidan&status=listened`); clicking a genre or decade on the charts page opens `/?genre=…` or `/?decade=…`.
 
 ## Album Pages (writing/)
