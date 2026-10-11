@@ -154,3 +154,4 @@ Note: The HTML currently still has issues loading on mobile Safari. The Recharts
 - JetBrains Mono + Space Mono from Google Fonts
 - All visualizations respond to the All/Listened/Remaining status toggle
 - The table is sortable by any column; rank sort on Aidan's tab sorts by tier then alphabetically
+- Alphabetical sorts (artist, album, Most Represented Artists) ignore a leading "The" / "A" / "An" (`alphaKey` in dashboard.jsx); `sortAs` overrides the artist key

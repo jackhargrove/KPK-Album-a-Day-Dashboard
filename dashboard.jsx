@@ -968,6 +968,9 @@ const LIST_ORDER = [
 ];
 const LIST_POS = new Map(LIST_ORDER.map((k, i) => [k, i]));
 
+// Alphabetizing key: ignores a leading English article ("The Beatles" → "beatles", "A Love Supreme" → "love supreme")
+const alphaKey = (s) => s.replace(/^(the|a|an)\s+/i, "").toLowerCase();
+
 const TIER_BREAKS = [
   { tier: "SS", max: 20 },
   { tier: "S", max: 60 },
@@ -1109,7 +1112,7 @@ export default function Dashboard() {
     });
     // most albums first; alphabetical (case-insensitive) within the same count
     return Object.entries(counts).filter(([,c]) => c >= 2)
-      .sort(([na, a], [nb, b]) => b - a || na.localeCompare(nb, "en", { sensitivity: "base" }))
+      .sort(([na, a], [nb, b]) => b - a || alphaKey(na).localeCompare(alphaKey(nb), "en", { sensitivity: "base" }))
       .map(([name, count]) => ({ name, count }));
   }, [statusFiltered]);
 
@@ -1140,8 +1143,11 @@ export default function Dashboard() {
         va = LIST_POS.get(a.artist + " - " + a.title);
         vb = LIST_POS.get(b.artist + " - " + b.title);
       } else if (sortCol === "artist") {
-        va = a.sortAs || a.artist;  // e.g. "Haruomi Hosono, …" files under Hosono
-        vb = b.sortAs || b.artist;
+        va = alphaKey(a.sortAs || a.artist);  // e.g. "Haruomi Hosono, …" files under Hosono
+        vb = alphaKey(b.sortAs || b.artist);
+      } else if (sortCol === "title") {
+        va = alphaKey(a.title);
+        vb = alphaKey(b.title);
       } else {
         va = a[sortCol];
         vb = b[sortCol];
@@ -1154,7 +1160,7 @@ export default function Dashboard() {
       if (typeof vb === "string") vb = vb.toLowerCase();
       if (va < vb) return sortDir === "asc" ? -1 : 1;
       if (va > vb) return sortDir === "asc" ? 1 : -1;
-      const aa = a.artist.toLowerCase(), bb = b.artist.toLowerCase();
+      const aa = alphaKey(a.sortAs || a.artist), bb = alphaKey(b.sortAs || b.artist);
       if (aa < bb) return -1;
       if (aa > bb) return 1;
       return a._idx - b._idx;
