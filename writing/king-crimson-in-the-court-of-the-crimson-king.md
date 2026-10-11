@@ -44,6 +44,4 @@ Favorite tracks: 21st Century Schizoid Man, The Court of the Crimson King
 
 Least favorite track: Moonchild
 
-Ordinal position: #9 out of 11, right below *Wish You Were Here* and right above Fishmans
-
 # Aidan's review

@@ -118,15 +118,15 @@ function renderSummary(md) {
   );
 }
 
-// Reviews: trailing "Favorite tracks:" / "Least favorite track:" lines become a small track box.
+// Reviews: "Favorite tracks:" / "Least favorite track:" lines (and variants like "Least favorite segment:")
+// are pulled out wherever they appear and shown together in a track box at the end of the review.
+const TRACK_LINE = /^(least )?favou?rite (tracks?|tacks?|segments?|songs?)\b[^:]{0,40}:/i;
+
 function renderReview(md) {
   if (!md) return "";
   const blocks = md.split(/\n{2,}/);
-  const tracks = [];
-  while (blocks.length && /^(least )?favou?rite tracks?:/i.test(plain(blocks[blocks.length - 1]))) {
-    tracks.unshift(blocks.pop());
-  }
-  let html = renderMarkdown(blocks.join("\n\n"));
+  const tracks = blocks.filter((b) => TRACK_LINE.test(plain(b)));
+  let html = renderMarkdown(blocks.filter((b) => !TRACK_LINE.test(plain(b))).join("\n\n"));
   if (tracks.length) {
     html += '<dl class="tracks">' + tracks.map((t) => {
       const i = t.indexOf(":");
