@@ -681,6 +681,9 @@ const TIER_COLORS = {
 
 const TIER_ORDER = ["SS", "S", "A", "B", "C", "D", "F"];
 
+// Original /mu/ list order of sections, used when sorting the album table by section
+const SECTION_ORDER = ["/mu/-core", "Modern", "Classics", "Jazz", "Electronic", "Hip-Hop", "Metal"];
+
 // "Artist - Title" → album page slug; injected by build.mjs (absent when run as a standalone artifact)
 const ALBUM_LINKS = typeof ALBUM_PAGES !== "undefined" ? ALBUM_PAGES : {};
 
@@ -788,7 +791,7 @@ export default function Dashboard() {
       const s = search.toLowerCase();
       arr = arr.filter(a =>
         a.artist.toLowerCase().includes(s) || a.title.toLowerCase().includes(s) ||
-        String(a.year).includes(s) || a.genre.toLowerCase().includes(s)
+        String(a.year).includes(s) || a.genre.toLowerCase().includes(s) || a.section.toLowerCase().includes(s)
       );
     }
     if (genreFilter) arr = arr.filter(a => a.genre === genreFilter);
@@ -805,6 +808,9 @@ export default function Dashboard() {
           va = getRank(a) || 9999;
           vb = getRank(b) || 9999;
         }
+      } else if (sortCol === "section") {
+        va = SECTION_ORDER.indexOf(a.section);
+        vb = SECTION_ORDER.indexOf(b.section);
       } else {
         va = a[sortCol];
         vb = b[sortCol];
@@ -1241,7 +1247,7 @@ export default function Dashboard() {
               <thead>
                 <tr style={{ borderBottom: "1px solid #222" }}>
                   <th style={{ textAlign: "left", padding: "8px 12px", color: "#555", fontWeight: 500, fontSize: 10, letterSpacing: 1.5, width: 20 }}></th>
-                  {[{ key: "artist", label: "Artist" }, { key: "title", label: "Album" }, { key: "year", label: "Year" }, { key: "genre", label: "Genre" }, { key: "rank", label: "Rank" }, { key: "listenOrder", label: "Heard" }].map(col => (
+                  {[{ key: "artist", label: "Artist" }, { key: "title", label: "Album" }, { key: "year", label: "Year" }, { key: "genre", label: "Genre" }, { key: "section", label: "Section" }, { key: "rank", label: "Rank" }, { key: "listenOrder", label: "Heard" }].map(col => (
                     <th key={col.key} onClick={() => handleSort(col.key)}
                       style={{ textAlign: "left", padding: "8px 12px", color: sortCol === col.key ? "#ccc" : "#555", fontWeight: 500, fontSize: 10, letterSpacing: 1.5, textTransform: "uppercase", cursor: "pointer", userSelect: "none", whiteSpace: "nowrap" }}>
                       {col.label}{sortCol === col.key && <span style={{ marginLeft: 4, fontSize: 8 }}>{sortDir === "asc" ? "▲" : "▼"}</span>}
@@ -1267,6 +1273,7 @@ export default function Dashboard() {
                         {a.genre}
                       </span>
                     </td>
+                    <td style={{ padding: "7px 12px", color: "#666", fontSize: 11, whiteSpace: "nowrap" }}>{a.section}</td>
                     <td style={{ padding: "7px 12px" }}>
                       {getTier(a) ? (
                         <span style={{ display: "inline-flex", alignItems: "center", gap: 5 }}>
