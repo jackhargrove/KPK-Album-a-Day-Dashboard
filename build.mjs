@@ -45,14 +45,15 @@ for (const page of pages) {
 console.log("Built " + pages.length + " album pages");
 
 // Build HTML via concatenation (NOT template literals) to avoid
-// backticks in the compiled JS breaking the output
-const htmlParts = [
+// backticks in the compiled JS breaking the output.
+// The same app is written twice: the album list at / and the charts at /charts/.
+const page = (name, title) => [
   '<!DOCTYPE html>',
   '<html lang="en">',
   '<head>',
   '<meta charset="UTF-8">',
   '<meta name="viewport" content="width=device-width, initial-scale=1.0">',
-  '<title>/mu/ essentials - Album a Day Dashboard</title>',
+  '<title>' + title + '</title>',
   '<style>',
   '  * { margin: 0; padding: 0; box-sizing: border-box; }',
   '  body { background: #0d0d0d; }',
@@ -67,17 +68,16 @@ const htmlParts = [
   '<script src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>',
   '<script src="https://unpkg.com/prop-types@15/prop-types.min.js"></script>',
   '<script src="https://unpkg.com/recharts@2.12.7/umd/Recharts.js"></script>',
-  '<script>var ALBUM_PAGES = ' + JSON.stringify(index).replace(/</g, "\\u003c") + ';</script>',
+  '<script>var ALBUM_PAGES = ' + JSON.stringify(index).replace(/</g, "\\u003c") + '; var DASHBOARD_PAGE = "' + name + '";</script>',
   '<script>',
   js,
   'ReactDOM.createRoot(document.getElementById("root")).render(React.createElement(Dashboard));',
   '</script>',
   '</body>',
   '</html>',
-];
+].join("\n");
 
-const html = htmlParts.join("\n");
-
-mkdirSync("dist", { recursive: true });
-writeFileSync("dist/index.html", html);
-console.log("Built dist/index.html");
+mkdirSync("dist/charts", { recursive: true });
+writeFileSync("dist/index.html", page("home", "/mu/ essentials - Album a Day Dashboard"));
+writeFileSync("dist/charts/index.html", page("charts", "Charts & Stats · /mu/ essentials"));
+console.log("Built dist/index.html and dist/charts/index.html");

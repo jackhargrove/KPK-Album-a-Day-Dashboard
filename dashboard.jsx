@@ -684,6 +684,10 @@ const TIER_ORDER = ["SS", "S", "A", "B", "C", "D", "F"];
 // "Artist - Title" → album page slug; injected by build.mjs (absent when run as a standalone artifact)
 const ALBUM_LINKS = typeof ALBUM_PAGES !== "undefined" ? ALBUM_PAGES : {};
 
+// Which page build.mjs rendered: "home" (album list) or "charts"; standalone artifact shows both
+const PAGE = typeof DASHBOARD_PAGE !== "undefined" ? DASHBOARD_PAGE : "all";
+const URL_PARAMS = typeof location !== "undefined" ? new URLSearchParams(location.search) : new URLSearchParams();
+
 const DECADE_COLORS = {
   "1950s": "#8B7355",
   "1960s": "#C23B22",
@@ -711,10 +715,10 @@ export default function Dashboard() {
   const [search, setSearch] = useState("");
   const [sortCol, setSortCol] = useState("listenOrder");
   const [sortDir, setSortDir] = useState("asc");
-  const [genreFilter, setGenreFilter] = useState(null);
-  const [decadeFilter, setDecadeFilter] = useState(null);
-  const [statusFilter, setStatusFilter] = useState("all");
-  const [viewer, setViewer] = useState("you"); // "you" or "aidan"
+  const [genreFilter, setGenreFilter] = useState(URL_PARAMS.get("genre"));
+  const [decadeFilter, setDecadeFilter] = useState(URL_PARAMS.get("decade"));
+  const [statusFilter, setStatusFilter] = useState(["listened", "remaining"].includes(URL_PARAMS.get("status")) ? URL_PARAMS.get("status") : "all");
+  const [viewer, setViewer] = useState(URL_PARAMS.get("viewer") === "aidan" ? "aidan" : "you"); // "you" or "aidan"
 
   const hargroveRankMap = useMemo(() => {
     const map = new Map();
@@ -827,6 +831,18 @@ export default function Dashboard() {
   };
 
   const clearFilters = () => { setGenreFilter(null); setDecadeFilter(null); setSearch(""); };
+
+  // Links between the album list and the charts page keep the viewer / status choice
+  const pageLink = (base, extra = {}) => {
+    const q = new URLSearchParams();
+    if (viewer === "aidan") q.set("viewer", "aidan");
+    if (statusFilter !== "all") q.set("status", statusFilter);
+    Object.entries(extra).forEach(([k, v]) => q.set(k, v));
+    return base + (q.toString() ? "?" + q.toString() : "");
+  };
+  // On the charts page, clicking a decade or genre opens the album list filtered to it
+  const pickDecade = (dec) => PAGE === "charts" ? (location.href = pageLink("../", { decade: dec })) : setDecadeFilter(decadeFilter === dec ? null : dec);
+  const pickGenre = (g) => PAGE === "charts" ? (location.href = pageLink("../", { genre: g })) : setGenreFilter(genreFilter === g ? null : g);
   const hasFilters = genreFilter || decadeFilter || search;
 
   const SECTIONS_ORDER = ["/mu/-core", "Modern", "Classics", "Jazz", "Electronic", "Hip-Hop", "Metal"];
@@ -961,8 +977,16 @@ export default function Dashboard() {
 
       <div style={{ padding: "24px 32px" }}>
 
+        {PAGE === "charts" && (
+          <a href={pageLink("../")} style={{ display: "flex", justifyContent: "space-between", alignItems: "center", background: "#111", border: "1px solid #1a1a1a", borderRadius: 4, padding: "14px 20px", marginBottom: 32, color: "#999", fontSize: 12, textDecoration: "none", letterSpacing: 1 }}>
+            <span>← ALBUM LIST</span>
+            <span style={{ color: "#555", letterSpacing: 0 }}>{TOTAL_LIST} albums · writing & reviews</span>
+          </a>
+        )}
+
+        {PAGE !== "charts" && <>
         {/* Section Progress */}
-        <div style={{ background: "#111", border: "1px solid #1a1a1a", borderRadius: 4, padding: 20, marginBottom: 32 }}>
+        <div style={{ background: "#111", border: "1px solid #1a1a1a", borderRadius: 4, padding: 20, marginBottom: PAGE === "home" ? 16 : 32 }}>
           <h2 style={{ fontSize: 11, color: "#555", letterSpacing: 2, margin: "0 0 16px", textTransform: "uppercase" }}>Progress by Section</h2>
           <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fit, minmax(180px, 1fr))", gap: 12 }}>
             {sectionData.map(s => (
@@ -982,7 +1006,16 @@ export default function Dashboard() {
             ))}
           </div>
         </div>
+        </>}
 
+        {PAGE === "home" && (
+          <a href={pageLink("charts/")} style={{ display: "flex", justifyContent: "space-between", alignItems: "center", background: "#111", border: "1px solid #1a1a1a", borderRadius: 4, padding: "14px 20px", marginBottom: 32, color: "#999", fontSize: 12, textDecoration: "none", letterSpacing: 1 }}>
+            <span>CHARTS & STATS →</span>
+            <span style={{ color: "#555", letterSpacing: 0 }}>decades · genres · artists · tiers</span>
+          </a>
+        )}
+
+        {PAGE !== "home" && <>
         <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: 24, marginBottom: 32 }}>
           <div style={{ background: "#111", border: "1px solid #1a1a1a", borderRadius: 4, padding: 20 }}>
             <h2 style={{ fontSize: 11, color: "#555", letterSpacing: 2, margin: "0 0 16px", textTransform: "uppercase" }}>By Decade</h2>
@@ -992,7 +1025,7 @@ export default function Dashboard() {
                 <YAxis tick={{ fill: "#444", fontSize: 10, fontFamily: "JetBrains Mono" }} axisLine={false} tickLine={false} />
                 <Tooltip content={<CustomTooltip />} cursor={{ fill: "rgba(255,255,255,0.03)" }} />
                 <Bar dataKey="count" radius={[2, 2, 0, 0]} cursor="pointer"
-                  onClick={(d) => { const dec = d.name.replace("s",""); setDecadeFilter(decadeFilter === dec ? null : dec); }}>
+                  onClick={(d) => pickDecade(d.name.replace("s", ""))}>
                   {decadeData.map((d, i) => (
                     <Cell key={i} fill={DECADE_COLORS[d.name] || "#555"} opacity={decadeFilter && decadeFilter + "s" !== d.name ? 0.25 : 1} />
                   ))}
@@ -1036,7 +1069,7 @@ export default function Dashboard() {
                 <ResponsiveContainer width={140} height={140}>
                   <PieChart>
                     <Pie data={genreData} dataKey="value" cx="50%" cy="50%" innerRadius={35} outerRadius={65} paddingAngle={1} strokeWidth={0} cursor="pointer"
-                      onClick={(d) => setGenreFilter(genreFilter === d.name ? null : d.name)}>
+                      onClick={(d) => pickGenre(d.name)}>
                       {genreData.map((g, i) => <Cell key={i} fill={GENRE_COLORS[g.name] || "#555"} opacity={genreFilter && genreFilter !== g.name ? 0.2 : 1} />)}
                     </Pie>
                   </PieChart>
@@ -1044,7 +1077,7 @@ export default function Dashboard() {
               </div>
               <div style={{ flex: 1, display: "flex", flexDirection: "column", gap: 3 }}>
                 {genreData.map(g => (
-                  <div key={g.name} onClick={() => setGenreFilter(genreFilter === g.name ? null : g.name)}
+                  <div key={g.name} onClick={() => pickGenre(g.name)}
                     style={{ display: "flex", alignItems: "center", gap: 8, cursor: "pointer", opacity: genreFilter && genreFilter !== g.name ? 0.3 : 1, transition: "opacity 0.15s" }}>
                     <div style={{ width: 8, height: 8, borderRadius: 1, flexShrink: 0, background: GENRE_COLORS[g.name] || "#555" }} />
                     <span style={{ fontSize: 11, color: "#999", flex: 1 }}>{g.name}</span>
@@ -1219,7 +1252,9 @@ export default function Dashboard() {
             </div>
           </div>
         </div>
+        </>}
 
+        {PAGE !== "charts" && (
         <div style={{ background: "#111", border: "1px solid #1a1a1a", borderRadius: 4, padding: 20 }}>
           <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", marginBottom: 16, flexWrap: "wrap", gap: 8 }}>
             <h2 style={{ fontSize: 11, color: "#555", letterSpacing: 2, margin: 0, textTransform: "uppercase" }}>
@@ -1283,6 +1318,7 @@ export default function Dashboard() {
             </table>
           </div>
         </div>
+        )}
 
         <div style={{ textAlign: "center", padding: "24px 0 40px", fontSize: 10, color: "#333" }}>
           /mu/ essentials 2018 (318 albums) · Tracked via RateYourMusic
