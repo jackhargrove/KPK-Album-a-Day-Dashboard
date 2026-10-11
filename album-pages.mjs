@@ -272,6 +272,11 @@ const LISTS_CSS = `
 .figure img { display:inline-block; max-width:100%; height:auto; }
 .figure .cap { font-size:11px; color:var(--faint); margin-top:8px; }
 .placeholder { margin-top:16px; border:1px dashed #333; border-radius:4px; padding:48px 16px; text-align:center; font-size:12px; color:var(--faint); }
+.wrap.wide { max-width:1100px; }
+.pair { display:grid; grid-template-columns:1fr 1fr; gap:24px; align-items:stretch; }
+.pair > section { display:flex; flex-direction:column; min-width:0; }
+.pair .placeholder { flex:1; display:flex; align-items:center; justify-content:center; }
+@media (max-width:640px) { .pair { grid-template-columns:1fr; gap:0; } }
 `;
 
 export function renderListsPage(images) {
@@ -296,12 +301,14 @@ export function renderListsPage(images) {
     "<style>" + CSS + LISTS_CSS + "</style>",
     "</head>",
     "<body>",
-    '<div class="wrap">',
+    '<div class="wrap wide">',
     '<nav class="top"><a href="../">← Dashboard</a><a href="../charts/">Charts &amp; stats →</a></nav>',
     '<header class="album"><div class="artist">/mu/ essentials 2018</div><h1>The Lists</h1></header>',
     section("The original list", "/mu/ essentials 2018 · 318 albums", list, "The /mu/ essentials 2018 chart", "Image coming soon."),
-    section("Hargrove’s final tier list", "SS → F", hargrove, "Hargrove's final tier list", "Coming soon."),
-    section("Aidan’s final tier list", "SS → F", aidan, "Aidan's final tier list", "Aidan’s tier list is coming soon."),
+    '<div class="pair">',
+    section("Hargrove’s final tier list", "", hargrove, "Hargrove's final tier list", "Coming soon."),
+    section("Aidan’s final tier list", "", aidan, "Aidan's final tier list", "Aidan’s tier list is coming soon."),
+    "</div>",
     "</div>",
     "</body>",
     "</html>",
