@@ -1,5 +1,5 @@
 ---
-album: Sun Ra - Atlantis
+album: Sun-Ra and His Astro Infinity Arkestra - Atlantis
 writer: aidan
 listened: March 28, 2026
 ---

@@ -1,5 +1,5 @@
 ---
-album: Ol' Dirty Bastard - Return to the 36 Chambers
+album: Ol' Dirty Bastard - Return to the 36 Chambers: The Dirty Version
 writer: hargrove
 listened: January 30, 2026
 ---

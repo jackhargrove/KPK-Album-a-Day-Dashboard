@@ -1,5 +1,5 @@
 ---
-album: Matana Roberts - Coin Coin Chapter One
+album: Matana Roberts - Coin Coin Chapter One: Gens de couleur libres
 writer: aidan
 listened: July 3, 2025
 ---

@@ -1,5 +1,5 @@
 ---
-album: Blasphemy - Fallen Angel of Doom
+album: Blasphemy - Fallen Angel of Doom....
 writer: hargrove
 listened: May 24, 2026
 ---

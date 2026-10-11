@@ -1,5 +1,5 @@
 ---
-album: The Brave Little Abacus - Just Got Back From the Discomfort
+album: The Brave Little Abacus - Just Got Back From the Discomfort—We're Alright
 writer: hargrove
 listened: July 6, 2025
 ---

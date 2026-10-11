@@ -1,5 +1,5 @@
 ---
-album: David Bowie - Ziggy Stardust
+album: David Bowie - The Rise and Fall of Ziggy Stardust and the Spiders from Mars
 writer: hargrove
 listened: April 6, 2025
 ---

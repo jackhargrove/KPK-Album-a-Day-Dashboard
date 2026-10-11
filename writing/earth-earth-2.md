@@ -1,5 +1,5 @@
 ---
-album: Earth - Earth 2
+album: Earth - Earth 2: Special Low Frequency Version
 writer: hargrove
 listened: April 3, 2026
 ---

@@ -1,5 +1,5 @@
 ---
-album: Ulver - Bergtatt
+album: Ulver - Bergtatt — Et eeventyr i 5 capitler
 writer: hargrove
 listened: September 12, 2025
 ---

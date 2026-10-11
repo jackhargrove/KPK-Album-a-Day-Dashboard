@@ -1,5 +1,5 @@
 ---
-album: ミドリ (Midori) - あらためまして、はじめまして、ミドリです。
+album: ミドリ [Midori] - あらためまして、はじめまして、ミドリです。 [Aratamemashite Hajimemashite Midori Desu]
 writer: aidan
 listened: February 11, 2026
 ---

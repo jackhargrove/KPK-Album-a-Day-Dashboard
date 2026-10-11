@@ -1,5 +1,5 @@
 ---
-album: The Velvet Underground - White Light / White Heat
+album: The Velvet Underground - White Light/White Heat
 writer: aidan
 listened: June 18, 2025
 ---

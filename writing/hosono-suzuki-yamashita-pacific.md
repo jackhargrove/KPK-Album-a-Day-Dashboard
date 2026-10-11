@@ -1,5 +1,5 @@
 ---
-album: Hosono / Suzuki / Yamashita - Pacific
+album: Haruomi Hosono, Shigeru Suzuki, & Tatsuro Yamashita - Pacific
 writer: hargrove
 listened: October 1, 2025
 ---

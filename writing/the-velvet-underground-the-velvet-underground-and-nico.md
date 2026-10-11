@@ -1,5 +1,5 @@
 ---
-album: The Velvet Underground - The Velvet Underground & Nico
+album: The Velvet Underground & Nico - The Velvet Underground & Nico
 writer: aidan
 listened: February 24, 2025
 ---

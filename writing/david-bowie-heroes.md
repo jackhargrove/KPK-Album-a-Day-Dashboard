@@ -1,5 +1,5 @@
 ---
-album: David Bowie - Heroes
+album: David Bowie - "Heroes"
 writer: hargrove
 listened: May 21, 2026
 ---

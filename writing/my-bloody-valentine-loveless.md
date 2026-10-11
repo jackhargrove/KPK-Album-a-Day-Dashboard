@@ -1,5 +1,5 @@
 ---
-album: My Bloody Valentine - Loveless
+album: my bloody valentine - loveless
 writer: hargrove
 listened: February 27, 2025
 ---

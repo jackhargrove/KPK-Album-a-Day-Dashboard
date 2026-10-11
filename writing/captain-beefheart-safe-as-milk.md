@@ -1,5 +1,5 @@
 ---
-album: Captain Beefheart - Safe as Milk
+album: Captain Beefheart & His Magic Band - Safe as Milk
 writer: hargrove
 listened: December 19, 2025
 ---

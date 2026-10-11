@@ -1,5 +1,5 @@
 ---
-album: Captain Beefheart - Trout Mask Replica
+album: Captain Beefheart & His Magic Band - Trout Mask Replica
 writer: hargrove
 listened: February 14, 2025
 summary-writer: aidan

@@ -1,5 +1,5 @@
 ---
-album: Death Grips - Steroids
+album: Death Grips - Steroids (Crouching Tiger Hidden Gabber Megamix)
 writer: hargrove
 listened: October 24, 2025
 ---

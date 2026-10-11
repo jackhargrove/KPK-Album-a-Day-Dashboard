@@ -1,5 +1,5 @@
 ---
-album: Fishmans - 98.12.28 男達の別れ
+album: Fishmans - 98.12.28 男達の別れ [98.12.28 Otokotachi no wakare]
 writer: aidan
 listened: February 20–21, 2025
 ---

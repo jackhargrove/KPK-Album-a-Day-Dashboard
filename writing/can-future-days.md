@@ -1,5 +1,5 @@
 ---
-album: Can - Future Days
+album: CAN - Future Days
 writer: aidan
 listened: February 20, 2026
 ---
