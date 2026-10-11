@@ -13,7 +13,7 @@ The dashboard renders as a Claude artifact (JSX with Recharts). There is also an
 
 ## Naming
 
-Artist and album names follow the original /mu/ list as Jack spells them (e.g. "Godspeed You Black Emperor!", "my bloody valentine", "BLΛNK BΛNSΗΣΣ", "CAN", "The Mothers of Invention"). Names in a non-Latin script are followed by a romanization in brackets: "ミドリ [Midori]", "98.12.28 男達の別れ [98.12.28 Otokotachi no wakare]". Optional album fields: `group` (combines projects in Most Represented Artists, e.g. VU & Nico → The Velvet Underground) and `sortAs` (artist sort + search key, e.g. "Hosono", "Blank Banshee"). Renaming an album means updating ALBUMS, HARGROVE_RANKING, LIST_ORDER and the writing file's `album:` line together; keep the existing slug/URL.
+Artist and album names follow the original /mu/ list as Jack spells them (e.g. "Godspeed You Black Emperor!", "my bloody valentine", "BLΛNK BΛNSΗΣΣ", "CAN", "The Mothers of Invention"). Names in a non-Latin script are followed by a romanization in brackets: "ミドリ [Midori]", "98.12.28 男達の別れ [98.12.28 Otokotachi no wakare]". Optional album fields: `group` (combines projects in Most Represented Artists, e.g. VU & Nico → The Velvet Underground) and `sortAs` (artist sort + search key from Jack's note headers, e.g. "Bowie, David", "Blank Banshee"). Renaming an album means updating ALBUMS, HARGROVE_RANKING, LIST_ORDER and the writing file's `album:` line together; keep the existing slug/URL.
 
 ## Original List Order
 
@@ -154,4 +154,5 @@ Note: The HTML currently still has issues loading on mobile Safari. The Recharts
 - JetBrains Mono + Space Mono from Google Fonts
 - All visualizations respond to the All/Listened/Remaining status toggle
 - The table is sortable by any column; rank sort on Aidan's tab sorts by tier then alphabetically
-- Alphabetical sorts (artist, album, Most Represented Artists) ignore a leading "The" / "A" / "An" (`alphaKey` in dashboard.jsx); `sortAs` overrides the artist key
+- Alphabetical sorts (artist, album, Most Represented Artists) ignore a leading "The" / "A" / "An" (`alphaKey` in dashboard.jsx)
+- Personal names sort by surname. `sortAs` on an album holds its artist sort key, taken from Jack's Apple Notes review headers ("Bowie, David", "Pop, Iggy", "Zappa, Frank" for The Mothers of Invention). New albums: copy the header's "Last, First" form. Group names in Most Represented Artists use the same keys (`GROUP_SORT` covers "Daniel Lopatin")
