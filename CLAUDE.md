@@ -11,6 +11,10 @@ The dashboard renders as a Claude artifact (JSX with Recharts). There is also an
 - `dashboard.jsx` — The main React component. This is the only file you need to edit.
 - `mu-essentials-dashboard.html` — Standalone HTML export (needs rebuilding after JSX changes via TypeScript transpilation, see below)
 
+## Original List Order
+
+`LIST_ORDER` in dashboard.jsx is the original /mu/ essentials 2018 order (section by section, as on the chart image), keyed like HARGROVE_RANKING (`artist + " - " + title`). Sorting the album table by Section uses it.
+
 ## Site Pages
 
 - `build.mjs` renders dashboard.jsx twice, setting `DASHBOARD_PAGE`: `/` = header (with overall progress bar), link to charts, album list; `/charts/` = header, link back, all charts. Without `DASHBOARD_PAGE` (standalone artifact) everything shows.
