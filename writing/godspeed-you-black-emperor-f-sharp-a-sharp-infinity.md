@@ -1,5 +1,5 @@
 ---
-album: Godspeed You! Black Emperor - F♯A♯∞
+album: Godspeed You Black Emperor! - F♯A♯∞
 writer: aidan
 listened: April 26, 2025
 ---

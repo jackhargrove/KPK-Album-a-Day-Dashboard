@@ -13,7 +13,7 @@ The dashboard renders as a Claude artifact (JSX with Recharts). There is also an
 
 ## Naming
 
-Artist and album names follow the original /mu/ list as Jack spells them (e.g. "Godspeed You! Black Emperor", "my bloody valentine", "CAN", "The Mothers of Invention"). Names in a non-Latin script are followed by a romanization in brackets: "ミドリ [Midori]", "98.12.28 男達の別れ [98.12.28 Otokotachi no wakare]". Optional album fields: `group` (combines projects in Most Represented Artists, e.g. VU & Nico → The Velvet Underground) and `sortAs` (artist sort key, e.g. "Hosono"). Renaming an album means updating ALBUMS, HARGROVE_RANKING, LIST_ORDER and the writing file's `album:` line together; keep the existing slug/URL.
+Artist and album names follow the original /mu/ list as Jack spells them (e.g. "Godspeed You Black Emperor!", "my bloody valentine", "BLΛNK BΛNSΗΣΣ", "CAN", "The Mothers of Invention"). Names in a non-Latin script are followed by a romanization in brackets: "ミドリ [Midori]", "98.12.28 男達の別れ [98.12.28 Otokotachi no wakare]". Optional album fields: `group` (combines projects in Most Represented Artists, e.g. VU & Nico → The Velvet Underground) and `sortAs` (artist sort + search key, e.g. "Hosono", "Blank Banshee"). Renaming an album means updating ALBUMS, HARGROVE_RANKING, LIST_ORDER and the writing file's `album:` line together; keep the existing slug/URL.
 
 ## Original List Order
 

@@ -1,5 +1,5 @@
 ---
-album: Ryoji Ikeda - Dataplex
+album: Ryoji Ikeda - dataplex
 writer: aidan
 listened: May 29, 2025
 ---

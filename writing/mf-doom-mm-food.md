@@ -1,5 +1,5 @@
 ---
-album: MF DOOM - Mm..Food
+album: MF DOOM - MM..FOOD
 writer: hargrove
 listened: September 19, 2025
 ---

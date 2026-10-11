@@ -1,5 +1,5 @@
 ---
-album: Death Grips - Niggas on the Moon
+album: Death Grips - [REDACTED] on the Moon
 writer: hargrove
 listened: August 23, 2026
 ---

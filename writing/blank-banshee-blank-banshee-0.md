@@ -1,5 +1,5 @@
 ---
-album: Blank Banshee - Blank Banshee 0
+album: BLΛNK BΛNSΗΣΣ - Blank Banshee 0
 writer: hargrove
 listened: March 19, 2025
 ---

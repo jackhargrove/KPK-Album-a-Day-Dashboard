@@ -1,5 +1,5 @@
 ---
-album: Eric B. & Rakim - Paid In Full
+album: Eric B. & Rakim - Paid in Full
 writer: hargrove
 listened: September 26, 2025
 ---
