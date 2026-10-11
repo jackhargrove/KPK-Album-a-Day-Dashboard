@@ -1,4 +1,4 @@
-import { readFileSync, writeFileSync, mkdirSync, readdirSync, copyFileSync } from "fs";
+import { readFileSync, writeFileSync, mkdirSync, readdirSync, copyFileSync, existsSync } from "fs";
 import ts from "typescript";
 import { buildAlbumPages, renderListsPage } from "./album-pages.mjs";
 
@@ -37,7 +37,10 @@ const writingFiles = readdirSync("writing")
   .filter((f) => f.endsWith(".md"))
   .sort()
   .map((f) => ({ slug: f.slice(0, -3), text: readFileSync("writing/" + f, "utf8") }));
-const { pages, index } = buildAlbumPages(jsx, writingFiles);
+const covers = existsSync("covers") ? readdirSync("covers").filter((f) => /\.(jpe?g|png|webp)$/i.test(f)) : [];
+const { pages, index } = buildAlbumPages(jsx, writingFiles, covers);
+mkdirSync("dist/covers", { recursive: true });
+for (const f of covers) copyFileSync("covers/" + f, "dist/covers/" + f);
 for (const page of pages) {
   mkdirSync("dist/album/" + page.slug, { recursive: true });
   writeFileSync("dist/album/" + page.slug + "/index.html", page.html);

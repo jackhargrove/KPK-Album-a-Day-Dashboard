@@ -15,6 +15,10 @@ The dashboard renders as a Claude artifact (JSX with Recharts). There is also an
 
 `LIST_ORDER` in dashboard.jsx is the original /mu/ essentials 2018 order (section by section, as on the chart image), keyed like HARGROVE_RANKING (`artist + " - " + title`). Sorting the album table by Section uses it.
 
+## Album Covers
+
+`covers/<slug>.jpg` (one per album, slug = writing file name) is shown in each album page header. Sources: Jack's hand-picked TierMaker images (300px, the reference for which cover version is right) or, where iTunes had the identical artwork and Jack approved it, a 600px iTunes version. To change one, replace the file and push.
+
 ## Site Pages
 
 - `build.mjs` renders dashboard.jsx twice, setting `DASHBOARD_PAGE`: `/` = header (with overall progress bar), link to charts, album list; `/charts/` = header, link back, all charts. Without `DASHBOARD_PAGE` (standalone artifact) everything shows.

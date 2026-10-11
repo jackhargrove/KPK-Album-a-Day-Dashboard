@@ -154,6 +154,10 @@ nav.top a:hover { color:var(--text); }
 nav.top .pn { display:flex; gap:14px; }
 header.album { padding:28px 0 24px; border-bottom:1px solid var(--line); }
 .artist { font-size:12px; letter-spacing:2px; text-transform:uppercase; color:var(--dim); margin-bottom:8px; }
+.head { display:flex; gap:28px; align-items:flex-start; }
+.head .info { min-width:0; flex:1; }
+.cover { flex:none; display:block; width:200px; line-height:0; border-radius:4px; overflow:hidden; box-shadow:0 6px 24px rgba(0,0,0,.5); }
+.cover img { display:block; width:100%; height:auto; }
 h1 { font-family:'Space Mono', monospace; font-size:clamp(26px, 6vw, 38px); line-height:1.15; color:#fff; font-weight:700; overflow-wrap:anywhere; }
 .meta { display:flex; flex-wrap:wrap; gap:6px 16px; margin-top:14px; font-size:12px; color:var(--dim); }
 .meta .genre { display:inline-flex; align-items:center; gap:6px; }
@@ -189,6 +193,8 @@ footer a { text-decoration:none; color:var(--dim); }
   .prose { font-size:17px; }
   dl.facts, dl.tracks { grid-template-columns:1fr; gap:2px; }
   dl.facts dd, dl.tracks dd { margin-bottom:8px; }
+  .head { flex-direction:column; gap:20px; }
+  .cover { width:100%; max-width:320px; }
 }
 `;
 
@@ -200,7 +206,7 @@ function pending(text) {
   return '<p class="pending">' + text + "</p>";
 }
 
-export function renderAlbumPage({ album, writing, prev, next, data }) {
+export function renderAlbumPage({ album, writing, prev, next, data, cover }) {
   const { GENRE_COLORS, TIER_COLORS } = data;
   const s = writing.sections;
   const writer = writing.meta.writer;
@@ -230,7 +236,9 @@ export function renderAlbumPage({ album, writing, prev, next, data }) {
     "<body>",
     '<div class="wrap">',
     '<nav class="top"><a href="../../">← Dashboard</a><span class="pn">' + link(prev, "← prev") + link(next, "next →") + "</span></nav>",
-    '<header class="album">',
+    '<header class="album"><div class="head">',
+    cover ? '<a class="cover" href="../../covers/' + cover + '"><img src="../../covers/' + cover + '" alt="' + ar + " – " + t + ' cover"></a>' : "",
+    '<div class="info">',
     '<div class="artist">' + ar + "</div>",
     "<h1>" + t + "</h1>",
     '<div class="meta">',
@@ -249,7 +257,7 @@ export function renderAlbumPage({ album, writing, prev, next, data }) {
     '<div class="rating"><span class="who">Aidan</span>' + tierBadge(album.aidanTier, TIER_COLORS) +
       (album.aidanPrior ? '<span class="prior">heard before</span>' : "") + "</div>",
     "</div>",
-    "</header>",
+    "</div></div></header>",
     summary ? "<section><h2>Summary " + summaryBy + "</h2>" + summary + "</section>" : "",
     "<section><h2>Write-up " + by + '</h2><div class="prose">' +
       (writeup || pending(writer === "aidan" ? "Aidan’s write-up is coming soon." : "No write-up.")) + "</div></section>",
@@ -318,7 +326,9 @@ export function renderListsPage(images) {
 // ---------------------------------------------------------------------------
 // Entry point: files = [{ slug, text }]  →  { pages: [{ slug, html }], index: { "Artist - Title": slug } }
 
-export function buildAlbumPages(jsx, files) {
+// covers = file names present in covers/ ("<slug>.jpg"); albums without one render without a cover
+export function buildAlbumPages(jsx, files, covers = []) {
+  const coverOf = new Map(covers.map((f) => [f.replace(/\.[^.]+$/, ""), f]));
   const data = loadDashboardData(jsx);
   const byKey = new Map(data.albums.map((a) => [a.key, a]));
   const entries = files.map(({ slug, text }) => {
@@ -331,7 +341,7 @@ export function buildAlbumPages(jsx, files) {
   // prev/next follow listening order
   entries.sort((a, b) => (a.album.listenOrder || 1e9) - (b.album.listenOrder || 1e9));
   const pages = entries.map((e, i) =>
-    ({ slug: e.album.slug, html: renderAlbumPage({ ...e, prev: entries[i - 1] && entries[i - 1].album, next: entries[i + 1] && entries[i + 1].album, data }) }));
+    ({ slug: e.album.slug, html: renderAlbumPage({ ...e, prev: entries[i - 1] && entries[i - 1].album, next: entries[i + 1] && entries[i + 1].album, data, cover: coverOf.get(e.album.slug) }) }));
   const index = {};
   for (const e of entries) index[e.album.key] = e.album.slug;
   return { pages, index };
