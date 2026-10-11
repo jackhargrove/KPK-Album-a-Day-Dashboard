@@ -845,15 +845,6 @@ export default function Dashboard() {
   const pickGenre = (g) => PAGE === "charts" ? (location.href = pageLink("../", { genre: g })) : setGenreFilter(genreFilter === g ? null : g);
   const hasFilters = genreFilter || decadeFilter || search;
 
-  const SECTIONS_ORDER = ["/mu/-core", "Modern", "Classics", "Jazz", "Electronic", "Hip-Hop", "Metal"];
-  const sectionData = useMemo(() => {
-    return SECTIONS_ORDER.map(sec => {
-      const all = ALBUMS.filter(a => a.section === sec);
-      const done = all.filter(a => a.listened).length;
-      return { name: sec, total: all.length, done, pct: Math.round((done / all.length) * 100) };
-    });
-  }, []);
-
   const timelineDots = useMemo(() => {
     return statusFiltered.map((a, i) => ({ ...a, _idx: i })).sort((a, b) => a.year - b.year || a._idx - b._idx);
   }, [statusFiltered]);
@@ -983,30 +974,6 @@ export default function Dashboard() {
             <span style={{ color: "#555", letterSpacing: 0 }}>{TOTAL_LIST} albums · writing & reviews</span>
           </a>
         )}
-
-        {PAGE !== "charts" && <>
-        {/* Section Progress */}
-        <div style={{ background: "#111", border: "1px solid #1a1a1a", borderRadius: 4, padding: 20, marginBottom: PAGE === "home" ? 16 : 32 }}>
-          <h2 style={{ fontSize: 11, color: "#555", letterSpacing: 2, margin: "0 0 16px", textTransform: "uppercase" }}>Progress by Section</h2>
-          <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fit, minmax(180px, 1fr))", gap: 12 }}>
-            {sectionData.map(s => (
-              <div key={s.name}>
-                <div style={{ display: "flex", justifyContent: "space-between", marginBottom: 4 }}>
-                  <span style={{ fontSize: 11, color: "#999" }}>{s.name}</span>
-                  <span style={{ fontSize: 10, color: "#555", fontVariantNumeric: "tabular-nums" }}>{s.done}/{s.total}</span>
-                </div>
-                <div style={{ height: 4, background: "#1a1a1a", borderRadius: 2, overflow: "hidden" }}>
-                  <div style={{
-                    height: "100%", width: `${s.pct}%`, borderRadius: 2,
-                    background: s.pct === 100 ? "#3A8A6E" : s.pct >= 75 ? "#5B8DBE" : s.pct >= 50 ? "#7B5EA7" : "#E8A838",
-                    transition: "width 0.4s ease",
-                  }} />
-                </div>
-              </div>
-            ))}
-          </div>
-        </div>
-        </>}
 
         {PAGE === "home" && (
           <a href={pageLink("charts/")} style={{ display: "flex", justifyContent: "space-between", alignItems: "center", background: "#111", border: "1px solid #1a1a1a", borderRadius: 4, padding: "14px 20px", marginBottom: 32, color: "#999", fontSize: 12, textDecoration: "none", letterSpacing: 1 }}>

@@ -13,7 +13,7 @@ The dashboard renders as a Claude artifact (JSX with Recharts). There is also an
 
 ## Site Pages
 
-- `build.mjs` renders dashboard.jsx twice, setting `DASHBOARD_PAGE`: `/` = header, Progress by Section, link to charts, album list; `/charts/` = header, link back, all charts. Without `DASHBOARD_PAGE` (standalone artifact) everything shows.
+- `build.mjs` renders dashboard.jsx twice, setting `DASHBOARD_PAGE`: `/` = header (with overall progress bar), link to charts, album list; `/charts/` = header, link back, all charts. Without `DASHBOARD_PAGE` (standalone artifact) everything shows.
 - Viewer / status choices travel between the two pages as URL params (`?viewer=aidan&status=listened`); clicking a genre or decade on the charts page opens `/?genre=…` or `/?decade=…`.
 
 ## Album Pages (writing/)
