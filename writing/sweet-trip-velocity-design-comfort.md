@@ -28,6 +28,6 @@ Overall, I’m just a little confused by this pick. Even when I haven’t loved 
 
 Favorite tracks: Sept, Dedicated, Chocolate Matter, Design: 2: 3
 
-Least favorite tracks: To All the Dancers of the World, a Round Form of Fantasy
+Least favorite track: To All the Dancers of the World, a Round Form of Fantasy
 
 # Aidan's review
