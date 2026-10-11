@@ -11,6 +11,11 @@ The dashboard renders as a Claude artifact (JSX with Recharts). There is also an
 - `dashboard.jsx` — The main React component. This is the only file you need to edit.
 - `mu-essentials-dashboard.html` — Standalone HTML export (needs rebuilding after JSX changes via TypeScript transpilation, see below)
 
+## Site Pages
+
+- `build.mjs` renders dashboard.jsx twice, setting `DASHBOARD_PAGE`: `/` = header, Progress by Section, link to charts, album list; `/charts/` = header, link back, all charts. Without `DASHBOARD_PAGE` (standalone artifact) everything shows.
+- Viewer / status choices travel between the two pages as URL params (`?viewer=aidan&status=listened`); clicking a genre or decade on the charts page opens `/?genre=…` or `/?decade=…`.
+
 ## Album Pages (writing/)
 
 - `writing/<slug>.md` — one file per album (318). Front matter `album:` must exactly match `artist + " - " + title` in ALBUMS; `writer:` (`hargrove` | `aidan`) is the byline for both the Summary and Write-up; optional `summary-writer:` overrides the Summary byline. Sections: `# Summary`, `# Write-up`, `# Hargrove's review`, `# Aidan's review` (an empty section renders a "coming soon" placeholder).
