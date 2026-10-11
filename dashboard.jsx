@@ -709,7 +709,7 @@ const CustomTooltip = ({ active, payload, label }) => {
 
 export default function Dashboard() {
   const [search, setSearch] = useState("");
-  const [sortCol, setSortCol] = useState("year");
+  const [sortCol, setSortCol] = useState("listenOrder");
   const [sortDir, setSortDir] = useState("asc");
   const [genreFilter, setGenreFilter] = useState(null);
   const [decadeFilter, setDecadeFilter] = useState(null);
