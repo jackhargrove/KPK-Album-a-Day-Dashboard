@@ -12,15 +12,11 @@ Section: Modern
 3 Adjectives: Passionate, bittersweet, anthemic  
 Genre: Alternative rock  
 Length: 2:01:39  
-Similar Albums: Soundgarden - *Superunknown*, Nirvana - *Nevermind*, Radiohead - *The Bends*
+Similar Albums: Soundgarden - *Superunknown*, Nirvana - *Nevermind*, Radiohead - *The Bends*  
+\*\*\*\*\*DISCLAIMER\*\*\*\*\*  
+Album is two hours long, so it’s a two-day album taking up the whole weekend.
 
 # Write-up
-
-Why does Billy Corgan look like that?
-
-\*\*\*\*\*DISCLAIMER\*\*\*\*\*
-
-Album is two hours long, so it’s a two-day album taking up the whole weekend.
 
 The Smashing Pumpkins is an alternative rock band formed in Chicago in 1988 whose lineup consisted of lead guitarist and vocalist Billy Corgan, rhythm guitarist James Iha, bassist D’arcy Wretzky, and drummer Jimmy Chamberlin. Corgan is a Chicago native who was raised by an abusive father. He met Iha while working at a record store. They formed a duo in 1988 to make music inspired by the Cure and New Order. Corgan met Wretzky shortly afterward and she joined on bass. Chamberlin, a jazz drummer, was recommended by a friend; his ignorance of alt rock allowed the group to explore harder sounds. The quartet released its first single in 1990. It was a success, earning them a deal with a major label. Butch Vig recorded the group’s debut album *Gish* in 1991 shortly before producing Nirvana’s *Nevermind*. Though *Gish* was a modest success, the band immediately faced issues. Corgan was a control freak who insisted on playing every instrument in the studio except drums, freezing out Wretzky and Iha. Chamberlin started doing hard drugs, while Corgan became homeless.
 

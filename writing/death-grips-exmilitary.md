@@ -13,15 +13,11 @@ City of Origin: Sacramento, California
 Genre: Experimental hip-hop, industrial hip-hop, rap rock  
 Length: 48:28  
 Similar Albums: Kanye West - *Yeezus*, Danny Brown - *Atrocity Exhibition*, Death Grips - *The Money Store* and *No Love Deep Web* and *[REDACTED] on the Moon* and *Steroids*  
-Genre: Experimental hip-hop, industrial hip-hop, rap rock, punk rap
-
-# Write-up
-
-This album is not on streaming services because Death Grips never bothered to clear any of the (very expensive) samples they used. If you have a few hundred thousand dollars to spare, you can donate it to Death Grips so they can clear the samples. Otherwise, you can listen to it with the YouTube playlist below.
-
+Genre: Experimental hip-hop, industrial hip-hop, rap rock, punk rap  
+This album is not on streaming services because Death Grips never bothered to clear any of the (very expensive) samples they used. If you have a few hundred thousand dollars to spare, you can donate it to Death Grips so they can clear the samples. Otherwise, you can listen to it with the YouTube playlist below.  
 https://www.youtube.com/watch?v=-qxa91EwFco&list=PL228FAD202E1D8335
 
-solipsisic and hedonistic
+# Write-up
 
 Story/Fun Facts: Death Grips is an experimental hip-hop trio from sunny Sacramento, California made up of avant-garde drummer and creative leader Zach Hill, rapper MC Ride (Stefan Burnett), and producer Andy Morin.
 

@@ -1,6 +1,6 @@
 ---
 album: The Velvet Underground - The Velvet Underground & Nico
-writer: hargrove
+writer: aidan
 ---
 
 # Summary
@@ -8,19 +8,16 @@ writer: hargrove
 Next Album of the Day -> *The Velvet Underground & Nico*  
 Year: 1967  
 Artist:  The Velvet Underground and Nico (two separate artists)  
-Adjectives: Hedonistic, transgressive, influential
+Adjectives: Hedonistic, transgressive, influential  
+“Producer”: Andy Warhol  
+Genre: Art rock  
+Length: 47:51  
+Similar Albums: Nico - *Chelsea Girl*, The Kinks - *The Kinks are the Village Green Preservation Society*, The Stooges - *Raw Power*  
+\*\*\*\*\*DISCLAIMER\*\*\*\*\*  
+There are a lot of remasters and legacy editions on Spotify. Make sure your version is 47 minutes and has only 11 tracks and they’re not by 11 different artists (that is a version that exists).
 
 # Write-up
 
-Similar Albums: Nico - *Chelsea Girl*, The Kinks - *The Kinks are the Village Green Preservation Society*, The Stooges - *Raw Power*
-
-\*\*\*\*\*DISCLAIMER\*\*\*\*\*
-
-There are a lot of remasters and legacy editions on Spotify. Make sure your version is 47 minutes and has only 11 tracks and they’re not by 11 different artists (that is a version that exists).
-
-Lou Reed’s guitar is the star of the show
-
-Nico feels like an interloper but Warhol has the right idea, Femme Fatale sounds dangerous with her vocals instead of whiny
 
 # Hargrove's review
 

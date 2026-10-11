@@ -13,13 +13,10 @@ Genre: Math rock, post-hardcore, post-rock
 Producer: Brian Paulson  
 Cover photographer: Will Oldham AKA Bonnie “Prince” Billy  
 Length: 39:31  
-Similar Albums: American Football - *American Football*, Godspeed You! Black Emperor - *F#A*, The Dismemberment Plan - *Emergency & I*
-
-# Write-up
-
+Similar Albums: American Football - *American Football*, Godspeed You! Black Emperor - *F#A*, The Dismemberment Plan - *Emergency & I*  
 There was some confusion earlier because there is a box set version of this album that is 2 hours long. Make sure that when you’re finding the albums for this list, do not click on deluxe editions or box set editions, look for the originals only. If you’re in doubt, just cross-check the album length with what we send here.
 
-Slave songs -> blues -> rhythm and blues -> rock and roll -> garage rock -> punk rock -> hardcore punk -> post-hardcore -> Slint -> math rock -> Midwest emo -> emo pop -> Paramore -> Olivia Rodrigo
+# Write-up
 
 Story/Fun Facts: Slint was formed by a group of high schoolers in Louisville, Kentucky in 1986. Their first album, *Tweez*, was produced by Steve Albini, a legendary Chicago punk and hardcore artist who I would guess was the producer for more albums on this list than anyone else. The album was about as commercially successful as you would imagine an album recorded by a bunch of Louisville teenagers would be. After its release, all the members went off to college, but they would still play together as Slint when back in Louisville on breaks.
 

@@ -11,11 +11,10 @@ Artist: Swans
 3 Adjectives: Disturbing, atmospheric, dense  
 Genre: Post-rock, drone, sound collage  
 Length: 2:21:37  
-Similar Albums: Swans - *To Be Kind* and *The Seer*, Godspeed You! Black Emperor - *F#A,* Slint - *Spiderland*
+Similar Albums: Swans - *To Be Kind* and *The Seer*, Godspeed You! Black Emperor - *F#A,* Slint - *Spiderland*  
+Yes, this album is super long. It’s split into two discs, so if you can’t handle it in one sitting there’s a natural break point. And if you really just don’t want to devote 2 and a half hours to this, that’s fine! Listen to parts if that works best for you.
 
 # Write-up
-
-Yes, this album is super long. It’s split into two discs, so if you can’t handle it in one sitting there’s a natural break point. And if you really just don’t want to devote 2 and a half hours to this, that’s fine! Listen to parts if that works best for you.
 
 Story/Fun Facts: Swans was formed by Michael Gira in 1981 as part of the No Wave scene in New York. While discussing *Remain in Light*, we talked about New Wave, a movement that sought to make punk rock more commercial and accessible. No Wave was a rejection of New Wave, an attempt to make punk rock even less commercial and accessible. One of Aidan’s favorite bands, Sonic Youth, also came from this No Wave scene. In 1986, Jarboe joined Swans as the secondary creative force behind Michael Gira, and this set Swans on a path to more complex and less harsh music. On the songs with actual singing, Michael Gira is the male voice, and Jarboe is the female voice.
 

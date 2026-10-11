@@ -103,7 +103,7 @@ function renderSummary(md) {
   let dateLine = null;
   for (const line of md.split("\n").map((l) => l.replace(/ {2}$/, "")).filter(Boolean)) {
     const p = plain(line);
-    const field = p.match(/^([A-Za-z0-9][\w /&’'.-]{0,30}?)\s*:\s+(.*)$/) || p.match(/^(Genre)\s+(.*)$/);
+    const field = p.match(/^([“"]?[A-Za-z0-9][\w /&’'.-]{0,30}?[”"]?)\s*:\s+(.*)$/) || p.match(/^(Genre)\s+(.*)$/);
     if (!dateLine && /album of the day/i.test(p) && !rows.length) dateLine = line;
     else if (field && !/^https?$/.test(field[1]) && !notes.length) {
       const label = field[1];

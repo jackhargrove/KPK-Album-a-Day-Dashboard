@@ -1,11 +1,18 @@
 ---
 album: Captain Beefheart - Trout Mask Replica
 writer: hargrove
+summary-writer: aidan
 ---
 
 # Summary
 
+Next Album of the Day -> *Trout Mask Replica*  
 Year: 1969  
+Artist: Captain Beefheart & His Magic Band  
+Producer: Frank Zappa  
+3 Adjectives: Challenging, Surreal, Unique  
+Genre: Blues? Rock? Jazz? Avant-Garde!  
+Similar Albums: The Velvet Underground and Nico - *Velvet Underground & Nico*, Frank Zappa - *Freak Out*, CAN - *Tago Mago*  
 Genre: Blues, Experimental
 
 # Write-up
