@@ -40,4 +40,8 @@ A perfect album. An album that I have no idea how it even exists. It’s been 8 
 
 10/10
 
+Favorite tracks: Breadcrumb Trail, Nosferatu Man, Washer, Good Morning, Captain
+
+Least favorite track: For Dinner…
+
 # Aidan's review
