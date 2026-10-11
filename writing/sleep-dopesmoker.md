@@ -14,8 +14,7 @@ Genre: Doom metal, stoner metal
 Length: 1:03:29  
 Similar Albums: Electric Wizard - *Dopethrone*, Queens of the Stone Age - *Songs for the Deaf*, Boris - *Pink*  
 \*\*\*\*\*DISCLAIMER\*\*\*\*\*  
-This album was released in a whole bunch of different versions. The main thing we care about here is the song “Dopesmoker”, which is a single 63 minute composition. This is all you need to listen to.  
-Genre: Doom metal, stoner metal, drone metal
+This album was released in a whole bunch of different versions. The main thing we care about here is the song “Dopesmoker”, which is a single 63 minute composition. This is all you need to listen to.
 
 # Write-up
 

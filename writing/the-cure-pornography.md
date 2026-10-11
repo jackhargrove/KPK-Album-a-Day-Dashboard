@@ -12,8 +12,7 @@ Section: Classic
 3 Adjectives: Ominous, atmospheric, morbid  
 Genre: Gothic rock, post-punk  
 Length: 43:30  
-Similar Albums: Siouxsie and the Banshees - *Juju*, Joy Division - *Closer*, Bauhaus - *In the Flat Field*  
-Genre: Gothic rock, post-punk, coldwave
+Similar Albums: Siouxsie and the Banshees - *Juju*, Joy Division - *Closer*, Bauhaus - *In the Flat Field*
 
 # Write-up
 

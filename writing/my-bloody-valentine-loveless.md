@@ -11,8 +11,7 @@ Artist: my bloody valentine
 3 Adjectives: Ethereal, lush, noisy  
 Genre: Shoegaze, noise pop  
 Length: 48:31  
-Similar Albums: Slowdive - *Souvlaki*, Sweet Trip - *Velocity : Design : Comfort*, Cocteau Twins - *Heaven or Las Vegas*  
-Genre: Shoegaze, noise pop, dream pop
+Similar Albums: Slowdive - *Souvlaki*, Sweet Trip - *Velocity : Design : Comfort*, Cocteau Twins - *Heaven or Las Vegas*
 
 # Write-up
 

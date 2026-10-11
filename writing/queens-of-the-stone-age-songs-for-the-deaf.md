@@ -12,8 +12,7 @@ Section: Modern
 3 Adjectives: Melodic, heavy, playful  
 Genre: Desert rock, stoner rock, hard rock, Palm Desert scene  
 Length: 60:53  
-Similar Albums: Nine Inch Nails - The Downward Spiral, Sleep - Dopesmoker, Jack White - Boarding House Reach  
-Genre: Desert rock, stoner rock, hard rock, progressive grunge, Palm Desert scene
+Similar Albums: Nine Inch Nails - The Downward Spiral, Sleep - Dopesmoker, Jack White - Boarding House Reach
 
 # Write-up
 

@@ -18,8 +18,7 @@ This is yet another annoying situation where Spotify only has a deluxe edition. 
 2. I Talk to the Wind  
 3. Epitaph - including “March for No Reason” and “Tomorrow and Tomorrow”  
 4. Moonchild - including “The Dream” and “The Illusion”  
-5. The Court of the Crimson King - including “The Return of the Fire Witch” and “The Dance of the Puppets”  
-Genre: Progressive rock
+5. The Court of the Crimson King - including “The Return of the Fire Witch” and “The Dance of the Puppets”
 
 # Write-up
 

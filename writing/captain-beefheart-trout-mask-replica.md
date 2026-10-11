@@ -12,8 +12,7 @@ Artist: Captain Beefheart & His Magic Band
 Producer: Frank Zappa  
 3 Adjectives: Challenging, Surreal, Unique  
 Genre: Blues? Rock? Jazz? Avant-Garde!  
-Similar Albums: The Velvet Underground and Nico - *Velvet Underground & Nico*, Frank Zappa - *Freak Out*, CAN - *Tago Mago*  
-Genre: Blues, Experimental
+Similar Albums: The Velvet Underground and Nico - *Velvet Underground & Nico*, Frank Zappa - *Freak Out*, CAN - *Tago Mago*
 
 # Write-up
 

@@ -14,8 +14,7 @@ Genre: Electronic, post-industrial, experimental, art pop, drone, techno, dark a
 Length: 1:36:20  
 Similar Albums: Fever Ray - *Plunge*, Tim Hecker - *Ravedeath, 1972*, LCD Soundsystem - *This is Happening*  
 \*\*\*\*\*DISCLAIMER\*\*\*\*\*  
-This album is right on the cusp with length, coming in at just over an hour and a half. I’ll leave it up to you guys whether you want to take 1 day or 2 days for it.  
-Genre: Electronic, experimental, techno, dark ambient, post-industrial art pop, drone, everything, nothing
+This album is right on the cusp with length, coming in at just over an hour and a half. I’ll leave it up to you guys whether you want to take 1 day or 2 days for it.
 
 # Write-up
 

@@ -12,8 +12,7 @@ Artist: Talking Heads
 Genre: New Wave, post-punk, worldbeat  
 Producer: Brian Eno  
 Length: 40:10  
-Similar Albums: Brian Eno & David Byrne - *My Life in the Bush of Ghosts*, XTC - *Skylarking*, Joy Division - *Unknown Pleasures*  
-Genre: New Wave, Post-Punk, Afrobeat
+Similar Albums: Brian Eno & David Byrne - *My Life in the Bush of Ghosts*, XTC - *Skylarking*, Joy Division - *Unknown Pleasures*
 
 # Write-up
 

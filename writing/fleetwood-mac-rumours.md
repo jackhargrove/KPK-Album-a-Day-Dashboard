@@ -12,8 +12,7 @@ Section: Classic
 3 Adjectives: Melodic, passionate, lush  
 Genre: Pop rock, soft rock  
 Length: 39:03  
-Similar Albums: Steely Dan - *Can’t Buy a Thrill*, Supertramp - *Breakfast in America*, Paul McCartney & Wings - *Band on the Run*  
-Genre: Pop rock, soft rock, folk rock
+Similar Albums: Steely Dan - *Can’t Buy a Thrill*, Supertramp - *Breakfast in America*, Paul McCartney & Wings - *Band on the Run*
 
 # Write-up
 

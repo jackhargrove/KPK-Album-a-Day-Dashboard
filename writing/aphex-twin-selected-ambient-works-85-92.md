@@ -11,8 +11,7 @@ Artist: Aphex Twin
 3 Adjectives: Instrumental, soothing, repetitive  
 Genre: IDM (Intelligent Dance Music, the artists hate this term too), ambient techno  
 Length: 1:14:40  
-Similar Albums: Boards of Canada - *Music Has the Right to Children* and *Geogaddi*, Burial - *Untrue*, Autechre - *Confield*  
-Genre: IDM, ambient techno
+Similar Albums: Boards of Canada - *Music Has the Right to Children* and *Geogaddi*, Burial - *Untrue*, Autechre - *Confield*
 
 # Write-up
 

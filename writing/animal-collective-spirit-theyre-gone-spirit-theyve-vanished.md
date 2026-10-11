@@ -12,7 +12,6 @@ Artist: Avey Tare and Panda Bear (later known as Animal Collective)
 Genre: Folktronica, neo-pscychedelia, noise, New Weird America  
 Length: 1:00:38  
 Similar Albums: Animal Collective - *Strawberry Jam* and *Merriweather Post Pavilion*, Panda Bear - *Person Pitch*, Joanna Newsom - *Ys*  
-Genre: Folktronica, neo-psychedlia, noise, New Weird America  
 We’re back to 1 album = 1 day. Make sure to avoid the 2023 remaster because it has additional tracks.  
 \*\*\*\*\*DISCLAIMER\*\*\*\*\*  
 This was one of my favorite albums when I was 16-17 but, unlike *Spiderland*, I haven’t kept listening to it over the years. I’m very excited to revisit it. HOWEVER: I feel compelled to warn you guys that tracks 1, 3, the intro of track 2, and the first two minutes of track 10 are O \\UTRAGEOUSLY harsh. I used to play them to fuck with my dad. I thought they were good songs, but you might want to keep your volume low to be safe, or potentially **listen to them out loud instead of with earbuds/headphones**. If they are dealbreakers for you, just skip them. The rest of the album is quite easy to listen to.

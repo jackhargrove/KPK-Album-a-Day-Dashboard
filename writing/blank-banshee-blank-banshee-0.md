@@ -15,8 +15,7 @@ Length: 33:03
 Similar Albums: Macintosh Plus - *Floral Shoppe*, Chuck Person - *Chuck Person’s Eccojams Vol. 1*, James Ferraro - *Far Side Virtual*  
 \*\*\*\*\*DISCLAIMER\*\*\*\*\*  
 This album is not on streaming services, presumably because of uncleared samples. Below is a link to listen to it as a playlist on YouTube:  
-https://www.youtube.com/watch?v=meP-GLKPekk&list=PLugC693tjcR3lWEbXJXfFxNFw8UzPlGUA  
-Genre: Electronic
+https://www.youtube.com/watch?v=meP-GLKPekk&list=PLugC693tjcR3lWEbXJXfFxNFw8UzPlGUA
 
 # Write-up
 

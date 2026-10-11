@@ -12,8 +12,7 @@ Section: Electronic
 3 Adjectives: Hypnotic, sensual, mechanical  
 Genre: Trip hop  
 Length: 1:03:29  
-Similar Albums: Portishead - *Dummy*, Gorillaz - *Gorillaz*, DJ Shadow - *Endtroducing…*  
-Genre: Trip hop, Bristol Sound
+Similar Albums: Portishead - *Dummy*, Gorillaz - *Gorillaz*, DJ Shadow - *Endtroducing…*
 
 # Write-up
 

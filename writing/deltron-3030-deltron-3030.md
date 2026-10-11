@@ -14,8 +14,7 @@ Genre: Underground hip hop, abstract hip hop, hip hopera, West Coast hip hop
 Length: 1:00:18  
 Similar Albums: Madvillain - *Madvillainy*, Kool Keith - *Dr. Octagonecoogist*, El-P - *Fantastic Damage*  
 \*\*\*\*\*DISCLAIMER\*\*\*\*\*  
-Spotify only has the deluxe edition. I am going to end my life. There are 3 bonus tracks that you are free to listen to, but they are not part of the album. I am going to end my life. I’m sending along a Spotify playlist with only the album songs. I am going to end my life.  
-Genre: Alternative hip hop, abstract hip hop, hip hopera, West Coast hip hop
+Spotify only has the deluxe edition. I am going to end my life. There are 3 bonus tracks that you are free to listen to, but they are not part of the album. I am going to end my life. I’m sending along a Spotify playlist with only the album songs. I am going to end my life.
 
 # Write-up
 
