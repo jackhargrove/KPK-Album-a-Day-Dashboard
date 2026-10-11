@@ -1,7 +1,7 @@
 ---
 album: Talking Heads - Remain in Light
 writer: hargrove
-listened: TBD
+listened: February 16, 2025
 ---
 
 # Summary

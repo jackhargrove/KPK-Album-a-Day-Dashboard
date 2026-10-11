@@ -1,7 +1,7 @@
 ---
 album: Slint - Spiderland
 writer: hargrove
-listened: TBD
+listened: February 17, 2025
 ---
 
 # Summary

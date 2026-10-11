@@ -1,7 +1,7 @@
 ---
 album: Pink Floyd - Wish You Were Here
 writer: hargrove
-listened: TBD
+listened: February 15, 2025
 ---
 
 # Summary

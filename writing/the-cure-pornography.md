@@ -1,7 +1,7 @@
 ---
 album: The Cure - Pornography
 writer: hargrove
-listened: TBD
+listened: March 26, 2025
 ---
 
 # Summary

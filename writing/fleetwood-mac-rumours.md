@@ -1,7 +1,7 @@
 ---
 album: Fleetwood Mac - Rumours
 writer: hargrove
-listened: TBD
+listened: March 7, 2025
 ---
 
 # Summary

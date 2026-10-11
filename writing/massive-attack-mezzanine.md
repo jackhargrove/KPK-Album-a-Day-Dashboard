@@ -1,7 +1,7 @@
 ---
 album: Massive Attack - Mezzanine
 writer: hargrove
-listened: TBD
+listened: March 28, 2025
 ---
 
 # Summary

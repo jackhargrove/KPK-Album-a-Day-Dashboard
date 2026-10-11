@@ -1,7 +1,7 @@
 ---
 album: Nas - Illmatic
 writer: hargrove
-listened: TBD
+listened: March 20, 2025
 ---
 
 # Summary

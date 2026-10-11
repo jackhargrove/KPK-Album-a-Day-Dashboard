@@ -1,7 +1,7 @@
 ---
 album: Brand New - The Devil and God Are Raging Inside Me
 writer: hargrove
-listened: TBD
+listened: March 6, 2025
 ---
 
 # Summary

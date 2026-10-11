@@ -1,7 +1,7 @@
 ---
 album: Sonic Youth - Daydream Nation
 writer: aidan
-listened: TBD
+listened: March 25, 2025
 ---
 
 # Summary

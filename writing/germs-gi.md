@@ -1,7 +1,7 @@
 ---
 album: Germs - (GI)
 writer: hargrove
-listened: TBD
+listened: March 17, 2025
 ---
 
 # Summary

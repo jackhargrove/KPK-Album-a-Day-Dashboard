@@ -1,7 +1,7 @@
 ---
 album: Aphex Twin - Selected Ambient Works 85-92
 writer: hargrove
-listened: TBD
+listened: February 28, 2025
 ---
 
 # Summary

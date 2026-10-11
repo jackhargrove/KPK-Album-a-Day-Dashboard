@@ -1,7 +1,7 @@
 ---
 album: Wayne Shorter - Speak No Evil
 writer: hargrove
-listened: TBD
+listened: March 8, 2025
 ---
 
 # Summary

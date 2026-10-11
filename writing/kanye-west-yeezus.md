@@ -1,7 +1,7 @@
 ---
 album: Kanye West - Yeezus
 writer: hargrove
-listened: TBD
+listened: March 5, 2025
 ---
 
 # Summary

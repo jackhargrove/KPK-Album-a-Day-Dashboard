@@ -1,7 +1,7 @@
 ---
 album: The Beach Boys - Pet Sounds
 writer: hargrove
-listened: TBD
+listened: February 13, 2025
 ---
 
 # Summary

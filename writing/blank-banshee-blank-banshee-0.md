@@ -1,7 +1,7 @@
 ---
 album: Blank Banshee - Blank Banshee 0
 writer: hargrove
-listened: TBD
+listened: March 19, 2025
 ---
 
 # Summary

@@ -1,7 +1,7 @@
 ---
 album: Swans - Soundtracks for the Blind
 writer: hargrove
-listened: TBD
+listened: February 18–19, 2025
 ---
 
 # Summary

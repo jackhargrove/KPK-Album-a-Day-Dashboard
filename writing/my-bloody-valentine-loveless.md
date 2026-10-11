@@ -1,7 +1,7 @@
 ---
 album: My Bloody Valentine - Loveless
 writer: hargrove
-listened: TBD
+listened: February 27, 2025
 ---
 
 # Summary

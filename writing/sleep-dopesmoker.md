@@ -1,7 +1,7 @@
 ---
 album: Sleep - Dopesmoker
 writer: hargrove
-listened: TBD
+listened: March 12, 2025
 ---
 
 # Summary

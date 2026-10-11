@@ -1,7 +1,7 @@
 ---
 album: Death Grips - Exmilitary
 writer: hargrove
-listened: TBD
+listened: February 23, 2025
 ---
 
 # Summary

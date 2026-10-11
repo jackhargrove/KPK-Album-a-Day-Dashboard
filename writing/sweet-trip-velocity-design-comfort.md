@@ -1,7 +1,7 @@
 ---
 album: Sweet Trip - Velocity : Design : Comfort
 writer: aidan
-listened: TBD
+listened: March 4, 2025
 ---
 
 # Summary

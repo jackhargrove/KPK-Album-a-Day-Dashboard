@@ -1,7 +1,7 @@
 ---
 album: Radiohead - Kid A
 writer: hargrove
-listened: TBD
+listened: March 3, 2025
 ---
 
 # Summary

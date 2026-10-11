@@ -1,7 +1,7 @@
 ---
 album: Brian Eno - Ambient 1: Music for Airports
 writer: aidan
-listened: TBD
+listened: March 9, 2025
 ---
 
 # Summary

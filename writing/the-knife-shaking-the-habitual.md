@@ -1,7 +1,7 @@
 ---
 album: The Knife - Shaking the Habitual
 writer: hargrove
-listened: TBD
+listened: March 14–15, 2025
 ---
 
 # Summary

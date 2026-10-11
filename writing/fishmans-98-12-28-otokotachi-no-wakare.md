@@ -1,7 +1,7 @@
 ---
 album: Fishmans - 98.12.28 男達の別れ
 writer: aidan
-listened: TBD
+listened: February 20–21, 2025
 ---
 
 # Summary

@@ -1,7 +1,7 @@
 ---
 album: Leonard Cohen - Songs of Love and Hate
 writer: aidan
-listened: TBD
+listened: March 27, 2025
 ---
 
 # Summary

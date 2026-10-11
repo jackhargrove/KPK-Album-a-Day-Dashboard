@@ -1,7 +1,7 @@
 ---
 album: Neutral Milk Hotel - In the Aeroplane Over the Sea
 writer: aidan
-listened: TBD
+listened: March 2, 2025
 ---
 
 # Summary

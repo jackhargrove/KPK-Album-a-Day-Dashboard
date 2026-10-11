@@ -1,7 +1,7 @@
 ---
 album: My Bloody Valentine - You Made Me Realise
 writer: hargrove
-listened: TBD
+listened: March 16, 2025
 summary-writer: aidan
 ---
 

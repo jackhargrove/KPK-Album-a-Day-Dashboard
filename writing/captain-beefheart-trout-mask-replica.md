@@ -1,7 +1,7 @@
 ---
 album: Captain Beefheart - Trout Mask Replica
 writer: hargrove
-listened: TBD
+listened: February 14, 2025
 summary-writer: aidan
 ---
 

@@ -1,7 +1,7 @@
 ---
 album: Deltron 3030 - Deltron 3030
 writer: hargrove
-listened: TBD
+listened: March 10, 2025
 ---
 
 # Summary

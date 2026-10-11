@@ -1,7 +1,7 @@
 ---
 album: David Bowie - Low
 writer: aidan
-listened: TBD
+listened: February 26, 2025
 ---
 
 # Summary

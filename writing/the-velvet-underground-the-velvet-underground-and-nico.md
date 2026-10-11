@@ -1,7 +1,7 @@
 ---
 album: The Velvet Underground - The Velvet Underground & Nico
 writer: aidan
-listened: TBD
+listened: February 24, 2025
 ---
 
 # Summary

@@ -1,7 +1,7 @@
 ---
 album: Sun City Girls - Torch of the Mystics
 writer: aidan
-listened: TBD
+listened: March 13, 2025
 ---
 
 # Summary

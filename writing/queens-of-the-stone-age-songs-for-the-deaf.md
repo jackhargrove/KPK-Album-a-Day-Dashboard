@@ -1,7 +1,7 @@
 ---
 album: Queens of the Stone Age - Songs for the Deaf
 writer: hargrove
-listened: TBD
+listened: March 21, 2025
 ---
 
 # Summary
