@@ -30,6 +30,6 @@ Another album I’m deeply familiar with, another short late night review from a
 
 Favorite tracks: Bring Da Ruckus, Wu Tang: 7th Chamber, C.R.E.A.M., Method Man, Tearz
 
-Least favorite tack: Da Mystery of Chessboxin’
+Least favorite track: Da Mystery of Chessboxin’
 
 # Aidan's review
