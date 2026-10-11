@@ -1,6 +1,7 @@
 ---
 album: Built to Spill - Perfect from Now On
 writer: aidan
+listened: July 22, 2026
 ---
 
 # Summary

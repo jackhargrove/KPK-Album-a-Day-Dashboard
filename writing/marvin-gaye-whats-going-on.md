@@ -1,6 +1,7 @@
 ---
 album: Marvin Gaye - What's Going On
 writer: hargrove
+listened: March 26, 2026
 ---
 
 # Summary

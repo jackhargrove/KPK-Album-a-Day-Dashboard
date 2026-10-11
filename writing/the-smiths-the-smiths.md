@@ -1,6 +1,7 @@
 ---
 album: The Smiths - The Smiths
 writer: aidan
+listened: October 5, 2025
 ---
 
 # Summary

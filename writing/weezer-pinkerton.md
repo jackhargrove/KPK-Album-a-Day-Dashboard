@@ -1,6 +1,7 @@
 ---
 album: Weezer - Pinkerton
 writer: hargrove
+listened: August 23, 2025
 ---
 
 # Summary

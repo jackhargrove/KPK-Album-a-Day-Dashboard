@@ -1,6 +1,7 @@
 ---
 album: This Heat - Deceit
 writer: aidan
+listened: September 3, 2026
 ---
 
 # Summary

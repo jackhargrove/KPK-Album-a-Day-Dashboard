@@ -1,6 +1,7 @@
 ---
 album: My Bloody Valentine - Loveless
 writer: hargrove
+listened: TBD
 ---
 
 # Summary

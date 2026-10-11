@@ -1,6 +1,7 @@
 ---
 album: Can - Future Days
 writer: aidan
+listened: February 20, 2026
 ---
 
 # Summary

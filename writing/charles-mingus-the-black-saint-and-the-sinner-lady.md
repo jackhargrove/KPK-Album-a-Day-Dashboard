@@ -1,6 +1,7 @@
 ---
 album: Charles Mingus - The Black Saint and the Sinner Lady
 writer: hargrove
+listened: October 16, 2025
 ---
 
 # Summary

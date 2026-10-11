@@ -1,6 +1,7 @@
 ---
 album: Pink Floyd - The Dark Side of the Moon
 writer: aidan
+listened: July 2, 2026
 ---
 
 # Summary

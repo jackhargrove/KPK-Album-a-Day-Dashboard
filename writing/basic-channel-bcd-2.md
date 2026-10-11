@@ -1,6 +1,7 @@
 ---
 album: Basic Channel - BCD-2
 writer: hargrove
+listened: September 4, 2026
 ---
 
 # Summary

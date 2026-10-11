@@ -1,6 +1,7 @@
 ---
 album: Can - Tago Mago
 writer: aidan
+listened: January 9, 2026
 ---
 
 # Summary

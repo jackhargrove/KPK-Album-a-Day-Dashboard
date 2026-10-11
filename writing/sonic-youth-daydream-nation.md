@@ -1,6 +1,7 @@
 ---
 album: Sonic Youth - Daydream Nation
 writer: aidan
+listened: TBD
 ---
 
 # Summary

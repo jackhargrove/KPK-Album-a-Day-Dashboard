@@ -1,6 +1,7 @@
 ---
 album: Joanna Newsom - Have One on Me
 writer: hargrove
+listened: October 25–26, 2025
 ---
 
 # Summary

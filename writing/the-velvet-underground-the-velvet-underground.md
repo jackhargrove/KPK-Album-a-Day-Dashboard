@@ -1,6 +1,7 @@
 ---
 album: The Velvet Underground - The Velvet Underground
 writer: aidan
+listened: August 24, 2025
 ---
 
 # Summary

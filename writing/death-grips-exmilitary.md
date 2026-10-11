@@ -1,6 +1,7 @@
 ---
 album: Death Grips - Exmilitary
 writer: hargrove
+listened: TBD
 ---
 
 # Summary

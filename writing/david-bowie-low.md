@@ -1,6 +1,7 @@
 ---
 album: David Bowie - Low
 writer: aidan
+listened: TBD
 ---
 
 # Summary

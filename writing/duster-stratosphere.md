@@ -1,6 +1,7 @@
 ---
 album: Duster - Stratosphere
 writer: aidan
+listened: June 14, 2025
 ---
 
 # Summary

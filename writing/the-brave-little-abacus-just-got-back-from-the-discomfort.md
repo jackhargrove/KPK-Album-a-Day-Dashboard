@@ -1,6 +1,7 @@
 ---
 album: The Brave Little Abacus - Just Got Back From the Discomfort
 writer: hargrove
+listened: July 6, 2025
 ---
 
 # Summary

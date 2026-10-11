@@ -1,6 +1,7 @@
 ---
 album: Interpol - Turn on the Bright Lights
 writer: aidan
+listened: August 9, 2025
 ---
 
 # Summary

@@ -1,6 +1,7 @@
 ---
 album: Crystal Castles - Crystal Castles (II)
 writer: aidan
+listened: September 12, 2026
 ---
 
 # Summary

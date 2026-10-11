@@ -1,6 +1,7 @@
 ---
 album: Soft Machine - Third
 writer: aidan
+listened: June 5, 2026
 ---
 
 # Summary

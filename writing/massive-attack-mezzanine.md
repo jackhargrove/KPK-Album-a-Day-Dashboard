@@ -1,6 +1,7 @@
 ---
 album: Massive Attack - Mezzanine
 writer: hargrove
+listened: TBD
 ---
 
 # Summary

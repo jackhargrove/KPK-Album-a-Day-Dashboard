@@ -1,6 +1,7 @@
 ---
 album: Deafheaven - Sunbather
 writer: hargrove
+listened: May 10, 2026
 ---
 
 # Summary

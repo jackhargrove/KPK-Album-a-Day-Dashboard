@@ -1,6 +1,7 @@
 ---
 album: Dinosaur Jr. - You're Living All Over Me
 writer: aidan
+listened: May 1, 2026
 ---
 
 # Summary

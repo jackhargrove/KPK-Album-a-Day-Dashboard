@@ -1,6 +1,7 @@
 ---
 album: Death - Human
 writer: hargrove
+listened: April 12, 2026
 ---
 
 # Summary

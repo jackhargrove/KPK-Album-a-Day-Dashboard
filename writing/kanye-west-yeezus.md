@@ -1,6 +1,7 @@
 ---
 album: Kanye West - Yeezus
 writer: hargrove
+listened: TBD
 ---
 
 # Summary

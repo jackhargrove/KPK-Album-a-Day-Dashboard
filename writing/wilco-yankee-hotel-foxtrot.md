@@ -1,6 +1,7 @@
 ---
 album: Wilco - Yankee Hotel Foxtrot
 writer: aidan
+listened: October 18, 2025
 ---
 
 # Summary

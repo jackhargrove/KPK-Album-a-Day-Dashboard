@@ -1,6 +1,7 @@
 ---
 album: De La Soul - 3 Feet High and Rising
 writer: hargrove
+listened: August 29, 2025
 ---
 
 # Summary

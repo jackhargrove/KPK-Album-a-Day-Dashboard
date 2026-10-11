@@ -1,6 +1,7 @@
 ---
 album: Freddie Hubbard - Red Clay
 writer: aidan
+listened: May 23, 2026
 ---
 
 # Summary

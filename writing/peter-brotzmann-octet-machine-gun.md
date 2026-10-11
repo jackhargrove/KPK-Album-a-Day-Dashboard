@@ -1,6 +1,7 @@
 ---
 album: Peter Brötzmann Octet - Machine Gun
 writer: hargrove
+listened: March 14, 2026
 ---
 
 # Summary

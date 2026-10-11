@@ -1,6 +1,7 @@
 ---
 album: Autechre - Confield
 writer: aidan
+listened: September 17, 2026
 ---
 
 # Summary

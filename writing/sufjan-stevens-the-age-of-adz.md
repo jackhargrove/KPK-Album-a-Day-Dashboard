@@ -1,6 +1,7 @@
 ---
 album: Sufjan Stevens - The Age of Adz
 writer: hargrove
+listened: December 10, 2025
 ---
 
 # Summary

@@ -1,6 +1,7 @@
 ---
 album: Lee Morgan - The Sidewinder
 writer: aidan
+listened: April 18, 2026
 ---
 
 # Summary

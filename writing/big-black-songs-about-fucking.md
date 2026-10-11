@@ -1,6 +1,7 @@
 ---
 album: Big Black - Songs About Fucking
 writer: aidan
+listened: August 13, 2025
 ---
 
 # Summary

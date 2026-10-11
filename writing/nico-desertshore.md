@@ -1,6 +1,7 @@
 ---
 album: Nico - Desertshore
 writer: aidan
+listened: April 1, 2026
 ---
 
 # Summary

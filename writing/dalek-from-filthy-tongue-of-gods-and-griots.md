@@ -1,6 +1,7 @@
 ---
 album: Dälek - From Filthy Tongue of Gods and Griots
 writer: hargrove
+listened: March 29, 2026
 ---
 
 # Summary

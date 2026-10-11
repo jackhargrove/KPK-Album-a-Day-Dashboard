@@ -1,6 +1,7 @@
 ---
 album: Godspeed You Black Emperor! - Lift Yr. Skinny Fists Like Antennas to Heaven!
 writer: hargrove
+listened: March 30, 2025
 ---
 
 # Summary

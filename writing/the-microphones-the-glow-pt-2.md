@@ -1,6 +1,7 @@
 ---
 album: The Microphones - "The Glow" Pt. 2
 writer: aidan
+listened: September 9, 2026
 ---
 
 # Summary

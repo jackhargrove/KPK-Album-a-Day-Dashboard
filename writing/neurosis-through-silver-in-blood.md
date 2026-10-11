@@ -1,6 +1,7 @@
 ---
 album: Neurosis - Through Silver in Blood
 writer: hargrove
+listened: December 14, 2025
 ---
 
 # Summary

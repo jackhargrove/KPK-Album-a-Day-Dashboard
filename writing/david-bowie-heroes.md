@@ -1,6 +1,7 @@
 ---
 album: David Bowie - Heroes
 writer: hargrove
+listened: May 21, 2026
 ---
 
 # Summary

@@ -1,6 +1,7 @@
 ---
 album: Talk Talk - Spirit of Eden
 writer: aidan
+listened: May 28, 2025
 ---
 
 # Summary

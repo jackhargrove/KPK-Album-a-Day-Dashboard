@@ -1,6 +1,7 @@
 ---
 album: Slint - Spiderland
 writer: hargrove
+listened: TBD
 ---
 
 # Summary

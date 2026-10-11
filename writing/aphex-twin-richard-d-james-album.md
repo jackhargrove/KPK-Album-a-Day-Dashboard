@@ -1,6 +1,7 @@
 ---
 album: Aphex Twin - Richard D. James Album
 writer: aidan
+listened: September 18, 2025
 ---
 
 # Summary

@@ -1,6 +1,7 @@
 ---
 album: Ween - The Mollusk
 writer: hargrove
+listened: April 20, 2025
 ---
 
 # Summary

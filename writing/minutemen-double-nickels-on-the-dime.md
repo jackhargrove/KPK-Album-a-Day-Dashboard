@@ -1,6 +1,7 @@
 ---
 album: Minutemen - Double Nickels on the Dime
 writer: aidan
+listened: May 7, 2025
 ---
 
 # Summary

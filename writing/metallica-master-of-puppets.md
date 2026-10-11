@@ -1,6 +1,7 @@
 ---
 album: Metallica - Master of Puppets
 writer: hargrove
+listened: August 2, 2026
 ---
 
 # Summary

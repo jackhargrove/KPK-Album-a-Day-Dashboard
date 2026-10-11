@@ -1,6 +1,7 @@
 ---
 album: Matana Roberts - Coin Coin Chapter One
 writer: aidan
+listened: July 3, 2025
 ---
 
 # Summary

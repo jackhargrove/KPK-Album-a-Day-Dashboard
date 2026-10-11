@@ -1,6 +1,7 @@
 ---
 album: My Bloody Valentine - Isn't Anything
 writer: aidan
+listened: October 23, 2025
 ---
 
 # Summary

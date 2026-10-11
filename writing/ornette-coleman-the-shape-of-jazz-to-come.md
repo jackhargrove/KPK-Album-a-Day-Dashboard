@@ -1,6 +1,7 @@
 ---
 album: Ornette Coleman - The Shape of Jazz to Come
 writer: hargrove
+listened: April 17, 2025
 ---
 
 # Summary

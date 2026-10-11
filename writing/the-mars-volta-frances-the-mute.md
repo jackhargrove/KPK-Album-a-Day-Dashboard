@@ -1,6 +1,7 @@
 ---
 album: The Mars Volta - Frances the Mute
 writer: hargrove
+listened: January 28, 2026
 ---
 
 # Summary

@@ -1,6 +1,7 @@
 ---
 album: Radiohead - Kid A
 writer: hargrove
+listened: TBD
 ---
 
 # Summary

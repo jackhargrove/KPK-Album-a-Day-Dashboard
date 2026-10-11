@@ -1,6 +1,7 @@
 ---
 album: Mr. Bungle - Mr. Bungle
 writer: hargrove
+listened: July 15, 2026
 ---
 
 # Summary

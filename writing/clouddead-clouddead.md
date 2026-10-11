@@ -1,6 +1,7 @@
 ---
 album: cLOUDDEAD - cLOUDDEAD
 writer: hargrove
+listened: December 7, 2025
 ---
 
 # Summary

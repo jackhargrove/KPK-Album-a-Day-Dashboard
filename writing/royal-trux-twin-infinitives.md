@@ -1,6 +1,7 @@
 ---
 album: Royal Trux - Twin Infinitives
 writer: hargrove
+listened: May 24, 2025
 ---
 
 # Summary

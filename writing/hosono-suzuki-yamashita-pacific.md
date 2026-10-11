@@ -1,6 +1,7 @@
 ---
 album: Hosono / Suzuki / Yamashita - Pacific
 writer: hargrove
+listened: October 1, 2025
 ---
 
 # Summary

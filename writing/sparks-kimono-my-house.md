@@ -1,6 +1,7 @@
 ---
 album: Sparks - Kimono My House
 writer: aidan
+listened: July 17, 2026
 ---
 
 # Summary

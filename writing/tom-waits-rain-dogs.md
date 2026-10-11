@@ -1,6 +1,7 @@
 ---
 album: Tom Waits - Rain Dogs
 writer: aidan
+listened: January 22, 2026
 ---
 
 # Summary

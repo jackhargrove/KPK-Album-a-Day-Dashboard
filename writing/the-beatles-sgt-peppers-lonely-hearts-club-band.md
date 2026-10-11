@@ -1,6 +1,7 @@
 ---
 album: The Beatles - Sgt. Pepper's Lonely Hearts Club Band
 writer: hargrove
+listened: May 25, 2025
 ---
 
 # Summary

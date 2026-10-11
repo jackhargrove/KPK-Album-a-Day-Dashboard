@@ -1,6 +1,7 @@
 ---
 album: J Dilla - Donuts
 writer: hargrove
+listened: June 12, 2025
 ---
 
 # Summary

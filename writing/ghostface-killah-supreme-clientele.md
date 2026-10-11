@@ -1,6 +1,7 @@
 ---
 album: Ghostface Killah - Supreme Clientele
 writer: hargrove
+listened: December 21, 2025
 ---
 
 # Summary

@@ -1,6 +1,7 @@
 ---
 album: Lil Ugly Mane - THIRD SIDE OF TAPE
 writer: hargrove
+listened: September 19–20, 2026
 ---
 
 # Summary

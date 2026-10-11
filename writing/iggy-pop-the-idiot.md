@@ -1,6 +1,7 @@
 ---
 album: Iggy Pop - The Idiot
 writer: aidan
+listened: January 15, 2026
 ---
 
 # Summary

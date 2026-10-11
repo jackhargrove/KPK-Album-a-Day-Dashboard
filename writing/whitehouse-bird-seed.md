@@ -1,6 +1,7 @@
 ---
 album: Whitehouse - Bird Seed
 writer: hargrove
+listened: June 4, 2026
 ---
 
 # Summary

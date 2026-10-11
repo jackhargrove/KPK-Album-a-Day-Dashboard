@@ -1,6 +1,7 @@
 ---
 album: Grant Green - Idle Moments
 writer: hargrove
+listened: January 17, 2026
 ---
 
 # Summary

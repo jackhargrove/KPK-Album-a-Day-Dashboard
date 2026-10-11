@@ -1,6 +1,7 @@
 ---
 album: Sd Laika - That's Harakiri
 writer: hargrove
+listened: September 25, 2025
 ---
 
 # Summary

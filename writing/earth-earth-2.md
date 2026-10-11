@@ -1,6 +1,7 @@
 ---
 album: Earth - Earth 2
 writer: hargrove
+listened: April 3, 2026
 ---
 
 # Summary

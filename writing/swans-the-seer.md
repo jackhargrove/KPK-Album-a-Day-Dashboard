@@ -1,6 +1,7 @@
 ---
 album: Swans - The Seer
 writer: hargrove
+listened: September 5–6, 2026
 ---
 
 # Summary

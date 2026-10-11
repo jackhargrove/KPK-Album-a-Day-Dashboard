@@ -1,6 +1,7 @@
 ---
 album: Thelonious Monk - Monk's Dream
 writer: hargrove
+listened: September 4, 2025
 ---
 
 # Summary

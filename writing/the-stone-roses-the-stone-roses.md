@@ -1,6 +1,7 @@
 ---
 album: The Stone Roses - The Stone Roses
 writer: aidan
+listened: December 12, 2025
 ---
 
 # Summary

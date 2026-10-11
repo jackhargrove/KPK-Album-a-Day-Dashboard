@@ -1,6 +1,7 @@
 ---
 album: Ryo Fukui - Scenery
 writer: hargrove
+listened: May 28, 2026
 ---
 
 # Summary

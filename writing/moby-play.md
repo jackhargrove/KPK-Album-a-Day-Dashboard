@@ -1,6 +1,7 @@
 ---
 album: Moby - Play
 writer: hargrove
+listened: July 25, 2026
 ---
 
 # Summary

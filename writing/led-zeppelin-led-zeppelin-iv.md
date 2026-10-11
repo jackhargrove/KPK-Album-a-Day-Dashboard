@@ -1,6 +1,7 @@
 ---
 album: Led Zeppelin - Led Zeppelin IV
 writer: hargrove
+listened: June 4, 2025
 ---
 
 # Summary

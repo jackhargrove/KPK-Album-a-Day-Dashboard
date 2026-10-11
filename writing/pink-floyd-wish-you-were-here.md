@@ -1,6 +1,7 @@
 ---
 album: Pink Floyd - Wish You Were Here
 writer: hargrove
+listened: TBD
 ---
 
 # Summary

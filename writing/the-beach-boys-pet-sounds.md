@@ -1,6 +1,7 @@
 ---
 album: The Beach Boys - Pet Sounds
 writer: hargrove
+listened: TBD
 ---
 
 # Summary

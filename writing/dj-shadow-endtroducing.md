@@ -1,6 +1,7 @@
 ---
 album: DJ Shadow - Endtroducing.....
 writer: hargrove
+listened: September 5, 2025
 ---
 
 # Summary

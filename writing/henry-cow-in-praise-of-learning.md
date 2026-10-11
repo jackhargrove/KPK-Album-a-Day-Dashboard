@@ -1,6 +1,7 @@
 ---
 album: Henry Cow - In Praise of Learning
 writer: hargrove
+listened: September 3, 2025
 ---
 
 # Summary

@@ -1,6 +1,7 @@
 ---
 album: Les Rallizes Dénudés - '77 Live
 writer: aidan
+listened: January 31–February 1, 2026
 ---
 
 # Summary

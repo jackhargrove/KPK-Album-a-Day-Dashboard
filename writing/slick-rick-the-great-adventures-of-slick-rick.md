@@ -1,6 +1,7 @@
 ---
 album: Slick Rick - The Great Adventures of Slick Rick
 writer: hargrove
+listened: July 5, 2026
 ---
 
 # Summary

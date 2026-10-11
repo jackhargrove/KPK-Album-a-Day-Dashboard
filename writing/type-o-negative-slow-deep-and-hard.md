@@ -1,6 +1,7 @@
 ---
 album: Type O Negative - Slow, Deep and Hard
 writer: hargrove
+listened: April 18, 2025
 ---
 
 # Summary

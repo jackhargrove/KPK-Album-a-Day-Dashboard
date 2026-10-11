@@ -1,6 +1,7 @@
 ---
 album: Jethro Tull - Thick as a Brick
 writer: hargrove
+listened: April 27, 2025
 ---
 
 # Summary

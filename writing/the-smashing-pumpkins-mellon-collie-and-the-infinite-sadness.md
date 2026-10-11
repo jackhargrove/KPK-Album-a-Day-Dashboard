@@ -1,6 +1,7 @@
 ---
 album: The Smashing Pumpkins - Mellon Collie and the Infinite Sadness
 writer: hargrove
+listened: April 4–5, 2026
 ---
 
 # Summary

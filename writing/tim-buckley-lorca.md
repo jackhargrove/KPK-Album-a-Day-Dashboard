@@ -1,6 +1,7 @@
 ---
 album: Tim Buckley - Lorca
 writer: hargrove
+listened: August 21, 2026
 ---
 
 # Summary

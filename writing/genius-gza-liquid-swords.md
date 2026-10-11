@@ -1,6 +1,7 @@
 ---
 album: Genius/GZA - Liquid Swords
 writer: hargrove
+listened: February 15, 2026
 ---
 
 # Summary

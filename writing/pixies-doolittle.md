@@ -1,6 +1,7 @@
 ---
 album: Pixies - Doolittle
 writer: hargrove
+listened: October 15, 2025
 ---
 
 # Summary

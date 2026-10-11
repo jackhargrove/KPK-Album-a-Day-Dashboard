@@ -1,6 +1,7 @@
 ---
 album: Oneohtrix Point Never - Replica
 writer: hargrove
+listened: April 3, 2025
 ---
 
 # Summary

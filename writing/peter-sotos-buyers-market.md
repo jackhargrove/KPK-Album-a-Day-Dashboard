@@ -1,6 +1,7 @@
 ---
 album: Peter Sotos - Buyer's Market
 writer: aidan
+listened: June 3, 2026
 ---
 
 # Summary

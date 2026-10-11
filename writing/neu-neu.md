@@ -1,6 +1,7 @@
 ---
 album: NEU! - NEU!
 writer: aidan
+listened: August 27, 2025
 ---
 
 # Summary

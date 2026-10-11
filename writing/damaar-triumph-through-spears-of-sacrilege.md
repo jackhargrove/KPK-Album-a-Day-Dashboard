@@ -1,6 +1,7 @@
 ---
 album: دمار [Damaar] - Triumph Through Spears of Sacrilege
 writer: hargrove
+listened: September 16, 2026
 ---
 
 # Summary

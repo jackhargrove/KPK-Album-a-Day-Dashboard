@@ -1,6 +1,7 @@
 ---
 album: David Bowie - Ziggy Stardust
 writer: hargrove
+listened: April 6, 2025
 ---
 
 # Summary

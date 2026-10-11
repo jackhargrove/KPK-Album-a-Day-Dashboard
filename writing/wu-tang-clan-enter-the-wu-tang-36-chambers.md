@@ -1,6 +1,7 @@
 ---
 album: Wu-Tang Clan - Enter the Wu-Tang (36 Chambers)
 writer: hargrove
+listened: March 29, 2025
 ---
 
 # Summary

@@ -1,6 +1,7 @@
 ---
 album: Gang of Four - Entertainment!
 writer: aidan
+listened: January 23, 2026
 ---
 
 # Summary

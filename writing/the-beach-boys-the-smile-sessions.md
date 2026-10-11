@@ -1,6 +1,7 @@
 ---
 album: The Beach Boys - The Smile Sessions
 writer: hargrove
+listened: April 12, 2025
 ---
 
 # Summary

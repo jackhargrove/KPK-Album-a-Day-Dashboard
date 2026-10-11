@@ -1,6 +1,7 @@
 ---
 album: Lightning Bolt - Wonderful Rainbow
 writer: aidan
+listened: April 29, 2026
 ---
 
 # Summary

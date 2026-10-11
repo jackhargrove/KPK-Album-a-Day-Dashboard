@@ -1,6 +1,7 @@
 ---
 album: Prince and the Revolution - Purple Rain
 writer: aidan
+listened: September 2, 2026
 ---
 
 # Summary

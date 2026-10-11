@@ -1,6 +1,7 @@
 ---
 album: Bob Dylan - Blood on the Tracks
 writer: aidan
+listened: December 18, 2025
 ---
 
 # Summary

@@ -1,6 +1,7 @@
 ---
 album: The Rolling Stones - Exile on Main St.
 writer: aidan
+listened: May 21, 2025
 ---
 
 # Summary

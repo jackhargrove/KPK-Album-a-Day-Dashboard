@@ -1,6 +1,7 @@
 ---
 album: Frank Zappa - Uncle Meat
 writer: aidan
+listened: May 27, 2026
 ---
 
 # Summary

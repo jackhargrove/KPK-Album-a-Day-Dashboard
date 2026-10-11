@@ -1,6 +1,7 @@
 ---
 album: Danny Brown - Atrocity Exhibition
 writer: hargrove
+listened: May 3, 2026
 ---
 
 # Summary

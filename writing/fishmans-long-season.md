@@ -1,6 +1,7 @@
 ---
 album: Fishmans - Long Season
 writer: aidan
+listened: September 23, 2026
 ---
 
 # Summary

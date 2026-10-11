@@ -1,6 +1,7 @@
 ---
 album: Frank Sinatra - In the Wee Small Hours
 writer: hargrove
+listened: February 14, 2026
 ---
 
 # Summary

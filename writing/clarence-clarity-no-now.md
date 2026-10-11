@@ -1,6 +1,7 @@
 ---
 album: Clarence Clarity - No Now
 writer: hargrove
+listened: September 21, 2025
 ---
 
 # Summary

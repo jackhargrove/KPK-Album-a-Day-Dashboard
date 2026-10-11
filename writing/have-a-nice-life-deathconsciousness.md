@@ -1,6 +1,7 @@
 ---
 album: Have a Nice Life - Deathconsciousness
 writer: hargrove
+listened: August 16, 2025
 ---
 
 # Summary

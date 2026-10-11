@@ -1,6 +1,7 @@
 ---
 album: John Maus - We Must Become the Pitiless Censors of Ourselves
 writer: hargrove
+listened: November 13, 2025
 ---
 
 # Summary

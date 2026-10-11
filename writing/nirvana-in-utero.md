@@ -1,6 +1,7 @@
 ---
 album: Nirvana - In Utero
 writer: hargrove
+listened: February 18, 2026
 ---
 
 # Summary

@@ -1,6 +1,7 @@
 ---
 album: Neil Young - After the Gold Rush
 writer: aidan
+listened: October 4, 2025
 ---
 
 # Summary

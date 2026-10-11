@@ -1,6 +1,7 @@
 ---
 album: Talking Heads - Remain in Light
 writer: hargrove
+listened: TBD
 ---
 
 # Summary

@@ -1,6 +1,7 @@
 ---
 album: Lou Reed - Metal Machine Music
 writer: hargrove
+listened: August 10, 2025
 ---
 
 # Summary

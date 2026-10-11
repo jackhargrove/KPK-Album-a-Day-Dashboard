@@ -1,6 +1,7 @@
 ---
 album: Hüsker Dü - Zen Arcade
 writer: aidan
+listened: August 20, 2025
 ---
 
 # Summary

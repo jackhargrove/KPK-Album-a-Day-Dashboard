@@ -1,6 +1,7 @@
 ---
 album: Glenn Branca - The Ascension
 writer: aidan
+listened: April 16, 2025
 ---
 
 # Summary

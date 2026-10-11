@@ -1,6 +1,7 @@
 ---
 album: Oingo Boingo - Only a Lad
 writer: hargrove
+listened: April 16, 2026
 ---
 
 # Summary

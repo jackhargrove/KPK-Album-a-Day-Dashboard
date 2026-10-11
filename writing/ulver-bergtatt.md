@@ -1,6 +1,7 @@
 ---
 album: Ulver - Bergtatt
 writer: hargrove
+listened: September 12, 2025
 ---
 
 # Summary

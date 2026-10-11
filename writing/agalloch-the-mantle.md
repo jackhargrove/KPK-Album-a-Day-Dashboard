@@ -1,6 +1,7 @@
 ---
 album: Agalloch - The Mantle
 writer: hargrove
+listened: April 11, 2025
 ---
 
 # Summary

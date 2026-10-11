@@ -1,6 +1,7 @@
 ---
 album: American Football - American Football
 writer: aidan
+listened: October 19, 2025
 ---
 
 # Summary

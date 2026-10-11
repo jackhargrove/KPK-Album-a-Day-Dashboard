@@ -1,6 +1,7 @@
 ---
 album: Sonic Youth - Bad Moon Rising
 writer: aidan
+listened: March 19, 2026
 ---
 
 # Summary

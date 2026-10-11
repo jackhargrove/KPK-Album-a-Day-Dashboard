@@ -1,6 +1,7 @@
 ---
 album: William Basinski - The Disintegration Loops
 writer: hargrove
+listened: February 21, 2026
 ---
 
 # Summary

@@ -1,6 +1,7 @@
 ---
 album: Kate Bush - Hounds of Love
 writer: hargrove
+listened: December 5, 2025
 ---
 
 # Summary

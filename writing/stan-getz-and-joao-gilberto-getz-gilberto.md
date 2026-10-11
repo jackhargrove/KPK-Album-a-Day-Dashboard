@@ -1,6 +1,7 @@
 ---
 album: Stan Getz & João Gilberto - Getz/Gilberto
 writer: aidan
+listened: September 18, 2026
 ---
 
 # Summary

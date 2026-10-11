@@ -1,6 +1,7 @@
 ---
 album: Tim Hecker - Ravedeath, 1972
 writer: hargrove
+listened: April 10, 2025
 ---
 
 # Summary

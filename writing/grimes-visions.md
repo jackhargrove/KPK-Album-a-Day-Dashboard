@@ -1,6 +1,7 @@
 ---
 album: Grimes - Visions
 writer: aidan
+listened: May 10, 2025
 ---
 
 # Summary

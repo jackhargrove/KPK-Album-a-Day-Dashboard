@@ -1,6 +1,7 @@
 ---
 album: Alice Coltrane - Journey in Satchidananda
 writer: aidan
+listened: June 5, 2025
 ---
 
 # Summary

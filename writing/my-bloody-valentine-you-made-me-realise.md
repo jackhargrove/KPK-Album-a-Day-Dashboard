@@ -1,6 +1,7 @@
 ---
 album: My Bloody Valentine - You Made Me Realise
 writer: hargrove
+listened: TBD
 summary-writer: aidan
 ---
 

@@ -1,6 +1,7 @@
 ---
 album: Cocteau Twins - Heaven or Las Vegas
 writer: aidan
+listened: July 23, 2026
 ---
 
 # Summary

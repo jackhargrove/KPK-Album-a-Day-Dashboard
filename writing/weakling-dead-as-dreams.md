@@ -1,6 +1,7 @@
 ---
 album: Weakling - Dead as Dreams
 writer: hargrove
+listened: August 8, 2025
 ---
 
 # Summary

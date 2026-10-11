@@ -1,6 +1,7 @@
 ---
 album: Miles Davis - Bitches Brew
 writer: hargrove
+listened: January 24–25, 2026
 ---
 
 # Summary

@@ -1,6 +1,7 @@
 ---
 album: Travis Scott - Rodeo
 writer: hargrove
+listened: August 22, 2025
 ---
 
 # Summary

@@ -1,6 +1,7 @@
 ---
 album: New Order - Substance
 writer: hargrove
+listened: April 24, 2025
 ---
 
 # Summary

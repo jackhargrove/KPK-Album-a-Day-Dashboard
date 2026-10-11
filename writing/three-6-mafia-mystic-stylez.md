@@ -1,6 +1,7 @@
 ---
 album: Three-6 Mafia - Mystic Stylez
 writer: hargrove
+listened: August 15, 2025
 ---
 
 # Summary

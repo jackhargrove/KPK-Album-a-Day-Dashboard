@@ -1,6 +1,7 @@
 ---
 album: Sonny Rollins - Saxophone Colossus
 writer: hargrove
+listened: May 2, 2026
 ---
 
 # Summary

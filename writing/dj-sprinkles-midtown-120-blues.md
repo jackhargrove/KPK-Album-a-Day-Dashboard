@@ -1,6 +1,7 @@
 ---
 album: DJ Sprinkles - Midtown 120 Blues
 writer: hargrove
+listened: October 2, 2025
 ---
 
 # Summary

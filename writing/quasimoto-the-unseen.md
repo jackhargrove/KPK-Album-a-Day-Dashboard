@@ -1,6 +1,7 @@
 ---
 album: Quasimoto - The Unseen
 writer: hargrove
+listened: June 6, 2025
 ---
 
 # Summary

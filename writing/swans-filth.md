@@ -1,6 +1,7 @@
 ---
 album: Swans - Filth
 writer: hargrove
+listened: November 20, 2025
 ---
 
 # Summary

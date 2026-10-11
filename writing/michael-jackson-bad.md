@@ -1,6 +1,7 @@
 ---
 album: Michael Jackson - Bad
 writer: hargrove
+listened: December 11, 2025
 ---
 
 # Summary

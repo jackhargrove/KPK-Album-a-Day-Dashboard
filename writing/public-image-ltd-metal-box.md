@@ -1,6 +1,7 @@
 ---
 album: Public Image Ltd. - Metal Box
 writer: hargrove
+listened: March 20, 2026
 ---
 
 # Summary

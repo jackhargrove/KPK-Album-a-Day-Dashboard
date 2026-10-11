@@ -1,6 +1,7 @@
 ---
 album: Television - Marquee Moon
 writer: aidan
+listened: August 31, 2025
 ---
 
 # Summary

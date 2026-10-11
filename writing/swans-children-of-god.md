@@ -1,6 +1,7 @@
 ---
 album: Swans - Children of God
 writer: hargrove
+listened: July 9, 2026
 ---
 
 # Summary

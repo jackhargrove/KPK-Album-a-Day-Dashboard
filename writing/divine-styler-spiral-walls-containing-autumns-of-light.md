@@ -1,6 +1,7 @@
 ---
 album: Divine Styler - Spiral Walls Containing Autumns of Light
 writer: hargrove
+listened: November 16, 2025
 ---
 
 # Summary

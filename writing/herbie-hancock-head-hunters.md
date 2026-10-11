@@ -1,6 +1,7 @@
 ---
 album: Herbie Hancock - Head Hunters
 writer: hargrove
+listened: July 10, 2025
 ---
 
 # Summary

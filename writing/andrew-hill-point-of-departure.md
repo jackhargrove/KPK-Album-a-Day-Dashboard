@@ -1,6 +1,7 @@
 ---
 album: Andrew Hill - Point of Departure
 writer: hargrove
+listened: May 9, 2026
 ---
 
 # Summary

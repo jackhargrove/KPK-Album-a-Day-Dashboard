@@ -1,6 +1,7 @@
 ---
 album: Röyksopp - Melody A.M.
 writer: hargrove
+listened: July 4, 2026
 ---
 
 # Summary

@@ -1,6 +1,7 @@
 ---
 album: Mos Def - Black on Both Sides
 writer: aidan
+listened: March 15, 2026
 ---
 
 # Summary

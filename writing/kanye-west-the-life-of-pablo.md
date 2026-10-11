@@ -1,6 +1,7 @@
 ---
 album: Kanye West - The Life of Pablo
 writer: hargrove
+listened: February 22, 2026
 ---
 
 # Summary

@@ -1,6 +1,7 @@
 ---
 album: The Dismemberment Plan - Emergency & I
 writer: hargrove
+listened: June 1, 2025
 ---
 
 # Summary

@@ -1,6 +1,7 @@
 ---
 album: Wire - Chairs Missing
 writer: aidan
+listened: September 14, 2025
 ---
 
 # Summary

@@ -1,6 +1,7 @@
 ---
 album: Joy Division - Unknown Pleasures
 writer: aidan
+listened: April 23, 2025
 ---
 
 # Summary

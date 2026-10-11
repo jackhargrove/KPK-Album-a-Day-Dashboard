@@ -1,6 +1,7 @@
 ---
 album: Broadcast - Tender Buttons
 writer: aidan
+listened: December 3, 2025
 ---
 
 # Summary

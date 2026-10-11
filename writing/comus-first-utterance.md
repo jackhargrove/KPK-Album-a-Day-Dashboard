@@ -1,6 +1,7 @@
 ---
 album: Comus - First Utterance
 writer: hargrove
+listened: January 16, 2026
 ---
 
 # Summary

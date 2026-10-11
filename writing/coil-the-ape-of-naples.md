@@ -1,6 +1,7 @@
 ---
 album: Coil - The Ape of Naples
 writer: aidan
+listened: August 30, 2025
 ---
 
 # Summary

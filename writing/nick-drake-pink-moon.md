@@ -1,6 +1,7 @@
 ---
 album: Nick Drake - Pink Moon
 writer: aidan
+listened: July 9, 2025
 ---
 
 # Summary

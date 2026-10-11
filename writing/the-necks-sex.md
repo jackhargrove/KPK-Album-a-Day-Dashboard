@@ -1,6 +1,7 @@
 ---
 album: The Necks - Sex
 writer: aidan
+listened: July 11, 2026
 ---
 
 # Summary

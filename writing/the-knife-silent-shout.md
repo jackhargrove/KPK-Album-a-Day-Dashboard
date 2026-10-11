@@ -1,6 +1,7 @@
 ---
 album: The Knife - Silent Shout
 writer: hargrove
+listened: September 24, 2026
 ---
 
 # Summary

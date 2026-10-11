@@ -1,6 +1,7 @@
 ---
 album: Cannonball Adderley - Somethin' Else
 writer: hargrove
+listened: August 21, 2025
 ---
 
 # Summary

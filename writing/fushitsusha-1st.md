@@ -1,6 +1,7 @@
 ---
 album: 不失者 (Fushitsusha) - 1st
 writer: aidan
+listened: May 30–31, 2026
 ---
 
 # Summary

@@ -1,6 +1,7 @@
 ---
 album: Kanye West - My Beautiful Dark Twisted Fantasy
 writer: hargrove
+listened: May 31, 2025
 ---
 
 # Summary

@@ -1,6 +1,7 @@
 ---
 album: Weezer - Weezer [Blue Album]
 writer: hargrove
+listened: June 21, 2025
 ---
 
 # Summary

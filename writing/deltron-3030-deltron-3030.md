@@ -1,6 +1,7 @@
 ---
 album: Deltron 3030 - Deltron 3030
 writer: hargrove
+listened: TBD
 ---
 
 # Summary

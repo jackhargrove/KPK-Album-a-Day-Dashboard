@@ -1,6 +1,7 @@
 ---
 album: The Avalanches - Since I Left You
 writer: aidan
+listened: February 12, 2026
 ---
 
 # Summary

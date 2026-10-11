@@ -1,6 +1,7 @@
 ---
 album: The Pop Group - Y
 writer: aidan
+listened: August 6, 2025
 ---
 
 # Summary

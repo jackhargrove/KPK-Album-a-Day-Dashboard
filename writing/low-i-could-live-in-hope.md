@@ -1,6 +1,7 @@
 ---
 album: Low - I Could Live in Hope
 writer: aidan
+listened: June 15, 2025
 ---
 
 # Summary

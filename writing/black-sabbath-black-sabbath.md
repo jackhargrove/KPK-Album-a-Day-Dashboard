@@ -1,6 +1,7 @@
 ---
 album: Black Sabbath - Black Sabbath
 writer: hargrove
+listened: June 20, 2025
 ---
 
 # Summary

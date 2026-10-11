@@ -1,6 +1,7 @@
 ---
 album: Public Enemy - Fear of a Black Planet
 writer: hargrove
+listened: September 13, 2026
 ---
 
 # Summary

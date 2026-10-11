@@ -1,6 +1,7 @@
 ---
 album: The Beatles - Revolver
 writer: hargrove
+listened: August 20, 2026
 ---
 
 # Summary

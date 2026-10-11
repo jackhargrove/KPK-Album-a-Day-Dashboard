@@ -1,6 +1,7 @@
 ---
 album: The Prodigy - The Fat of the Land
 writer: hargrove
+listened: March 21, 2026
 ---
 
 # Summary

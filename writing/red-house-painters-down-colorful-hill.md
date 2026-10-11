@@ -1,6 +1,7 @@
 ---
 album: Red House Painters - Down Colorful Hill
 writer: hargrove
+listened: August 17, 2025
 ---
 
 # Summary

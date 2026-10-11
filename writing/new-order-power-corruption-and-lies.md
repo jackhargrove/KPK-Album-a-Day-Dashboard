@@ -1,6 +1,7 @@
 ---
 album: New Order - Power, Corruption & Lies
 writer: aidan
+listened: June 22, 2025
 ---
 
 # Summary

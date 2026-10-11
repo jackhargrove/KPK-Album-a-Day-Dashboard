@@ -1,6 +1,7 @@
 ---
 album: Brand New - The Devil and God Are Raging Inside Me
 writer: hargrove
+listened: TBD
 ---
 
 # Summary

@@ -1,6 +1,7 @@
 ---
 album: Swans - Soundtracks for the Blind
 writer: hargrove
+listened: TBD
 ---
 
 # Summary

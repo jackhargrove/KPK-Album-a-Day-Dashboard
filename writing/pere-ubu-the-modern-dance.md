@@ -1,6 +1,7 @@
 ---
 album: Pere Ubu - The Modern Dance
 writer: aidan
+listened: May 8, 2026
 ---
 
 # Summary

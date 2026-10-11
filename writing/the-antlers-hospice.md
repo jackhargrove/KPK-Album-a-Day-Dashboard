@@ -1,6 +1,7 @@
 ---
 album: The Antlers - Hospice
 writer: aidan
+listened: March 18, 2026
 ---
 
 # Summary

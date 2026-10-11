@@ -1,6 +1,7 @@
 ---
 album: Wire - Pink Flag
 writer: aidan
+listened: April 13, 2025
 ---
 
 # Summary

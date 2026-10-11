@@ -1,6 +1,7 @@
 ---
 album: Megadeth - Rust in Peace
 writer: hargrove
+listened: May 9, 2025
 ---
 
 # Summary

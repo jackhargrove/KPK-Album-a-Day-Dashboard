@@ -1,6 +1,7 @@
 ---
 album: Fugazi - Fugazi
 writer: hargrove
+listened: September 11, 2026
 ---
 
 # Summary

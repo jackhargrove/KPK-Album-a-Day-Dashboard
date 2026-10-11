@@ -1,6 +1,7 @@
 ---
 album: Jackson C. Frank - Jackson C. Frank
 writer: aidan
+listened: January 8, 2026
 ---
 
 # Summary

@@ -1,6 +1,7 @@
 ---
 album: Bob Dylan - Blonde on Blonde
 writer: aidan
+listened: June 8, 2025
 ---
 
 # Summary

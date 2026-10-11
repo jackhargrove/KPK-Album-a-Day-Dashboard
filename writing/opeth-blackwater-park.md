@@ -1,6 +1,7 @@
 ---
 album: Opeth - Blackwater Park
 writer: hargrove
+listened: June 28, 2026
 ---
 
 # Summary

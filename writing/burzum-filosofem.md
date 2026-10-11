@@ -1,6 +1,7 @@
 ---
 album: Burzum - Filosofem
 writer: hargrove
+listened: April 4, 2025
 ---
 
 # Summary

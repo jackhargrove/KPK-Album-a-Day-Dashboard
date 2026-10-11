@@ -1,6 +1,7 @@
 ---
 album: Nick Cave & The Bad Seeds - Skeleton Tree
 writer: aidan
+listened: July 29, 2026
 ---
 
 # Summary

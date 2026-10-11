@@ -1,6 +1,7 @@
 ---
 album: Steely Dan - Aja
 writer: aidan
+listened: February 19, 2026
 ---
 
 # Summary

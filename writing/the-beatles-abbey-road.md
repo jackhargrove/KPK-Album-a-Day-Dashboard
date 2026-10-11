@@ -1,6 +1,7 @@
 ---
 album: The Beatles - Abbey Road
 writer: hargrove
+listened: July 13, 2025
 ---
 
 # Summary

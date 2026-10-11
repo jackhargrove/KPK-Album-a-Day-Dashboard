@@ -1,6 +1,7 @@
 ---
 album: Wayne Shorter - Speak No Evil
 writer: hargrove
+listened: TBD
 ---
 
 # Summary

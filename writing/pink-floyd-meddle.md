@@ -1,6 +1,7 @@
 ---
 album: Pink Floyd - Meddle
 writer: aidan
+listened: April 2, 2025
 ---
 
 # Summary

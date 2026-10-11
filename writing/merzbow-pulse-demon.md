@@ -1,6 +1,7 @@
 ---
 album: Merzbow - Pulse Demon
 writer: hargrove
+listened: April 11, 2026
 ---
 
 # Summary

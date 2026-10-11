@@ -1,6 +1,7 @@
 ---
 album: Daniel Johnston - Hi, How Are You?
 writer: aidan
+listened: June 26, 2026
 ---
 
 # Summary

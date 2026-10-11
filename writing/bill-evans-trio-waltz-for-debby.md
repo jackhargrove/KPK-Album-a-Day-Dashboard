@@ -1,6 +1,7 @@
 ---
 album: Bill Evans Trio - Waltz for Debby
 writer: hargrove
+listened: November 15, 2025
 ---
 
 # Summary

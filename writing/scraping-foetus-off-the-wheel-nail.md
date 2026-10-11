@@ -1,6 +1,7 @@
 ---
 album: Scraping Foetus Off the Wheel - Nail
 writer: hargrove
+listened: July 10, 2026
 ---
 
 # Summary

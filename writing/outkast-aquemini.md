@@ -1,6 +1,7 @@
 ---
 album: OutKast - Aquemini
 writer: hargrove
+listened: September 25, 2026
 ---
 
 # Summary

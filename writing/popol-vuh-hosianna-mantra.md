@@ -1,6 +1,7 @@
 ---
 album: Popol Vuh - Hosianna Mantra
 writer: aidan
+listened: November 14, 2025
 ---
 
 # Summary

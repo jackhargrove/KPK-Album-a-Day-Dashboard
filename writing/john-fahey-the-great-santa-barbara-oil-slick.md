@@ -1,6 +1,7 @@
 ---
 album: John Fahey - The Great Santa Barbara Oil Slick
 writer: aidan
+listened: September 24, 2025
 ---
 
 # Summary

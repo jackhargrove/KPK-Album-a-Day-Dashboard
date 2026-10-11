@@ -1,6 +1,7 @@
 ---
 album: Max Roach - We Insist!
 writer: aidan
+listened: June 26, 2025
 ---
 
 # Summary

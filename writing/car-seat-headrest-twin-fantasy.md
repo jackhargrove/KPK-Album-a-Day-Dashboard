@@ -1,6 +1,7 @@
 ---
 album: Car Seat Headrest - Twin Fantasy
 writer: aidan
+listened: April 15, 2026
 ---
 
 # Summary

@@ -1,6 +1,7 @@
 ---
 album: Radiohead - OK Computer
 writer: hargrove
+listened: July 1, 2026
 ---
 
 # Summary

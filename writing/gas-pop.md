@@ -1,6 +1,7 @@
 ---
 album: GAS - Pop
 writer: hargrove
+listened: June 19, 2025
 ---
 
 # Summary

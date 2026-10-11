@@ -1,6 +1,7 @@
 ---
 album: Slayer - Show No Mercy
 writer: hargrove
+listened: July 4, 2025
 ---
 
 # Summary

@@ -1,6 +1,7 @@
 ---
 album: The Dave Brubeck Quartet - Time Out
 writer: hargrove
+listened: May 8, 2025
 ---
 
 # Summary

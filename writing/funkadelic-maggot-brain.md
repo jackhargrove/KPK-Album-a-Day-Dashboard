@@ -1,6 +1,7 @@
 ---
 album: Funkadelic - Maggot Brain
 writer: hargrove
+listened: July 24, 2026
 ---
 
 # Summary

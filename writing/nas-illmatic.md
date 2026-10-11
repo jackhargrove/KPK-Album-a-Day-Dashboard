@@ -1,6 +1,7 @@
 ---
 album: Nas - Illmatic
 writer: hargrove
+listened: TBD
 ---
 
 # Summary

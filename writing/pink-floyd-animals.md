@@ -1,6 +1,7 @@
 ---
 album: Pink Floyd - Animals
 writer: aidan
+listened: June 25, 2026
 ---
 
 # Summary

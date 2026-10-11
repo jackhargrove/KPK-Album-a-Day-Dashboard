@@ -1,6 +1,7 @@
 ---
 album: Death Grips - Steroids
 writer: hargrove
+listened: October 24, 2025
 ---
 
 # Summary

@@ -1,6 +1,7 @@
 ---
 album: Portishead - Dummy
 writer: hargrove
+listened: December 20, 2025
 ---
 
 # Summary

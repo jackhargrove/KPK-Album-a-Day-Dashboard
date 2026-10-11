@@ -1,6 +1,7 @@
 ---
 album: David Bowie - ★ [Blackstar]
 writer: hargrove
+listened: September 27, 2026
 ---
 
 # Summary

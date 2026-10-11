@@ -1,6 +1,7 @@
 ---
 album: Death Grips - No Love Deep Web
 writer: hargrove
+listened: September 20, 2025
 ---
 
 # Summary

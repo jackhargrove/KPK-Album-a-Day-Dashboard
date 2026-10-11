@@ -1,6 +1,7 @@
 ---
 album: The Doors - The Doors
 writer: aidan
+listened: July 16, 2026
 ---
 
 # Summary

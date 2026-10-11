@@ -1,6 +1,7 @@
 ---
 album: Kyuss - Welcome to Sky Valley
 writer: hargrove
+listened: May 23, 2025
 ---
 
 # Summary

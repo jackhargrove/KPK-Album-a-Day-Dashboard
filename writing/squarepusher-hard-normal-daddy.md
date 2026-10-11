@@ -1,6 +1,7 @@
 ---
 album: Squarepusher - Hard Normal Daddy
 writer: hargrove
+listened: August 28, 2025
 ---
 
 # Summary

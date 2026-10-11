@@ -1,6 +1,7 @@
 ---
 album: Björk - Homogenic
 writer: hargrove
+listened: November 19, 2025
 ---
 
 # Summary

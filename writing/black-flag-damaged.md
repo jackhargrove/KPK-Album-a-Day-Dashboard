@@ -1,6 +1,7 @@
 ---
 album: Black Flag - Damaged
 writer: aidan
+listened: April 9, 2025
 ---
 
 # Summary

@@ -1,6 +1,7 @@
 ---
 album: Fleetwood Mac - Rumours
 writer: hargrove
+listened: TBD
 ---
 
 # Summary

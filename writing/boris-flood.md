@@ -1,6 +1,7 @@
 ---
 album: Boris - Flood
 writer: aidan
+listened: May 4, 2025
 ---
 
 # Summary

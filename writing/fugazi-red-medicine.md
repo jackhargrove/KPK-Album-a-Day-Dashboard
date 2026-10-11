@@ -1,6 +1,7 @@
 ---
 album: Fugazi - Red Medicine
 writer: hargrove
+listened: January 21, 2026
 ---
 
 # Summary

@@ -1,6 +1,7 @@
 ---
 album: Radiohead - In Rainbows
 writer: hargrove
+listened: January 7, 2026
 ---
 
 # Summary

@@ -1,6 +1,7 @@
 ---
 album: ミドリ (Midori) - あらためまして、はじめまして、ミドリです。
 writer: aidan
+listened: February 11, 2026
 ---
 
 # Summary

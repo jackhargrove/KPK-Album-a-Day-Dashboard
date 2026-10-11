@@ -1,6 +1,7 @@
 ---
 album: Stereolab - Emperor Tomato Ketchup
 writer: aidan
+listened: April 5, 2025
 ---
 
 # Summary

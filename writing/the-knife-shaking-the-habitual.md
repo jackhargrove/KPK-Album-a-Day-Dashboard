@@ -1,6 +1,7 @@
 ---
 album: The Knife - Shaking the Habitual
 writer: hargrove
+listened: TBD
 ---
 
 # Summary

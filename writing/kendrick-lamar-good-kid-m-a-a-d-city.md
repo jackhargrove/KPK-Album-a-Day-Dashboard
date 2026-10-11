@@ -1,6 +1,7 @@
 ---
 album: Kendrick Lamar - good kid, m.A.A.d city
 writer: hargrove
+listened: October 3, 2025
 ---
 
 # Summary

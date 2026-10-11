@@ -238,6 +238,9 @@ export function renderAlbumPage({ album, writing, prev, next, data }) {
     '<span class="genre"><span class="sw" style="background:' + (GENRE_COLORS[album.genre] || "#555") + '"></span>' + escapeHtml(album.genre) + "</span>",
     "<span>" + escapeHtml(album.section) + "</span>",
     album.listenOrder ? "<span>Album #" + album.listenOrder + " of 318</span>" : "",
+    writing.meta.listened
+      ? '<span class="listened">' + (writing.meta.listened === "TBD" ? "Date TBD" : "Listened " + escapeHtml(writing.meta.listened)) + "</span>"
+      : "",
     "</div>",
     '<div class="ratings">',
     '<div class="rating"><span class="who">Hargrove</span>' + tierBadge(album.tier, TIER_COLORS) +

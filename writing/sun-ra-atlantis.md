@@ -1,6 +1,7 @@
 ---
 album: Sun Ra - Atlantis
 writer: aidan
+listened: March 28, 2026
 ---
 
 # Summary

@@ -1,6 +1,7 @@
 ---
 album: Boris - Boris at Last -Feedbacker-
 writer: hargrove
+listened: June 13, 2025
 ---
 
 # Summary

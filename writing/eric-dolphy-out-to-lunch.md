@@ -1,6 +1,7 @@
 ---
 album: Eric Dolphy - Out to Lunch
 writer: hargrove
+listened: January 10, 2026
 ---
 
 # Summary

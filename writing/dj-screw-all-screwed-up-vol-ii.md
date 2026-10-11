@@ -1,6 +1,7 @@
 ---
 album: DJ Screw - All Screwed Up, Vol. II
 writer: hargrove
+listened: June 7, 2026
 ---
 
 # Summary

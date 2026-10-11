@@ -1,6 +1,7 @@
 ---
 album: SOPHIE - Oil of Every Pearl's Un-Insides
 writer: hargrove
+listened: October 22, 2025
 ---
 
 # Summary

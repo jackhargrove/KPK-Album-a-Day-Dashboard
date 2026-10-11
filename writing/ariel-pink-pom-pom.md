@@ -1,6 +1,7 @@
 ---
 album: Ariel Pink - pom pom
 writer: hargrove
+listened: June 7, 2025
 ---
 
 # Summary

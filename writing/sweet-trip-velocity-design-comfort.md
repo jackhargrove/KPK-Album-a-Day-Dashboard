@@ -1,6 +1,7 @@
 ---
 album: Sweet Trip - Velocity : Design : Comfort
 writer: aidan
+listened: TBD
 ---
 
 # Summary

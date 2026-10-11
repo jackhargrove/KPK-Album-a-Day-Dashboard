@@ -1,6 +1,7 @@
 ---
 album: Madvillain - Madvillainy
 writer: hargrove
+listened: January 11, 2026
 ---
 
 # Summary

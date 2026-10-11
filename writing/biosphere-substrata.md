@@ -1,6 +1,7 @@
 ---
 album: Biosphere - Substrata
 writer: aidan
+listened: May 22, 2025
 ---
 
 # Summary

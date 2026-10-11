@@ -1,6 +1,7 @@
 ---
 album: Yes - Close to the Edge
 writer: aidan
+listened: June 27, 2025
 ---
 
 # Summary

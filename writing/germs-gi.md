@@ -1,6 +1,7 @@
 ---
 album: Germs - (GI)
 writer: hargrove
+listened: TBD
 ---
 
 # Summary

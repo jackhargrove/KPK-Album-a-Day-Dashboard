@@ -1,6 +1,7 @@
 ---
 album: Modest Mouse - The Lonesome Crowded West
 writer: hargrove
+listened: April 8, 2026
 ---
 
 # Summary

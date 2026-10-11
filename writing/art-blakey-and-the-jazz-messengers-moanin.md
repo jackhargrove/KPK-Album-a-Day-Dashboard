@@ -1,6 +1,7 @@
 ---
 album: Art Blakey and The Jazz Messengers - Moanin'
 writer: aidan
+listened: August 14, 2025
 ---
 
 # Summary

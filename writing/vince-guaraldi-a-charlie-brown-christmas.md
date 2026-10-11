@@ -1,6 +1,7 @@
 ---
 album: Vince Guaraldi - A Charlie Brown Christmas
 writer: hargrove
+listened: September 11, 2025
 ---
 
 # Summary

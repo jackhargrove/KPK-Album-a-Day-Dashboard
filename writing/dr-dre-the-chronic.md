@@ -1,6 +1,7 @@
 ---
 album: Dr. Dre - The Chronic
 writer: hargrove
+listened: May 29, 2026
 ---
 
 # Summary

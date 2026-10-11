@@ -1,6 +1,7 @@
 ---
 album: Violent Femmes - Violent Femmes
 writer: aidan
+listened: April 2, 2026
 ---
 
 # Summary

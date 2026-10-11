@@ -1,6 +1,7 @@
 ---
 album: Animal Collective - Strawberry Jam
 writer: hargrove
+listened: May 6, 2026
 ---
 
 # Summary

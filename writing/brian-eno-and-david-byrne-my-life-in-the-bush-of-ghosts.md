@@ -1,6 +1,7 @@
 ---
 album: Brian Eno & David Byrne - My Life in the Bush of Ghosts
 writer: hargrove
+listened: April 17, 2026
 ---
 
 # Summary

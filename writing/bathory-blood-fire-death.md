@@ -1,6 +1,7 @@
 ---
 album: Bathory - Blood Fire Death
 writer: hargrove
+listened: May 2, 2025
 ---
 
 # Summary

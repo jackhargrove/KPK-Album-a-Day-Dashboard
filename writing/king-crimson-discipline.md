@@ -1,6 +1,7 @@
 ---
 album: King Crimson - Discipline
 writer: aidan
+listened: July 30, 2026
 ---
 
 # Summary

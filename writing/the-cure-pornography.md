@@ -1,6 +1,7 @@
 ---
 album: The Cure - Pornography
 writer: hargrove
+listened: TBD
 ---
 
 # Summary

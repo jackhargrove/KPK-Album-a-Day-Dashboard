@@ -1,6 +1,7 @@
 ---
 album: Nine Inch Nails - The Downward Spiral
 writer: hargrove
+listened: January 14, 2026
 ---
 
 # Summary

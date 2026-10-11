@@ -1,6 +1,7 @@
 ---
 album: The Who - Who's Next
 writer: hargrove
+listened: February 13, 2026
 ---
 
 # Summary

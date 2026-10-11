@@ -1,6 +1,7 @@
 ---
 album: Talk Talk - Laughing Stock
 writer: aidan
+listened: December 17, 2025
 ---
 
 # Summary

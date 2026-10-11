@@ -1,6 +1,7 @@
 ---
 album: King Crimson - Red
 writer: aidan
+listened: December 4, 2025
 ---
 
 # Summary

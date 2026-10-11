@@ -1,6 +1,7 @@
 ---
 album: Electric Wizard - Dopethrone
 writer: hargrove
+listened: April 19, 2026
 ---
 
 # Summary

@@ -1,6 +1,7 @@
 ---
 album: Shabazz Palaces - Black Up
 writer: hargrove
+listened: April 25, 2025
 ---
 
 # Summary

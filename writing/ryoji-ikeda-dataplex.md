@@ -1,11 +1,12 @@
 ---
 album: Ryoji Ikeda - Dataplex
 writer: aidan
+listened: May 29, 2025
 ---
 
 # Summary
 
-Thursday 5/31 Album of the Day -> *dataplex*  
+Thursday 5/29 Album of the Day -> *dataplex*  
 Year: 2005  
 Artist: Ryoji Ikeda  
 Section: Electronic  

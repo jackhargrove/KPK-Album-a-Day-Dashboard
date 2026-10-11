@@ -1,6 +1,7 @@
 ---
 album: Death Grips - The Money Store
 writer: hargrove
+listened: May 20, 2026
 ---
 
 # Summary

@@ -1,6 +1,7 @@
 ---
 album: Unwound - Leaves Turn Inside You
 writer: hargrove
+listened: July 5, 2025
 ---
 
 # Summary

@@ -1,6 +1,7 @@
 ---
 album: MGMT - Little Dark Age
 writer: hargrove
+listened: July 8, 2026
 ---
 
 # Summary

@@ -1,6 +1,7 @@
 ---
 album: Tim Buckley - Starsailor
 writer: hargrove
+listened: July 31, 2026
 ---
 
 # Summary

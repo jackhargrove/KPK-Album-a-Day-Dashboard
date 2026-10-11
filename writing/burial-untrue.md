@@ -1,6 +1,7 @@
 ---
 album: Burial - Untrue
 writer: hargrove
+listened: August 7, 2025
 ---
 
 # Summary

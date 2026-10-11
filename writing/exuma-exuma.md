@@ -1,6 +1,7 @@
 ---
 album: Exuma - Exuma
 writer: hargrove
+listened: June 25, 2025
 ---
 
 # Summary

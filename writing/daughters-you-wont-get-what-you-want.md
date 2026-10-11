@@ -1,6 +1,7 @@
 ---
 album: Daughters - You Won't Get What You Want
 writer: aidan
+listened: April 9, 2026
 ---
 
 # Summary

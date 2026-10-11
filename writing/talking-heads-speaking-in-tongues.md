@@ -1,6 +1,7 @@
 ---
 album: Talking Heads - Speaking in Tongues
 writer: hargrove
+listened: May 11, 2025
 ---
 
 # Summary

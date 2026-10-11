@@ -1,6 +1,7 @@
 ---
 album: Daft Punk - Discovery
 writer: aidan
+listened: August 22, 2026
 ---
 
 # Summary

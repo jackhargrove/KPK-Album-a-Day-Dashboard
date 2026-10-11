@@ -1,6 +1,7 @@
 ---
 album: Animal Collective - Merriweather Post Pavilion
 writer: hargrove
+listened: March 25, 2026
 ---
 
 # Summary

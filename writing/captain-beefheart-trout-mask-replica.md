@@ -1,6 +1,7 @@
 ---
 album: Captain Beefheart - Trout Mask Replica
 writer: hargrove
+listened: TBD
 summary-writer: aidan
 ---
 

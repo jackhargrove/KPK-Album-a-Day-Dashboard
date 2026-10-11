@@ -1,6 +1,7 @@
 ---
 album: Cynic - Focus
 writer: aidan
+listened: September 26, 2026
 ---
 
 # Summary

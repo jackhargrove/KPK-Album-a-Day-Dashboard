@@ -1,6 +1,7 @@
 ---
 album: Pixies - Surfer Rosa
 writer: hargrove
+listened: April 30, 2025
 ---
 
 # Summary

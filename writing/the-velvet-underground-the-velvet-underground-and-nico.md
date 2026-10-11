@@ -1,6 +1,7 @@
 ---
 album: The Velvet Underground - The Velvet Underground & Nico
 writer: aidan
+listened: TBD
 ---
 
 # Summary

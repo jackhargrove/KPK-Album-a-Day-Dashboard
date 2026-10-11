@@ -1,6 +1,7 @@
 ---
 album: The Magnetic Fields - 69 Love Songs
 writer: hargrove
+listened: September 27–28, 2025
 ---
 
 # Summary

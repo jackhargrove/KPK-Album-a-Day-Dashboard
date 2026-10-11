@@ -1,6 +1,7 @@
 ---
 album: Kero Kero Bonito - Bonito Generation
 writer: hargrove
+listened: September 13, 2025
 ---
 
 # Summary

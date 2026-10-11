@@ -1,6 +1,7 @@
 ---
 album: Leonard Cohen - Songs of Love and Hate
 writer: aidan
+listened: TBD
 ---
 
 # Summary

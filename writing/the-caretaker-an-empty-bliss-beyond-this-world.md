@@ -1,6 +1,7 @@
 ---
 album: The Caretaker - An Empty Bliss Beyond This World
 writer: aidan
+listened: December 13, 2025
 ---
 
 # Summary

@@ -1,6 +1,7 @@
 ---
 album: Big Black - Atomizer
 writer: aidan
+listened: September 10, 2025
 ---
 
 # Summary

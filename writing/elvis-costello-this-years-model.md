@@ -1,6 +1,7 @@
 ---
 album: Elvis Costello - This Year's Model
 writer: aidan
+listened: July 3, 2026
 ---
 
 # Summary

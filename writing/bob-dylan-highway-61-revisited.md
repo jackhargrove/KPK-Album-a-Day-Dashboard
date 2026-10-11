@@ -1,6 +1,7 @@
 ---
 album: Bob Dylan - Highway 61 Revisited
 writer: aidan
+listened: March 12, 2026
 ---
 
 # Summary

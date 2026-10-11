@@ -1,6 +1,7 @@
 ---
 album: Portal - Outre
 writer: hargrove
+listened: July 26, 2026
 ---
 
 # Summary

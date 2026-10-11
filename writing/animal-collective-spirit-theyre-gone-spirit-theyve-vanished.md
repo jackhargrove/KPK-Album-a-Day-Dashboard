@@ -1,6 +1,7 @@
 ---
 album: Animal Collective - Spirit They're Gone, Spirit They've Vanished
 writer: hargrove
+listened: TBD
 ---
 
 # Summary

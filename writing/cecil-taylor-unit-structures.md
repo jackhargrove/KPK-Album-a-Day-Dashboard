@@ -1,6 +1,7 @@
 ---
 album: Cecil Taylor - Unit Structures
 writer: hargrove
+listened: July 18, 2026
 ---
 
 # Summary

@@ -1,6 +1,7 @@
 ---
 album: Jesu - Jesu
 writer: hargrove
+listened: July 11, 2025
 ---
 
 # Summary

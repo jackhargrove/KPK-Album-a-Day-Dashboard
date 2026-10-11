@@ -1,6 +1,7 @@
 ---
 album: Swirlies - Blonder Tongue Audio Baton
 writer: hargrove
+listened: March 11, 2026
 ---
 
 # Summary

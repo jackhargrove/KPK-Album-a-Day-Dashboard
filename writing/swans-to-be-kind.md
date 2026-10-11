@@ -1,6 +1,7 @@
 ---
 album: Swans - To Be Kind
 writer: hargrove
+listened: June 28–29, 2025
 ---
 
 # Summary

@@ -1,6 +1,7 @@
 ---
 album: Cocteau Twins - Treasure
 writer: aidan
+listened: July 2, 2025
 ---
 
 # Summary

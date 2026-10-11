@@ -1,6 +1,7 @@
 ---
 album: Morton Feldman - Rothko Chapel + Why Patterns?
 writer: aidan
+listened: May 22, 2026
 ---
 
 # Summary

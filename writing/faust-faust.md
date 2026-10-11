@@ -1,6 +1,7 @@
 ---
 album: Faust - Faust
 writer: aidan
+listened: March 13, 2026
 ---
 
 # Summary

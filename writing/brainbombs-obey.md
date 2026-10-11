@@ -1,6 +1,7 @@
 ---
 album: Brainbombs - Obey
 writer: aidan
+listened: September 6, 2025
 ---
 
 # Summary

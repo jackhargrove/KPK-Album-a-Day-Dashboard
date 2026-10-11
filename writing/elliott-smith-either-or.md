@@ -1,6 +1,7 @@
 ---
 album: Elliott Smith - Either/Or
 writer: hargrove
+listened: June 24, 2026
 ---
 
 # Summary

@@ -1,6 +1,7 @@
 ---
 album: Magma - Mekanïk Destruktïẁ Kommandöh
 writer: aidan
+listened: September 17, 2025
 ---
 
 # Summary

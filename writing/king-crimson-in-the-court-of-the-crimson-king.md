@@ -1,6 +1,7 @@
 ---
 album: King Crimson - In the Court of the Crimson King
 writer: hargrove
+listened: TBD
 ---
 
 # Summary

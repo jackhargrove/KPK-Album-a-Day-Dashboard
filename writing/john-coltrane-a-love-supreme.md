@@ -1,6 +1,7 @@
 ---
 album: John Coltrane - A Love Supreme
 writer: aidan
+listened: May 1, 2025
 ---
 
 # Summary

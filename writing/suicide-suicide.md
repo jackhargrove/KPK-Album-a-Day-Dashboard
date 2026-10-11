@@ -1,6 +1,7 @@
 ---
 album: Suicide - Suicide
 writer: aidan
+listened: April 10, 2026
 ---
 
 # Summary

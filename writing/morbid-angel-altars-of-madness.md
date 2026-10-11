@@ -1,6 +1,7 @@
 ---
 album: Morbid Angel - Altars of Madness
 writer: hargrove
+listened: July 19, 2026
 ---
 
 # Summary

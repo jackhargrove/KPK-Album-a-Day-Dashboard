@@ -1,6 +1,7 @@
 ---
 album: Young Marble Giants - Colossal Youth
 writer: aidan
+listened: March 27, 2026
 ---
 
 # Summary

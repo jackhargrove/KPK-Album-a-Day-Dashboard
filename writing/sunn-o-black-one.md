@@ -1,6 +1,7 @@
 ---
 album: Sunn O))) - Black One
 writer: hargrove
+listened: March 22, 2026
 ---
 
 # Summary

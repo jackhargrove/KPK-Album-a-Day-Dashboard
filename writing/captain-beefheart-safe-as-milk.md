@@ -1,6 +1,7 @@
 ---
 album: Captain Beefheart - Safe as Milk
 writer: hargrove
+listened: December 19, 2025
 ---
 
 # Summary

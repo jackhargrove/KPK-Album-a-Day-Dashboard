@@ -1,11 +1,12 @@
 ---
 album: The Replacements - Let It Be
 writer: aidan
+listened: November 21, 2025
 ---
 
 # Summary
 
-Friday 11/20 Album of the Day -> *Let It Be*  
+Friday 11/21 Album of the Day -> *Let It Be*  
 Year: 1984  
 Artist: The Replacements  
 Section: Classics  

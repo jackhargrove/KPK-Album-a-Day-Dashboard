@@ -1,6 +1,7 @@
 ---
 album: Liturgy - Aesthethica
 writer: hargrove
+listened: January 18, 2026
 ---
 
 # Summary

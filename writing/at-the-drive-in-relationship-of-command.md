@@ -1,6 +1,7 @@
 ---
 album: At the Drive-In - Relationship of Command
 writer: aidan
+listened: September 7, 2025
 ---
 
 # Summary

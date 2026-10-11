@@ -1,6 +1,7 @@
 ---
 album: Paysage d'Hiver - Paysage d'Hiver
 writer: hargrove
+listened: November 23, 2025
 ---
 
 # Summary

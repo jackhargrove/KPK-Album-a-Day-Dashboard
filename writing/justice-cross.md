@@ -1,6 +1,7 @@
 ---
 album: Justice - † [Cross]
 writer: aidan
+listened: November 22, 2025
 ---
 
 # Summary

@@ -1,6 +1,7 @@
 ---
 album: System of a Down - Toxicity
 writer: hargrove
+listened: October 17, 2025
 ---
 
 # Summary

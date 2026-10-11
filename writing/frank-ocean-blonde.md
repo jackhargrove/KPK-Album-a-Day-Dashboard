@@ -1,6 +1,7 @@
 ---
 album: Frank Ocean - Blonde
 writer: aidan
+listened: August 19, 2026
 ---
 
 # Summary

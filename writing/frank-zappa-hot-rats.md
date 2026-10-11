@@ -1,6 +1,7 @@
 ---
 album: Frank Zappa - Hot Rats
 writer: aidan
+listened: May 7, 2026
 ---
 
 # Summary

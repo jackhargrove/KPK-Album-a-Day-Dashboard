@@ -1,6 +1,7 @@
 ---
 album: Panda Bear - Person Pitch
 writer: hargrove
+listened: May 3, 2025
 ---
 
 # Summary

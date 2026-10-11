@@ -1,6 +1,7 @@
 ---
 album: XTC - Skylarking
 writer: hargrove
+listened: June 11, 2025
 ---
 
 # Summary

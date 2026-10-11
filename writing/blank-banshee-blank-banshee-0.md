@@ -1,6 +1,7 @@
 ---
 album: Blank Banshee - Blank Banshee 0
 writer: hargrove
+listened: TBD
 ---
 
 # Summary

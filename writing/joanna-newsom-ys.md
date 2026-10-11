@@ -1,6 +1,7 @@
 ---
 album: Joanna Newsom - Ys
 writer: hargrove
+listened: April 19, 2025
 ---
 
 # Summary

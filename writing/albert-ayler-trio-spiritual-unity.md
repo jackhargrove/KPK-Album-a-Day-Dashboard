@@ -1,6 +1,7 @@
 ---
 album: Albert Ayler Trio - Spiritual Unity
 writer: hargrove
+listened: August 1, 2026
 ---
 
 # Summary

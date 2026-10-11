@@ -1,6 +1,7 @@
 ---
 album: Songs: Ohia - The Magnolia Electric Co.
 writer: hargrove
+listened: September 10, 2026
 ---
 
 # Summary

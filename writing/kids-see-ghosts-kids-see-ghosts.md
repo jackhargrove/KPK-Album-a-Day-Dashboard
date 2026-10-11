@@ -1,6 +1,7 @@
 ---
 album: Kids See Ghosts - Kids See Ghosts
 writer: hargrove
+listened: April 30, 2026
 ---
 
 # Summary

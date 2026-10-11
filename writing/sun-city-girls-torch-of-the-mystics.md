@@ -1,6 +1,7 @@
 ---
 album: Sun City Girls - Torch of the Mystics
 writer: aidan
+listened: TBD
 ---
 
 # Summary

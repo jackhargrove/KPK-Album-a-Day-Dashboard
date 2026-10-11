@@ -1,6 +1,7 @@
 ---
 album: Slowdive - Souvlaki
 writer: aidan
+listened: July 12, 2025
 ---
 
 # Summary

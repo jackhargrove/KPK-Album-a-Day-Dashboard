@@ -1,6 +1,7 @@
 ---
 album: Boards of Canada - Geogaddi
 writer: hargrove
+listened: December 6, 2025
 ---
 
 # Summary

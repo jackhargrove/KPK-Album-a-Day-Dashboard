@@ -1,6 +1,7 @@
 ---
 album: The Strokes - Is This It
 writer: aidan
+listened: November 12, 2025
 ---
 
 # Summary
