@@ -1,5 +1,5 @@
 ---
-album: Chuck Person - Eccojams Vol. 1
+album: Chuck Person - Chuck Person's Eccojams Vol. 1
 writer: hargrove
 listened: June 6, 2026
 ---
