@@ -35,7 +35,7 @@ All that being said, this is far from a perfect album. As I’ve mentioned, I ha
 
 Overall, this album is pretty damn good. I really think my ranking of the top 3 Radiohead albums just come down to personal taste for me; *In Rainbows* is emotionally powerful and. the perfect balance between electronic and rock, *OK Computer* has the most kickass songs, *Kid A* just doesn’t meet those personal criteria for me to put it as one of my all-time favorites (*In Rainbows* is in my top 10 all time). It is an album everyone should listen to though, such a great introduction to a band that’s given an unbelievable amount of great music over the years.
 
-Best tracks: Everything in Its Right Place, The National Anthem, How to Disappear Completely, In Limbo, Idioteque, Motion Picture Soundtrack
+Favorite tracks: Everything in Its Right Place, The National Anthem, How to Disappear Completely, In Limbo, Idioteque, Motion Picture Soundtrack
 
 Least favorite track (of all time): Kid A
 

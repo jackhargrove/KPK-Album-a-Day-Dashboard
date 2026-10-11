@@ -120,7 +120,7 @@ function renderSummary(md) {
 
 // Reviews: "Favorite tracks:" / "Least favorite track:" lines (and variants like "Least favorite segment:")
 // are pulled out wherever they appear and shown together in a track box at the end of the review.
-const TRACK_LINE = /^(least )?favou?rite (tracks?|tacks?|segments?|songs?)\b[^:]{0,40}:/i;
+const TRACK_LINE = /^(least )?favou?rite (tracks?|tacks?|segments?|sections?|songs?)\b[^:]{0,40}:/i;
 
 function renderReview(md) {
   if (!md) return "";
