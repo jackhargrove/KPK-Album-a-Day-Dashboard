@@ -11,7 +11,7 @@ Artist: 不失者 [Fushitsusha]
 Section: Classics  
 3 Adjectives: Raw, noisy, heavy  
 Genre: Psychedelic rock, noise rock, experimental rock  
-Length: 97:00  
+Length: 1:37:00  
 Similar Albums: Boredoms - *Super æ*, Ramleh - *Soundcheck Changeling*, Sonic Youth - *Washing Machine*  
 \*\*\*\*\*DISCLAIMER\*\*\*\*  
 This album is over the 90 minute mark, so we’ll be taking 2 days to get through it. It’s also not on streaming, so you can find a link to it on YouTube below:  

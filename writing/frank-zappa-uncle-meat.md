@@ -11,7 +11,7 @@ Artist: The Mothers of Invention (Frank Zappa)
 Section: Classics  
 3 Adjectives: Eclectic, playful, technical  
 Genre: Avant-prog, experimental rock, jazz rock  
-Length: 74:53  
+Length: 1:14:53  
 Similar Albums: King Crimson - *Larks' Tongues in Apsic*, black midi - *Hellfire*, Captain Beefheart & The Magic Band - *Lick My Decals Off, Baby*  
 \*\*\*\*\*DISCLAIMER\*\*\*\*\*  
 Streaming has a later CD release only. Find a playlist of the original track listing below:  
