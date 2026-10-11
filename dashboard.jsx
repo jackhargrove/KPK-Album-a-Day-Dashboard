@@ -1236,6 +1236,8 @@ export default function Dashboard() {
           genre,
           avgScore: scores.reduce((s, v) => s + v, 0) / scores.length,
           count: scores.length,
+          best: Math.min(...scores),   // tier score: SS = 1 … F = 7
+          worst: Math.max(...scores),
           useRank: false,
         }))
         .sort((a, b) => a.avgScore - b.avgScore);
@@ -1549,6 +1551,7 @@ export default function Dashboard() {
                         </span>
                       </span>
                       <div style={{ flex: 1, height: 12, background: "#1a1a1a", borderRadius: 2, overflow: "hidden", position: "relative" }}>
+                        <div style={{ position: "absolute", left: `${((g.best - 1) / 6) * 100}%`, width: `${((g.worst - g.best) / 6) * 100}%`, height: "100%", background: GENRE_COLORS[g.genre] || "#555", opacity: 0.2, borderRadius: 2 }} />
                         <div style={{ position: "absolute", left: `${((g.avgScore - 1) / 6) * 100}%`, top: 1, width: 2, height: 10, background: TIER_COLORS[tierLabel], borderRadius: 1 }} />
                       </div>
                       <span style={{ fontSize: 10, color: "#666", width: 50, textAlign: "right", fontVariantNumeric: "tabular-nums" }}>
