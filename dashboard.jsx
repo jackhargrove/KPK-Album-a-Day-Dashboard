@@ -972,8 +972,9 @@ const LIST_POS = new Map(LIST_ORDER.map((k, i) => [k, i]));
 const GROUP_SORT = { "Daniel Lopatin": "Lopatin, Daniel" };
 const nameSortKey = (name) => GROUP_SORT[name] || (ALBUMS.find(a => a.artist === name && a.sortAs) || {}).sortAs || name;
 
-// Alphabetizing key: ignores a leading English article ("The Beatles" → "beatles", "A Love Supreme" → "love supreme")
-const alphaKey = (s) => s.replace(/^(the|a|an)\s+/i, "").toLowerCase();
+// Alphabetizing key: skips leading punctuation/symbols and a leading English article
+// ("The Beatles" → "beatles", "\"Heroes\"" → "heroes", "(GI)" → "gi)", "'77 Live" → "77 live", "★ [Blackstar]" → "blackstar]")
+const alphaKey = (s) => s.replace(/^[^\p{L}\p{N}]+/u, "").replace(/^(the|a|an)\s+/i, "").replace(/^[^\p{L}\p{N}]+/u, "").toLowerCase();
 
 const TIER_BREAKS = [
   { tier: "SS", max: 20 },
