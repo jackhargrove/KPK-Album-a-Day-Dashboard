@@ -153,5 +153,5 @@ Note: The HTML currently still has issues loading on mobile Safari. The Recharts
 - Dark theme (#0d0d0d background, monospace fonts)
 - JetBrains Mono + Space Mono from Google Fonts
 - The table is sortable by any column; rank sort on Aidan's tab sorts by tier then alphabetically
-- Alphabetical sorts (artist, album, Most Represented Artists) ignore leading punctuation/symbols and a leading "The" / "A" / "An" (`alphaKey` in dashboard.jsx): "Heroes" → H, (GI) → G, '77 Live → 7
+- Alphabetical sorts (artist, album, Most Represented Artists) ignore leading punctuation/symbols and a leading "The" / "A" / "An" (`alphaKey` in dashboard.jsx): "Heroes" → H, (GI) → G, '77 Live → 7; names starting in a non-Latin script sort by their bracketed romanization
 - Personal names sort by surname. `sortAs` on an album holds its artist sort key, taken from Jack's Apple Notes review headers ("Bowie, David", "Pop, Iggy", "Zappa, Frank" for The Mothers of Invention). New albums: copy the header's "Last, First" form. Group names in Most Represented Artists use the same keys (`GROUP_SORT` covers "Daniel Lopatin")

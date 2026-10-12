@@ -974,7 +974,13 @@ const nameSortKey = (name) => GROUP_SORT[name] || (ALBUMS.find(a => a.artist ===
 
 // Alphabetizing key: skips leading punctuation/symbols and a leading English article
 // ("The Beatles" → "beatles", "\"Heroes\"" → "heroes", "(GI)" → "gi)", "'77 Live" → "77 live", "★ [Blackstar]" → "blackstar]")
-const alphaKey = (s) => s.replace(/^[^\p{L}\p{N}]+/u, "").replace(/^(the|a|an)\s+/i, "").replace(/^[^\p{L}\p{N}]+/u, "").toLowerCase();
+// Names starting in a non-Latin script sort by their bracketed romanization ("あらためまして… [Aratamemashite …]" → "aratamemashite …")
+const romanized = (s) => {
+  const first = (s.match(/\p{L}|\p{N}/u) || [""])[0];
+  const m = s.match(/\[([^\]]+)\]\s*$/);
+  return m && /\p{L}/u.test(first) && !/\p{Script=Latin}/u.test(first) ? m[1] : s;
+};
+const alphaKey = (s) => romanized(s).replace(/^[^\p{L}\p{N}]+/u, "").replace(/^(the|a|an)\s+/i, "").replace(/^[^\p{L}\p{N}]+/u, "").toLowerCase();
 
 const TIER_BREAKS = [
   { tier: "SS", max: 20 },
