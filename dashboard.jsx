@@ -1052,7 +1052,6 @@ export default function Dashboard() {
   const [sortDir, setSortDir] = useState("asc");
   const [genreFilter, setGenreFilter] = useState(URL_PARAMS.get("genre"));
   const [decadeFilter, setDecadeFilter] = useState(URL_PARAMS.get("decade"));
-  const [statusFilter, setStatusFilter] = useState(["listened", "remaining"].includes(URL_PARAMS.get("status")) ? URL_PARAMS.get("status") : "all");
   const [viewer, setViewer] = useState(URL_PARAMS.get("viewer") === "aidan" ? "aidan" : "you"); // "you" or "aidan"
 
   const hargroveRankMap = useMemo(() => {
@@ -1082,11 +1081,7 @@ export default function Dashboard() {
   const remainingCount = TOTAL_LIST - listenedCount;
   const pct = Math.round((listenedCount / TOTAL_LIST) * 100);
 
-  const statusFiltered = useMemo(() => {
-    if (statusFilter === "listened") return ALBUMS.filter(a => a.listened);
-    if (statusFilter === "remaining") return ALBUMS.filter(a => !a.listened);
-    return ALBUMS;
-  }, [statusFilter]);
+  const statusFiltered = ALBUMS;  // all albums (the All/Listened/Remaining toggle was retired once the list was finished)
 
   const decadeData = useMemo(() => {
     const counts = {};
@@ -1179,11 +1174,10 @@ export default function Dashboard() {
 
   const clearFilters = () => { setGenreFilter(null); setDecadeFilter(null); setSearch(""); };
 
-  // Links between the album list and the charts page keep the viewer / status choice
+  // Links between the album list and the charts page keep the viewer choice
   const pageLink = (base, extra = {}) => {
     const q = new URLSearchParams();
     if (viewer === "aidan") q.set("viewer", "aidan");
-    if (statusFilter !== "all") q.set("status", statusFilter);
     Object.entries(extra).forEach(([k, v]) => q.set(k, v));
     return base + (q.toString() ? "?" + q.toString() : "");
   };
@@ -1263,15 +1257,6 @@ export default function Dashboard() {
       .map(a => ({ ...a, x: a.listenOrder, y: getRank(a) }));
   }, []);
 
-  const statusBtn = (val, label) => (
-    <button onClick={() => setStatusFilter(val)} style={{
-      background: statusFilter === val ? "#222" : "transparent",
-      border: statusFilter === val ? "1px solid #444" : "1px solid #222",
-      borderRadius: 3, color: statusFilter === val ? "#ccc" : "#555",
-      fontSize: 11, padding: "4px 12px", cursor: "pointer", fontFamily: "inherit", transition: "all 0.15s",
-    }}>{label}</button>
-  );
-
   return (
     <div style={{ minHeight: "100vh", background: "#0d0d0d", color: "#e0e0e0", fontFamily: "'JetBrains Mono', 'Fira Code', monospace", padding: 0 }}>
       <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;500;700&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet" />
@@ -1308,11 +1293,6 @@ export default function Dashboard() {
           <div style={{ fontSize: 11, color: "#444", marginTop: 4 }}>{remainingCount} albums remaining</div>
         </div>
 
-        <div style={{ marginTop: 16, display: "flex", gap: 6 }}>
-          {statusBtn("all", `All (${TOTAL_LIST})`)}
-          {statusBtn("listened", `Listened (${listenedCount})`)}
-          {statusBtn("remaining", `Remaining (${remainingCount})`)}
-        </div>
       </div>
 
       <div style={{ padding: "24px 32px" }}>

@@ -27,7 +27,7 @@ Artist and album names follow the original /mu/ list as Jack spells them (e.g. "
 
 - `build.mjs` renders dashboard.jsx twice, setting `DASHBOARD_PAGE`: `/` = header (with overall progress bar), link to charts, album list; `/charts/` = header, link back, all charts. Without `DASHBOARD_PAGE` (standalone artifact) everything shows.
 - `/lists/` = "The Lists": `images/mu-essentials-2018.jpg` (original chart), `images/hargrove-tier-list.jpg`, and Aidan's tier list, which appears automatically once a file named `images/aidan-tier-list.<jpg|png|webp>` is added (placeholder until then). build.mjs copies `images/` into the site.
-- Viewer / status choices travel between the two pages as URL params (`?viewer=aidan&status=listened`); clicking a genre or decade on the charts page opens `/?genre=…` or `/?decade=…`.
+- The viewer choice travels between the two pages as a URL param (`?viewer=aidan`); clicking a genre or decade on the charts page opens `/?genre=…` or `/?decade=…`.
 
 ## Album Pages (writing/)
 
@@ -152,7 +152,6 @@ Note: The HTML currently still has issues loading on mobile Safari. The Recharts
 
 - Dark theme (#0d0d0d background, monospace fonts)
 - JetBrains Mono + Space Mono from Google Fonts
-- All visualizations respond to the All/Listened/Remaining status toggle
 - The table is sortable by any column; rank sort on Aidan's tab sorts by tier then alphabetically
 - Alphabetical sorts (artist, album, Most Represented Artists) ignore a leading "The" / "A" / "An" (`alphaKey` in dashboard.jsx)
 - Personal names sort by surname. `sortAs` on an album holds its artist sort key, taken from Jack's Apple Notes review headers ("Bowie, David", "Pop, Iggy", "Zappa, Frank" for The Mothers of Invention). New albums: copy the header's "Last, First" form. Group names in Most Represented Artists use the same keys (`GROUP_SORT` covers "Daniel Lopatin")
