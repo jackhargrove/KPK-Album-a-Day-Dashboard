@@ -29,12 +29,19 @@ export function loadDashboardData(jsx) {
   const TIER_BREAKS = extractConst(jsx, "TIER_BREAKS");
   const GENRE_COLORS = extractConst(jsx, "GENRE_COLORS");
   const TIER_COLORS = extractConst(jsx, "TIER_COLORS");
+  const CREDITS = extractConst(jsx, "CREDITS");
   const rankOf = new Map(HARGROVE_RANKING.map((k, i) => [k, i + 1]));
   const albums = ALBUMS.map((a) => {
     const key = a.artist + " - " + a.title;
     const rank = rankOf.get(key) || null;
     const tier = rank ? TIER_BREAKS.find((t) => rank <= t.max).tier : null;
-    return { ...a, key, rank, tier };
+    // recurring contributors (from CREDITS); skip a person's own album where they are simply the credited artist
+    const credits = [];
+    for (const p of CREDITS) for (const c of p.credits) {
+      if (c.album !== key || (c.role === "Artist" && p.name === a.artist)) continue;
+      credits.push({ name: p.name, role: c.role === "Artist" ? "member" : c.role.charAt(0).toLowerCase() + c.role.slice(1), arguable: !!c.arguable });
+    }
+    return { ...a, key, rank, tier, credits };
   });
   return { albums, GENRE_COLORS, TIER_COLORS };
 }
@@ -168,6 +175,9 @@ h1 { font-family:'Space Mono', monospace; font-size:clamp(26px, 6vw, 38px); line
 .tier { font-size:11px; font-weight:700; padding:2px 6px; border-radius:2px; color:#000; }
 .rank { color:var(--text); font-variant-numeric:tabular-nums; }
 .prior { font-size:9px; color:var(--accent); letter-spacing:1px; text-transform:uppercase; }
+.credits { margin-top:14px; font-size:11px; color:var(--dim); line-height:1.7; }
+.credits .who { letter-spacing:1.5px; text-transform:uppercase; font-size:9px; color:var(--faint); margin-right:8px; }
+.credits a { color:var(--text); text-decoration:none; border-bottom:1px dotted #444; }
 section { padding:32px 0 8px; }
 h2 { font-size:10px; letter-spacing:2.5px; text-transform:uppercase; color:var(--dim); font-weight:500; display:flex; align-items:baseline; gap:10px; flex-wrap:wrap; margin-bottom:16px; }
 h2 .by { letter-spacing:1px; text-transform:none; color:var(--faint); font-size:11px; }
@@ -257,6 +267,10 @@ export function renderAlbumPage({ album, writing, prev, next, data, cover }) {
     '<div class="rating"><span class="who">Aidan</span>' + tierBadge(album.aidanTier, TIER_COLORS) +
       (album.aidanPrior ? '<span class="prior">heard before</span>' : "") + "</div>",
     "</div>",
+    album.credits.length
+      ? '<div class="credits"><span class="who">Recurring contributors</span>' + album.credits.map((c) =>
+          '<a href="../../charts/#credits">' + escapeHtml(c.name) + "</a> (" + escapeHtml(c.role) + (c.arguable ? ", arguable" : "") + ")").join(" · ") + "</div>"
+      : "",
     "</div></div></header>",
     summary ? "<section><h2>Summary " + summaryBy + "</h2>" + summary + "</section>" : "",
     "<section><h2>Write-up " + by + '</h2><div class="prose">' +
@@ -295,7 +309,7 @@ export function renderListsPage(images) {
   const section = (title, sub, file, alt, missing) =>
     "<section><h2>" + title + (sub ? ' <span class="by">' + sub + "</span>" : "") + "</h2>" +
     (file ? figure(file, alt) : '<div class="placeholder">' + missing + "</div>") + "</section>";
-  const list = find("mu-essentials-2018"), hargrove = find("hargrove-tier-list"), aidan = find("aidan-tier-list");
+  const list = find("mu-essentials-2018"), hargrove = find("hargrove-tier-list"), aidan = find("aidan-tier-list"), map = find("rym-music-map");
   return [
     "<!DOCTYPE html>",
     '<html lang="en">',
@@ -317,6 +331,7 @@ export function renderListsPage(images) {
     section("Hargrove’s final tier list", "", hargrove, "Hargrove's final tier list", "Coming soon."),
     section("Aidan’s final tier list", "", aidan, "Aidan's final tier list", "Aidan’s tier list is coming soon."),
     "</div>",
+    map ? section("Where the artists are from", 'RateYourMusic music map · <a href="../charts/" style="color:inherit">full breakdown on the charts page</a>', map, "RateYourMusic map of where the list's artists are from", "") : "",
     "</div>",
     "</body>",
     "</html>",

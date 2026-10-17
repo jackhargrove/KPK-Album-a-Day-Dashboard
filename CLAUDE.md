@@ -29,6 +29,11 @@ Artist and album names follow the original /mu/ list as Jack spells them (e.g. "
 - `/lists/` = "The Lists": `images/mu-essentials-2018.jpg` (original chart), `images/hargrove-tier-list.jpg`, and Aidan's tier list, which appears automatically once a file named `images/aidan-tier-list.<jpg|png|webp>` is added (placeholder until then). build.mjs copies `images/` into the site.
 - The viewer choice travels between the two pages as a URL param (`?viewer=aidan`); clicking a genre or decade on the charts page opens `/?genre=…` or `/?decade=…`.
 
+## Credits & Locations (from Jack's "Misc." notes)
+
+- `CREDITS` in dashboard.jsx = Jack's "List Records" note: every individual credited on 5+ list albums, **in his exact order** (most credits; ties → more artist/band credits first; any arguable sample credit sends a person to the bottom of their tie group — keep the array order, don't re-sort). Album keys match ALBUMS; `arguable: true` marks sample/interpolation credits. Drives the "Most Credited Individuals" chart and the "Recurring contributors" line on album pages (a person's own album as plain "Artist" is omitted; band members show as "member").
+- `ARTIST_LOCATIONS` = Jack's RateYourMusic music map, continent → country → region → city. Counts are artists (284), not albums, so it can't be tied to individual albums. Drives "Where the Artists Are From"; the map screenshot is `images/rym-music-map.jpg` on The Lists page.
+
 ## Album Pages (writing/)
 
 - `writing/<slug>.md` — one file per album (318). Front matter `album:` must exactly match `artist + " - " + title` in ALBUMS; `writer:` (`hargrove` | `aidan`) is the byline for both the Summary and Write-up; optional `summary-writer:` overrides the Summary byline. Sections: `# Summary`, `# Write-up`, `# Hargrove's review`, `# Aidan's review` (an empty section renders a "coming soon" placeholder).

@@ -1022,6 +1022,529 @@ const TIER_COLORS = {
 
 const TIER_ORDER = ["SS", "S", "A", "B", "C", "D", "F"];
 
+// Jack's "List Records" note: everyone credited on 5+ list albums, in his order (most credits; ties → more
+// artist/band credits first; any arguable sample credit sends a person to the bottom of their tie group)
+const CREDITS = [
+  { name: "Rudy Van Gelder", credits: [
+    { album: "Sonny Rollins - Saxophone Colossus", role: "Engineer" },
+    { album: "Cannonball Adderley - Somethin' Else", role: "Engineer" },
+    { album: "Art Blakey and the Jazz Messengers - Art Blakey and the Jazz Messengers [Moanin']", role: "Engineer" },
+    { album: "Lee Morgan - The Sidewinder", role: "Engineer" },
+    { album: "Eric Dolphy - Out to Lunch", role: "Engineer" },
+    { album: "John Coltrane - A Love Supreme", role: "Engineer" },
+    { album: "Grant Green - Idle Moments", role: "Engineer" },
+    { album: "Andrew Hill - Point of Departure", role: "Engineer" },
+    { album: "Wayne Shorter - Speak No Evil", role: "Engineer" },
+    { album: "Cecil Taylor - Unit Structures", role: "Engineer" },
+    { album: "Freddie Hubbard - Red Clay", role: "Engineer" },
+  ] },
+  { name: "Steve Albini", credits: [
+    { album: "Big Black - Atomizer", role: "Artist" },
+    { album: "Big Black - Songs About Fucking", role: "Artist" },
+    { album: "Pixies - Surfer Rosa", role: "Producer" },
+    { album: "Peter Sotos - Buyer's Market", role: "Producer" },
+    { album: "Nirvana - In Utero", role: "Producer" },
+    { album: "Whitehouse - Bird Seed", role: "Engineer on title track" },
+    { album: "Songs: Ohia - The Magnolia Electric Co.", role: "Producer" },
+    { album: "Joanna Newsom - Ys", role: "Producer" },
+  ] },
+  { name: "Alfred Lion", credits: [
+    { album: "Cannonball Adderley - Somethin' Else", role: "Producer" },
+    { album: "Art Blakey and the Jazz Messengers - Art Blakey and the Jazz Messengers [Moanin']", role: "Producer" },
+    { album: "Lee Morgan - The Sidewinder", role: "Producer" },
+    { album: "Eric Dolphy - Out to Lunch", role: "Producer" },
+    { album: "Grant Green - Idle Moments", role: "Producer" },
+    { album: "Andrew Hill - Point of Departure", role: "Producer" },
+    { album: "Wayne Shorter - Speak No Evil", role: "Producer" },
+    { album: "Cecil Taylor - Unit Structures", role: "Producer" },
+  ] },
+  { name: "Raekwon", credits: [
+    { album: "Wu-Tang Clan - Enter the Wu-Tang (36 Chambers)", role: "Artist" },
+    { album: "Ol' Dirty Bastard - Return to the 36 Chambers: The Dirty Version", role: "Featured artist" },
+    { album: "Genius/GZA - Liquid Swords", role: "Featured artist" },
+    { album: "OutKast - Aquemini", role: "Featured artist" },
+    { album: "Mos Def - Black on Both Sides", role: "Sample", arguable: true },
+    { album: "Ghostface Killah - Supreme Clientele", role: "Featured artist" },
+    { album: "Kanye West - My Beautiful Dark Twisted Fantasy", role: "Featured artist" },
+  ] },
+  { name: "Kanye West", credits: [
+    { album: "Kanye West - My Beautiful Dark Twisted Fantasy", role: "Artist" },
+    { album: "Kanye West - Yeezus", role: "Artist" },
+    { album: "Travis Scott - Rodeo", role: "Featured artist and producer" },
+    { album: "Kanye West - The Life of Pablo", role: "Artist" },
+    { album: "Frank Ocean - Blonde", role: "Songwriter" },
+    { album: "Kids See Ghosts - Kids See Ghosts", role: "Artist" },
+  ] },
+  { name: "Brian Eno", credits: [
+    { album: "David Bowie - Low", role: "Performer and composer" },
+    { album: "David Bowie - \"Heroes\"", role: "Performer and composer" },
+    { album: "Brian Eno - Ambient 1: Music for Airports", role: "Artist" },
+    { album: "Talking Heads - Remain in Light", role: "Performer and producer" },
+    { album: "Brian Eno & David Byrne - My Life in the Bush of Ghosts", role: "Artist" },
+    { album: "Slowdive - Souvlaki", role: "Performer and composer" },
+  ] },
+  { name: "Mike Dean", credits: [
+    { album: "Kanye West - My Beautiful Dark Twisted Fantasy", role: "Producer" },
+    { album: "Kanye West - Yeezus", role: "Producer" },
+    { album: "Travis Scott - Rodeo", role: "Producer" },
+    { album: "Kanye West - The Life of Pablo", role: "Producer" },
+    { album: "Frank Ocean - Blonde", role: "Mastering" },
+    { album: "Kids See Ghosts - Kids See Ghosts", role: "Co-executive producer, mixing, mastering" },
+  ] },
+  { name: "Noah Goldstein", credits: [
+    { album: "Kanye West - My Beautiful Dark Twisted Fantasy", role: "Engineer" },
+    { album: "Kanye West - Yeezus", role: "Producer" },
+    { album: "Travis Scott - Rodeo", role: "Producer" },
+    { album: "Kanye West - The Life of Pablo", role: "Producer" },
+    { album: "Frank Ocean - Blonde", role: "Mixing" },
+    { album: "Kids See Ghosts - Kids See Ghosts", role: "Producer" },
+  ] },
+  { name: "Robert Fripp", credits: [
+    { album: "King Crimson - In the Court of the Crimson King", role: "Artist" },
+    { album: "King Crimson - Red", role: "Artist" },
+    { album: "King Crimson - Discipline", role: "Artist" },
+    { album: "David Bowie - \"Heroes\"", role: "Performer" },
+    { album: "Brian Eno & David Byrne - My Life in the Bush of Ghosts", role: "Frippertronics" },
+    { album: "Kanye West - My Beautiful Dark Twisted Fantasy", role: "Sample", arguable: true },
+  ] },
+  { name: "Ghostface Killah", credits: [
+    { album: "Wu-Tang Clan - Enter the Wu-Tang (36 Chambers)", role: "Artist" },
+    { album: "Ol' Dirty Bastard - Return to the 36 Chambers: The Dirty Version", role: "Featured artist" },
+    { album: "Genius/GZA - Liquid Swords", role: "Featured artist" },
+    { album: "Mos Def - Black on Both Sides", role: "Sample", arguable: true },
+    { album: "Ghostface Killah - Supreme Clientele", role: "Artist" },
+    { album: "Kanye West - The Life of Pablo", role: "Sample", arguable: true },
+  ] },
+  { name: "Michael Gira", credits: [
+    { album: "Swans - Filth", role: "Artist" },
+    { album: "Swans - Children of God", role: "Artist" },
+    { album: "Swans - Soundtracks for the Blind", role: "Artist" },
+    { album: "Swans - The Seer", role: "Artist" },
+    { album: "Swans - To Be Kind", role: "Artist" },
+  ] },
+  { name: "Norman Westberg", credits: [
+    { album: "Swans - Filth", role: "Performer and composer" },
+    { album: "Swans - Children of God", role: "Performer and composer" },
+    { album: "Swans - Soundtracks for the Blind", role: "Performer" },
+    { album: "Swans - The Seer", role: "Performer and composer" },
+    { album: "Swans - To Be Kind", role: "Performer and composer" },
+  ] },
+  { name: "MC Ride", credits: [
+    { album: "Death Grips - Exmilitary", role: "Artist" },
+    { album: "Death Grips - The Money Store", role: "Artist" },
+    { album: "Death Grips - No Love Deep Web", role: "Artist" },
+    { album: "Death Grips - [REDACTED] on the Moon", role: "Artist" },
+    { album: "Death Grips - Steroids (Crouching Tiger Hidden Gabber Megamix)", role: "Artist" },
+  ] },
+  { name: "Zach Hill", credits: [
+    { album: "Death Grips - Exmilitary", role: "Artist" },
+    { album: "Death Grips - The Money Store", role: "Artist" },
+    { album: "Death Grips - No Love Deep Web", role: "Artist" },
+    { album: "Death Grips - [REDACTED] on the Moon", role: "Artist" },
+    { album: "Death Grips - Steroids (Crouching Tiger Hidden Gabber Megamix)", role: "Artist" },
+  ] },
+  { name: "Andy Morin", credits: [
+    { album: "Death Grips - Exmilitary", role: "Artist" },
+    { album: "Death Grips - The Money Store", role: "Artist" },
+    { album: "Death Grips - No Love Deep Web", role: "Artist" },
+    { album: "Death Grips - [REDACTED] on the Moon", role: "Artist" },
+    { album: "Death Grips - Steroids (Crouching Tiger Hidden Gabber Megamix)", role: "Artist" },
+  ] },
+  { name: "David Bowie", credits: [
+    { album: "David Bowie - The Rise and Fall of Ziggy Stardust and the Spiders from Mars", role: "Artist" },
+    { album: "Iggy Pop - The Idiot", role: "Performer and producer" },
+    { album: "David Bowie - Low", role: "Artist" },
+    { album: "David Bowie - \"Heroes\"", role: "Artist" },
+    { album: "David Bowie - ★ [Blackstar]", role: "Artist" },
+  ] },
+  { name: "RZA", credits: [
+    { album: "Wu-Tang Clan - Enter the Wu-Tang (36 Chambers)", role: "Artist" },
+    { album: "Ol' Dirty Bastard - Return to the 36 Chambers: The Dirty Version", role: "Featured artist and producer" },
+    { album: "Genius/GZA - Liquid Swords", role: "Featured artist and producer" },
+    { album: "Ghostface Killah - Supreme Clientele", role: "Featured artist and producer" },
+    { album: "Kanye West - My Beautiful Dark Twisted Fantasy", role: "Featured artist and producer" },
+  ] },
+  { name: "Peter Saville", credits: [
+    { album: "Joy Division - Unknown Pleasures", role: "cover art" },
+    { album: "Brian Eno & David Byrne - My Life in the Bush of Ghosts", role: "cover art" },
+    { album: "King Crimson - Discipline", role: "cover art" },
+    { album: "New Order - Power, Corruption & Lies", role: "cover art" },
+    { album: "New Order - Substance", role: "cover art" },
+  ] },
+  { name: "Pharrell Williams", credits: [
+    { album: "Kendrick Lamar - good kid, m.A.A.d. city", role: "Songwriter and producer" },
+    { album: "Travis Scott - Rodeo", role: "Songwriter and producer" },
+    { album: "Kanye West - The Life of Pablo", role: "Interpolation", arguable: true },
+    { album: "Frank Ocean - Blonde", role: "Songwriter and producer" },
+    { album: "Kids See Ghosts - Kids See Ghosts", role: "Sample", arguable: true },
+  ] },
+];
+
+// Jack's RateYourMusic "Music map" (his RYM collection = the 318 list albums); counts are artists, not albums
+// [name, count, children?]: continent → country → state/region → city
+const ARTIST_LOCATIONS = [
+  ["North America", 186, [
+    ["United States", 177, [
+      ["AL", 1, [
+        ["Birmingham", 1],
+      ]],
+      ["AZ", 2, [
+        ["Nogales", 1],
+        ["Phoenix", 1],
+      ]],
+      ["CA", 44, [
+        ["Berkeley", 1],
+        ["Compton", 2],
+        ["Concord", 1],
+        ["Eureka", 1],
+        ["Glendale", 2],
+        ["Grass Valley", 1],
+        ["Hawthorne", 1],
+        ["Hermosa Beach", 1],
+        ["Huntington Park", 1],
+        ["Lancaster", 1],
+        ["Long Beach", 1],
+        ["Los Angeles", 14],
+        ["Oakland", 1],
+        ["Oxnard", 2],
+        ["Palm Desert", 1],
+        ["Pomona", 2],
+        ["Sacramento", 2],
+        ["San Francisco", 5],
+        ["San Jose", 3],
+        ["San Pedro", 1],
+      ]],
+      ["CT", 2, [
+        ["Middletown", 2],
+      ]],
+      ["DC", 5, [
+        ["Washington", 5],
+      ]],
+      ["FL", 4, [
+        ["Altamonte Springs", 1],
+        ["Miami", 1],
+        ["Tampa", 2],
+      ]],
+      ["GA", 3, [
+        ["Atlanta", 3],
+      ]],
+      ["ID", 1, [
+        ["Boise", 1],
+      ]],
+      ["IL", 9, [
+        ["Alton", 1],
+        ["Chicago", 6],
+        ["Evanston", 1],
+        ["Urbana", 1],
+      ]],
+      ["IN", 2, [
+        ["Gary", 1],
+        ["Indianapolis", 1],
+      ]],
+      ["KS", 1, [
+        ["Marysville", 1],
+      ]],
+      ["KY", 1, [
+        ["Louisville", 1],
+      ]],
+      ["LA", 1, [
+        ["Ruston", 1],
+      ]],
+      ["MA", 6, [
+        ["Amherst", 1],
+        ["Boston", 4],
+        ["Wayland", 1],
+      ]],
+      ["MD", 3, [
+        ["Baltimore", 3],
+      ]],
+      ["MI", 5, [
+        ["Detroit", 4],
+        ["Muskegon", 1],
+      ]],
+      ["MN", 8, [
+        ["Austin", 1],
+        ["Duluth", 2],
+        ["Minneapolis", 3],
+        ["St. Paul", 2],
+      ]],
+      ["MO", 1, [
+        ["St. Louis", 1],
+      ]],
+      ["NC", 3, [
+        ["Hamlet", 1],
+        ["Newland", 1],
+        ["Rocky Mount", 1],
+      ]],
+      ["NE", 1, [
+        ["Omaha", 1],
+      ]],
+      ["NH", 1, [
+        ["Sandown", 1],
+      ]],
+      ["NJ", 5, [
+        ["Hoboken", 1],
+        ["Newark", 2],
+        ["Plainfield", 2],
+      ]],
+      ["NY", 32, [
+        ["Amityville", 1],
+        ["Brooklyn", 9],
+        ["Buffalo", 2],
+        ["Manhattan", 5],
+        ["Merrick", 1],
+        ["New York", 8],
+        ["Queens", 2],
+        ["Roosevelt", 1],
+        ["Staten Island", 2],
+        ["Wyandanch", 1],
+      ]],
+      ["OH", 5, [
+        ["Cincinnati", 1],
+        ["Cleveland", 3],
+        ["Oberlin", 1],
+      ]],
+      ["OR", 1, [
+        ["Portland", 1],
+      ]],
+      ["PA", 6, [
+        ["Harrisburg", 1],
+        ["Kingston", 1],
+        ["New Hope", 1],
+        ["Philadelphia", 2],
+        ["Pittsburgh", 1],
+      ]],
+      ["RI", 2, [
+        ["Providence", 2],
+      ]],
+      ["TN", 1, [
+        ["Memphis", 1],
+      ]],
+      ["TX", 6, [
+        ["El Paso", 2],
+        ["Fort Worth", 1],
+        ["Houston", 2],
+        ["Smithville", 1],
+      ]],
+      ["VA", 4, [
+        ["Charlottesville", 1],
+        ["Leesburg", 1],
+        ["Richmond", 1],
+        ["Springfield", 1],
+      ]],
+      ["WA", 9, [
+        ["Aberdeen", 1],
+        ["Anacortes", 1],
+        ["Ilwaco", 1],
+        ["Issaquah", 1],
+        ["Olympia", 1],
+        ["Seattle", 2],
+        ["Tumwater", 1],
+        ["Wenatchee", 1],
+      ]],
+      ["WI", 2, [
+        ["Milwaukee", 2],
+      ]],
+    ]],
+    ["Canada", 8, [
+      ["BC", 3, [
+        ["Burnaby", 1],
+        ["Vancouver", 2],
+      ]],
+      ["NB", 1, [
+        ["Saint John", 1],
+      ]],
+      ["ON", 2, [
+        ["Toronto", 2],
+      ]],
+      ["QC", 2, [
+        ["Montréal", 1],
+        ["Westmount", 1],
+      ]],
+    ]],
+    ["Bahamas", 1, [
+      ["Cat Island", 1, [
+        ["Tea Bay", 1],
+      ]],
+    ]],
+  ]],
+  ["Europe", 79, [
+    ["United Kingdom", 56, [
+      ["Bedfordshire", 1, [
+        ["Luton", 1],
+      ]],
+      ["Berkshire", 1, [
+        ["Reading", 1],
+      ]],
+      ["Cambridgeshire", 1, [
+        ["Cambridge", 1],
+      ]],
+      ["Cardiff", 1],
+      ["City of Bristol", 3, [
+        ["Bristol", 3],
+      ]],
+      ["City of Edinburgh", 1, [
+        ["Edinburgh", 1],
+      ]],
+      ["Conwy", 1, [
+        ["Abergele", 1],
+      ]],
+      ["Dorset", 1, [
+        ["Wimborne Minster", 1],
+      ]],
+      ["Dunbartonshire", 1, [
+        ["Dumbarton", 1],
+      ]],
+      ["Essex", 2, [
+        ["Braintree", 1],
+        ["Chelmsford", 1],
+      ]],
+      ["Falkirk", 1, [
+        ["Grangemouth", 1],
+      ]],
+      ["Greater London", 24, [
+        ["Bexley", 1],
+        ["Bromley", 1],
+        ["Camberwell", 1],
+        ["Hammersmith and Fulham", 1],
+        ["Hounslow", 1],
+        ["Lambeth", 1],
+        ["London", 16],
+        ["Mitcham", 1],
+        ["Westminster", 1],
+      ]],
+      ["Greater Manchester", 6, [
+        ["Manchester", 3],
+        ["Rochdale", 1],
+        ["Salford", 1],
+        ["Stockport", 1],
+      ]],
+      ["Kent", 2, [
+        ["Beckenham", 1],
+        ["Canterbury", 1],
+      ]],
+      ["Merseyside", 1, [
+        ["Liverpool", 1],
+      ]],
+      ["Northamptonshire", 1, [
+        ["Northampton", 1],
+      ]],
+      ["Nottinghamshire", 1, [
+        ["Edwinstowe", 1],
+      ]],
+      ["Oxfordshire", 1, [
+        ["Abingdon", 1],
+      ]],
+      ["Suffolk", 1, [
+        ["Woodbridge", 1],
+      ]],
+      ["West Midlands", 2, [
+        ["Birmingham", 2],
+      ]],
+      ["West Sussex", 1, [
+        ["Crawley", 1],
+      ]],
+      ["West Yorkshire", 1, [
+        ["Leeds", 1],
+      ]],
+      ["Wiltshire", 1, [
+        ["Swindon", 1],
+      ]],
+    ]],
+    ["Germany", 9, [
+      ["Bayern", 1, [
+        ["München", 1],
+      ]],
+      ["Berlin", 1],
+      ["Hamburg", 2],
+      ["Nordrhein-Westfalen", 5, [
+        ["Düsseldorf", 1],
+        ["Köln", 3],
+        ["Remscheid", 1],
+      ]],
+    ]],
+    ["Norway", 4, [
+      ["Oslo", 1],
+      ["Troms", 1, [
+        ["Tromsø", 1],
+      ]],
+      ["Vestland", 2, [
+        ["Bergen", 2],
+      ]],
+    ]],
+    ["Sweden", 4, [
+      ["Gävleborgs län", 1, [
+        ["Hudiksvall", 1],
+      ]],
+      ["Stockholms län", 2, [
+        ["Stockholm", 1],
+        ["Täby", 1],
+      ]],
+      ["Västra Götalands län", 1, [
+        ["Göteborg", 1],
+      ]],
+    ]],
+    ["France", 3, [
+      ["Île-de-France", 3, [
+        ["Paris", 3],
+      ]],
+    ]],
+    ["Ireland", 2, [
+      ["Dublin", 1],
+      ["Limerick", 1],
+    ]],
+    ["Iceland", 1, [
+      ["Höfuðborgarsvæði", 1, [
+        ["Reykjavík", 1],
+      ]],
+    ]],
+  ]],
+  ["Asia", 13, [
+    ["Japan", 11, [
+      ["Tokyo", 7, [
+        ["Minato", 2],
+        ["Musashino", 1],
+        ["Setagaya", 1],
+        ["Tokyo", 2],
+        ["Toshima", 1],
+      ]],
+      ["Gifu", 1],
+      ["Hokkaido", 1, [
+        ["Biratori", 1],
+      ]],
+      ["Kyoto", 1],
+      ["Osaka", 1],
+    ]],
+    ["Lebanon", 1, [
+      ["Beyrouth", 1],
+    ]],
+    ["Myanmar", 1, [
+      ["Yangon", 1],
+    ]],
+  ]],
+  ["Oceania", 5, [
+    ["Australia", 5, [
+      ["NSW", 1, [
+        ["Sydney", 1],
+      ]],
+      ["QLD", 1, [
+        ["Brisbane", 1],
+      ]],
+      ["VIC", 3, [
+        ["Melbourne", 2],
+        ["Warracknabeal", 1],
+      ]],
+    ]],
+  ]],
+  ["South America", 1, [
+    ["Brazil", 1, [
+      ["Bahia", 1, [
+        ["Juazeiro", 1],
+      ]],
+    ]],
+  ]],
+];
+
 
 // "Artist - Title" → album page slug; injected by build.mjs (absent when run as a standalone artifact)
 const ALBUM_LINKS = typeof ALBUM_PAGES !== "undefined" ? ALBUM_PAGES : {};
@@ -1052,6 +1575,27 @@ const CustomTooltip = ({ active, payload, label }) => {
     </div>
   );
 };
+
+// One row of the "Where the Artists Are From" tree; continents start open, everything else collapsed
+function LocationRow({ node, depth, total }) {
+  const [name, count, kids = []] = node;
+  const [open, setOpen] = useState(depth === 0);
+  const sorted = [...kids].sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]));
+  return (
+    <React.Fragment>
+      <div onClick={() => kids.length && setOpen(!open)}
+        style={{ display: "flex", alignItems: "center", gap: 8, padding: "3px 0", paddingLeft: depth * 16, cursor: kids.length ? "pointer" : "default" }}>
+        <span style={{ width: 10, color: "#555", fontSize: 9, flexShrink: 0 }}>{kids.length ? (open ? "▾" : "▸") : ""}</span>
+        <span style={{ flex: 1, minWidth: 0, fontSize: depth === 0 ? 12 : 11, color: depth === 0 ? "#ddd" : depth === 1 ? "#aaa" : "#777", overflow: "hidden", textOverflow: "ellipsis", whiteSpace: "nowrap" }}>{name}</span>
+        <div style={{ width: 90, height: 6, background: "#1a1a1a", borderRadius: 2, overflow: "hidden", flexShrink: 0 }}>
+          <div style={{ width: `${(count / total) * 100}%`, height: "100%", background: "#5B8DBE", opacity: 0.7 }} />
+        </div>
+        <span style={{ fontSize: 11, color: "#666", width: 26, textAlign: "right", fontVariantNumeric: "tabular-nums", flexShrink: 0 }}>{count}</span>
+      </div>
+      {open && sorted.map(k => <LocationRow key={k[0]} node={k} depth={depth + 1} total={total} />)}
+    </React.Fragment>
+  );
+}
 
 export default function Dashboard() {
   const [search, setSearch] = useState("");
@@ -1424,6 +1968,52 @@ export default function Dashboard() {
                   </div>
                 );
               })}
+            </div>
+          </div>
+        </div>
+
+        <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: 24, marginBottom: 32 }}>
+          <div id="credits" style={{ background: "#111", border: "1px solid #1a1a1a", borderRadius: 4, padding: 20 }}>
+            <h2 style={{ fontSize: 11, color: "#555", letterSpacing: 2, margin: "0 0 6px", textTransform: "uppercase" }}>Most Credited Individuals</h2>
+            <div style={{ fontSize: 10, color: "#555", marginBottom: 14 }}>Anyone credited on 5+ list albums, in any role</div>
+            <div style={{ display: "flex", flexDirection: "column", gap: 7 }}>
+              {CREDITS.map(p => {
+                const roles = [...new Set(p.credits.map(c => c.role.charAt(0).toUpperCase() + c.role.slice(1)))].join(" · ");
+                return (
+                  <div key={p.name} style={{ display: "flex", alignItems: "center", gap: 10 }}>
+                    <div style={{ flex: 1, minWidth: 0 }}>
+                      <span style={{ fontSize: 12, color: "#ccc", display: "block", overflow: "hidden", textOverflow: "ellipsis", whiteSpace: "nowrap" }}>{p.name}</span>
+                      <span style={{ fontSize: 9, color: "#555", display: "block", marginTop: 1, overflow: "hidden", textOverflow: "ellipsis", whiteSpace: "nowrap" }}>{roles}</span>
+                    </div>
+                    <div style={{ display: "flex", gap: 3, flexWrap: "wrap", justifyContent: "flex-end" }}>
+                      {p.credits.map((c, i) => {
+                        const al = ALBUMS.find(a => a.artist + " - " + a.title === c.album) || {};
+                        const color = GENRE_COLORS[al.genre] || "#555";
+                        const sq = <div style={{ width: 14, height: 14, borderRadius: 2, boxSizing: "border-box", background: c.arguable ? "transparent" : color, opacity: c.arguable ? 1 : 0.85, border: c.arguable ? `1px dashed ${color}` : "none" }} />;
+                        const label = `${al.artist} — ${al.title} (${c.role}${c.arguable ? ", arguable" : ""})`;
+                        const slug = ALBUM_LINKS[c.album];
+                        return slug
+                          ? <a key={i} href={(PAGE === "charts" ? "../" : "") + "album/" + slug + "/"} title={label} style={{ display: "block", lineHeight: 0 }}>{sq}</a>
+                          : <span key={i} title={label} style={{ display: "block", lineHeight: 0 }}>{sq}</span>;
+                      })}
+                    </div>
+                    <span style={{ fontSize: 11, color: "#555", width: 16, textAlign: "right", fontVariantNumeric: "tabular-nums" }}>{p.credits.length}</span>
+                  </div>
+                );
+              })}
+            </div>
+            <div style={{ display: "flex", alignItems: "center", gap: 6, marginTop: 12, fontSize: 10, color: "#555" }}>
+              <span style={{ width: 10, height: 10, borderRadius: 2, border: "1px dashed #888", boxSizing: "border-box" }} /> Arguable credit (sampled, not an active collaborator)
+            </div>
+          </div>
+
+          <div style={{ background: "#111", border: "1px solid #1a1a1a", borderRadius: 4, padding: 20 }}>
+            <h2 style={{ fontSize: 11, color: "#555", letterSpacing: 2, margin: "0 0 6px", textTransform: "uppercase" }}>Where the Artists Are From</h2>
+            <div style={{ fontSize: 10, color: "#555", marginBottom: 14 }}>
+              From RateYourMusic's music map of the list ({ARTIST_LOCATIONS.reduce((n, c) => n + c[1], 0)} artists) · click to expand
+            </div>
+            <div>
+              {ARTIST_LOCATIONS.map(c => <LocationRow key={c[0]} node={c} depth={0} total={ARTIST_LOCATIONS.reduce((n, x) => n + x[1], 0)} />)}
             </div>
           </div>
         </div>
