@@ -33,4 +33,8 @@ Song Ranking:
 12. “I’m Waiting for the Day” - Sparse instrumentation during choruses, dense after, good dynamic. Brian can hit some high notes.
 13. “Sloop John B” - I think this song sounds better at a higher tempo than they play it. Very clearly meant to be the hit, sounds more like the surf stuff they did prior than the rest of the album. Still quite good though!
 
+Favorite tracks: Wouldn’t It Be Nice, Don’t Talk (Put Your Head on My Shoulder), God Only Knows, I Know There’s an Answer, I Just Wasn’t Made for These Times, Caroline, No
+
+Least favorite track: Sloop John B
+
 # Aidan's review

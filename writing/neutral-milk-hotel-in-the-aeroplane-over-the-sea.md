@@ -31,4 +31,8 @@ But for a time, I cared about things to about as great as capacity as I ever wil
 
 There’s very little I can say about the music itself that hasn’t been said, so consider that my review.
 
+Favorite tracks: King of Carrot Flowers Pt. 1, King of Carrot Flowers Pts. 2 & 3, In the Aeroplane Over the Sea, Two-Headed Boy, Holland, 1945, Communist Daughter, Oh Comely, Ghost, [untitled], Two-Headed Boy Pt. 2
+
+Least favorite track: The Fool
+
 # Aidan's review
