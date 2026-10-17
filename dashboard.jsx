@@ -1586,7 +1586,7 @@ export default function Dashboard() {
               <thead>
                 <tr style={{ borderBottom: "1px solid #222" }}>
                   <th style={{ textAlign: "left", padding: "8px 12px", color: "#555", fontWeight: 500, fontSize: 10, letterSpacing: 1.5, width: 20 }}></th>
-                  {[{ key: "artist", label: "Artist" }, { key: "title", label: "Album" }, { key: "year", label: "Year" }, { key: "genre", label: "Genre" }, { key: "section", label: "Section" }, { key: "rank", label: "Rank" }, { key: "listenOrder", label: "Heard" }].map(col => (
+                  {[{ key: "artist", label: "Artist" }, { key: "title", label: "Album" }, { key: "year", label: "Year" }, { key: "genre", label: "Genre" }, { key: "section", label: "Section" }, { key: "rank", label: "Rank" }, { key: "listenOrder", label: "Listen Order" }].map(col => (
                     <th key={col.key} onClick={() => handleSort(col.key)}
                       style={{ textAlign: "left", padding: "8px 12px", color: sortCol === col.key ? "#ccc" : "#555", fontWeight: 500, fontSize: 10, letterSpacing: 1.5, textTransform: "uppercase", cursor: "pointer", userSelect: "none", whiteSpace: "nowrap" }}>
                       {col.label}{sortCol === col.key && <span style={{ marginLeft: 4, fontSize: 8 }}>{sortDir === "asc" ? "▲" : "▼"}</span>}
