@@ -37,8 +37,8 @@ This is a fun album. Travis Scott makes fun music. I got to talk about it a bit 
 
 If this album were a little bit tighter and the songs just a bit better, I could see myself listing this as a top hip hop album of the 2010s. As it is, I still think it’s really good, and it has a few tracks that are just amazing.
 
-Favorite tracks: Pornography, Oh My Dis Side (feat. Quavo), 3500 (feat. Future & 2 Chainz), 90210 (feat. Kacy Hill), Piss On Your Grave (feat. Kanye West), Antidote, ImpossibleImpossible
+Favorite tracks: Pornography, Oh My Dis Side (feat. Quavo), 3500 (feat. Future & 2 Chainz), 90210 (feat. Kacy Hill), Piss On Your Grave (feat. Kanye West), Antidote, Impossible
 
-Least favorite track: Flying High (feat. Toro y Moi)Flying High (feat. Toro y Moi)
+Least favorite track: Flying High (feat. Toro y Moi)
 
 # Aidan's review

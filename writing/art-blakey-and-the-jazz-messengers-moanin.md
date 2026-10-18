@@ -31,7 +31,7 @@ Now THIS is jazz music. As an avid fan of the drums, I was really disappointed b
 
 Great album. Some extremely high highs, just riveting and exhilarating when everything works. And the lows are not all that low. Pretty solid work. Maybe a bold choice that I’ll regret, but I’m putting this right above Coleman. My second favorite jazz album overall so far after Matana Roberts.
 
-Favorite tracks: Moanin’, Are You Real, Along Came Betty, The Drum Thunder Suite,
+Favorite tracks: Moanin’, Are You Real, Along Came Betty, The Drum Thunder Suite
 
 Least favorite track: Blues March
 
