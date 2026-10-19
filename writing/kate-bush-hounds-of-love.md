@@ -35,7 +35,7 @@ I’ve already said a lot about “Running Up That Hill (A Deal with God)”, bu
 
 Kate Bush, you are an icon. I know it’s weird, but I think anyone who lets themselves leave their reservations at the door and float in her world can fall in love with this album. And, if nothing else, listen to “Running Up That Hill (A Deal with God)”. It’s indescribably good.
 
-Favorite tracks: Running Up That Hill (A Deal with God), Hounds of Love, The Big Sky Mother Stands for Comfort, Cloudbusting, And Dream of Sheep, Waking the Witch, Jig of Life, The Morning Fog
+Favorite tracks: Running Up That Hill (A Deal with God), Hounds of Love, The Big Sky, Mother Stands for Comfort, Cloudbusting, And Dream of Sheep, Waking the Witch, Jig of Life, The Morning Fog
 
 Least favorite track: Watching You Without Me
 
