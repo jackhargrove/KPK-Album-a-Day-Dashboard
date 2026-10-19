@@ -28,7 +28,7 @@ Broadcast sets the bar high with “I Found the F”. Keenan’s delivery perman
 
 I suspect I’ll be revisiting this a lot going forward. It just feels so refreshing to hear a take on aughts indie I’ve never heard before. RIP Trish Keenan.
 
-Favorite tracks: I Found the F, Black Cut, Tears in the Typing Pool, Corporeal, Arc of a Journey, Michael a Grammar, Goodbye Girls
+Favorite tracks: I Found the F, Black Cat, Tears in the Typing Pool, Corporeal, Arc of a Journey, Michael a Grammar, Goodbye Girls
 
 Least favorite track: Tender Buttons
 
