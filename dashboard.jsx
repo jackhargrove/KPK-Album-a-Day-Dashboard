@@ -1869,6 +1869,13 @@ export default function Dashboard() {
           </a>
         )}
 
+        {PAGE === "home" && (
+          <a href="https://open.spotify.com/playlist/1EREc3Y9n2Fi4YAk0lYSf1" target="_blank" rel="noopener" style={{ display: "flex", justifyContent: "space-between", alignItems: "center", background: "#111", border: "1px solid #1a1a1a", borderRadius: 4, padding: "14px 20px", marginTop: -20, marginBottom: 32, color: "#999", fontSize: 12, textDecoration: "none", letterSpacing: 1 }}>
+            <span>HARGROVE'S FAVORITE TRACKS ↗</span>
+            <span style={{ color: "#555", letterSpacing: 0 }}>Spotify playlist</span>
+          </a>
+        )}
+
         {PAGE !== "home" && <>
         <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fit, minmax(min(100%, 360px), 1fr))", gap: 24, marginBottom: 32 }}>
           <div style={{ background: "#111", border: "1px solid #1a1a1a", borderRadius: 4, padding: 20 }}>
