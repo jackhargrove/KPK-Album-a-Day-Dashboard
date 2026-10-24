@@ -7,7 +7,7 @@ listened: August 10, 2025
 # Summary
 
 Sunday 8/10 Album of the Day -> *Metal Machine Music*  
-Subtitle: *\*The Amine β Ring*  
+Subtitle: *The Amine β Ring*  
 Year: 1975  
 Artist: Lou Reed  
 Section: Classics  

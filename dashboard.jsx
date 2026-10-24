@@ -1870,7 +1870,7 @@ export default function Dashboard() {
         )}
 
         {PAGE !== "home" && <>
-        <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: 24, marginBottom: 32 }}>
+        <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fit, minmax(min(100%, 360px), 1fr))", gap: 24, marginBottom: 32 }}>
           <div style={{ background: "#111", border: "1px solid #1a1a1a", borderRadius: 4, padding: 20 }}>
             <h2 style={{ fontSize: 11, color: "#555", letterSpacing: 2, margin: "0 0 16px", textTransform: "uppercase" }}>By Decade</h2>
             <ResponsiveContainer width="100%" height={200}>
@@ -1915,7 +1915,7 @@ export default function Dashboard() {
           </div>
         </div>
 
-        <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: 24, marginBottom: 32 }}>
+        <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fit, minmax(min(100%, 360px), 1fr))", gap: 24, marginBottom: 32 }}>
           <div style={{ background: "#111", border: "1px solid #1a1a1a", borderRadius: 4, padding: 20 }}>
             <h2 style={{ fontSize: 11, color: "#555", letterSpacing: 2, margin: "0 0 16px", textTransform: "uppercase" }}>Genre Distribution</h2>
             <div style={{ display: "flex", gap: 20, alignItems: "center" }}>
@@ -1972,7 +1972,7 @@ export default function Dashboard() {
           </div>
         </div>
 
-        <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: 24, marginBottom: 32 }}>
+        <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fit, minmax(min(100%, 360px), 1fr))", gap: 24, marginBottom: 32 }}>
           <div id="credits" style={{ background: "#111", border: "1px solid #1a1a1a", borderRadius: 4, padding: 20 }}>
             <h2 style={{ fontSize: 11, color: "#555", letterSpacing: 2, margin: "0 0 6px", textTransform: "uppercase" }}>Most Credited Individuals</h2>
             <div style={{ fontSize: 10, color: "#555", marginBottom: 14 }}>Anyone credited on 5+ list albums, in any role</div>

@@ -14,7 +14,7 @@ Section: Classics
 Genre: Singer-songwriter, contemporary folk  
 Length: 32:25  
 Similar Albums: Jeff Buckley - *Grace*, Joni Mitchell - *Blue*, Townes Van Zandt - *Townes Van Zandt*  
-*\*\*\**DISCLAIMER\*\*\*  
+\*\*\*\*\*DISCLAIMER\*\*\*\*\*  
 Deluxe addition streaming has an extra 5 tracks, original track listing is the first 10 tracks and is linked below:  
 https://open.spotify.com/playlist/078vgLbiZMfwz7CFyo46Tu?si=a167dfd6a1744a7e
 
