@@ -35,3 +35,5 @@ Favorite tracks: Your Path to Divinity, Friends Are Evil, Tired of Me, Walk on W
 Least favorite track: Guardian Angel
 
 # Aidan's review
+
+One of the joys of doing this list has been to discover all the interesting things that can be done with drones. Soundtracks for the Blind utilized the punishing length, Flood utilized their sheer power as part of an enormous crescendo and Ravedeath used them for their simple and naturalistic feeling of beauty. Jesu doesn't have any of that same feeling, it's certainly not drying to be pretty with the heavy metal chords nor is there any sort of a crescendo or the same contempt for the listener that Gira sometimes has. There is definitely an attempt create a sense of power, but it never really clicked for me. The mix between shoegaze, which tends to focus on beauty and metal, which tends to focus on power, leaves the album a little short on either. I'm definitely not the target audience, I have a strong distaste for sludge-y metal, but I also feel like with a slightly different styling, this album could go from unenjoyable to really cool for me. As it is though, not a fan.

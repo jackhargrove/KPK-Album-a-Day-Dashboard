@@ -32,3 +32,5 @@ Favorite tracks: Holy Wars…The Punishment Due, Hangar 18, Lucretia, Rust in Pe
 Least favorite track: Poison Was the Cure
 
 # Aidan's review
+
+Rock solid album. There’s nothing here that’ll blow you away, it’s just 40 minutes of exactly what you think metal should be. The biggest risk taken is probably lyrically with some venturing into pussy ass environmentalism and peacenik-ing, but the riffs are long and gnarly, the drums are breakneck and the vocals are the finishing touch on an album that checks all of the boxes. Beyond the mild flourishes it’s overall lyrically pretty conventional, and I found that the weakest part of the album, but if you’re listening to metal for the lyrical content, you’re doing something wrong. I feel that I’ve been throwing around the “Platonic ideal” descriptor a bit much, and I didn’t like this album enough to feel that it really earned it, but it’s just a really solid metal album. If you like metal you’ll like it, if you don’t like metal, you’ll still probably be fine with it. Best songs bookend the album, with Tornado of Souls being the climax of the thrash speed, but there’s no real weak point.

@@ -38,3 +38,5 @@ Favorite tracks: In the Wee Small Hours of the Morning, Mood Indigo, I Get Along
 Least favorite track: Dancing on the Ceiling
 
 # Aidan's review
+
+Along with MJ and the Beatles, Sinatra is one of the most culturally important artists on this list. At only 118 pounds, Old Blue Eyes managed to seem like more of a man than anyone but John Wayne. He's also possibly the only non-jazz artist on this list who did not write a single one of their songs. The artistry is in his voice and what a voice it is. "Sinatra with a cold is Picasso without paint, Ferrari without fuel - only worse". Sinatra seems like he's been cut out of some storybook, from his features to his generosity, to his perfectionism to his temper. I think he's best when his emotions are a tad more tinged with irony, we get a taste of it on "I Get Along Without You Very Well", but "Something Stupid" and "I Get a Kick Out of You" are so good that I wish there was just a tad more edge. The instrumentation feels extremely cinematic, and I think at times something sparser would better highlight The Voice.

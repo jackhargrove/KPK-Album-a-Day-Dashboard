@@ -37,3 +37,5 @@ Favorite tracks: Serious Shit, Slick Rick, Wishmaster, Bitch I’m Lugubrious, B
 Least favorite track: Hoeish Ass Bitch
 
 # Aidan's review
+
+Belated review: It’s really hard make an album that I was less excited to hear than one which is by a white rapper from the same hood as Quentin who has also made projects under the name “Bedwetter”. The lyrics are incredibly crude yet hilarious, but the real gem here is the production. Don’t think I’ve ever heard Memphis rap before, but this really impressed me, super smooth, especially on the first half. Not a huge fan of it simply because of how out there the lyrics are, but considering the lower expectations I was going in with, I was very pleasantly surprised.

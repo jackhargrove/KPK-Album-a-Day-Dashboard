@@ -19,6 +19,13 @@ This album is titled *We Insist! Max Roach’s Freedom Now Suite* on Spotify.
 
 # Write-up
 
+We Insist! is a collaborative effort between jazz drummer Max Roach and songwriter Oscar Brown. The album began in 1959 with the intent of it being performed at the 1963 centennial of the Emancipation Proclamation, but as the project went on, it shifted to be about the ongoing civil rights movement. While the album was written, Roach was living in Bed-Stuy while Brown was in Chicago, so the album was composed over the phone, with Brown contributing lyrics. Collaboration between the two grew strained, as they disagreed over the screaming section on "Protest" and the ending of the album, to the point where Brown walked away from the project, and was shocked when an album was eventually released with his name in the credits.
+
+Max Roach was a jazz drumming prodigy, moving to Bed-Stuy in Brooklyn at 6 and filling in for Sonny Greer with Duke Ellington at 18. He was 19 when he first recorded an album, and played with virtually every big name in jazz at the time. He was among the leaders in the emerging bebop style and also co-founded one of the first artist owned records, Debut Records with Mingus. Money Jungle, a trio album with Mingus and Duke Ellington is his most famous work besides We Insist!, but his discography is massive and includes collaborations with half of the biggest names in jazz.
+
+Oscar Brown was a copy-writer turned DJ turned songwriter when he wrote the lyrics for We Insist! After meandering through the Communist Party and the Army in his 20s, he settled down in Chicago and got his start as a songwriter when Mahalia Jackson recorded his song "Brown Baby". We Insist! was the first full album he worked on, and its success would land him a Columbia Records contract, releasing a few well received albums that did not reach "classic" status.
+
+Also on this album is Abbey Lincoln, who is the main vocalist and was married to Max Roach at the time of the recording. The album was controversial on release for its strong political tones and broke ground in its use of jazz to promote political issues. It has grown in appreciation over time and was added to the Library of Congress in 2022.
 
 # Hargrove's review
 
@@ -29,3 +36,5 @@ Favorite tracks: Tears for Johannesburg
 Least favorite track: Triptych: Prayer / Protest / Peace
 
 # Aidan's review
+
+You can really feel where Oscar Brown got kicked off the project. The first two songs are a super interesting combination of jazz and traditional spirituals, with Freedom Day in particular being an extremely powerful piece. Then it gets weird. The last 3 songs employ vocals more sparingly. I honestly didn't mind the screaming on "Triptych", I thought it was an interesting way to bring the crescendo to a head. The drumming is really good throughout and I appreciate a drum lead jazz album for once. The listing of tribes in "All Africa" is a tad corny, but Tears for Johannesburg rounds it out with a pretty standard jazz piece. It's an imperfect album that feels like it could have been better designed, but it's still very impressive at parts, and I was never unhappy to be listening to it. The opening pair of tracks are probably the most worthy of attention, but Roach's drumming is fantastic throughout and Lincoln's voice is great. Very funny coincidence that she is on an album inspired by the Emancipation Proclamation as well. Wish it came together better, but still solid.

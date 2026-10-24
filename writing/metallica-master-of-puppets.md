@@ -44,3 +44,5 @@ Favorite tracks: Battery, Master of Puppets, Welcome Home (Sanitarium), Disposab
 Least favorite track: The Thing That Should Not Be
 
 # Aidan's review
+
+Back over a year ago when we first started this list, Hargrove and I mulled over choosing this album as an introduction to the metal section. 27 metal albums later, this feels quaint compared to the wide variety of metal that we've gone through. Still it's obvious why people like this album. It's got some of the best vocals in a metal album yet and and the title track is a great song. The absence of growled vocals, paucity of blast beats and more melodic guitars, this sounds more like a normal rock album than most other stuff we've listened to. There's still some nice metal chords in here, and it's an incredibly polished product. However, I found myself sighing at the Waters-esque lyrics, which are more notably deficient when not obscured by the growl. And despite spending 50ish hours listening to metal albums, I still do not have that much patience for an hour long metal album that isn't doing anything particularly cool. Good album, I can see why there are some who love it, but those people are not me.

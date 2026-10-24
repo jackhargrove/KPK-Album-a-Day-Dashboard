@@ -39,3 +39,5 @@ Favorite tracks: Immortal Rites, Visions from the Dark Side, Maze of Torment, Ch
 Least favorite track: Bleed for the Devil
 
 # Aidan's review
+
+I remember listening to Illmatic and feeling that this was what I had been thinking of when I thought of the platonic ideal of hip hop. The same goes for this and death metal. The song "Immortal Rites" is about rites to gain immortality, the song "Blasphemy" sees the band blaspheme the Holy Ghost and "Chapel of Ghouls" is about ghouls attacking a chapel. It's straightforward, yet enjoyable, with one guitar putting enough of a melody to make the songs fun while the other guitar hammers out some of the wildest licks imaginable. I do wish there was some cleverness to this album, and I think that if I listened to it earlier I would have hated it, but having listened to a lot of metal, it was a fine listen. I wish I could give some deeper insight, but it's partly a consequence of this album's success that every other death metal album we've done sounds a lot like it. If you like death metal, you'll like this album.

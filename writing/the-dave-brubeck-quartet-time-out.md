@@ -30,3 +30,5 @@ Favorite tracks: Blue Rondo à la Turk, Strange Meadow Lark, Take Five, Three to
 Least favorite track: Kathy’s Waltz
 
 # Aidan's review
+
+An incredibly upfront album. The concept of the album is referenced in the title, and it does exactly what it says it’s going to do. The core melodies are clear as day, instruments take their turns, the handoffs are professional and smooth. It’s the apotheosis of our journey to more and more accessible jazz, you don’t need to even think to appreciate what they’re doing. Sure the time signature are nice trivia, but at the end of the day, the noodling doesn’t end up tangled, the piano as a core instrument is easier to suss out than the double horns we’ve been hearing and the drum fills are exquisite. Take Five is obviously the crown jewel, but it’s a remarkable album through and through. My only gripe is that the repeated two note sequence in Blue Rondo á la Turk wears a bit after a few plays, but it’s a quibble compared to the smoothness of the rest of the album. It’s easy to see how this sold a million copies, and it’s a pleasure to listen to each time over.

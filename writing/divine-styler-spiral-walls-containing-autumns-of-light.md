@@ -34,3 +34,5 @@ Favorite tracks: Touch, In a World of U, Livery, Grey Matter
 Least favorite track: Heaven Don’t Want Me and Hell’s Afraid I’ll Take Over
 
 # Aidan's review
+
+The top scientists of the 5 percent nation have finally found something more annoying than rap skits: Sunni Islam converts. Baffling album, with some relatively cool songs buried in there when it's not completely out of this world. I really like guitar elements in rap, and they're executed really well here. Beyond the occasionally good instrumentals, there's not really much going for this album. The lyrics should be completely ignored on the good tracks, but it's impossible to do it on the bad tracks, which just feature incoherent rambling over some vague instrumental backing. It's not as downright unpleasant as stuff like Royal Trux and Beefheart, but I'm just baffled why this is included. It's roughly a third well executed conventional elements and two thirds of the most obnoxious random bullshit imaginable. Not worth listening to at all, but I didn't hate my two listens enough to relate it to the absolute bottom.

@@ -36,3 +36,5 @@ Favorite tracks: Mysterons, Sour Times, Wandering Star, Roads, Pedestal, Biscuit
 Least favorite track: Strangers
 
 # Aidan's review
+
+What I like most about trip-hop is the contrast between the very human (typically female) vocals and the music laden with the fingerprints of machines. Portishead get this better than anyone, their samples sound ancient while Beth Gibbons exudes sex, and their best songs ("Sour Times" and "Glory Box") lyrically capture this sense of her being stranded among the mechanical music. They're not the only ones who can do this, Lana Del Ray accomplishes a similar thing on Born to Die nearly 2 decades later, but while Del Ray accomplishes her nostalgia through a smorgasbord of mid-century Americana imagery, Portishead manages it solely through the feel of their samples. Both make for great albums that exude sexuality. The short movie from where the album cover comes from shows the same strengths as the album, a tremendous command of mood, even though the plot is completely indecipherable. It's a modest album in how it's solely focused on a single mood, but it is phenomenally successful in achieving it.

@@ -39,3 +39,5 @@ Favorite tracks: Enter, Evening (Soft Line Structure)
 Least favorite track: Tales (8 Whisps)
 
 # Aidan's review
+
+It's hard to think of a world in which someone playing this sort of music would get to play in front of the White House, especially considering the current gigs are going to Kid Rock and the Village People (with no original members). My favorite track on here was the far more sedate "Tales (8 Whisps), mostly because I'm not a fan of sax-heavy free jazz, and that track has no sax. I didn't really get much out of the album, and all the reviews say that it takes more attention that I have to give it in order to penetrate the "hidden syntaxes". I will say that I finally like the piano production on a Van Gelder album, as the rapid percussive style of Taylor fits the more muffled production that de-emphasizes single notes. I really liked Machine Gun for its energy, this is far closer to the median in that sense. Fine album.

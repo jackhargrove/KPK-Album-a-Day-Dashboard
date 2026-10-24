@@ -40,3 +40,5 @@ Favorite tracks: A Tooth for an Eye, Full of Fire, Without You My Life Would Be 
 Least favorite track: Fracking Fluid Injection
 
 # Aidan's review
+
+It’s not unpleasant (I really didn’t even mind Fracking Fluid Injection) but it’s also really not interesting. It’s got too much going on to be as beautifully simple as Ambient 1, really doesn’t have the simple melody of Low’s second disc. There was just a lack of anything to latch onto as a listener. I put this on while doing stuff and would just forget that it’s there. Even putting it on louder, it defies my focus. I’ve disliked albums more but I’ve rarely not cared about an album as much as this one.

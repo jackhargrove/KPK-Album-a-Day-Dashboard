@@ -38,3 +38,5 @@ Favorite tracks: Midtown 120 Intro, Midtown 120 Blues, House Music Is Controllab
 Least favorite track: Brenda’s $20 Dilemma
 
 # Aidan's review
+
+I have little familiarity with house, but this was far beyond my expectations of what the genre could do. Having been exposed mostly to the likes of David Guetta, I did not think that any house album would be be capable of this much tenderness and political awareness. And yet DJ Sprinkles pulls it off, with incredible sampling and loops that linger in the back of your mind. It's dance music that makes you think (but it's not IDM), but it's never insistent. More than anything, it's tasteful, and just feels incredibly well constructed. Well worth the hassle to listen to, and made me more interested in house in general.

@@ -40,3 +40,9 @@ Favorite tracks: Sowing Season (Yeah), Millstone, Jesus Christ, Degausser, Limou
 Least favorite track: Untitled
 
 # Aidan's review
+
+“The suburbs dream of violence. Asleep in their drowsy villas, sheltered by benevolent shopping malls, they wait patiently for the nightmares that will wake them into a more passionate world."
+
+\- J. G. Ballard
+
+Emo has historically been the only genre of music that is proudly suburban in its roots, typically involving men in their mid 20s raving about high school gender politics over a nice guitar hook. Brand New’s Long Island roots are no different, but The Devil and God Are Raging Inside Me is far more philosophical than to whine about being last picked or a cheerleader chick. The suburban influences still shine through (“losing them to drinking and to driving”) but the album is existential rather than parochial. The lyrics, while vague, are incredibly evocative, with Jesus Christ and Archers standing out to me as particularly powerful. While the album still relies on the traditional loud-quiet dynamic of emo, the quiet sections are incredibly well produced, with a little extra flair like the intros to Jesus Christ and Welcome to Bangkok adding just a little extra to make the songs great. The album loses momentum a bit in the 4 song run from Welcome to Bangkok to Untitled, but then comes back roaring with my favorite songs, Archers and concludes with a fitting coda in Handcuffs. I don’t think many of the songs work well as singles, but as an album it’s impressively cohesive and mature for a genre that prides itself on never growing up.

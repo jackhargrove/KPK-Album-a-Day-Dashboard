@@ -38,3 +38,5 @@ Favorite tracks: The Leper Affinity, Bleak, Harvest, The Drapery Falls, Dirge fo
 Least favorite track: The Funeral Portrait
 
 # Aidan's review
+
+While definitely a metal record, listening to it reminded me of The Mars Volta more than anything. Prog records released within 4 year of each other, they have similar stylings in their interludes, with acoustic guitars and cried vocals. The similarities are limited, there's still the guttural vocals that define this as a metal album and the guitar bit are nowhere near as intricate as Francis the Mute, but it made me view this more as a prog record with metal stylings than the opposite. It's completely competent in that sense, and it's a cool combination, but while I enjoyed the softer sections a decent amount, I was not blown away. Solid, competent album that managed to combine two genres I'm not enthralled with to make a record I'm not enthralled with.

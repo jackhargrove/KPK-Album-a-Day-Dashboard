@@ -36,3 +36,5 @@ Favorite tracks: America Is Waiting, Mea Culpa, Regiment, Help Me Somebody, The 
 Least favorite track: Moonlight in Glory
 
 # Aidan's review
+
+Hargrove described this, along with Only A Lad as each being half of the influences that went into Remain In Light. I'm fond of Remain in Light, and despised Only A Lad, so logic dictates that I must like this album. And it is rather cool. I'm partial to afrobeat, I'm partial to vocal samples, and I'm partial to Eno's bullshit, so a lot of this album ends up working for me. It's interesting how Eno managed to both create the ambient genre with Music For Airports as well as pioneer the use of vocal samples that a lot of ambient artists would incorporate far later. Unfortunately, the album works best when the grooviness is juxtaposed with serious vocal samples, and towards the second half, the quality and quantity of samples drops off. Still a very cool album, and one which has influenced a lot of albums I really like.

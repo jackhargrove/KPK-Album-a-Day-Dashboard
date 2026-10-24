@@ -38,3 +38,5 @@ Favorite tracks: Oden Ride over Nordland, A Fine Day to Die, The Golden Walls of
 Least favorite track: For All Those Who Died
 
 # Aidan's review
+
+Saying that a black metal song is too fast is like saying that post rock song doesn’t have enough singing, but I did not enjoy the faster parts of this album. The atmospheric opener and closet are really cool, as are the title track and A Fine Day To Die. But when the tempo speeds up, it feels like speed for its own sake, as the vocals struggle to keep up. Holocaust was my least favorite track, it felt like a bad punk song with a tempo so fast the audible lyrics were reduced to yelling the names of various atrocities. Dies Irae features both a breakneck opening and a more interesting middle section. The fast section towards the tail was the only point where I appreciated the top speed because it actually has a contrast and a mood built up before thumping on the bass drum with a hyperactive foot. Overall, one of my favorite metal albums so far, really liked the driving guitars at parts and thought the vocals managed to strike a good balance between the demands of the genre and being understandable.

@@ -38,3 +38,5 @@ Favorite tracks: A Life of Possibilities, Memory Machine, What Do You Want Me to
 Least favorite track: I Love a Magician
 
 # Aidan's review
+
+One of the definitive indie rock records, this one never really reached the “great” level for me. The beat’s a little too herky jerky for at times on tracks like Memory Machine and Girl O’ Cock and I don’t relate to the lyrics to the same extent that Hargrove does. I also don’t have any DC affinity for them. Still, songs like A Life Of Possibilities, 8 1/2 minutes and especially You Are Invited are all timers. The dance influences are really cool, but it’s a very weird mix with the more hectic sections. The lyrics often have moments of greatness and are never dull. Overall, the album is just all over the place, landing a lot of great ideas but never settling into a groove. It’s an absolutely a preference thing, but I’ve always favored records that maintain a sound all the way through, for better or worse. Probably still among my upper echelon of “cult status 90s to early 00s indie rock records”, slightly above The Meadowlands and below Moon & Antartica amidst a crowded field.

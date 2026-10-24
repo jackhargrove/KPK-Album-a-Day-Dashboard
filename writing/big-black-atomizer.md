@@ -17,6 +17,7 @@ Similar Albums: The Jesus Lizard - *Goat*, Daughters - *Daughters*, Flipper - *G
 
 # Write-up
 
+I already did a very exhaustive write-up of Big Black for Songs About Fucking, so I'll just supplement it with some minor details. Atomizer is the first full length album that Big Black put out. The opener, Jordan, Minnesota is a reference to a child pornography ring that was uncovered in Jordan. On this album, and all Big Black albums, "Roland" is credited as the drummer. Of course, Big Black did not have a drummer, "Roland" being the brand of drum machine that Albini used for his first releases. The band was so happy with how this album turned out that they put a sticker on their next EP warning it wasn't as good as Atomizer, a move which Sonic Youth ripped off for their own EP, Master=Dik.
 
 # Hargrove's review
 
@@ -33,3 +34,5 @@ Favorite tracks: Jordan, Minnesota, Passing Complexion, Big Money, Kerosene, Sti
 Least favorite track: Strange Things
 
 # Aidan's review
+
+We did Songs About Fucking pretty recently, so I feel that it's only natural to compare the two. Atomizer lacks the charisma of its successor, there's nothing as funny as The Power of Independent Trucking or Bad Penny, and I personally find the whole industrial rock fascination with child abuse as seen in Jordan Minnesota very gross. The lyrics are buried deeper in the mix here too, and that's only right because of how nice the guitars are here. I loved the guitar sound on Songs About Fucking and this is even better. The riff on Kerosene is so alien, and the artificiality of the drum machine contrasts so well with the maniacal, angular guitars. Lyrically, Kerosene, Bazooka Joe and Passing Complexion are interesting enough to warrant mention, but nothing's that great. It feels wrong that an industrial/punk record can sound good, but this really does. Artistically purer and possibly superior than Songs About Fucking, and that makes up for its lack of charm.

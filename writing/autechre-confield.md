@@ -17,6 +17,9 @@ Similar Albums: Orbital - *In Sides*, Various Artists - *The Fire This Time*, Ma
 
 # Write-up
 
+Autechre (pronounced "aw-tek-er") is an English electronics duo formed in Manchester in 1987. Its two members, Rob Brown and Sean Booth, were both members of the graffiti and breakdancing scene in Manchester at the time. The two chose their name from typing random letters until they found something that sounded nice. In 1992, they signed to local Warp Records. They were put on the map along with other local artists when Warp Records' compilation album, Artificial Intelligence, garnered critical attention, becoming a cornerstone for the growing genre of  "Intelligent Dance Music", a label, like most of the genre, Autechre thinks is stupid. Also featured on Artificial Intelligence was "The Dice Man", an alias for Aphex Twin. The two released their debut album, "Incunabula", a year later, which was mostly just a compilation of old material. Their second album and third album each shifted them further away from the melodic sound of their debut album, moving more towards experimental and ambient techno.
+
+Confield was their sixth studio album, and among their most abstract. The duo moved even further away from melodies towards more abstract sounds. Despite their roots in making club music, this album's music mostly came from the ideas that they had been unable to make work in a club environment. The duo also incorporated techniques from process music, using the music programming language Max. They called their method "the system". The album remains one of their best liked works. The duo are still making music to this day, with their most recent release coming in 2020. The band is also known for their pitch black shows, which the duo finds more immersive. They have also been involved with a collective known as "Gescom" that has released 10 EPs and two albums. Not much is known about the collective besides the involvement of Autechre, as the members are anonymous. Autechre cites Coil as one of their biggest influences, and in turn Charli XCX has shouted them out as an influence on her.
 
 # Hargrove's review
 
@@ -31,3 +34,5 @@ Favorite tracks: VI Scose Poise, Cfern, Pen Expers, Lentic Catachresis
 Least favorite track: Parhelic Triangle
 
 # Aidan's review
+
+What a weird album. It took me a few listens to get my head around it, but the album it reminded me the most of was Metal Machine Music. Both albums were interested in the shapes and textures they could evoke rather than sound. Confield has melodies too, and the best songs are where you can hear the extended melodies juxtaposed the fascinating repetitive textures. The opener VI Scose Poise does it pretty well, but where it shines the most is on Pen Expers, Sim Gishel and Lentic Catachresis. At times, the melodies aren't as compelling, causing the songs feel too repetitive, like on Parhelic Triangle and Bine. It's an acquired taste of an album, and it's certainly cool, but the main draw was the novelty of the sounds. Cool enough, and I'm happy I listened to it, but not something that I have a burning urge to come back to.

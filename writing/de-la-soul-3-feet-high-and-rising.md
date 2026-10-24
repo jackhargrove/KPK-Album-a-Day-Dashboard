@@ -38,3 +38,5 @@ Favorite tracks: (3 Is) The Magic Number, Jenifa Taught Me (Derwin’s Revenge),
 Least favorite track: Tread Water
 
 # Aidan's review
+
+This feels like the counterpart to Illmatic. Listening to both, I felt like I gained a much better understanding of the lineage of rap albums that I had listened to. While I loved Illmatic, my feelings on this album were more mixed. When it's good, it's great, on songs like the title track, Eye Know and Me Myself and I. The skits are honestly quite good too, despite the long history of misses that they would inspire. The real issue is the jokier songs, like Take It Off and Potholes in My Lawn, which don't really land and lack the groove that the better tracks do. It's slickly produced throughout, which prevents it from ever being too unpleasant, but those tracks just make it feel dated and tacky. Enjoyable listen, and some good songs, but as a whole my esteem for this album is more for the history than the actual music.

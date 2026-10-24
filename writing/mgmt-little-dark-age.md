@@ -36,3 +36,5 @@ Favorite tracks: She Works Out Too Much, Little Dark Age, When You Die, TSLAMP, 
 Least favorite track: James
 
 # Aidan's review
+
+The rare 2010-ish indie album that I hadn't heard in full, this has some great singles. "Me and Michael", "When You Die" and the title track are all well written, catchy singles. "She Works Out Too Much" is basically a below average Ariel Pink idea executed well. "TSLAP" is solid, and the rest of the album is mostly forgettable. This is basically the standard for every synth pop album we've had, really solid singles, and the remainder coming out somewhere between fine and barely tolerable. I'll give this album points for having 3 amazing songs, while most of its peers top out at 2, and the supporting cast of tunes are about average for the genre. It's also interesting to see the next step of pop evolution after Ariel Pink, before it got crossbred with the output of Oneohtrix's samples and James Ferraro's sound effects. Fun, light fare.

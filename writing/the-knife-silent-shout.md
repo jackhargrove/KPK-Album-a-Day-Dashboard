@@ -34,3 +34,5 @@ Favorite tracks: Silent Shout, Neverland, We Share Our Mothers’ Health, Marble
 Least favorite track: Still Light
 
 # Aidan's review
+
+Synth pop with a weirdly voice is a tried and true strategy, and it works as well here as it did for Bjork and Grimes. It's been over a year from the last The Knife album and there's no "Fracking Fuel Injection" on here, but the beats are also more subdued with the exception of "Like a Pen". There are some great choruses on "Marble House" and "One Hit" and the vocals work really well in contrast with the bouncy synth beats. The less bouncy songs like "From Off to on" and "Still Light" aren't as good and weigh down the back of the album a bit, but the highs are as good as most of the other synth pop stuff I've heard and liked.

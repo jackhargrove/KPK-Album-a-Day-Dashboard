@@ -38,3 +38,5 @@ Favorite tracks: Stay Here, Big Strong Boss, Blackout, Power for Power, Right Wr
 Least favorite track: Freak
 
 # Aidan's review
+
+I was not a huge fan of Swans' lighter stuff and I did not find newfound love for Gira's work at his heaviest. I can appreciate what he's doing at an artistic level, and it's certainly interesting in theory. In practice, it's a grind to listen to even at a measly 36 minutes. The contrast between the intense aggression of Gira's voice and the guitars with the generally slower tempo in the album is a unique combination. The closest thing I've heard to it is the awful Brainbomb album. This isn't quite that bad, it's more interesting and sounds like church bells in comparison to that Swedish dreck. Still not something I'd recommend to anyone who's bought into Swans.

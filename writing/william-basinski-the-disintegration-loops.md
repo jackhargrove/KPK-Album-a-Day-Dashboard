@@ -37,3 +37,5 @@ Favorite tracks: dlp 1.1
 Least favorite track: dlp 2.1
 
 # Aidan's review
+
+As Ambient 1 established, I'm a sucker for tape loops and this is another brilliant ambient album incorporating them. What really unlocked Ambient 1 for me was hearing it performed live and feeling the tenuousness of the music as the environment actively rebelled against it. Here the result is quite similar, as Basinski places his simple melodies in conflict with the ravages of time in the form of the mechanical limits of magnetic tapes. It's strikingly haunting and beautiful to hear flaws start to whisper and then slowly advance to take over the entire melody. I feel a bit put off by his use of reverb, which makes it feel less pure of an album to me, but it's still a remarkable achiev

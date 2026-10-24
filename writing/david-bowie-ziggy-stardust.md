@@ -40,3 +40,5 @@ Favorite tracks: Five Years, Soul Love, Moonage Daydream, Starman, Lady Stardust
 Least favorite track: It Ain’t Easy
 
 # Aidan's review
+
+All timer album, if aliens did need to pick a messiah to save us all via Rock and Roll, it would probably have been Bowie. Rock and roll suicide was my favorite track, but I wouldn’t disagree with someone highlighting pretty much any track, it’s a otherworldly album by a otherworldly artist. Your dad probably thinks it’s the greatest album ever and he might be right.

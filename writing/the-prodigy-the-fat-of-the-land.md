@@ -36,3 +36,5 @@ Favorite tracks: Smack My Bitch Up, Breathe, Serial Thrilla, Narayan, Firestarte
 Least favorite track: Fuel My Fire
 
 # Aidan's review
+
+Smack My Bitch Up is nearly as good as its music video, which I am very glad to have seen in between waves of it being scrubbed from the internet. It's an adrenaline rush of an opener, and sets the stage nicely for what the rest of the album is going to be, high energy rave music that screams late 90s as much as Slick Willy or the Spice Girls. None of the songs areas good as the opener, but with exception of the annoying rap on "Diesel Power",  there's no real weak tracks here. My main gripe is that the album stretches out to a near hour and there's not enough hit singles in here to keep the energy going quite that long. I can see why people who love rave music adore it, but I found it merely pretty good.

@@ -38,3 +38,5 @@ Favorite tracks: The Piano Drop, In the Fog I, In the Fog II, Hatred for Music I
 Least favorite track: No Drums
 
 # Aidan's review
+
+Really cool album, had no clue what it was going into it and really enjoyed it both ambient and actively. Strangely beautiful, evokes a lot of the same feelings as Godspeed, but via a completely different method. It’s the rare record that’s incredibly interesting to think about and listen to. Virgins was also great. It’s hard to drill down into specifics because this album just floats above your perception for a lot of it, but it’s never not beautiful.

@@ -39,3 +39,5 @@ Favorite tracks: True Will, Generation, Tragic Laurel, Glory Bronze, Veins of Go
 Least favorite track: Sun Light
 
 # Aidan's review
+
+Finally an answer to "what if a metal album didn't do anything annoying". This album throws out the annoying double bass drum, uses the howling vocals just enough to create an atmosphere that contrasts with the softer parts and more than anything else, keeps a constant sense of momentum. The drumming great, and HHH has a knack for perfectly spacing out the softer moments, whether it's the washed out guitars on Sun of Light, the weird chorus on Glass Earth, or the keyboard on Helix Skull. HHH is pretty explicit about this in her manifesto (which manages to both make sense and keep the same manic energy that attracts people to worse manifestos) about how her vision of black metal is the creation of tension and the release, the latter of which is what my least favorite metal albums lack. Great, inventive album, and going to be hard to dislodge as my favorite metal album.

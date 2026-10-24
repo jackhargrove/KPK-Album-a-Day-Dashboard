@@ -36,3 +36,5 @@ Favorite tracks: Bell, Pancake, Jeremy Parker, Park the Car by the Side of the R
 Least favorite track: Wait Forever
 
 # Aidan's review
+
+This and mbv's Isn't Anything are probably the two most similar albums on this list. I'm not much for recognizing guitar lines and it took me 10 seconds to find ones on this album that were completely ripped. There's some originality here, with more of an American slacker rock sound beyond the "swirlie" guitars. When the melody wasn't buried in mountains of effects, there were some cool songs like Tree Chopped Down and Wrong Tube. Still, the fact that I'm not confident in my ability to identify songs from this album vs Isn't Anything makes me hesitant to rate it much higher.

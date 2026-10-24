@@ -38,3 +38,5 @@ Favorite tracks: I Woke Up, Moulin Rouge, Song to the Siren, Jungle Fire, Down b
 Least favorite track: Starsailor
 
 # Aidan's review
+
+I'd heard some of Jeff Buckey, Tim's estranged son, who, like his father, released acclaimed music before dying young. The similarities end there. Grace by Jeff features an endlessly liscensed cover of Leonard Cohen's "Hallelujah". There's a strong blues influence on here. You hear some Mothers-esque licks on the opening and closing tracks and Buckley does well to accompany them with a proper blues wail. The center of the album is more conventional and folky, with Moulin Rouge and Song to the Siren being rather conventional and enjoyable folk songs. There's impressive vocal moments from Buckley and there's a lot of moments that are good, especially in the bluesy sections. But it never rises to a really great song and too often the experimentalism doesn't land and the songs flop. The title track is the worst offender, running nearly 5 minutes with heavily treated vocals and no hint of mercy from a drum beat. We've got another Buckley in the pipeline, and I hope it's better.

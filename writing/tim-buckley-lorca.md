@@ -36,3 +36,5 @@ Favorite tracks: I Had a Talk with My Woman, Nobody Walkin’
 Least favorite track: Anonymous Proposition
 
 # Aidan's review
+
+The heavier influence of jazz on Lorca made it easier for me to process the experimentalism, considering we're 29 jazz albums in and a solid third have had "avant-garde" tacked on as a descriptor. I don't really have strong opinions on the lyrics, I'd never heard of the album's namesake besides as a namedrop in "Spanish Bombs" (and then only when Wikipedia informed me that I had), but the blend of folk and jazz mostly works. Buckley's got a nice voice, and he hits all of the expected themes, Jesus, women and children. The opening lines to "Nobody Walkin'" are a bit poignant for all the wrong reasons considering Tim's abandonment of his son Jeff. Still, Lee Underwood's guitar pleasant, especially on the closing segment of "I Had a Talk with My Woman". The only song that really didn't work for me was the title track. I'd guess there's something technically interesting going on with his vocal melodies but it just doesn't work on a visceral level for me. Still an album I didn't hate listening to.

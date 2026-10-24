@@ -39,3 +39,5 @@ Favorite tracks: I Ain’t No Joke, My Melody, Paid in Full, As the Rhyme Goes O
 Least favorite track: Eric B. Is on the Cut
 
 # Aidan's review
+
+The duo come in swinging with "I Ain't No Joke", a tune that sounds a decade ahead of their time, and then spends the rest of the album recreating the magic all too rarely. Even the title track only keeps up the quality for half the song before devolving into filler for the second half. The momentum is cut off at the knees after every good song. There's variety in the filler, from the cheesy rhymes of "As the Rhyme Goes On", the plethora of record scratches on "Eric B. Is On The Cut" to the disaster that is "Chinese Arthmetic". It's just not a full album. Shame because the proper songs are fantastic, and I'll even give some credit to "My Melody". I appreciate this history behind this album, but there's 40 minutes of stuff that won't make the history books.

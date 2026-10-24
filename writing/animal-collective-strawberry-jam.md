@@ -34,3 +34,5 @@ Favorite tracks: Peacebone, Unsolved Mysteries, Chores, For Reverend Green, Fire
 Least favorite track: #1
 
 # Aidan's review
+
+I continue to find the melodies of Animal Collective rather hit or miss. Here, the standout tracks are "Peacebone", "For Reverend Green" and especially "Fireworks". The group's ability to create textures are still breathtaking, giving even the lesser songs a lot of merit. The drums on "Fireworks" are as good as anything since STGSTV, and the patter towards the middle is to die for. The "bonefish" sample on "Peacebone" is terrific and "For Reverend Green" is among their best lyrical songs, which, while not usually my reason for listening to AmCo, is still a notable accomplishment. I'm less enthused about the back half, particularly "#1", but it's serviceable enough. On my first listen I had this album slightly above MPP, and the two have basically the same flaws in my eyes, but MPP discards its bad ideas quicker, so I'll give it the edge. Both are good, not great albums in my eyes.

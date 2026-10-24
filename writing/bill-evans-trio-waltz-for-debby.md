@@ -39,3 +39,5 @@ Favorite tracks: My Foolish Heart, Waltz for Debby, Milestones
 Least favorite track: Some Other Time
 
 # Aidan's review
+
+What a great trio. The combination of a steady drum, a nice melody on a piano and the improv mostly being on the bass just works so well. Usually when there is some big improv section, jazz records tend to feel a little stationary, as everyone stops to let a big solo happen. Here, the bass is just allowed to add a little extra while the piano and drums keep on humming along. The title track is one of the best jazz pieces I've heard, and while the other pieces don't quite measure up, they're still well worth listening to. It just flows along, exactly what I'd expect out of cool jazz, and it's incredibly pleasant to listen to. The live aspect also adds a lot to the album, not just the applause, but also the faint chatter that you can hear in Some Other Time and Milestones adds a lot to the atmosphere of the album. One of the best jazz albums we've listened to so far, highly recommend

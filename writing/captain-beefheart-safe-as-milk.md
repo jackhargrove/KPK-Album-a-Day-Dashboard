@@ -39,3 +39,5 @@ Favorite tracks: Sure ‘Nuff ’n Yes, I Do, Zig Zag Wanderer, Dropout Boogie, 
 Least favorite track: Yellow Brick Road
 
 # Aidan's review
+
+The same insane ideas and ordered chaos of Trout Mask Replica is present, but here's it's directed towards delivering a tightly packed blues album that sound surprisingly poppy. More than anything else, this reminded me of Pom Pom between Beefheart's baritone voice, the bizarre lyrics and the way it jolts from song to song, each built around a new earworm of a melody. Dropout Boogie specifically sounds exactly like a Pink song between its snarled vocals, bass heavy melody and vague allusions to something darker. The album is  groovy in all of the right ways, tightly packed with great songs and never even hints at the obnoxiousness of Trout Mask Replica. Great bluesy album, good enough to convince me that there's actual artistic talent if not merit behind TMR.

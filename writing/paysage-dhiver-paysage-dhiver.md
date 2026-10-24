@@ -32,3 +32,5 @@ Favorite tracks: Welt aus Eis
 Least favorite track: Der Weg
 
 # Aidan's review
+
+Yet another atmospheric black metal album and there's not a whole lot to differentiate them. There's different instrumental interludes, slight differences in texture, and even different cover art. So why did I enjoy this one more than its twins? I think that part of it is how restrained the transitions are, they're not sudden and it's somehow easy to drift from the harsh chords of metal to the smooth synths despite the gulf between the two. I also have a fondness for the drum on the second track. But beyond that, there's no amazing verse or magical crescendo to point to as a marker of quality. I just had a better time listening to it than the 4 or 5 other albums that probably sound identical to the casual listener. Perhaps it's Stockholm Syndrome? Regardless of the cause, pleasantly surprised that I enjoyed this one

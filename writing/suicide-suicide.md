@@ -17,6 +17,9 @@ Similar Albums: Throbbing Gristle - *20 Jazz Funk Greats*, Xiu Xiu - *Knife Play
 
 # Write-up
 
+Suicide was an American duo consisting of vocalist Alan Vega (real name Alan Bermowitz) and instrumentalist Martin Rev (real name Martin Reverby). Both were artists in NYC during the late 60s and early 70s. Vega was initially a painter, then switched to making light sculptures out of electric junk. Most of his work was at two galleries, MUSEUM: A Project Of Living Artists, which is now a wine store, and OK Harris Gallery, which is still open to this day. Vega saw the Stooges in 1969, which inspired him to start making music, and in 1970, he met Rev, and formed a band, along with Paul Liebgott on guitar. The band's name came from a Ghost Rider comic book called "Satan Suicide". 5 years before the Sex Pistols were formed, the trio were billing themselves as "punk music". Soon after, Liebgott left the band, making it a duo. The band was seen as part of the NYC glam punk scene, with close ties to the New York Dolls, the best known band out of the scene.
+
+Their eponymous debut album was recorded in 1977, after the band had been playing for 7 years. Most of the songs were already worked out and it only took four days to record the album, with the only major change being the lyrics in Frankie Teardrop. The record was produced by New York Dolls manager Marty Thau and producer/composer Craig Leon, who had worked with Blondie and The Ramones. At the time, it was mostly disliked, with Rolling Stone calling it "absolutely puerile". In retrospect, it's become one of the key American punk albums, along with contemporary releases like Horses, Marquee Moon and the Ramones debut. M.I.A. sampled Ghost Rider on her third album, and Bruce Springsteen has said that Frankie Teardrop is a major influence on "State Trooper" off of Nebraska. Sun O))), Spacemen 3 and Lydia Lunch all contributed covers to a tribute album in 2008. Other artists who have listed the duo as influences include Devo, Daft Punk, Aphex Twin, Nick Cave, Steve Albini, Ariel Pink, Nine Inch Nails, Radiohead and New Order. Suicide would continue releasing music from time to time for the next 30 years. Henry Rollins would announce Vega's death in 2016.
 
 # Hargrove's review
 
@@ -31,3 +34,5 @@ Favorite tracks: Ghost Rider, Cheree, Frankie Teardrop
 Least favorite track: Girl
 
 # Aidan's review
+
+Reading that this was made by a duo of artists living in NYC in the 70s makes so much sense. The vague conceptual songs with titles like "Johnny" and "Girl", the sporadic pop culture references and digs at Nixon, the stark instrumentation. The most surprising thing about this album is that "Che" is anti-Che. The combination of minimal synth and punchy lyrics works at moments, but it's the only thing this album does. I suppose it's fitting for artists to make an album that's more interesting for its style than its music. The opening of "Ghost Rider" is cool enough to warrant a mention from me, but the entire album feels like it's clenching tight to the synth, never willing to let go and do something more fun. It's just cool, and nothing more.

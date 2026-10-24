@@ -17,6 +17,9 @@ Similar Albums: Joni Mitchell - *Blue*, Bruce Cockburn - *Dancing in the Dragon�
 
 # Write-up
 
+While Bob Dylan may have won the Nobel, few artists better embodied the fusion of literature and music than Leonard Cohen. After trying to be a novelist and poet with mixed success (although his second novel, Beautiful Losers has gained a critical appreciation), Cohen turned his considerable talents to songwriting. When he first began writing songs, he felt bereft of musical talent, forgetting the words to his songs when he performed, and even (probably falsely) claiming to be unable to sing or play the guitar at one point. But thanks to the support of Judy Collins, who covered Suzanne, now one of his most famous songs, he managed to land a record contract and released the beloved Songs of Leonard Cohen. Songs of Love and Hate was his 3rd album, and was part of his earlier oeuvre, as he later branched out from strictly folk, working with Phil Spector and incorporating world music at different times.
+
+Cohen's artistry was intertwined with his personal life. His songs of love and longing and his reputation as a ladies man were mutually dependent, and many of his better known songs were written to his past flames. His indiscriminate faith is also present in his music, he was born a Jew and practiced for all of his life, but also dabbled in everything from Scientology to Communism to the GOP. Hallelujah, his best known song, is an excellent representation of the broad strokes of his artistry. His later life was not without struggle, as he was ripped off by a manager and forced to tour well into his twilight years to provide for his family, but he took it as a blessing, calling it "a most fortunate happenstance". He died one day before the 2016 election.
 
 # Hargrove's review
 
@@ -33,3 +36,5 @@ Favorite tracks: Avalanche, Dress Rehearsal Rag, Famous Blue Raincoat
 Least favorite track: Diamonds in the Mine
 
 # Aidan's review
+
+As previously mentioned, I really liked Cohen’s debut and I didn’t feel that this measured up. Famous Blue Raincoat, Avalanche and Diamonds in the Mine are great, but I didn’t feel like there was a whole album to back them up. Diamonds in the Mine especially stood out to me, with Cohen altering his normally serene voice into a growl to superb effect. The album broadly felt less personal, partially because of how inscrutable the lyrics were at parts, occluding the sort of interpretation that leads me to really love a song. I also think that Cohen is strongest when the lyrics feel personal, and his voice can combine to create some really intense moments, but a lot of songs on this are rather abstract. The guitar playing is fantastic though, the repetition combined with Cohen’s voice is hypnotic. Overall, didn’t hate the album, will probably listen to it again, just wasn’t what I was looking for from Cohen. Pretty similar feelings towards this and Blonde on Blonde, couples songs I love, but don’t embody what I like best about a great artist.

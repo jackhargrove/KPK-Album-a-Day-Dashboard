@@ -38,3 +38,5 @@ Favorite tracks: Beauty and the Beast, Joe the Lion, Sons of the Silent Age, V-2
 Least favorite track: Moss Garden
 
 # Aidan's review
+
+The title track is the best song I've heard in at least a month. It's a breathtaking example of how a lack of structure can unleash genius, as Bowie manages to ad lib the most powerful lyrics in his discography. The rest of the tracks are good, but it's the instrumental arrangements that make them work. The freeform style isn't too much of a detriment to Bowie, since his best lines have rarely rhymed, but it lacks the edge that makes some moments on Ziggy so good. I was ambivalent with the split between pop and ambient on Low and it's the same here. "The Secret Life of Arabia" is the best of the back half, but the first half is the real prize here. Fripp's stylish riffs elevate this album despite its inconsistency, but on our 4th album from Bowie, I've yet to hear a bad song, only mediocre ones, which is a feat all on its own. And while this album does not lack for mediocre songs, neither does it lack for good ones, and the truly great title track makes it worth listening to.

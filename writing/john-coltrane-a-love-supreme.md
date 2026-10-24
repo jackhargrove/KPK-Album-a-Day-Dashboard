@@ -17,6 +17,9 @@ Similar Albums: Alice Coltrane - *Journey in Satchidananda*, Pharoah Sanders - *
 
 # Write-up
 
+The genesis of A Love Supreme came in 1957, when John Coltrane was playing saxophone with fellow jazz legend, Miles Davis in "The First Great Quintet". At the same time, he was also using heroin frequently, not an uncommon thing in the jazz scene. However, when it began to affect his playing, Davis, who had suffered from his own addiction 4 years prior, fired him from the band, spurring Coltrane to find religion and quit his habit. Coltrane writes in the album's linear notes, "In the year of 1957, I experienced, by the grace of God, a spiritual awakening, which was to lead me to a richer, fuller, more productive life." This album was his expression of this spiritual awakening, an expression so profound that he would be worshipped as a god and later a saint after his death at an African Orthodox Church in San Francisco.
+
+The album was recorded in a single session in Englewood Cliffs, New Jersey, across the river from Manhattan. The album was heavily improvisational, and was intended to replicate the live performances of the recording quartet, even turning down the lights in the studio to replicate the feeling of a jazz club. The first track is the most famous, opening on a four note bass melody which Coltrane eventually repeats in each of the 12 possible keys before the chant of the album cover, the first of its kind in jazz. The album features Elvin Jones on drums, who was also on Speak No Evil, as well as Jimmy Garrison on double bass and McCoy Tyner on piano. The album would be recognized as a masterpiece in modal jazz as well as the founding work in the new genre of spiritual jazz.
 
 # Hargrove's review
 
@@ -31,3 +34,5 @@ Favorite tracks: A Love Supreme, Pt. II - Resolution, A Love Supreme, Pt. III - 
 Least favorite track: A Love Supreme, Pt. I - Acknowledgement
 
 # Aidan's review
+
+The most accessible jazz album we’ve done so far, and my favorite. We’ve only done albums lead by the sax, so I’m curious to see how other will compare, but Hargrove is right in calling this a platonic ideal of jazz. The cymbals wash over you while the sax takes an undeniably vocal-esque role. Coltrane is amazing, there’s moments where the sax starts to strain that are as emotional as anything I’ve heard from a lone instrument. The first track was my favorite and probably the easiest to understand, with a simple 4 note melody that Coltrane takes everywhere. I didn’t love the (intentionally) harsh sax on Shape of Jazz to come, but Coltrane’s sax is as smooth as butter. Great album, wish we did it to start jazz off.

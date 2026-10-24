@@ -38,3 +38,5 @@ Favorite tracks: Witch Hunt, Dance Cadaverous, Speak No Evil, Wild Flower
 Least favorite track: Infant Eyes (sorry Dan)
 
 # Aidan's review
+
+Overall enjoyable, I did think that the songs that leaned on scales as a basis were a tad grating for that reason I did not enjoy wild flower as much as Hargrove. Title track was my favorite, wish I knew enough to make pertinent points but I really don’t.

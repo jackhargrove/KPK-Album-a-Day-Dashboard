@@ -38,3 +38,5 @@ Rating: 1/10
 (Note: for what it’s worth, in my scale I actually prefer a 1/10 album to a 5/10 album, because a 1/10 album tries and fails, whereas a 5/10 album doesn’t try at all)
 
 # Aidan's review
+
+This was my 3rd or 4th go at the album, the second time I listened through and the first time I was able to pay attention to it without it being absolutely miserable. I would say that there are parts that I thought were great, and I think that listening through it I would find more parts that I liked. There’s some quote on Wikipedia about it being the closest thing popular music has to an analog to “high art” and I can see the comparison to an early work by a famous author. There are parts that are incredibly good and catchy which are then gone and then disappear into more sing song lyrics and off beat guitar. I didn’t enjoy listening to it, but I could see myself discovering new parts I like about it each time I listen enough to make me want to listen to it again in a while. Two songs that I thought were actually good were Ella Guru and The Blimp.

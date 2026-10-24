@@ -35,3 +35,7 @@ Favorite tracks: The Wizard, Behind the Wall of Sleep, N.I.B.
 Least favorite track: Evil Woman
 
 # Aidan's review
+
+(2009 Remastered Version)
+
+I don't know what I was expecting but it wasn't that. The opener is sick, but I'm left with the impression of it being just a solid classic rock album as opposed to the extreme metal that we've been doing weekly. Didn't love the bluesier elements at times, in particular the harmonica on the Wizard feels really out of place. I was surprised at how strong the prog influences were, and I really enjoyed those, especially on the fifth track (on Spotify). I can understand why people can love this band, they are straightforward and effective, there's no irony and the provocation doesn't feel childish, they just love drugs, rock and roll and the Mephistopheles, Prince of Darkness. While it drags at times, as a whole it's a pretty effective record, and far better than my (low) expectations. I do wish that this was our initial metal track, because it makes the influences a lot clearer than its successors do and when the pure metal aspects come, I really enjoyed them.

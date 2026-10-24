@@ -40,3 +40,5 @@ Favorite tracks: The Chronic (Intro), Fuck Wit Dre Day (And Everybody’s Celebr
 Least favorite track: Lyrical Gangbang
 
 # Aidan's review
+
+Dre is not a good rapper. But damn can he produce and he has the good sense to put Snoop Dogg, who can rap, on most of the tracks. Snoop is particularly great at making incredibly fun lead-ins to segments (one, two, three and to the four), which keeps this album going throughout. This sense of fun is remarkable persistent, even the really dumb skits like "Deeez Nuts" are a lot better than they have any right to be. This manages to compensate for the mean side of the album, which is a lot less enjoyable. The homophobic disses at Eazy-E, "The Doctor's Office" and the disses on "$20 Sack Pyramid" have all not aged well. It's a credit to that production that it's able to lift this album to the heights that it reaches. Most of the lyrics aren't particularly interesting, but the beats are just so catchy that you forget how cliche Dre's gangsta persona is and just bob your head.

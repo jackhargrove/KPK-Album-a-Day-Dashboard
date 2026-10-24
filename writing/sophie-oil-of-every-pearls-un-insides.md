@@ -36,3 +36,5 @@ Favorite tracks: It’s Okay to Cry, Ponyboy, Faceshopping, Is It Cold in the Wa
 Least favorite track: Pretending
 
 # Aidan's review
+
+Going from "It's Okay to Cry" to "Ponyboy" is one hell of a shock to start off an album, and is a good showcase of the range of SOPHIE. This album runs the full gamut from borderline ambient pieces to normal pop songs to hammering industrial bass lines. The former two are done extremely well, and while "Ponyboy" is a cool song, "Whole New World" outstays its welcome, and causes the album to end on a bit of a sour note. I really wish there were more lyrical sections, because the songs that have them like “Immaterial” and “Is It Cold In The Water”Iwork really well. The production is obviously excellent, with fantastic watery synths that sound like nothing else I've heard. While the variety is impressive it too often works against the album, as it's not quite good enough to allow the mood to shift as much as it does. It ends up feeling more like an audition tape, with a bunch of extremely promising songs that don't coalesce into anything more than the sum of their parts. Sort of fitting for a career that ended far too early.

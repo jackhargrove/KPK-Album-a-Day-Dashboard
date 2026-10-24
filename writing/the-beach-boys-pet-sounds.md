@@ -38,3 +38,5 @@ Favorite tracks: Wouldn’t It Be Nice, Don’t Talk (Put Your Head on My Should
 Least favorite track: Sloop John B
 
 # Aidan's review
+
+Second half better, Sloop John B is one of my favorites from the album beyond the two big hits. I don’t have any particular affection for the album, it feels more influential than enjoyable to me. The Spector influence definitely shines through, and the production is amazing, but the songs aren’t nearly as interesting as the two albums most commonly considered its peers, Blonde on Blonde and Revolver. Still, it’s no damning mark to not live up to two of the greatest albums of all time, and it’s a good album.

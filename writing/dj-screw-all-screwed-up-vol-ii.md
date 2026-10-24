@@ -38,3 +38,5 @@ Favorite tracks: Short Texas, Wreckless, Pregnant Pussy, After I Die, Backstreet
 Least favorite track: 13 Ways
 
 # Aidan's review
+
+I'm not a fan of Southern hip hop and Screw's production is not making the difference for me. It occasionally has its moments when the absurdity makes for a humorous one-off like on "Pregnant Pussy" but it's nigh impossible to make an entire album off of one-offs, especially when every Southern rap album we've done has eclipsed the hour mark. That's not to take away from Screw's production. The horn on "After I Die" is as smooth as anything, and the slowed down production works for all of the songs. If I liked Southern hip hop more, I would really like this album. And if my grandmother has wheels, she'd be a tricycle. As it stands, she's a lovely old woman and I'm just impressed by the production on this album.

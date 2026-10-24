@@ -41,3 +41,5 @@ Favorite tracks: Autumn Leaves, Love For Sale
 Least favorite track: One for Daddy-O
 
 # Aidan's review
+
+3 of the biggest names in jazz, all ones we've seen before, plus one of the great sax players of the era, this album has incredible potential. It instead just hums along, hitting all the right notes (or per one definition of jazz, not hitting any of the wrong notes), but I was just underwhelmed throughout. It's fine, but something just never clicks, it lacks any sort of noticeable individualism, partially due to its nature as an amalgamation of songwriters. The only real constant is Adderly's sax, which takes lead throughout but is often outshone by the excellent supporting cast (by no fault of his own, he's playing with legends). Love for Sale is my favorite song, it feels tender and groovy, but the rest of the album never manages to strike the same balance. Solid, sturdy, but it only soars once.

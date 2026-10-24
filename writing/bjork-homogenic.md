@@ -38,3 +38,5 @@ Favorite tracks: Hunter, Jóga, Bachelorette, 5 Years, Alarm Call, Pluto, All Is
 Least favorite track: Immature
 
 # Aidan's review
+
+I listened to this on my first pass through the list freshman year and was rather nonplussed. This time around, I enjoyed it much more, Bjork's voice is simply incredible, and her voice embodies so much emotion into turns of phrase that would sound disjointed from pretty much any other singer. The production is much more of a mixed bag, the strings are a natural fit for Bjork's voice, but the electronic beats are a bit out of left field. Sometimes they work. Bachelorette is an amazing song and the beats add a lot there. Sometimes they really don't. Pluto's beats aren't awful by themselves but when they're overriding Bjork's vocals, they have to be quite good to earn there place and they certainly don't. Most of the time, it's fine, but still sticks out in an otherwise quite ornate sounding album. Still, Bjork's voice alone makes this worth listening to and the parts where the beats match her in quality are just a bonus.

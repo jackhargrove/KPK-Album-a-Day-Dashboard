@@ -40,3 +40,5 @@ Favorite tracks: Dreams, Go Your Own Way, The Chain, You Make Loving Fun, Gold D
 Least favorite track: Never Going Back
 
 # Aidan's review
+
+Besides the 3 all time classics and 3 other songs that would be career defining for any other band, it’s kinda mid. In all seriousness, I agree with everyone who said it’s difficult to evaluate this as a full album. I certainly wouldn’t put it as an all time great, but it was an enjoyable listen

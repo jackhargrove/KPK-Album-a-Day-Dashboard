@@ -20,6 +20,11 @@ https://open.spotify.com/playlist/0IPJ5fFRMht5xJASOnioWI?si=KVHkNzLFTpWiR4cD6gMy
 
 # Write-up
 
+Young Marble Giants were a Welsh post-punk band that existed from 1978-1981 and only put out one album, which we are listening to today. The band formed from a larger band, True Wheel and consisted of lead singer Alison Stratton, and brother Stuart and Phillip Moxham on lead and bass guitar respectively. Their backing drums were played by a cousin of the Moxhams, Peter Joyce, who was a member of the band early on and had a homemade drum machine. For their albums, the band used cassette tapes of the drum machine. The name of both the band and their sole album were both inspired by “Kouros”, Ancient Greek statues ranging from 2 to 3 meters tall that depicted young nude males in marble.
+
+Colossal Youth was recorded in only 5 days and 2 total overdubs. The producer, Dave Anderson, was a former member of pioneering krautrock band Amon Düül II. After releasing their album, the band toured with influential electronic band Cabaret Voltaire and then disbanded the next year. The band has refined several times, but as of 2016 there are no plans for further reunions. Alison Stratton now works as a chiropractor.
+
+Colossal Youth has been well received, with Kurt Cobain being a particular fan, including it among his top 50 and top 10 albums of all time on separate lists as well as listing Young Marble Giants along with the Vaselines as his favorite bands. He was planning on recording a cover of Credit in the Straight World before his death, something that Hole would eventually do. Other bands to cover Young Marble Giants include Galaxie 500, Belle and Sebastian and the Magnetic Fields.
 
 # Hargrove's review
 
@@ -36,3 +41,5 @@ Favorite tracks: Searching for Mr Right, Include Me Out, Constantly Changing, N.
 Least favorite track: The Man Amplifier
 
 # Aidan's review
+
+There's a lot of bands I like that can trace their DNA back to this album. The closets comparison is Beat Happening, whose debut takes this basic formula, gets rid of a competent guitarist and makes up for it with brash sexuality. For me, the best twee songs are the ones that are bursting with emotion, both within and outside of the lyrics. In comparison, this album is frustratingly restrained, there's no big emotional moments, just consistently solid melodies and instrumentation. Even on the best songs like "Brand-New-Life", the guitar never gets out of control, it's all so polite and restrained. If they were more or less competent as musicians, I think I would like this record more, but it's just stuck in this middle ground of competence. The melodies are nice, the lyrics are solid, the drum machine and the guitar sound good, the analog production flourishes are interesting, but it's just not human enough.

@@ -36,3 +36,5 @@ Favorite tracks: Seven Angels
 Least favorite track: Like Gold and Faceted
 
 # Aidan's review
+
+Our 4th? drone metal album and this one is the OG. Not much else going for it. It's by far the most barebones, with the longest riffs and basically nothing going on besides some small fluctuations and the cymbal crashes on the third track. I like to imagine that they just set up a guitar next to an amp, went out for lunch and came back to find their album done. It's not quite that minimalistic in reality, but it's not that far off. With other drone metal albums, I found parts that I liked which gave me something to credit the broader album for creating the atmosphere for. Here, there's none of that. It's not unpleasant, but it isn't church bells either.

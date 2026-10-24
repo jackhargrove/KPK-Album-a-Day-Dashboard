@@ -30,3 +30,5 @@ Favorite tracks: The Mollusk, Mutilated Lips, It’s Gonna Be (Alright), The Gol
 Least favorite track: Pink Eye - On My Leg
 
 # Aidan's review
+
+Incredibly varied album, with some great songs. These guys went to high school a few towns over from my dad, which is weird to think about. I think it’s funny that Hargrove loves this album and despises the Sun City Girls album, because they both feel very similar to me. Both are albums that are constantly throwing ideas at the wall and have a remarkable success rate at sticking it. This album is a little less out there, the lows are a lot less low, Ocean Man is the best song on either album. Additionally, it’s got a lovable jokey feel throughout, but the wide range of styles makes it hard for me to appreciate it as a whole album. After listening to it twice, I felt like I would much rather just listen to the hits than go through the entire album. Good album, but I doubt I’ll be listening to it in full again.

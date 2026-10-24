@@ -32,3 +32,5 @@ Favorite tracks: It Could Happen to You, Early Summer, Autumn Leaves
 Least favorite track: I Want to Talk About You
 
 # Aidan's review
+
+I feel like a bit of a pseud for liking this album so much. It gets a lot of flak for getting popular mostly due to the algorithm on YouTube suggesting it a lot despite Fukui's lack of technical mastery. Listening to it, I can see how it climbed the algorithm, it's very melodic piano-led jazz that it a joy to listen to. It's also not harmed by the current fascination with Japan and Japanese jazz (if the glut of Japanese whiskey jazz bars in NYC is anything to go by). This was my sleep album for most of this week, and eventually it does start to wear thing, there's not much going on besides the piano, but as something to listen to from time to time, it's great. The opening track and Early Summer are the standouts, when the album starts to slow down it doesn't have the same emotional tenor as a Bill Evans (who was my other sleep album this week) or Herbie Hancock. It's not an all time great album, but it's certainly a solid enjoyable one.

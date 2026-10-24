@@ -46,3 +46,5 @@ Favorite tracks: Breadcrumb Trail, Nosferatu Man, Washer, Good Morning, Captain
 Least favorite track: For Dinner…
 
 # Aidan's review
+
+This was my 4th? listen, didn’t like it that much the first few times but it’s grown on me a lot. Don, Aman reminds me of early Sonic Youth a lot, and the vocals are mixed just right. Later tracks feel more anxious than enjoyable, but that’s kinda just the atmosphere of the album.

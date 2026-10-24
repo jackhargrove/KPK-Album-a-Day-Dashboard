@@ -28,3 +28,5 @@ Favorite tracks: Feedbacker, Pt. 2, Feedbacker, Pt. 3
 Least favorite track: Feedbacker, Pt. 4
 
 # Aidan's review
+
+Agree with Hargrove that it’s very similar to Flood, but simply not as good. A lot of the same elements are there, the slow buildup into some gnarly metal-esque riffs, but there’s not as many interesting ideas along the way. The tape loop on Flood was a cheap trick, but it added a lot to the record, and there’s nothing comparable here. I find heavily atmospheric tracks tend to either be incredible or forgettable and the opening section on this album definitely falls into the latter group. The vocals were fine, but they feel kinda bland on occasion, and hte language barrier doesn’t help. Pt. 3 is the worst offender, and coming off a rather empty opening, the result is a record that feels like it’s warming up for most of its run time.The second half of the album is the strongest, the outro and more harsh sections are cool, but it’s hard to walk away from the album not feeling like the first 20ish minutes was a waste of time. It’s not awful, but just listen to Flood.

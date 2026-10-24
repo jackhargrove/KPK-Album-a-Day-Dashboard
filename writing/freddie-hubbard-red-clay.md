@@ -20,6 +20,7 @@ https://open.spotify.com/playlist/6qcVvdIFoTnCxo5cbtXLmK?si=e8d947df392946c2
 
 # Write-up
 
+Freddie Hubbard was an American trumpet player. Born in Indianapolis in 1938, he moved to New York City at 20 and quickly immersed himself in the scene. By 23, he was playing with Ornette Coleman and then joined Art Blakey in the Jazz Messengers, replacing Lee Morgan. He would appear on two other records on our list, Out To Lunch! by Eric Dolphy and Speak No Evil by Wayne Shorter (our first jazz album). In 1970, he signed with CTI records and released a series of acclaimed solo albums, of which Red Clay was the first. It featured Herbie Hancock and Joe Henderson. We’ve already discussed Hancock in the write-up for Headhunters, but Joe Henderson was also prolific, appearing on Andrew Hill’s Point of Departure, Grant Green’s Idle Moments and Lee Morgan’s Sidewinder. Hubbard would also play with Billy Joel and Miles Davis later in his career. He died in 2008 from a heart attack.
 
 # Hargrove's review
 
@@ -34,3 +35,5 @@ Favorite tracks: Red Clay, Delphia
 Least favorite track: Suite Sioux
 
 # Aidan's review
+
+Great jazz album with standout performances from Hubbard and Hancock. Their give and take dynamic is great, and the electric piano is a pleasure to listen to. I listened to this probably upwards of 6 times during the week and never got tired of it. The only reason it's not higher is that there's no great outstanding moment, but merely a constellation of pretty good ones. Beyond how obviously good it is, it's been a while that we've had a jazz record that sounds so fun, which is the best way I can describe the lively interplay between Hubbard, Davidson and the 3 Davis alumni. It's as consistently good of an album that we've seen in the jazz section.

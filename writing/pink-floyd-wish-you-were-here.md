@@ -45,3 +45,5 @@ Least Favorite Track: Have a Cigar
 Rating: 7.5/10
 
 # Aidan's review
+
+Listened to this on a car ride, so not really a “pure” experience, but really liked Welcome to the Machine. Have a Cigar is funny, especially the “which one is pink?” line, but kinda feels out of place with the rest of the album. I thought the title track was a much more compelling tribute than either SOYCD. I enjoyed listening to the album, but besides Welcome to the Machine, none of it was extraordinary for me. It’s very good, but personally, it’s not something I would listen to again and again like it is for Weintraub.

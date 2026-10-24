@@ -20,6 +20,7 @@ https://www.youtube.com/watch?v=w8glrLkMpBs
 
 # Write-up
 
+The Necks are an Australian improvisational jazz trio composed of pianist Chris Abrahams, drummer Tony Buck and bassist Lloyd Swanton. The band's music is entirely roughly hour long, improvisational pieces, with their studio releases sometimes involving editing and guest musicians. All three members had played in previous bands before forming The Necks, and Sex was their debut album. Like most of their work, Sex is centered around single repeating two bar rhythm played by Swanton that all three then overdubbed their improvisations around. It is their best known work. Their live performances are similar, always improvisational. The band was once approached to play Sex live, but refused, seeing it as against their ethos. They have had collaborations with Swans and the electronic music group Underworld (the band behind the theme for Trainspotting). The Necks are still performing and touring, mostly in Europe and Australia.
 
 # Hargrove's review
 
@@ -30,3 +31,5 @@ Favorite tracks: Sex
 Least favorite track: Sex
 
 # Aidan's review
+
+This record is breathtakingly simple in its concept and breathtakingly beautiful in its execution. It's a single three note, two bar, baseline, with the trio all improving over in, and the entire thing took just two takes to record. It's hypnotic without being dreary, and over the course of an hour, the energy slowly builds, never reaching any sort of tension, but just enough that you feel it. I've been fond of heavily repetative records between Ambient 1, Disintegration Loops and Hallogallo off Neu!, and this is just another great example. I've probably listened to this upwards of 10 times this week. It's not the single most compelling piece of music, but it's so easy to listen to and feel at ease. During my first listen, I was expecting to be bored, and I think that in the hands of lesser musicians this album could be a slog, but it's a good idea executed excellently. Best new album in a while.

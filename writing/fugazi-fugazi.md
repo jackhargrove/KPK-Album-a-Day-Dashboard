@@ -35,3 +35,5 @@ Favorite tracks: Waiting Room, Bulldog Front, Bad Mouth, Give Me the Cure, Sugge
 Least favorite track: Glue Man
 
 # Aidan's review
+
+I've never been a huge fan of the DC punk output, but the guitar lines on this are great. "Waiting Room" is obviously great, but I was surprised how much I liked the rest of the album. Post-hardcore will never be the most intricately lyrical genre, but I really like the line "I never thought of dying before/I never sucked on the dying" off of "Give Me the Cure". My favorite moments on the record are the calmer ones. The pause in "Waiting Room", the guitar solo when the drums stop for a second in "Bad Mouth", and the buildups to every single track. "Bulldog Front" in particular starts off sounding a lot like a Strokes song and takes whole quarter of its runtime before crashing into a very punk chorus. I slightly prefer Picciotto's vocals to MacKaye's more yelling style, but neither is poorly suited for this album. It's a fun, groovy, tightly packed 25 minutes without a bad song. This is what a punk album should be like.

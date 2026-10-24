@@ -20,6 +20,7 @@ https://www.youtube.com/watch?v=JeUZkn3GA9I
 
 # Write-up
 
+Murmuüre is a the name of a metal project of a French man who goes only by Felix. Self-taught, Felix learned to play the guitar by playing along with Metallica's "Seek and Destroy". He started out playing in a punk band until, while touring in Germany, he suffered hearing damage, which drove him to electronic music. When he got bored with that, he started Murmuüre as a way to reconnect with the louder music of his youth. The project's name comes from "Ars Goeita", a 17th century work on mysticism. Among the lists of demons in that book was one called "Murmuur". Felix added an "e" to be unique and an umlaut because it was a metal project. Murmuüre features melodies from several films, including The Wicker Man and L'Adieu Au Soleil. Felix enjoys David Bowie and Coil, and does not plan to release any more music tied to Murmuüre.
 
 # Hargrove's review
 
@@ -34,3 +35,5 @@ Favorite tracks: Primo vere, Reincarnate, Disincarnate
 Least favorite track: L’adieu au soleil
 
 # Aidan's review
+
+An atmospheric black metal album that's basically all transitional sections, this takes a lot of albums I was lukewarm on, and strips out the parts I didn't like. The result is surprisingly cohesive, and rather pleasant. It's also an extremely scattered project here, Felix, the man behind Murmuüre, seems to have just thrown stuff at the wall. But a surprising amount of it sticks, and in a 29 minute runtime, the lack of cohesion doesn't affect it that much. The movie samples are an excellent choice, especially for a genre that I generally think of as cinematic, and the flies before the last track a particularly cool choice. It's a muddled mess, but it's charming enough to earn "creative" rather than "scattershot". Enjoyable, cool, album. It's cooler on paper than it is in practice, but that's just because "cassette released album by some random French guy" sounds extremely cool. Fun album.

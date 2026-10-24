@@ -17,6 +17,7 @@ Similar Albums: Devo - *Q: Are We Not Men? A: We Are Devo!*, The Fall - *Hex End
 
 # Write-up
 
+Our second sophomore album from a punk band this week, Wire was a four piece band whose most famous lineup consisted of Colin Newman, Graham Lewis, Robert Grey and Bruce Gilbert. Chairs Missing is the followup to Pink Flag and features a less minimalistic sound. Producer Mike Thorne, who contributed to the band's first three albums, played synth on Chairs Missing, something that would have been unthinkable for a punk band two years prior. His influence was generally greater throughout as the songs became less visceral and more intellectually and emotionally developed. The album's title comes from English slang "got a few chairs missing" for someone who's a bit off, not unlike the phrase "got a few screws loose". The band would stay together for one more album, 154, named after the number of live performances they had done prior to its release. After a row with their label over their avant garde music and desire for avant garde marketing, they broke up. They have reformed twice since and put out 16 albums in addition to the 3 album run they are best known for.
 
 # Hargrove's review
 
@@ -33,3 +34,5 @@ Favorite tracks: Practice Makes Perfect, French Film Blurred, Marooned, Being Su
 Least favorite track: I Feel Mysterious Today
 
 # Aidan's review
+
+Our second sophomore album from a punk band this week, Wire was a four piece band whose most famous lineup consisted of Colin Newman, Graham Lewis, Robert Grey and Bruce Gilbert. Chairs Missing is the followup to Pink Flag and features a less minimalistic sound. Producer Mike Thorne, who contributed to the band's first three albums, played synth on Chairs Missing, something that would have been unthinkable for a punk band two years prior. His influence was generally greater throughout as the songs became less visceral and more intellectually and emotionally developed. The album's title comes from English slang "got a few chairs missing" for someone who's a bit off, not unlike the phrase "got a few screws loose". The band would stay together for one more album, 154, named after the number of live performances they had done prior to its release. After a row with their label over their avant garde music and desire for avant garde marketing, they broke up. They have reformed twice since and put out 16 albums in addition to the 3 album run they are best known for.

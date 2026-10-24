@@ -38,3 +38,5 @@ Favorite tracks: Flattening of Emotions, Suicide Machine, Together as One, Secre
 Least favorite track: Vacant Planets
 
 # Aidan's review
+
+On the positive side, Cooper was right about this album. On the negative side, so was Hargrove. It's a tight 33 minutes of raw energy, the riffs never get stale, the guitars are tightly wound around the drums and there's just enough extra elements to keep it fresh through the brief runtime. My biggest gripe are the vocals. I don't enjoy the growling vocals and while his support for the downtrodden is admirable, it doesn't make for particularly interesting lyrics even when they're possible to make out. Still, that's secondary to how much adrenaline courses through the veins of this album. The combination of the driving drums, the pounding guitar riffs and the incorporation of prog influences all come together to climax. I'm only knocking this down because I 'm not a fan of high energy metal overall, but as a standalone product, it's excellent.

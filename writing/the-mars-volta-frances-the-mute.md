@@ -38,3 +38,5 @@ Favorite tracks: Cygnus…Vismund Cygnus, L’Via L’Viaquez, Miranda That Ghos
 Least favorite track: The Widow
 
 # Aidan's review
+
+I have no clue how you go from making post-hardcore to prog rock, but Rodriguez-Lopez and Bixler-Zavala manage to pull it off pretty well. I think the energy that was probably the best part of At the Drive-In is put to even better use here, as they put out a very driven, interesting prog record. The Spanish vocals are cool (and I can actually mostly understand them with my AP Spanish knowledge), there's no annoying jazz-esque solos that go nowhere, and it feels overall well put together. Nothing in here really blew me away besides the energy, but if you like prog, it's damn good.

@@ -34,3 +34,7 @@ Favorite tracks: Jet Pet, (Edge of the) Ape Oven, Lick My Boots, New York Avenue
 Least favorite track: Chances Are the Comets in Our Future
 
 # Aidan's review
+
+“Does fuck you sound simple enough” - Kim Gordon, The Sprawl
+
+Fuck this album. It’s an hour long and there’s maybe 10 minutes of music that is even partially redeemable. I feel like I am in a pretty good position to be charitable to this album. I like a lot of outsider music, I like a lot of bands who claim to like this album, I found the other songs I listened to by Royal Trux to be above average. But god damn does it suck. I had listened to 3 minutes of this album years ago and it stuck with me how much it was unlistenable dreck. I knew going into this project that it was one of the three most grueling listens (along with Metal Machine Music and Trout Mask Replica).  Hargrove has done an admirable job cataloging the few times that it does something worth listening to, and the album is really a lot less abrasive after the first side and especially the first two songs. There’s a reason that this is probably the single least listened to album on the list. It’s a curiosity more than an album, and curiosities shouldn’t sound like the CIA Gitmo playlist. Shame because we’re on a really nice run of albums I’ve enjoyed more than I expected. Least favorite album so far overall

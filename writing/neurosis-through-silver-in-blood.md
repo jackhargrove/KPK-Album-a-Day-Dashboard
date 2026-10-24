@@ -36,3 +36,5 @@ Favorite tracks: Through Silver in Blood, Eye, Purify, Locust Star, Strength of 
 Least favorite track: Enclosure in Flame
 
 # Aidan's review
+
+"Post metal" is a severe threat to my ability to proclaim I like pretty much any art with "post" stapled to it. Postmodernism, post rock, post punk, (I'm admittedly mixed on post-hardcore) are all descriptors that usually signal good things for me. But now we're stapling my beloved prefix to metal, probably my least favorite genre on this list? The result ends up being somewhere in the middle. I really appreciate the sampling on this, it's not corny yet adds a lot to the overall album, breaking up the walls of repeated riffs into something with a bit more texture. Still, the hammering of riffs gets a bit heavy at parts, I found Eye to be particularly plodding. But when it works, it's great, and the last two tracks in particular seem to nail the balance between powerful and punishing, with great intros, interesting drumming and a real feeling of building to something. Cool album, the give and take and epic atmosphere reminded me of Weakling, but I think the idea was slightly better executed.

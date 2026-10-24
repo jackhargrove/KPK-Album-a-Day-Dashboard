@@ -40,3 +40,5 @@ Favorite tracks: Futile Devices, Too Much, The Age of Adz, I Walked, Get Real Ge
 Least favorite track: Now That I’m Older
 
 # Aidan's review
+
+Huge fan of Carey and Lowell and have warm feelings for Illinois, but this one never clicked with me. After a ton of listens, I've grown slightly more fond of it and a lot more admiring of the ambition on it. There are great moments, Futile Devices and I want to be Well are classic Sufjan but the lyrics lack both the personal connection and the fascinating weirdness that made the other two albums that I liked so compelling to me. Impossible Soul is a fascinating track musically, at times sounding like a Kanye intro. Not all of it works, the middle does get a little weird, but it does all eventually come together into a worthwhile head when the effects are all stripped for one final emotional chorus. This album reminded me a lot of Ladies and Gentlemen, We are Floating in Space and in both cases, I find the unwieldily long closing track memorable as an attempt even if it doesn't completely work. Not a great album but a good and interesting one.

@@ -39,3 +39,5 @@ Favorite tracks: Bad, The Way You Make Me Feel, Speed Demon, Another Part of Me,
 Least favorite track: I Just Can’t Stop Loving You
 
 # Aidan's review
+
+As a human being living on Earth, I knew who MJ was before this album, but I don't think I've ever sat down and listened to a full album of his music. I was really surprised how interesting the beats were in this piece, and they're absolutely the highlight. It's a surprisingly simple album, there's not any grand flourishes or crazy stuff going on, it's just solid beats and Micheal singing. There's the great songs on here, like Smooth Criminal and Man in the Mirror, but it's impressive how solid it is throughout, there's no duds on here. Each song feels unique, the beats are cool, and he's enough of a lyricist to make it interesting. I'm not a huge fan of this album or any individual song outside of Smooth Criminal, but the whole thing is executed so exquisitely you have to just admire it.

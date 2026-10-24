@@ -39,3 +39,5 @@ Favorite tracks: Only Shallow, Loomer, To Here Knows When, When You Sleep, Somet
 Least favorite track: Touched
 
 # Aidan's review
+
+I was really surprised how poppy this was upon relistening to it. Don’t hate it, but never really clicked with me, and I kept thinking to myself that I would rather be listening to several other shoe gaze albums. The album is certainly cohesive, but it’s not coherently so, it all just sounds the same, but the sound doesn’t evoke anything. I’ve enjoyed mbv more when they incorporate the drums more prominently, which probably makes this record just not for me, as the guitars flood the mix.

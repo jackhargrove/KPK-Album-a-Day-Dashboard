@@ -17,6 +17,7 @@ Similar Albums: Iceage - *New Brigade*, The plot to Blow Up the Eiffel Tower - *
 
 # Write-up
 
+Midori were a Japanese jazz-punk band that existed from 2003 to 2010. There's not a ton of information out there about the band, but their lead singer, Mariko Goto, is known for her intense stage presence despite her sub-5 foot stature. The band often performed live wearing school uniforms, and Gotō would engage in a variety of chaotic behavior, from screaming in fans' faces, kissing fans, covering herself in fake blood. This album is their fourth and is titled "Nice to Meet You Again, I’m Midori". It is a loose concept album about a woman who abandons a comfortable life to pursue an ill advised affair with a man who couldn't care less about her. This is their second full album.
 
 # Hargrove's review
 
@@ -31,3 +32,5 @@ Favorite tracks: かなしい日々。[Sorrowful Days.], ちはるの恋 [Chihar
 Least favorite track: お猿 [The Monkey]
 
 # Aidan's review
+
+This is one of those albums that makes me wish we had more foreign stuff because it's just so unique. The combination of jazz, punk and Mariko Goto's extremely cutesy feminine voice is really cool, and comes together to make an interesting album. I was far more enamored with the album than the live versions of the songs, and I think the clean contrast between the melodic and chaotic parts of the album makes it work better. The jazz influences here at not just the cool jazz that made its way into sophistipop either, it matches some of the more experimental jazz albums we've done in chaos. It's a bit of a one trick album for me, especially because I'm in no position to find meaning in the vocals. The closest thing I've heard to it, even ignoring lyrics, is another Japanese band, betcover, which, while far calmer, is just as forward about its jazz influences, messiness and all, which is something I don't think is common in Western bands.

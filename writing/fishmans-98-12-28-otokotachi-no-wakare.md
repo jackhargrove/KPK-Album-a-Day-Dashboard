@@ -16,6 +16,9 @@ Similar Albums: Boredoms- Vision Creation Newsun, Cornelius - Fantasma, Fishmans
 
 # Write-up
 
+Story/Fun Facts: Fishmans were a Japanese band whose original incarnation lasted from 1987 to 1999. Founded as a reggae band, their style varied over their years, touching on funk, rocksteady, drum and bass and ska. While they achieved limited radio play in Japan and were virtually unknown outside of Japan during their lifespan, they have amassed a cult following in recent years due to the popularity of their music on forum and ratings sites, assisted by their hitherto inaccessible discography becoming available on streaming services.
+
+This live album is a recording of their final performance as a band. The bassist, Yuzuru Kashiwabara was planning to leave the band at the year's end, so they undertook the Otokotachi no Wakare Tour (roughly translated as "A Farewell of Men"). The band planned to continue after this tour, but Sinji Sato, the lead singer died suddenly in March of the following year before the band could continue making new music. This live performance revisited their greatest hits throughout their time as a band and concluded with their 41 minute magnum opus, Long Season, which we will listen to independently.
 
 # Hargrove's review
 
@@ -36,3 +39,5 @@ Least favorite track: Tayorinai Tenshi
 7.5/10
 
 # Aidan's review
+
+I’ve loved Long Season for a long time, and the live version is even better. I agree with Hargrove that the second disc is far superior, but I did like the first disc a decent amount. The emotion shows through more on the second disc, which works surprisingly well with their style. Long season alone is perfect, but this is very very good.

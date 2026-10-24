@@ -36,3 +36,5 @@ Favorite tracks: St. Thomas, You Don’t Know What Love Is, Strode Rode
 Least favorite track: Blue 7
 
 # Aidan's review
+
+Just off back to back free jazz albums in Peter Brotzmann and Sun Ra, we are now onto back to back well executed Blue Note albums. Neither this nor The Sidewinder are breaking down barriers, but they are solid, listenable albums that don't do much wrong. Sonny Rollins outdoes Lee Morgan through a more memorable song selection, with the standard of St. Thomas leading off and a very fun "Strode Rode" also making an impression. Unfortunately, I'm not enough of a Brecht or old vocal jazz fan to have developed an affinity for "Mack the Knife", but if I did, I'm sure I'd like "Moriat" more too. Just a solid jazz album, with a particularly propulsive bass parring well with three other quartet members all extremely capable of making their own individual moments. On the list to buy if I ever put up for a record player.

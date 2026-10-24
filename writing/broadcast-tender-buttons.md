@@ -17,6 +17,9 @@ Similar Albums: Yo La Tengo - *And Then Nothing Turned Itself Inside Out*, Stere
 
 # Write-up
 
+Broadcast were a British band from Birmingham founded in 1995 as Pan Am Flight Bag. The core of the band was the duo of James Cargill and Trish Keenan, but other members cycled in and out for the first two albums, The Noise Made by People and Haha Sound. From their beginnings, they had a unique vision for their sound. They cycled through three producers for their first album and for their second album, vocals were recorded in a cardboard box while drums were recorded in a Birmingham church. The band would often feed their instrumental takes into speakers and then record the speakers' output. Their greatest single influence was the 1960s experimental rock band The United States of America (whose self titled album was on previous versions of this list), who were among the first bands to use electronics to make music and used the “cut-up” method to write songs, which Keenan adopted. Broadcast were occasionally grouped in the broader hauntology movement with peers like Ariel Pink and Boards of Canada (hypnagogic pop is a subset of hauntology, which was a term coined by French philosopher Jaques Derrida and applied to pop music. Dalton is a big fan of Derrida).
+
+For their third and final album, the band was reduced down to a duo by the erosion of time, reducing in a stripped back sound due to sheer manpower restrictions. The album's title is taken from a Gertrude Stein novel. The result was roughly as well liked as their previous efforts. The band would go on to record one collab album before Keenan's death in 2011 from complications stemming from a bout of bird flu, which ended the band. Cargill went on to found Children of Alice, a tribute to Keenan, a fan of Lewis Carroll's Alice in Wonderland.
 
 # Hargrove's review
 
@@ -33,3 +36,5 @@ Favorite tracks: I Found the F, Black Cat, Tears in the Typing Pool, Corporeal, 
 Least favorite track: Tender Buttons
 
 # Aidan's review
+
+There is a surprising number of slightly weird really good mostly quiet indie electronic-ish albums from the 2000 period, (I’m a big fan of Cults and The Clientele personally). Tender Buttons stands out mostly for its extremely unique analog sound, in which radio artifacts are twisted into really cool beats. There’s not much else that makes this album really stand out from its peers. The vocals are good but not exceptional, I’m of the belief that if you steal cut-up from Burroughs, you should at least do half the amount of drugs he did, and there’s no single incredible hook or melody that I can rave about. It’s not a bad, and it certainly is cool and stylish enough to be worth a listen (the repeating melody, but I felt like most of my enjoyment was coming from my enjoyment of the genre than anything unique to the album once the novelty of the analog feel wore off. Maybe I’m a bit harsh for grading down on a curve.

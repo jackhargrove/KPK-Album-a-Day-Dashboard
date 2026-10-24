@@ -40,3 +40,5 @@ Favorite tracks: Piggy, Heresy, March of the Pigs, Closer, Ruiner, The Becoming,
 Least favorite track: Big Man with a Gun
 
 # Aidan's review
+
+I find it hard to rate this album because I simultaneously find Trent Reznor's shtick annoying but find his beats at times incredibly good. Mr. Self Destruct is fantastic song, and pretty much any song that even comes close to that energy is incredibly enjoyable. On the other hand, the more conventional Closer gives too much focus to the far less interesting lyrics. It was a good rule of thumb going through this album that if I found myself easily discerning the lyrics, I was annoyed. Thankfully, the mixing does the smart thing and puts the amazing beats forward on most of the songs, Hurt is a bit of a weird song in that I think the Cash version is far better, but I don't mind what Reznor does with it and I think it's a fitting closing to an album. Far exceeds my expectation of what was selling out stadiums in 94, and makes me wish we had more industrial dance albums on here besides this (unless you count Yeezus).

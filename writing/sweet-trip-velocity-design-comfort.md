@@ -16,6 +16,9 @@ Similar Albums: The Radio Dept - *Lesser Matters*, Stereolab - *Transient Random
 
 # Write-up
 
+There’s not a lot of publicly available information regarding this album or Sweet Trip. The band, which was centered around producer Roberto Burgos and singer Valerie Cooper, had a 20 year initial run of which the release of VDC marked the middle, as well as the critical apex, before a 3 year reformation in 2019. The band broke up again amid online rumors that Roberto had sexually assaulted Valerie.
+
+VDC is inspired by a Retrofuturistic aesthetic, with Habitat 67 from the Montreal 1967 Expo being featured rotated sideways on the cover. The cover was completely redone for the 2020 reissue as the band had lost the original copy
 
 # Hargrove's review
 
@@ -32,3 +35,5 @@ Favorite tracks: Sept, Dedicated, Chocolate Matter, Design: 2: 3
 Least favorite track: To All the Dancers of the World, a Round Form of Fantasy
 
 # Aidan's review
+
+This is the album that I was most conflicted on so far. On one hand, I really like the pop vocals, the general futuristic feel and the dreamy production. We’ve been going through a lot of albums which I felt leaned more on interesting ideas than coherence. This album is exactly the opposite, it’s a one trick pony and it’s going to do it well for an hour and ten minutes. The singles are great, but they kinda stick out from the rest of the album, and feel kinda tacked on, while the rest of the album really flows well. This is probably the most aesthetically interesting album we’ve looked at so far, and a few of the songs sound like early versions of breakcore, which is cool. Still, on my 2nd and 3rd listen to the album, it felt thin, there’s just not that much going on. The production covers it up a bit on initial listens, but going back to the album, I didn’t feel like there was that much more to find. If I only listened to it once, probably would have been a point or so higher,

@@ -42,3 +42,5 @@ Favorite tracks: In the Flowers, My Girls, Also Frightened, Summertime Clothes, 
 Least favorite track: Lion in a Coma
 
 # Aidan's review
+
+2:30 into "In The Flowers", the song just collapses into a throbbing fuzz of psychedelia. It's an amazing moment, the kind of moment that I'll listen to entire albums to hear a few times. The magic is there again on "Summertime Clothes" and on "Daily Routine" and on "Guys Eyes" and on "Brother Sport". The good moments are just so damn good on this album. The texture is consistently excellent, but the prominent vocal melodies are my least favorite part of this album. They constantly feel meandering, and when the album doesn't succeed in creating a fantastic trance moment, they wind up taking away from the texture. In pretty much every other way, it's a huge step forward from the already solid STGSTV we listened to, but the verses are so often a pain in the neck.

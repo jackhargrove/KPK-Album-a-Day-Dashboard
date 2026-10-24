@@ -20,6 +20,9 @@ https://www.youtube.com/watch?v=jxpYmJLnOLQ&list=PLKLPE6Ph1xZpALul_Lu_A72s38v05B
 
 # Write-up
 
+My Bloody Valentine - Isn't Anything
+
+Our third and final mbv record, Isn't Anything was their first full record, coming right on the heels of You Made Me Realize, which we have already listened to. Isn't Anything was recorded immediately after the band signed with Creation Records, and was given newfound access to nicer studios. One cofounder of the label had previously signed mbv on a different indie label, while another was a member of a local band who were "blown away" by mbv, so the band was freed from any real commercial requirements . In comparison to the legendary length and cost of Loveless, Isn't Anything was recorded in two weeks, with Belinda Butcher being woken up to record her vocal sections. On release, Isn't Anything received rave reviews, the band was compared to American legends like Husker Dü and Sonic Youth. The record also sold, topping the indie charts, and establishing a template for shoegaze bands like Slowdive (who would themselves sign with Creation). The success of the album would enable mbv to make Loveless, which is famously (and perhaps falsely) said to have bankrupted Creation Records with a price tag reckoning into the quarter of a million 1999 pounds range (604 thousand in real money) according to some sources.
 
 # Hargrove's review
 
@@ -34,3 +37,5 @@ Favorite tracks: Soft as Snow (But Warm Inside), Lose My Breath, (When You Wake)
 Least favorite track: All I Need
 
 # Aidan's review
+
+mbv's transition from doing pleasing jangle pop to the vortices of sound that Loveless layers over pop melodies is an incredibly interesting story. Unfortunately, the same cannot be said for this album itself. Far too many songs on here feel half finished. While they would later get the sense to bury any lyrics under layer upon layer of guitar, here there's dreck like "SueisFine" (it sounds like suicide, get it?) and the stuttering "Cupid Come". I'm also not a huge fan of the drumming, the sporadic breakdowns should have been left behind when they shifted to a dreaming feel. The guitars are still excellent, and when they stick to the dreamy feel, they're the best in the business at texture on songs like "No more sorry" and "lose my breath". The album mixes those well executed songs amidst less well executed ones, leaving the band feeling stuck between paths. Regardless, it's an interesting record of their metamorphosis as a band, but unfortunately is stuck in an unhappy middle between the better You Made Me Realise EP and the legendary loveless.

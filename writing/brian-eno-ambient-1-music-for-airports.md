@@ -17,6 +17,9 @@ Similar Albums: Stars of the Lid - *The Tired Sounds Of Stars of the Lid*, Globa
 
 # Write-up
 
+The first album to call itself “ambient” as well as one of the best works of the genre, Ambient 1 was first started and intended to be an art instillation during the recording session for David Bowie’s Low, on which Eno worked as a producer. Musically, the album is child-like, all featuring loops with minimalistic notes and murmuring wordless vocals. The album is simple as well, being true to its name as music intended to capture and enhance the feeling of being at an airport. For Eno, a "nervous flyer", this mean the feeling of possible death, the sense of forward movement through hustle and bustle and a world entirely created by humans. One of my favorite short stories, "Tlon, Uqbar, Orbius Tetrius" by Jorge Luis Borges, which tells of the creation of an encyclopedia of a fictional world, was cited by Eno as an inspiration for this album.
+
+The ambient genre, which was at least named for this album, broadly encompasses music which is designed to be listened to along with other music. The video that I linked to earlier, which has this album being performed live in a working airport, is a great example of how the soundscapes of an airport enhance the simplicity of ambient music.
 
 # Hargrove's review
 
@@ -35,3 +38,5 @@ Favorite tracks: 1/1, 2/2
 Least favorite track: 2/1
 
 # Aidan's review
+
+Ambient music is really hard to get used to in a day. I’ve listened to this album a lot and it just sometimes clicks so perfectly with the audio environment, but other times it doesn’t. I found the Bang on a Can performance when doing to summary for this album and it significantly raised my estimation of it, sounded like a track out of Lift Your Skinny Fists. I also appreciate the short track listing, I think a lot of ambient really relies on length to establish itself, while Eno does it with simplicity. As with any Eno project, the individual notes just sound amazing, and with an album so focused on individual notes, it works fantastically

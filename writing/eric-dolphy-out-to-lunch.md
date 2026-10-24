@@ -36,3 +36,5 @@ Favorite tracks: Gazzelloni, Straight Up and Down
 Least favorite track: Hat and Beard
 
 # Aidan's review
+
+Avant-garde jazz is never easy listening, but among the albums we've done, I found this on the more enjoyable side. Dolphy rarely takes over the show too much, and the backing is usually pretty good, but there's moments where they stray too far into improv. Something Sweet, Something Tender has a great trumpet and the refrain with it and Dolphy's bass clarinet is really nice. The flute on Gazzelloni is far more fun to hear going nuts than the typical sax or clarinet, and the rising refrain that features the vibraphone is really cool. I find Hat and Beard to be the most wandering of the tracks and therefore the most obnoxious, but it's not particularly bad. Not a great album, but interesting and pleasant to listen to.

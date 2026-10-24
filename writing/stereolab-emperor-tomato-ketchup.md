@@ -17,6 +17,11 @@ Similar Albums: Tortoise - *TNT*, Electrelane - *The Power Out*, Le Tigre - *Le 
 
 # Write-up
 
+“Lounge Music for Marxists” was how Pitchfork summed up one of Stereolab’s earlier album and the absurd epithet accurately sums up the band. Based around the core duo (and until 2002, romantic pairing) of Tim Gane and Lætiea Sadler, the band was formed after Gane met Sadler while on tour in France for his previous (also left wing) band McCarthy. After McCarthy ended, Stereolab was born, drawing its name and sound from what was musically groundbreaking in the 50s and 60s. The group set up their own label but only found success after buying into the bogus capitalist system that’s destroying youth culture (per major label signer Thurston Moore) by signing with major label Elektra Records. Their sophomore album and major label debut, Transient Random-Noise Bursts with Announcements, was an underground hit both in Gane’s native UK and across the pond, featuring drone and krautrock influences.
+
+Their fourth album, Emperor Tomato Ketchup was their most critically acclaimed and featured a postmodern take on pop, with the inspirations from 60s French pop and tape loops resulting in a poppier sound. Our second instance of something being named after an obscure experimental Japanese film (after Godspeed You! Black Emperor), this album took its name from a scandalous Japanese film of the same name which featured a hypothetical future in which children rule over and abuse adults in what can be described as “Japanese Saló”. Lyrically, the band drew on Surrealism and Situationism, an obscure brand of socialism that influenced the Paris 68 protests and pretty much every punk band around that time, before completely fading out. While situationalist texts are to put it kindly, abstruse, it broadly is a more Marxist influenced version of anti-mass media and consumerism that was a common American lefty trope in the 80s. Situationalism called for the creation of “situations” which exposed the underlying flaws of capitalism. Lyrics like “What is society based on?/It’s built on blood!” reflect both the revolutionary leanings and artistic aspirations of a movement that left only echoes in art.
+
+The band followed up ETK with their most popular album, Dots and Loops, which featured a sound inspired by Brazilian Bossa Nova. In all, they have (as yet) put out 13 mostly well received albums. The band took a hiatus in 2009 and reformed in 2019.
 
 # Hargrove's review
 
@@ -35,3 +40,5 @@ Favorite tracks: Metronomic Underground, Cybele’s Reverie, Percolator, Spark P
 Least favorite track: Tomorrow Is Already Here
 
 # Aidan's review
+
+My hands are too cold for a proper review, but it’s a really nice poppy album. The general aesthetic of Marxist influenced French post rock is admittedly very very up my alley, but I found the general album very fun. It’s a tad simple when the lyrics are in English and I didn’t like the final track slowing it down, but overall really solid, intelligent music

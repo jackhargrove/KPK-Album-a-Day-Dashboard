@@ -36,3 +36,5 @@ Favorite tracks: Enforcement, Phylyps Trak, Inversion, Octagon, Octaedre
 Least favorite track: Phylyps Trak II/II
 
 # Aidan's review
+
+I've generally been highly positive on extremely simple albums on this list, but nearly all of them were beautiful to me in some way. "Ambient 1", "Sex", "Disintegration Loops", even the completely solo albums like "The Great Santa Barbara Oil Slick", all to me evoke some sense of beauty in how simple and obvious their techniques are. "BCD-2" is workmanlike. There are 80 minutes of techno dance music split into 6 songs, each with a slightly different tempo and a slightly different way to make a danceable four on the floor track. It's dance music, and there's no pretension of any fancy choreography going along with it, it's dance music that's meant to be played with glimpses of light, unknown people and unknown substances. For that, it does its jobs. Alas, that's very much not my thing. Not an unenjoyable listen, but one that just felt purposeless. As music to sit and listen to, it was just too featureless and functional for me to enjoy it.

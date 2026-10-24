@@ -41,3 +41,5 @@ Favorite tracks: Everything in Its Right Place, The National Anthem, How to Disa
 Least favorite track (of all time): Kid A
 
 # Aidan's review
+
+Not a huge Radiohead fan, this album was enjoyable but never really blew me away. Idiotesque was my favorite track, and in general a lot of songs had elements that I thought were cool, but I never feel in love with whole songs. I think the lyrics were less compelling than other Radiohead stuff I’ve heard, and while the electronic influence is cool, it’s more of something I appreciate than enjoy.

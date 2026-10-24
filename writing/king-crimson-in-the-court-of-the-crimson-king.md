@@ -46,3 +46,5 @@ Favorite tracks: 21st Century Schizoid Man, The Court of the Crimson King
 Least favorite track: Moonchild
 
 # Aidan's review
+
+21st century schizoid man is great, I honestly think the James Bond breakdown is fun, although the ending breakdown is not. The rest of the album never really finds its footing in the same way. There are parts on Epitaph and the title track that are great, but the songs are just too long with not enough compelling parts. I Talk to The Wind and Moonchild both sound like Beatles knockoffs to me. The guitar riffs sometimes hit the spot, and I understand the influence of this album, I just don’t like it.

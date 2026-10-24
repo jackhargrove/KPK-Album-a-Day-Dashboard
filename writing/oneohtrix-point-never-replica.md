@@ -36,3 +36,5 @@ Favorite tracks: Andro, Power of Persuasion, Replica, Nassau, Child Soldier, Exp
 Least favorite track: Sleep Dealer
 
 # Aidan's review
+
+This album felt like it was the statistical mean of a lot of mid 2010s electronic albums. It’s got the artificial ambient feel of Far Side Virtual, the staccato sampling of Eccojams Vol 1, the simplistic looping melodies of Ambient 1 (pretend it’s from 2010 for the metaphor) and the indecision over if wants to be ambient or actively heard from Shaking The Habitual. But it also lacks the artistic novelty, recognizable nostalgia, elegance and rhythm respectfully of those albums, and this makes it feel like a jack of all trades, but a master of none. It’s not bad, I agree with carms that Explain is cool, and while I hate child soldier, it’s never unpleasant. It’s more interesting as a concept than an actual album for me, and I just don’t have any reason to go back to it. Shaking the Habitual grew on me after I felt similarly, so maybe I’ll change my mind.

@@ -55,3 +55,5 @@ Favorite tracks: Sgt. Pepper’s Lonely Hearts Club Band, With a Little Help fro
 Least favorite track: Good Morning Good Morning
 
 # Aidan's review
+
+Parker once described a Melville short story I liked as a pot that every other educated person had pissed into. Everything that can be said about it probably has been said. Day in the Life is probably the greatest song ever, it’s the last Beatles record as a true band, and it’s a good album. I don’t count it among my favorites by the Beatles but that’s mostly because it wasn’t on my dad’s iPod and I have no nostalgia for it. It’s the best of the best, as close to a canonical work for western music as it comes. There’s 40 minutes of great music but everyone knows that. With a Little Help from My Friends is my personal favorite.

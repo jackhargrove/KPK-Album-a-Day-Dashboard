@@ -38,3 +38,5 @@ Favorite tracks: Feel the Love, 4th Dimension, Freeee (Ghost Town, Pt. 2), Kids 
 Least favorite track: Reborn
 
 # Aidan's review
+
+Probably the last really iconic Kanye production, and it's really fucking good. There's only 4 Kanye verses on here and only two of them are good, but the hooks and samples carry this album so far. The backwards sample of Louis Prima on "4th dimension" is amazing, and Cudi's hook on "Feel the Love" is nearly as good (but nowhere near as stylistically perfect). There's a lot of weak spots on this album too. "Freeee" is annoying, and while the closing two songs have strong production and melodies, they're not nearly as powerful as the opening of this album. But the three good tracks (Feel the Love, 4th Dimension and Reborn) are so good they make this album worth listening to, especially at its short runtime.

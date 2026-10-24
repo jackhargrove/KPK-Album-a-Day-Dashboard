@@ -35,3 +35,5 @@ Favorite tracks: On Sight, Black Skinhead, I Am a God, New Slaves, Blood on the 
 Least favorite track: Send It Up
 
 # Aidan's review
+
+This album shies away from the things that I usually think of as being Kanye’s strengths. It’s far less playful that his older stuff, the sampling choice isn’t as fun and I don’t think his lyrics are that great. There’s a couple of great lines (“I’d rather be a dick than a swallower” and “They see a black man with a white woman/At the top floor they gone come to kill King Kong“) The production is still great though, and on top of that, the actual instrumentals are fantastically done. It’s a great contrast with MBDTF, and I honestly prefer it mostly because there’s just so little fat on the album. The structure of the album is also amazing, the songs flow really well from a super harsh opener to a more classic Kanye closer.

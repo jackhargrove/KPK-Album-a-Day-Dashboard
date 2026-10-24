@@ -34,3 +34,5 @@ Favorite tracks: Wriggle Like a Fucking Eel, Munkisi Munkondi
 Least favorite track: Bird Seed
 
 # Aidan's review
+
+This edges out Buyer's Market thanks to a middle interesting back half, but only just. It's harsh noise in the vein of Merzbow, but it while I got some enjoyment at the artificial hostility of Merzbow, the introduction of similarly anti-human vocals makes me far less interested. There's also an entire track courtesy of Peter Sotos. It's marginally less gross than Buyer's Market because it's possible to interpret it as a call for stricter laws surrounding abusive parents' access to children. Still by no means present. The back half of the album is softer on the noise but the vocals are still quite gross. Makes my skin crawl to listen to. Will never listen to again.

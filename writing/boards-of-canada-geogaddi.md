@@ -36,3 +36,5 @@ Favorite tracks: Music Is Math, Beware the Friendly Stranger, Sunshine Recorder,
 Least favorite track: You Could Feel the Sky
 
 # Aidan's review
+
+Weird, interesting album. Their sampling style is very unique, they’re not trying to infuse any sort of weight into their samples besides just the gentle prodding of nostalgia. I can imagine other bands taking samples like Energy Warning and twisting it into something ominous, or something innocent, but they’re just content to let it sit buried in some aural fog that makes it sound like it was recorded off a CRT TV. After a few listens I’m still left wondering what this album is supposed to be. At parts it’s groovy, it’s ambient, it’s IDM, it even closes with near silence. There’s some good songs, no real stinkers, it left me interested but not obsessed. Probably comes very close to the midpoint of albums we’ve listened to. Nothing wrong with it, just never felt the larger 9/11 inspired twisty-turns journey that I was expecting.

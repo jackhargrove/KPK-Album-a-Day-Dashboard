@@ -20,6 +20,9 @@ https://www.youtube.com/watch?v=CvCLhq8okxc
 
 # Write-up
 
+Boris are a Japanese trio that plays music which is typically categorized by reviewers as “metal” (against the wishes of the band). Along with Boredoms, they are the Japanese band that achieved the most success over the Atlantic from a Japanese scene that also included Melt Banana, Merzbow and Fushitsusha. Boris’s breakout album was Pink from 2005, and although this album, released 5 years prior, did not achieve success at the time of its release, it has become a favorite among fans of the band (who count Matthew Hargrove among their number). The band's members are all known by mononyms, Atsuo, Takeshi and Wata, and are incredibly prolific, producing 30 solo albums and 19 collaborative albums, including with American band (who we will listen to) Sun O))). The band is named after a Melvins song, and the sludge metal band is probably their single largest inspiraoion, however, as previously mentioned, they tend to shift genre from album to album, from psychedelic rock to drone metal to post rock to dream pop.
+
+Flood falls solidly into the category of drone metal and post rock, but its opening section is heavily inspired (some would call it the greatest form of flattery) by American minimalist composer Steve Reich, with the mismatched tape loops of guitar chords harkening back to Reich's famous "Come Out To Show Them". The remainder of the album charts slightly more conventional territory for the band, with metal chords, ambient noise and guitar solos featuring among their bag of tricks.
 
 # Hargrove's review
 
@@ -30,3 +33,5 @@ Favorite tracks: Flood (but especially sections 2 and 3)
 Least favorite track: Flood (but especially section 4)
 
 # Aidan's review
+
+An interesting and enjoyable album. The Reich-esque tape loop in the opening is a neat trick, and it’s not alone, I thought that the usage of metal chords for the climax was another really interesting instance of blending genres and achieving new things. I’ve been listening to a lot of post rock lately, and this album was remarkably fresh even among a very unstructured genre. My favorite moment in the album is between the third and forth movement, when the heavy metal chords are suddenly switched off (the YouTube video has a skip there, which accentuated the effect surprisingly well for me) leaving an incredibly serene soundscape for the listener to wallow in. This is very much an album of ideas, and while the ideas are great, I also felt like it kind of limited the album because there wasn’t much to grab onto besides the ideas themselves. Still a one of a kind work that was especially impressive the first time through.

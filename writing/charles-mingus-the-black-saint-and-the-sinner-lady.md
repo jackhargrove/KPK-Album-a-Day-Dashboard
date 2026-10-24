@@ -40,3 +40,5 @@ Favorite tracks: Track A - Solo Dancer, Track B - Duet Solo Dancers, Medley: Mod
 Least favorite track: Track C - Group Dancers (but it feels wrong to put anything here)
 
 # Aidan's review
+
+This album is at its best in chaos. Mingus has a remarkable talent for combining a bunch of instruments playing different melodies into some beautiful cacophony. There's never a dull moment, there's never any instrument that feels particularly excessive, there's never really a flashy ostentation solo, the music just flows from idea to idea, and there's never a bad idea. It often just achieves a nirvana of floating in noise, often towards the end of tracks, as everything comes to a head at once. The wailing of the sax feels so human, the drums keep going on and on, nothing feels out of place, even when things are coming from everywhere. Probably my favorite jazz album for listening straight through as of yet (I'll give the highs of Vince Guaraldi and the background of Alice Coltrane credit too). Nearly 40 minutes of joy.

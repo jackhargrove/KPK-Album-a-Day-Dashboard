@@ -38,3 +38,5 @@ Favorite tracks: One Hundred Years, A Short Term Effect, The Hanging Garden, The
 Least favorite track: Siamese Twins
 
 # Aidan's review
+
+It took me 2 or 3 listens to really “get” it, but after that I’ve loved it. It’s incredibly focused, and does its mood incredibly well. The audio sample on the title track is really cool as a closer, and Smith’s vocals are so good. It’s an album I’d leave on for a day and then listen to a year later. Really cool, and much better than the other Cure album I’ve heard because it tries to do way less.

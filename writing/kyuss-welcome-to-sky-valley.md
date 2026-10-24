@@ -30,3 +30,5 @@ Favorite tracks: Gardenia, Supa Scoopa and Mighty Scoop, 100°, Space Cadet, Dem
 Least favorite track: Conan Troutman
 
 # Aidan's review
+
+Wasn’t a fan of Josh Homme’s other album on this list, Songs for the Deaf and I enjoyed this a lot more. Still some songs that are pretty similar to Songs for the Deaf, with Homme’s signature “I can’t believe it’s not a bass guitar” lead guitar. Gardenia and Spa Scooper defiantly tread the same ground, but they’re a touch slower and the instruments are far muddier, which I enjoyed more. However, the real treat are the more instrumental trio of Space Cadet, Demon Cleaner and Whitewater (minus the jokey Lick Doo section). Homme’s guitar really shines as he works into a groove and I think the vocals fit really well with the laid back style. The lyrics aren’t anything to write home about, but the guitars are enough to make it worth a listen. I didn’t find the album outstanding, but a it’s a solid album with a lot of influence.

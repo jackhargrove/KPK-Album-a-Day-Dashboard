@@ -17,6 +17,7 @@ Similar Albums: Codeine - *Frigid Stars LP*, Mogwai - *Come On Die Young*, Karat
 
 # Write-up
 
+Duster is a indie rock duo( formerly trio) from San Jose, California. Two of its members, Clay Parton and Canaan Dove Amber, had been together in previous bands, Mohinder and Calm before starting Duster themselves in 1996. They brought on Jason Albertini on drums for 1998's Stratosphere after most of the album was completed, and he played on only 3 of the songs. The album was well received, and got the seal of approval from a nascent Pitchfork, who gave the album a 8.6 in the form of an extended riff on Bowie's "Space Oddity". Echo Bravo, one of the songs highlighted by reviewers, is absent from all LP pressings of the album for reasons unclear to me. They followed up Stratosphere with Contemporary Movement, which was also well received, before disbanding in 2000 after their label's founder died of leukemia. The members went on to do their own projects, the most notable of which was Albertini's Helvetia, which toured with Built to Spill. While they achieved cult classic status during their lifetime, interest in the band (and slowcore in general) was revived due to TikTok. Artists such as Alex G have cited the album as an influence, and "Constellations" in particular has been a heavily used track on TikTok. Spurred by this renewed interest, the band reunited in 2018, and has released 3 new albums since. Albertini left the group after the 4th album (2nd since they reunited) due to health issues and to work more on Helvetia.
 
 # Hargrove's review
 
@@ -29,3 +30,5 @@ Favorite tracks: Heading for the Door, Gold Dust, Echo, Bravo, The Queen of Hear
 Least favorite track: Topical Solution
 
 # Aidan's review
+
+I don't get why this album is the one that TikTok has decided to fixate on of all the solid but not great indie rock classics. It sounds great, I have a soft spot for the warm fuzzy feedback (Yo La Tengo are the best at this) and slowcore in general. This album hits all the right notes, and moreover, it's an album that feels like something I could see myself doing, which perhaps is part of the appeal. They're not doing anything out of this world, but the album sounds out of this world, it's some simple guitar pieces with well done effects, some soft vocals and a drum set. In that way, it captures the magic of indie rock as much as anything, the promise that some guys with day jobs can make a great album. I can see myself growing to really love this album in the way I do with some other albums with its era, but with the 6 or so listens that I've had, it just doesn't reach my pantheon of really great indie rock records. Still super enjoyable and something I will absolutely be spending more time with.

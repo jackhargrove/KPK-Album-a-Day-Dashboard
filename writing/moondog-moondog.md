@@ -38,3 +38,5 @@ Favorite tracks: Theme, Stamping Ground, Symphonique #6 (Good for Goodie), Minis
 Least favorite track: Symphonique #3 (Ode to Venus)
 
 # Aidan's review
+
+It's really nice to be this late into a broad survey and get something that sounds completely new. If I didn't know the history of this album I could have sworn it was intended to be backing for some opera or play. The songs all feel so choreographed to some unknown action, replete with motifs and dramatic entrances for one instrument or another. The short spoken word sections are also excellent, and infuse the entire album with a tremendous amount of feeling. I can't stack this up against anything similar, so I'm just going to go with my gut feeling that I thoroughly enjoyed listening to it, but wasn't blown away and stick in in A.

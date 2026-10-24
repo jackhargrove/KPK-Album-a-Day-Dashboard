@@ -35,3 +35,5 @@ Favorite tracks: Preaching for Mass Suicide, The Goatphoenix, Ode to Blasphemy (
 Least favorite track: Desecration
 
 # Aidan's review
+
+I had a lot of trepidation going into this album but it solves most of the issues through volume and energy. The most stylistically similar album, Fallen Angel of Doom was one of my least favorite on the list and there's a cover of it on this album. They take "Desecration" by Blasphemy and just turn it up to eleven, turning the vocals from a dreary rant into a powerful howl. This album just sounds louder. The intro is also extremely cool, and being able to open with a cry of "Allahu Akbar" without feeling corny adds a certain something. This album has other virtues besides its energy, there's some nice bridge sections that come through the chaos on The Goatphoenix with a surprisingly mellow one-two beat, and the vocals are some of the best on a metal album I've heard, but the energy is the main selling point. A 20 minute blast that is hard to follow up.

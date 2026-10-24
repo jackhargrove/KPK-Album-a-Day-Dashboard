@@ -17,6 +17,7 @@ Similar Albums: Kingdom Come - *Galactic Zoo Dossier*, Camel - *Mirage*, The Bea
 
 # Write-up
 
+The second album by Pink Floyd that we've listened to, Meddle, their 6th album is seen as a transitional album from the band. As we learned for Wish You Were Here (the 9th album), Pink Floyd was originally led by Syd Barrett before he went crazy, probably due to LSD usage, and the frontman role was eventually taken over by Roger Waters. This album comes between those two periods, as the band was still finding its place without the guiding hand of Barrett. While Rogers was the main lyricist, he didn't exert as much control over the theme as he did in later (and more thematically consistent) albums. The similar sound to the Beatles in some of the tracks is fitting, considering the album was recorded at what is now Abbey Road Studios with engineer John Leckie, who had with George Harrison and Ringo Starr on their solo projects. The lyrics "inviting me and inciting me" is nearly word for word ripped from Across the Universe. Despite these creative "similarities", Meddle was and is positively viewed, with Echoes and Fearless in particular being noted as one of the band's greatest accomplishments. Seamus is often viewed as among their worst songs, however it did foreshadow the band's later work, Animals, which is on the list. The cover of the album is an underwater ear and the artist who did is was . Wish I had some grand story or cool facts about this album, but there's really not anything beyond its status as a sign of things to come from a historic band.
 
 # Hargrove's review
 
@@ -29,3 +30,5 @@ Favorite tracks: Fearless, San Tropez
 Least favorite track: Seamus
 
 # Aidan's review
+
+I feel like I enjoyed it more than the rest of you, but I agree that it really wasn’t interesting. I think if you’re going to listen to 4 Floyd albums in a row, it kinda makes sense because it has a lot of the stuff that later albums explore, but it’s just not good. Echoes, Fearless and One of those days were good, although the soccer stadium sample is baffling. Seamus is like a bad Beatles song. I never felt like it was trying particularly hard to be something.

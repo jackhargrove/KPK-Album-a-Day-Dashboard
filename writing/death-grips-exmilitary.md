@@ -44,3 +44,5 @@ Least favorite track: Lord of the Game ft. Mexican Girl
 8.5/10
 
 # Aidan's review
+
+Actually insane how futuristic this still sounds considering it’s nearly 14 years old. Incredible variety of stuff going on, a lot of it works, but some of it absolutely does not. The later Death Grips records are way more coherent, but the raw energy still pours out of this one. The Charles Manson sample is a fantastic tone setter, but I do think that MC Ride’s flow gets repetitive when placed over such varying beats.

@@ -39,3 +39,5 @@ Favorite tracks: Ghosts: First Variation, Ghosts: Second Variation
 Least favorite track: Spirits
 
 # Aidan's review
+
+Ayler has recorded so many versions of Ghosts that he manages to squeeze two of them onto this album. It's a damn good melody to be fair, and the rising pairs of notes in it sound faintly like "A Love Supreme". Ghosts stands out because it's one of the few composed moments in this album, which otherwise careens along with the bare minimum of control. It's a good deal less aggressive but a good deal closer to a layman's idea of "music" than Brötzmann's "Machine Gun" saxophone playing. The ultimate result is less compelling to me, although still rather enjoyable. The melodic sections on the two Ghosts give the album some sense of calm in the storm, and the runtime feels right, but free jazz is still a tough pill for me to swallow. Not awful, and Ayler's sax might have the nicest sound I've heard, but this just isn't my bag.

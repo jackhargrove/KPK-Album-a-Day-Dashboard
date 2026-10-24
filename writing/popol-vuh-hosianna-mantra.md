@@ -20,6 +20,9 @@ https://open.spotify.com/playlist/7CFooHblO6h9OcHwFKKSpH?si=4d3222036e274442
 
 # Write-up
 
+Popol Vuh's history is heavily tied to German Director Werner Herzog. While studying briefly at Munich University, Herzog met Florian Fricke and hit it off. While in the university library, they found a Mayan manuscript that laid out the creation myth of the K'ich'e people. It was titled Popul Vuh. When Herzog started making movies, he cast Fricke in his very first one, Signs of Life in a small bit role. Later, Fricke would go on to edit the soundtrack for several of Herzog's films. A year after appearing in Signs of Life, Fricke founded the group Popol Vuh, which would be the main vehicle for his music. To start with, the band played electronic music and were among the first in the world to own a Moog synthesizer. Popol Vuh put out two albums that were already somewhat outside of krautrock, the growing German experimental rock scene that included NEU!, CAN and Faust. But while all of those bands utilized experimental and often technologically cutting edge techniques to create novel music, Popol Vuh eschewed the rhythmic tempo that most of the other band at least toyed with, instead focusing fully on an ambient, psychedelic sound.
+
+In pursuit of music even more divorced from tradition, Fricke sold his Moog synthesizer, kicked out the other two members, then brought in Conny Veidt and others to play a new style, one without synthesizers. Hosianna Mantra was the first album in this new style. Korean vocalist Djong Yun sung, and instruments from the oboe to the tambura were used. The band were among the first to get called "ethereal" and took inspiration from world music, blending the foreign with Fricke's newly found Christianity to create something completely new. After Hosanna Mantra, Popol Vuh would put out 17 more albums, including the soundtracks for six of Herzog's films. Fricke died in 2001.
 
 # Hargrove's review
 
@@ -34,3 +37,5 @@ Favorite tracks: Ah!, Kyrie, Hosianna Mantra
 Least favorite track: Abschied
 
 # Aidan's review
+
+Hard album to really write about because of how same-ish it sounds. It's pleasant throughout and works well to meditate, chill out or generally disassociate to, but that leaves little to actually review. I really like the general atmosphere, and the instruments accomplish their goal of feeling new and "ethereal". I don't know if I have a rational reason for liking this more than Biosphere but less than Stars of the Lid or Eno, but that's where it lands among the ambient works we've done. Fine, but not extraordinary.

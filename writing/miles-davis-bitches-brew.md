@@ -49,3 +49,5 @@ Favorite tracks: Pharaoh’s Dance, Bitches Brew, Spanish Key
 Least favorite track: Sanctuary
 
 # Aidan's review
+
+One of those albums that is only really great when you listen straight though, whenever I stopped and started listening to this album I wasn't really into it. But when I finally sat my zoomer ass down and listened, it's a wonderful experience. Each song is just a wonderful decent into the edge of chaos, with strong momentum from an exceptionally talented and large rhythm section while Davis and Shorter are remarkably restrained when they take over sections. The rock influences don't scream but they're there and it just works throughout. Great jazz album, not really a dull moment.

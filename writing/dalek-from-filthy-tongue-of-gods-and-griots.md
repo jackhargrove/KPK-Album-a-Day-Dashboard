@@ -38,3 +38,5 @@ Favorite tracks: Spiritual Healing, …From Mole Hills, Hold Tight, Voice of the
 Least favorite track: Trampled Brethren
 
 # Aidan's review
+
+I really liked the only other remotely industrial rap album we had in Yeezus, and this hits a lot of the same notes. Obviously, it's a little more out there than an album that hit Billboard #1, but "Spiritual Healing" and "Forever Close My Eyes" are both good songs that I'll probably listen to again. I really appreciated the varied sampling and percussive rapping, but the end effect was more "that's neat" than a song I was in love with. Still, it impressed me more than a lot of other albums in terms of what it did, and is one of the more unique albums on this list, which makes it worth the listen.

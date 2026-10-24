@@ -39,3 +39,5 @@ Favorite tracks: Serve the Servants, Heart-Shaped Box, Rape Me, Frances Farmer W
 Least favorite track: Radio Friendly Unit Shifter
 
 # Aidan's review
+
+Despite all of the conflict surrounding the production process, it's astounding how good Nirvana sounds here. The guitars have a really nice edge, the fuzz is just enough and the drumming is punchy as hell. I don't love quiet-loud songwriting, but Nirvana are masters of it. Playing melodies both undistorted and distorted is a simple trick that does wonders and Cobain's vocals are extremely emotionally resonant. I feel like a bit of a casual preferring the radio singles plus "Dumb", Cobain's talents for pop songwriting are such that when the band shies away from it, the songs aren't as good. I really appreciate "Dumb" in particular for keeping a softer sound that reminds me a lot of YLT. There's something horribly ironic about how Cobain was far more concerned about his artwork despite having a one in a million ability to write radio hits. Solid album, I could see really digging it if I were a bigger fan of 90s alt rock.

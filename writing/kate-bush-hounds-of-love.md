@@ -40,3 +40,5 @@ Favorite tracks: Running Up That Hill (A Deal with God), Hounds of Love, The Big
 Least favorite track: Watching You Without Me
 
 # Aidan's review
+
+This coming right after Bjork makes for a nice comparison. Both dabble in the same type of ornate art pop, but I think their strengths are completely opposite. While I harped on Bjork’s weird beats, Bush’s arrangements are probably her single greatest strength. Her voice isn’t Bjork’s but whose is. Lyrically, the songs feel exceptionally smart for an album that had this degree of mass appeal, especially Mother Stands for Comfort and Hounds of Love. She also does the same thing as Bowie’s Low in stapling a more daring second side to a hit filled first side. It’s not bad, but it’s not making it onto Stranger Things. I do have a soft spot for Jig of Life. Very good album, does a lot of cool things while also having songs anyone with ears can appreciate.

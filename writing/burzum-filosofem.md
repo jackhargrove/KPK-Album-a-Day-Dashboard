@@ -36,3 +36,5 @@ Favorite tracks: Dunkelheit, Jesus Tod, Erblocket Die Tochter Des Firmaments, Ge
 Least favorite track: Rundgang Um Die Transzendentale Saule Der Singularitat
 
 # Aidan's review
+
+Hate to admit it, but it’s a good album. The synth on tracks 1 and 4 is really cool, as are the drums in 2. Not a huge fan of the vocals, but they’re incomprehensible. The guitar sound is cool. Second half is really interesting, track 5 is a proper ambient track and a well done one at that, and track 6 does a really cool buildup to a wall of feedback laced guitars. Metal hasn’t been my favorite, but this was far more my speed. I’m probably not going to listen to this again, but that’s not because of the music.

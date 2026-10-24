@@ -44,3 +44,5 @@ Favorite tracks: Born Under Punches (The Heat Goes On), Crosseyed and Painless, 
 Least favorite track: Seen and Not Seen
 
 # Aidan's review
+
+Borderline perfect first 5 songs, loses momentum with Seen and Not Seen and The Overload. Eno’s production is so good, the guitar and drums are incredibly crisp. The lack of emphasis on Byrne’s vocals and sense of humor is probably why there is only one big single from this album, but the overall vibe is great.

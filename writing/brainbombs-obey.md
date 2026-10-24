@@ -17,6 +17,7 @@ Similar Albums: Chat Pile - *God's Country*, The Velvet Underground - *White Lig
 
 # Write-up
 
+There's very little information out there about Brainbombs. They're a Swedish band with 6 members that's been around since 1985 and has put out 9 full length albums in addition to a massive collection of EPs and singles which were released in varying quantities. They come from the Albini school of punk rock, and as such are relentlessly principled in being provocative and incorrigible. All 6 are from Hudiksvall, a small industrial town in the north of Sweden, and are the most famous thing to come out of it besides actress Noomi Rapace. Obey is considered among their best albums Iand features a picture of murderer Ed Gein, the inspiration for characters including Norman Bates, Buffalo Bill and Leatherface. You may remember his name from Patrick Bateman quoting him.
 
 # Hargrove's review
 
@@ -27,3 +28,5 @@ Favorite tracks: Kill Them All, Die You Fuck
 Least favorite track: Fuckmeat
 
 # Aidan's review
+
+Just profoundly annoying. The repeated riffs aren't interesting, the provactive lyrics aren't interesting, it's just dreary to listen to. It's just so lazy, even the transgression feels tired and unearned. The only pleasure I can imagine deriving from this album is some sort of ironic enjoyment from just how terrible the lyrics are. I've had albums so far that I've really hated and albums that I did not respect artistically, but I don't think one has checked both boxes as much as this one has. Awful, awful, awful.

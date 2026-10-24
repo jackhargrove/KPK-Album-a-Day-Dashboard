@@ -41,3 +41,5 @@ Favorite tracks: Diana, Drip Drip, Song to Comus, The Bite
 Least favorite track: The Herald
 
 # Aidan's review
+
+The combination of Satanism (or just general evil-ness) and prog is quite a weird one. The presence of the flute and the up-tempo nature of most of the songs makes this album end up sounding like the evil version of Jethro Tull. I liked Jethro Tull, although I found their lyrics a tad childish at the time, and these lyrics are probably a net improvement, although they do certainly cross the line of "mature" and keep going. I don't find them particularly interesting, but they do fit the general tone of the often nauseatingly sweet music. I'm partially fond of the guitar here, on The Herald (my favorite song and the least aggressively evil one) the arpeggios (I think that's the right term) are gorgeous, as is the individual picking that starts out the song. Bitten is a bit of failed experimentation, but it's just one song. My impression is this album is on the list for its largely lyric influence on freak folk, which is my least favorite part, but there's definitely something to enjoy here.

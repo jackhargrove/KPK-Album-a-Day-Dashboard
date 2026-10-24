@@ -32,3 +32,5 @@ Favorite tracks: Pop 1, Pop 3, Pop 4, Pop 7
 Least favorite track: Pop 6
 
 # Aidan's review
+
+Not a review that really writes itself. I really like the minimalist techno elements but really don't care about anything else in the ablum. Pop 7 is my pick for the best of the bunch (Pop 4 is the other cool one), it sounds like listening to white noise while living next door to a club, and is somehow a marvelous experience. Interesting contrast to Dataplex, whose ambient techno sections I felt were less interesting than the extreme sonic experimentation. The lush white noise is infesting Overall, it's one of the more enjoyable ambient albums we've done. I think the naturalistic elements are at the very least unique, and achieve a lot more than some of the more austere ambient albums we've gotten, who don't really elicit any sort of emotion. Still didn't love it, my patience for ambient albums is waning after the last 15 albums being half incredibly slow ones. That probably makes some of that bunch deserve a second look, but I don't think this is one of them. Unremarkable overall.

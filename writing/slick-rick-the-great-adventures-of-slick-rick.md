@@ -38,3 +38,5 @@ Favorite tracks: Treat Her Like a Prostitute, The Ruler’s Back, Children’s S
 Least favorite track: Teenage Love
 
 # Aidan's review
+
+This album is about as Golden Age as they come, but I did not think Golden Age rappers got as explicit as Rick does on "Treat Her Like A Prostitute". It's as misogynistic as it sounds and it's not funny enough to get away with it. Thankfully, the rest of the album is a lot better. The other expectation that I had was that this album would be very one-note, with every end of line heavily stressed and a single flow hammered to death. "Children's Story" sounds mostly like what I'd expect, but it's probably the best song of its type out there. And while the rest of the album isn't vastly different, it's different enough to not feel one-note. "The Moment I Feared" and "Mona Lisa" both have some nice run-on lines. The production's solid, and the singles are all individually good songs. The rest of the record isn't as lacking as other near-contemporaries like 3 Feet High and Rising or Paid in Full. It's still a tad corny at points and I really do not like "Treat Her Like A Prostitute", but it's a fine record, and I can see the appeal.

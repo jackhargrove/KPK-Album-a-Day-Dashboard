@@ -39,3 +39,5 @@ Favorite tracks: Vinum Sabbathi, Funeralopolis, Weird Tales - I. Electric Frost 
 Least favorite track: We Hate You
 
 # Aidan's review
+
+I went into this expecting to hate yet another doom metal album, but this album rules. It never takes itself too seriously, and the samples, especially the one that opens the album from a news report on Satanism, are so much fun. Right after that, the album starts rocking. The incredibly lo-fi vocals are a great match for the overpowering guitars, and the basses are as groovy as any metal album we've done so far. The best parts are the most blues-inspired, and the last few tracks drag a bit, but for a 75 minute album, it keeps remarkable momentum. Great album.

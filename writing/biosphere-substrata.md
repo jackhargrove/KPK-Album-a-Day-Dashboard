@@ -20,6 +20,7 @@ https://open.spotify.com/playlist/6RNtFHHPbGU421scIpiCrM?si=r7mm4wb8QEScZyKjyJQq
 
 # Write-up
 
+Biosphere, real name Geir Aule Jenssen, is very familiar with the cold. Born above in Tromsø, Norway, the most northern city with >30,000 people, he climbs mountains as a hobby and studied archeology, specifically the Ice Age. Prior to releasing music as Biosphere beginning in 1991, he was part of Bel Canto, a synth pop trio which continued after he left and released solo works as Bleep. His initial solo works are typically classified as house music, but with Substrata, he moved towards an ambient sound, with samples from the David Lynch directed TV show Twin Peaks and a ABC documentary on Russian psychics. The interest in Russia and several other foreign countries is a continued theme throughout his work, his second album was titled "Patashnik" after Russian slang for a "goner", and he has also drawn inspiration from Japan and France. He has also created soundtracks for films, the most notable of which is was made for a festival to accompany Dziga Vertov's groundbreaking 1929 film, Man with Movie Camera.
 
 # Hargrove's review
 
@@ -30,3 +31,5 @@ Favorite tracks: Chukhung, Times When i Know You’ll Be Sad, Kobresia, Antennar
 Least favorite track: Hyperborea
 
 # Aidan's review
+
+Absolutely adored The Winter Ray, the last ambient album I listened to and this just didn’t match up. Samples are so so and twin peaks definitely has become trite by now to sample. Agree that I didn’t really get a cold vibe from this, although the soundscapes are the highlight of the album. The tactile feeling in some of the tracks with dripping water, the sound of the Russian psyching swallowing and breathing, they’re all amazing. The actual music is a lot less inspiring, it’s completely fine, but rarely does anything really notable, just keeps to the ambient playbook. Overall there just wasn’t enough interesting things vs annoying things for me to really enjoy it. I think my bar for ambient albums is a little higher because variety matters a lot less so you can replay your favorites a lot, but this was not one of my favorites.

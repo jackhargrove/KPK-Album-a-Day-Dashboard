@@ -36,3 +36,5 @@ Favorite tracks: N.Y. State of Mind, Life’s a Bitch, The World Is Yours, Halft
 Least favorite track: Memory Lane
 
 # Aidan's review
+
+Late on the review because I had to rush off to the airport. First time I ever listened to this album and it’s just so clean. It’s what rap should be like. Just under 40 minutes of the smoothest flow known to man, you can enjoy it without even understanding a word of the lyrics. That’s not to say the lyrics aren’t great and Nas is incredible at drawing emphasis to his best lines. Absolutely amazing album, you can hear the echos of it in basically every other East Coast rap record. It’s authentic without falling into the pseudo-exploration that a lot of gangster rap falls into. This is the type of album that can only be made by some kid that doesn’t know that something this perfect can’t be made, and 20 year old Nas somehow managed to do it.

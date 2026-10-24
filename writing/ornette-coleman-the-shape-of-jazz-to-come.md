@@ -38,3 +38,5 @@ Favorite tracks: Lonely Woman, Eventually, Peace, Congeniality
 Least favorite track: Chronology
 
 # Aidan's review
+
+This album demands to be listened to with high quality and high concentration. There’s so much going on in the background, the little exclamation of relief at a good take halfway through Lonely Woman, the subdued bass in Focus on Sanity, the deep thumps on Chronology The album is at its best when it’s relaxed, it gets a little noodle-y at parts, and the harshness of the sax (yes I know it’s intentional) grates on me a bit there. But when it’s just flowing, like on Peace and Focus on Sanity, it’s pure and free. With stereo, the left ear/right ear for sax and cornet is neat, but it’s not much more than that. I really enjoyed the album, looking forward to more jazz stuff because I’m not going to listen to it otherwise.

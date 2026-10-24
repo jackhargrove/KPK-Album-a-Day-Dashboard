@@ -41,3 +41,5 @@ Favorite tracks: Albatross, Memories, Swan Lake, Poptones, Careering, No Birds, 
 Least favorite track: The Suit
 
 # Aidan's review
+
+This is probably the closest thing on the list to my beloved Entertainment and even has a callout to "the spirit of '68" on the opener, so I wish I liked this more than I do. The major snag on this album for me is Lyndon's restrained vocals. When he gets out of his laconic drawl on the early stretch of the album from "Memories" to "Careering", the result is quite good, but overall there's just too much empty space on the other 2/3rds of the album. This sounds a lot like several other albums I liked more, but in comparison to albums like Entertainment, Public Strain and (the better parts of) Unknown Pleasures, but all of those albums do more interesting things with the stark post-punk beats. Lyndon/Rotten's acrid lyrics were by far the best part of the Pistols albums, and less is not more here. A unique sound and the good upbeat songs aren't enough to make me happy about the rest of the album.

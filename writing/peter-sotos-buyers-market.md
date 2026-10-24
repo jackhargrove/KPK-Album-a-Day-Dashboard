@@ -17,6 +17,7 @@ Similar Albums: [unknown artist] - *Necrophilia*, Scharpling and Wurster - *Rock
 
 # Write-up
 
+Peter Sotos is an American artist whose multimedia work centers around the horrific crimes, specifically child sexual abuse. He joined the power electronics band Whitehouse in 1983 and collaborated with them on several albums. In 1984, he released his first solo work, a self-published zine titled "Pure" which focused on serial killers and sexual violence. When the mother of a young Whitehouse fan saw Sotos's work, she called the police, who promptly tore Sotos's apartment apart. They found a magazine of child pornography which he had used for one of his covers. Sotos claimed that a fan had sent it to him, but to no avail. He received a light sentence, but the allegation of pedophilia would dog him for the rest of his career. Buyer's Market is among his earlier works, and is a collection of audio recordings from victims of child sexual abuse. Some other of his prominent works include Lazy and Selfish, Little, two books on the public reception of sex crimes against minors, specifically the Moors Murders, as well as Show Adult, which contrasted child pornography to Supernanny and To Catch a Predator. His writing typically uses first person narration from the viewpoint of a sex offender, and has variously been described as exploring empathy, examining society's role in these crimes and undermining the gaps between legal but morally suspect sex acts and the extremely taboo. He was a collaborator with Steve Albini, who produced Buyer's Market. He cites feminist Andrea Dworking and French writer and sexual criminal Marquis de Sade as his primary influences. Author Dennis Cooper, musician Jamie Steward (of Xiu Xiu) and filmmaker Gaspar Noé have in turn praised him
 
 # Hargrove's review
 
@@ -33,3 +34,5 @@ Favorite tracks: Children
 Least favorite track: Trash
 
 # Aidan's review
+
+It's not easy to give a rating this album because it's not meant to be listened to and enjoyed. Sotos is evoking the ultimate taboo in society because he want to evoke disgust and he succeeds. It's bad music, but not necessarily bad art. Personally, it was also bad art. I thought that the juxtaposition between audio samples genuine abuse cases and the largest single episode in the Satanic Panic was gross on an artistic level. There's no real sense of an authorial figure here, it feels like scrapbooking of depravity. Sotos is not an unkind chronicler, and the clips evoke a tremendous amount of pity for the victims, but after doing an hour of research and listening through this album, I still cannot come up with a real description of Sotos's intent with this album. Unpleasant, baffling and certainly my least favorite album on this list to listen to.

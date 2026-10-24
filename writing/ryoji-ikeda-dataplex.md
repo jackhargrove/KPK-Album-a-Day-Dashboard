@@ -19,6 +19,7 @@ This album HEAVILY relies on stereo sound. I would recommend listening specifica
 
 # Write-up
 
+Dataplex is barely music. Its creator, Japan's Ryoji Ikeda, is more commonly referred to as a sound artist, and more commonly creates instillations in museums. He's done shows in JFK and at the Park Avenue Armory, and releases minimalistic electronic music in this vein solo and in collaborations such as "Cyclo.", which is with a German artist, Carsten Nicolai. Dataplex is incredibly minimalistic techno, which pushes the boundary of what sound and music, with extreme pitches, sounds that are designed for oscilloscopes rather than human ears, and a closing track which was designed to temporarily break CD players (this album was released back when CD players were still used). This is one of if not the most obscure album on this list, so there's not really any other info out there.
 
 # Hargrove's review
 
@@ -31,3 +32,5 @@ Least favorite track: data.googolplex
 Least favorite track that’s actually musical: data.flex
 
 # Aidan's review
+
+This album is a gimmick, but it's a hell of a gimmick. My first listen I was blown away at how far the envelope was pushed with the sounds. I highly recommend listening to this album, especially the opening section, once with headphones one. However, I cannot recommend that you listen to it more than once. There's just not that much there beside the weird sensation of hearing a noise you've never heard before, and one the novelty wears off, it just sounds like someone is trying to play Darude Sandstorm on a turntable by moving the needle back and forth on a stationary record. I really wish this was better because it's genuinely one of the coolest ideas for a record on this list, and I think it's honestly good if you view it as a work of art and not a record. But as music, it really falls short, it's not really repayable, and after its bag of tricks is gone, the album just gives up and stops doing new things in favor of just minimalist techno. My final impression was very tired, but I can't ignore how wowed I was listening to it for the first time.

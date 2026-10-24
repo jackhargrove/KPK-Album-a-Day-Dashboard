@@ -37,3 +37,5 @@ Favorite tracks: Waking Up, Heard a Song, Graduation, Fish Bowl, Big City, Break
 Least favorite track: Try Me
 
 # Aidan's review
+
+Snowcrash, one of my favorite books, is an incredibly overdone cyberpunk novel, to the point of self parody. Among its many ridiculous elements is the presence of a rapper named Sushi K, who raps in stilted English about his financial acumen and market share. Bars include "The Nipponese talking phenomenon/Like samurai sword his sharpened tongue/Who raps the East Asia and the Pacific/Prosperity Sphere, to be specific. Bonito Generation felt like the pop equivalent to that. At nearly a decade old, it still sounds ahead of its time. The beats glow with artificiality, and Sarah Midori's rap verses are so earnest she sounds like an alien. The lyrics are so mundane and sugary that the entire album just feel unreal. And somehow it just works as pop music once you get past that feeling. The overwhelming sweetness was just a bit much for me to really vibe with it, but this album is laser focused in executing on its vision. No faults with it, and I like it, but it'd take a personality transplant for me to love it.

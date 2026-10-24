@@ -35,3 +35,5 @@ Favorite tracks: Xtal, Green Calx, Heliosphan, Ptolemy, Hedphelym
 Least favorite track: We Are the Music Makers
 
 # Aidan's review
+
+It’s hard to pick out elements to justify a rating, but it’s like good and all. Elite background music, but not something that really holds your attention. I think I did it a disservice by not doing other stuff while listening to it.

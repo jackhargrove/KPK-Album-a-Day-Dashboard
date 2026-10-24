@@ -38,3 +38,5 @@ Favorite tracks: Dream House, Sunbather, Please Remember, Vertigo, Windows, The 
 Least favorite track: Irresistible
 
 # Aidan's review
+
+I like this for the exact same reason I liked Aesthetica so much, in that it uses metal to create a cycle of tension and release. Here, the cycle is between songs and three interludes, the latter two of which feature excellent field recordings. The lengthy underlying extended chords under the hammering metal drums and crazed vocals give the album a sense of grandiosity that I only found momentarily in predecessors like Weakling and Ulver. This creates a wonderful contrast with the frailty of the field recordings, which in turn emphasize how powerful the metal chords feel. Great, great record, a joy to listen to.

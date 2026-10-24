@@ -34,3 +34,5 @@ Favorite tracks: Ritual, Goddess of Perversity
 Least favorite track: Desecration
 
 # Aidan's review
+
+This album sucks. It's not even offensively bad in a way that merits some harsh rebuttal or moral condemnation (although the petty criminals who made this record are likely not great people). It's just all of the things I don't like about metal mashed together without any sort of purpose. The song structures are aimless, the growling is obnoxious and there's not a single memorable riff. It's only saved from the F tier by being too short and forgettable for me to hold a grudge for having to listen to it.

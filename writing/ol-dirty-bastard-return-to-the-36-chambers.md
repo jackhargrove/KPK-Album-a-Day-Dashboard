@@ -39,3 +39,5 @@ Favorite tracks: Shimmy Shimmy Ya, Baby C’mon, Hippa to da Hoppa, Raw Hide, Da
 Least favorite track: Drunk Game (Sweet Sugar Pie)
 
 # Aidan's review
+
+I was not a huge fan of the Wu-Tang album and ODB in particular, so I was not going into this with high expectations. I don't know if this album is so much better than the original 36 chambers or if my taste has changed, but I now get where Hargrove is coming from with his insistence that ODB is the best rapper of the Wu Tang. Oddly for a nearly hour long album, my biggest gripe is that there's not more. It's not lacking for length, but I really wish that there were more features and flashier production from RZA. The latter was the standout from Ghostface's solo album and when we get the chaotic collabs going in the last 4 songs of the album, it's amazing. I liked this a lot more than I thought I would, there's a decent amount of clever lines, and ODB's style really has it's moments, although I think he's strongest in short bursts instead of the longer unstructured stretches that he has on most of the album. Feels fitting to put this on par with Supreme Clientele.

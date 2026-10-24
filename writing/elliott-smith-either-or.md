@@ -40,3 +40,5 @@ Favorite tracks: Speed Trials, Alameda, Ballad of Big Nothing, Between the Bars,
 Least favorite track: No Name No. 5
 
 # Aidan's review
+
+I don't mind Elliott Smith, but considering his genre and my appreciation for his heirs like Bridgers, Baker and the Microphones, my thoughts on him should likely be more superlative. And yet, listening to this album, I haven't really changed my mind. There's a decent amount of absolutely amazing songs. "Angeles", "Between the Bars" and "Say Yes" are superlative. "Alameda" isn't far behind. But the rest of the album doesn't really do it for me. Smith's voice is capable of carrying tremendous emotion and his lyrics have some real gems like "everyone's dying just to get the disease" and "The promises you'll only make", but when the songs don't have enough emotion or melody, the lo-fi nature of the recording stops enabling the rawness of Smith's emotion and instead functions as an analgesic. I think with more time exploring his discography, I can find the songs I like and build it into a larger appreciation, but for now, this album is just good in my book.

@@ -38,3 +38,5 @@ Favorite tracks: Land of Treason, Richie Dagger’s Crime, Lexicon Devil, We Mus
 Least favorite track: Dragon Lady
 
 # Aidan's review
+
+I wasn’t really into this album when I started listening to it, Richie Dagger’s Crime was interesting but it was the same nonstop frantic amateurish instrumentals I’ve heard in other punk records I mostly didn’t like but with growling vocals instead of screaming. But the second half of the record, starting with Lexicon Devil, is just a completely different ball game. At that point, the frantic pace begins to falter and the Germs do a lot more interesting stuff. The sample on Media Blitz, the opening drum bit on Dragon Lady, basically all of Shut Down, there’s the moments I can hang my hat on that were missing from the first half of the album. Darby’s vocals never risk verging on pleasant, but he comes off as homicidal quite well, and delivers the lyrics with an unmatched authenticity. The Germs do hatred with a passion, and that’s enough for a punk record.

@@ -32,3 +32,5 @@ Favorite tracks: Angel, Risington, Teardrop, Inertia Creeps, Dissolved Girl, Gro
 Least favorite track: Man Next Door
 
 # Aidan's review
+
+First time I’ve really it beyond the two big singles, agree with carms about the back half. I thought this did what a lot of internet-linked genres(including the closely linked breakcore) try to do, in feeling very alien and distinct from recognizable musical patterns. Super cool, super distinct, and especially on the tracks with less precise vocals, feels totally out of this world. Really liked it, the indie rock influences were also cool when they popped through

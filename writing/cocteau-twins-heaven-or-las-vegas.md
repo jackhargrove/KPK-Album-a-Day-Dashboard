@@ -17,6 +17,7 @@ Similar Albums: Candy Claws - *Ceres & Calypso in the Deep Time*, Slowdive - *Ju
 
 # Write-up
 
+As previously mentioned, Heaven or Las Vegas was Cocteau Twins' most commercial successful album. The album's themes largely revolve around birth and death. Guthrie and Fraser had just had their first child, whose first birthday coincided with the album's release. On the other side of the veil, Raymonde's father had during the recording of the album. Due to Guthrie's increasing cocaine usage, Raymonde and Fraser had increased influence on the record. Fraser's formerly incomprehensible lyrics occasionally lapsed into recognizable words on this record. The cover of the album is a long exposure take of Christmas lights being dragged across a backdrop. It has since become regarded as the band's best album and one of the greatest albums of all time.
 
 # Hargrove's review
 
@@ -33,3 +34,5 @@ Favorite tracks: Cherry-Coloured Funk, Pitch the Baby, Iceblink Luck, Fifty-Fift
 Least favorite track: Fotzepolitic
 
 # Aidan's review
+
+I don't think I've ever listened to "Cherry-coloured Funk" sober before but I recognize it from every time I've spent time in the kitchen with Carms. Fraser ditches the incomprehensibility of Treasure for a real set of lyrics, but she's still lapsing in and out of recognizable English when I'm not reading directly off the lyrics sheet. The end result is quite nice, and produces the same feeling as a dream where you're not properly able to understand what everyone else is saying, despite feeling that you should. The strongest moments are the album is when one good line suddenly pierces through the muddle of dreamy effects. "I only want to love you" on "Pitch the Baby" is one such moment, and "burn this whole warehouse down" on "Iceblink Luck" is another. But those moments are too far and few between, as the lyrics are rarely as poignant and usually just lurk on the outskirts of understanding rather than rushing in and out. Unfortunately for a 10 song, 37 minute album, most of it is pretty forgettable and a lot of it sounds the same. I like how "Frou-frou Foxes..." spirals into a loop for the choruses, and the good tracks are good as singles. Dream Pop is notorious for "all the songs sound the same" and the lesser songs on here are very similar to the good songs, especially with the lack of recognizable lyrics. It's an effective album at cultivating a vibe, but I don't get a real impact out of it. Pleasant listen, and I'm sure I'll hear it again whenever I wind up in West Village.

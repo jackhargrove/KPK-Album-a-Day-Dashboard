@@ -39,3 +39,5 @@ Favorite tracks: Best Foot Forward, Building Steam with a Grain of Salt, The Num
 Least favorite track: Mutual Slump
 
 # Aidan's review
+
+I had only heard Gathering Steam with a Grain of Salt going into this. Obviously an excellent track, and the album repeats a lot of what makes that track good, the smooth looped instrumentals and the excellent sample choice. I want to highlight the non musical samples, the Xanadu and Murray Roman samples in Stem/Long Stem Medley and Mutual Slump are so diverse yet fit so perfectly. The piano in particular just glides over the samples in an incredibly pleasing way. I do find the harshness in the way some of the samples are stuttered grating, the end of Midnight In A Perfect World is a good example, it's just too drawn out for my taste when compared to the rest of the song. Still a nice album, it just oscillates a bit too much between styles for me to love it.

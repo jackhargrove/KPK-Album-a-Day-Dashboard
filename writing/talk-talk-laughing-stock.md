@@ -17,6 +17,11 @@ Similar Albums: Sigur Rós - *Ágætis byrjun*, Bark Psychosis - *Hex*, Frank Za
 
 # Write-up
 
+We left off with Talk Talk after they had released Spirit of Eden, the groundbreaking yet profoundly uncommercial album that, along with Slint's Spiderland, established the genre of post-rock. The story of Laughing Stock, the follow up and final album, is more of the same. The band was down to a duo both officially and unofficially. Officially, the band consisted of Mark Hollis, the lead singer and multi instrumentalist and Lee Harris on drums. Unofficially, while Harris was still playing in the band, Hollis and producer Tim Friese-Greene exercised total control, while Harris was for all purposes a studio musician. Talk Talk's relationship with their label, EMI, was also breaking down. EMI was rereleasing old songs to eke out some semblance of a profit from the band, which made the band unhappy, and Hollis insisted on making music that was impossible to sell, which made the label unhappy. After a few lawsuits, the relationship ended and Talk Talk signed with Verve Records, a jazz label who gave them a blank check and creative control for their next album.
+
+The story now takes on a familiar tone. Freed of any sort of oversight, Hollis and Friese-Greene's methods began to resemble madness. Musicians were encouraged to just improvise with little idea of what the song would sound like, and the two would select the few takes they liked the best from each instrument. Hollis worked in darkness with only a strobe light, installed his own paintings in the studio. They put mics 30 feet away from the drums, which caused problems because the speed of sound would cause the drums to lag the rest of the tracks, which had to be fixed in production.
+
+Shockingly, the resulting album was not a big seller. Critical opinion was mixed at the time, and the label despaired. The record miraculously managed to chart for two weeks in the UK, but it never came close to making a profit. Talk Talk soon broke up as its members pursued other projects and Hollis wanted to spend more time with his family. Post breakup, their two post-rock albums became more and more acclaimed to the point where among internet music nerds, they are far more famous for Spirit of Eden and Laughing Stock than for anything that made it to radio. Hollis died from cancer in 2019.
 
 # Hargrove's review
 
@@ -31,3 +36,5 @@ Favorite tracks: Ascension Day, After the Flood, Taphead, New Grass
 Least favorite track: Runeii
 
 # Aidan's review
+
+I had a lot of enthusiasm for Spirit of Eden based off how much I liked this album back in freshman year and while Spirit of Eden wasn't that good, listening to this again reminded me that the hope was well earned. The obvious highlight is "Ascension Day", the cutoff ending is just magical. The drumming throughout is also amazing, I feel like most studio gimmicks are just to make the band sound cool, but moving the drums far from the recording mics makes the snare drum sound delightfully subdued. Hollis's sporadic vocals work, and the usage of chosen instrumental parts creates a feeling of flow and structureless, there's a buildup at the beginning and a drawdown at the end (except for "Ascension Day"), but in between there's no strong feeling of direction. It's a very zen album, one that you can (and I did) listen to on loop without really noticing where one song ends and the next begins. It doesn't feel like music made by humans, and it's all the better because of it.

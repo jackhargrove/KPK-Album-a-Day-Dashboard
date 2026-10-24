@@ -32,3 +32,5 @@ Favorite tracks: Moil, Abysmill, Omnipotent Crawling Chaos, 13 Globes, Sourlows
 Least favorite track: Black Houses
 
 # Aidan's review
+
+270ish albums and 25ish metal albums in, and this makes me feel the same way that our first metal album, Dopesmoker did. Going back and listening to Dopesmoker, this is so much "heavier" (for lack of a better word). This album felt less brutal after repeated listens, but it's been a while since an album provoked the same feeling of a weight on my chest as this one. The drums range from oppressively slow to oppressively fast. The vocals are as guttural as any and the guitars are a dark cloud of dissonance. "The aural equivalent of a toxic waste dump" is a great line, and it's a shame it was wasted on Bad Moon Rising instead of this album, which suits it far better. Hargrove compared this album to Filth, and that's probably the best comparison. Both share the sense of hatred above all else. There's a few moments of melody on here, but the majority of it is just brutal. I respect what this album is trying to do less than Filth, but I enjoyed my listen a bit more, so I'll put it a big higher.

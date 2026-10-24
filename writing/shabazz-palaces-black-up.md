@@ -28,3 +28,5 @@ Favorite tracks: Youlogy, Swerve… The Reeping of All That Is Worthwhile (Noir 
 Least favorite track: Endeavors for Never (The Last Time We Spoke You Said You Were Not Here. I Saw You Though.)
 
 # Aidan's review
+
+Feels like the album doesn’t know what it wants to be. At points it has Death Grips esque beats, but the vocals lack the punch of mc ride that makes something that exotic work. At other times, it’s rehashing the jazzy style of digable planets with slightly weirder beats. This works better, but it still feels weird. I should probably listen ti it more, but as for now I just don’t see the appeal, it’s fine but for me, it’s nowhere near the acclaim it’s received.

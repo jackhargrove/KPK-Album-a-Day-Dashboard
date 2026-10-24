@@ -39,3 +39,5 @@ Favorite tracks: A1 (She’s Waiting), A2 (Angel), A3 (Be Real/Dreams), A4 (Deme
 Least favorite track: B5 (World)
 
 # Aidan's review
+
+There's a lot of songs that I like because for some 10 seconds buried deep within them, there's perfection. The guitar bit on the title track off of Lift Your Skinny Fists, "I passed out on the fourteenth floor" from "Dallas", "My momma told me we were kings" from "Summertime", "You are not my typewriter" on "War on War". Lopatin his own personal collections of sad snippets from pop songs and puts them on loop, throws in some effects, and thirty Mark Fisher essays later, pretty much every new genre in the last 10 years owes a small debt to him. This album is fascinating as a pioneering work and it's a fine listen, but the Lopatin has a different (and  more successful) taste than me in what sort of moments he treasures from songs.

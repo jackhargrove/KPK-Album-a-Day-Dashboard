@@ -20,6 +20,7 @@ https://www.youtube.com/watch?v=J35iWAYFqMw
 
 # Write-up
 
+不失者 (anglicized and henceforth referred to as "Fushitsusha") is the project of Japanese musician Keiji Haino. Haino, born in 1952, got his start in experimental theater, but upon hearing The Doors, was inspired to take up rock and roll. His first band was founded at age 18, called Lost Araaf, and played free jazz featuring guitars. He then collaborated with fellow experimental musician Magical Power Mako for a few years before founding Fushitsusha. He used a rotating cast of musicians. 1st, as the name would suggest, was the first full album released (although there is a bootleg that dates to earlier in the same year). The band has put out 15 studio albums and 8 live albums. Haino has collaborated with Boris, Faust, Merzbow, Peter Bröztmann (on a Fushitsusha record), Fred Frith (of Henry Cow), Yamantaka Eye (of Boredoms), Charles Hayward (of This Heat), Stephen O'Malley (of Sunn O)))), Thurston Moore and Jim O'Rourke (both of Sonic Youth). He is a vegan and has dressed in black clothes and sunglasses for his entire career. The last album from Fushitsusha was in 2013, and his last few albums have all been collaborations, with the most recent being with post-metal group Sumac in 2022.
 
 # Hargrove's review
 
@@ -34,3 +35,5 @@ Favorite tracks: あっち [Over There], 暗号 [Cryptography], 迷子 [Lost Chi
 Least favorite track: なったんじゃない [It’s Not What Happened]
 
 # Aidan's review
+
+The closing album in a week of 3 hour+ albums, this one was happy to take its time. I want to like Japanoise albums, but these guitar riffs are just too monotonous without much else going on. They're not even as stark as something like an Earth that leaves me with some artistic appreciation. There are some solid moments on here, and it's far faster than '77 Live, but it's so long that the moments don't make up for the length. When the you get to the good parts, like on "Do As You Like" or "Here", they're impressive, but the rest of the album is just so damn plodding that it feels like walking up a mountain to get a view that's merely ok. And while the closing track is impressive, there's 5+ minutes of false starts on the ending that annoyed me to no end as I was waiting to for the end.

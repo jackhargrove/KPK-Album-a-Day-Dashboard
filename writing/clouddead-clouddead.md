@@ -34,3 +34,5 @@ Favorite tracks: Apt. A (1), Apt. A (2), And All You Can Do Is Laugh. (1), Jimmy
 Least favorite track: I Promise Never to Get Paint on My Glasses Again. (2)
 
 # Aidan's review
+
+This album managed to get me interested in experimental hip hop again after being really annoyed with some of the more abstruse Death Grips beats. But they also cannot rap for shit, and that takes away a lot from this album, and over the course of 73 minutes you really wish for something else. I really appreciate the variety that this album brings, and the beats are fascinating. I think that the flow is often a good match, which was my main gripe with MC Ride, who often felt like a verbal steamroller. But these guys stray too far in the other direction, and are just uninteresting and annoying rappers, especially in comparison to some of the stuff we’ve done recently. I feel like this album could have been really great with a different vocalist, but it’s still cool.

@@ -36,3 +36,5 @@ Favorite tracks: Coopers World, Beep Street, Papalon, Vic Acid, Male Pill Part 1
 Least favorite track: Chin Hippy
 
 # Aidan's review
+
+Surprisingly jazzy for an electronic album, this one scratches a lot of the same itches as Donuts did for me. It flows from idea to idea, rarely staying in one place, in a very postmodern sort of blend, going from breakbeats to trance smoothly without warning. It's not without flaws, Chin Hippy in particular grates and it occasionally loses momentum when it gets a little noodly on tracks like Rustic Raver and  E8 Hippy. When it's in a groove though, it's amazing, the drums in particular just sound great throughout, with Beep Street and Fat Controller standing out as particularly good. I had this album a bit higher mentally for a while before I realized that I would dig the first two tracks before my attention would wander for a bit, but it's still very good. Really hope we get another Drill n' Bass record.

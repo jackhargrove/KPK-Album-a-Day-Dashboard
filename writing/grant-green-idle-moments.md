@@ -39,3 +39,5 @@ Favorite tracks: Idle Moments, Django
 Least favorite track: Nomad
 
 # Aidan's review
+
+Our first guitar based jazz album and the combination of guitar and cool jazz is a match made in heaven. It's an incredibly pleasant album, and has everything I want out of a cool jazz album. Green's guitar style is really pleasant and his single note playing is similar to John Fahey's picking style, which I also loved. The other instruments are also fantastic, the vibraphone is fun, the drums are light, there's not really any annoying or dull moments. I don't find any part particularly inspiring, but it's just an incredibly pleasant jazz album, and probably the single most accessible that we've done so far.

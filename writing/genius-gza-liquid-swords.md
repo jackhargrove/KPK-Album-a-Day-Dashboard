@@ -38,3 +38,5 @@ Favorite tracks: Liquid Swords, Duel of the Iron Mic, Gold, Cold World, Labels, 
 Least favorite track: I Gotcha Back
 
 # Aidan's review
+
+We saved the best for last among our four Wu-Tang albums. I found the debut an interesting mess, Supreme Clientele perfected the production, ODB's solo album showcased improved rapping, but here GZA, along with RZA's production, perfects the formula. RZA leans into the kung fu samples as intros, makes his beats more prominent, puts in soul samples and even uses a Bollywood soundtrack for a haunting guitar line on "4th Chamber". GZA's lyricism is incredible, every time I listen to this there's a new brilliant line. On "Gold" alone, he drops "Changed a n\*\*\*\* name to John Doe", Snake got smoke on set like Brandon Lee/Blown out the frame like Pan Am 103" and "His Glock clicks like high-heeled shoes on parquet floors". A lesser rapper would make "Labels" into a corny song, but GZA just uses it to flex his lyrical abilities. There's less of the youthful energy that I admired in the Wu-Tang debut, but even still a state of that in the feature-crammed "Duel of the Iron Mic". Genius album by the Genius.

@@ -52,3 +52,5 @@ Least favorite track: Untitled
 So let’s call it an 8/10
 
 # Aidan's review
+
+The mixing sucks, the high pitched whine is annoying, but the melody and drums are so excellent it makes up for it. I thought Untitled was interesting, the first track was a way worse offender imo. Currently really enjoying the remaster, since I can make out the words.

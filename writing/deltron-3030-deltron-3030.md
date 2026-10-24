@@ -42,3 +42,5 @@ Favorite tracks: 3030, Things You Can Do, Virus, Mastermind, Madness, Time Keeps
 Least favorite track: Upgrade (A Baymar Cllege College)
 
 # Aidan's review
+
+I think retro futurism is incredibly cool when done well and this album does it with gusto. It’s well versed in its cyberpunk predecessors and constantly references them, from Ghost in the Shell to Gibson. The production and instrumentals are great, the skits are far better than most of their peers, and the album is surprisingly cohesive for such a wild concept that runs over an hour. “Man vs woman, woman vs your mother” is hilarious, and the entire album runs that same line of blurring parody and earnest social commentary. The retro futurism of the 90s (yeah it’s released in 2000 bite me) exemplifies the era’s fear of corporations dominating government and the valorization of individual spunk and talent as a way to overcome it. Del’s flow gets a tad repetitive at times, but enough songs (and most of my favorites) have instrumentals which prevent the album from turning into 20 straight verses of same-tempo rhyme. Wild album, I feel pretty confident saying there’s nothing else out there like it.

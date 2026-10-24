@@ -34,3 +34,5 @@ Favorite tracks: Bargain, My Wife, Behind Blue Eyes, Won’t Get Fooled Again
 Least favorite track: Baba O’Riley
 
 # Aidan's review
+
+In most art forms, there are revolutionary works that still feel fresh today, and revolutionary works that have been aped so much they feel blasé when stripped of their history. Who's Next is firmly in the latter category. At one point, the combination of synths and hard rock was revolutionary, and the intro to Baba O'Reilly is still cool, but 55 years later, it sounds more like a neat trick to me than the sea change it was. Lyrically it's well trodden ground. There's not one but two songs about how great they are at singing, a song about your wife being mad at you and a pretty generic love son in Bargain. The 3 big singles are a lot better songs, but they're not exceptional enough for me to rate this album that highly. It's still a well crafted product, but when the novelty of it is eroded away by time, it's not consistent enough throughout to really please.

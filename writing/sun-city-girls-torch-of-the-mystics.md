@@ -17,6 +17,7 @@ Similar Albums: Faust - *Faust IV*, Guided by Voices - *Bee Thousand*, OOIOO - *
 
 # Write-up
 
+The Sun City Girls are named after their hometown in Sun City, Arizona, where they originally hailed from. They were active in the Arizona punk scene but never really fit in for reasons that should be obvious after listening to their music. One of the major inspiration for the band's music was the grandfather of Richard and Alan Bishop, two thirds of the trio. He played the Lebanese oud, didn't like the "official" Freemasons and held his own Knights Templar meetings. The eclectic inspirations for the music show in this album, which features a cover of a Bolivian folk song (Shining Path), a surf song which references Pearl Harbor conspiracy theories (Radar 1941) and more traditional punk (Blue Mamba). Additonally, 4 of the songs on this album are improvised, although sources are sketchy as to which ones. This album was one of 50 put out by the band, mostly on audiotapes in the 80s, and was first released on vinyl in 1990, 2 years after recording. In addition to their volume, the group was also known for their perfomances, which featured kabuki and a cult like atmosphere.The Sun City Girls somehow never really made the leap to mainstream superstardom and remained relatively obscure even to dedicated indie rock fans before their disbanding due to Charles Goocher, their third member, dying of cancer in 2007. Outside of the band, Alan Bishop also had a brief project with Moe Tucker, the drummer for the Velvet Underground under the name Paris 1942 and also edited a Ennio Morricone (composer for Spaghetti Western director Sergio Leone) compilation, whose influence can be heard on Shining Path.
 
 # Hargrove's review
 
@@ -33,3 +34,5 @@ Favorite tracks: Space Prophet Dogon, Radar 1941
 Least favorite track: Papa Legba
 
 # Aidan's review
+
+Carm's comment that this album is what trout master is to some people perfectly summarizes it for me. It's just dripping with inventiveness and melodies, nearly every song has a moment that is nearly perfect, and it's usually right at the beginning of the songs. The opening of Blue Mamba and the Shining Path are brilliant. The beginning of the guitar on Space Prophet Dragon is just perfect. The whole album sounds alien, as if it came from anywhere or nowhere. It's nowhere near perfect as a whole but the rest of the album still teems with ideas, even if they don't always hit, they're not unpleasant. And what's weird about the album is I don't find myself going back to certain tracks, what's enjoying is just waiting for the next moment of transcendence to reveal itself. The messy parts are certainly messy and it's just a tad too thick for casual listening, but the moments are worth it.

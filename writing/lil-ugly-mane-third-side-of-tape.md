@@ -42,3 +42,5 @@ Least favorite track: SIDE TWO-A
 Least favorite segment: use
 
 # Aidan's review
+
+This isn't really an album. It's a collection of random tracks grouped together. And it's really random. Lil Ugly Mane's tastes are wide ranging and that's reflected in this collection of tracks, which range from rap (There's alternate version of songs off of Mista Thug Isolation) to electro to some baffling acoustic songs. It lurches from style to style so hard, it never really does anything good. There's cool moments, like the Western-esque horn on "can i?" and a serviceable punk song in "punish explode". But there's also songs like "evil world" and "bush gardens", both of which feature what sounds like samples from commercials and the latter adds in Merzbow. It reminds me a lot of Donuts and SMiLE in how much it shifts around, but it isn't as good as either. One of those albums you just wonder why it's on the list.

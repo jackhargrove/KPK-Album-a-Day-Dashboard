@@ -35,3 +35,5 @@ Favorite tracks: Body and Soul, Just a Gigolo, Bye-Ya
 Least favorite track: Five Spot Blues
 
 # Aidan's review
+
+I always thought of Monk as the most avant garde of the big name in jazz, and I was pleasantly surprised to find that not the case with this album. He just bops along, with basically every song featuring catchy melodies, pleasant backing, and no duds in the 45 minute runtime. The title track and Bye-Ya stood out as particularly fun songs by virtue of sticking in my head the most, but it's just pleasant throughout. It is not a Blue Note record, and lacks the crisp Rudy Van Gelden production. I can't notice that at all, but the random voices in the background towards the middle of Body and Soul annoys me to no end. That and not having a normal version on Spotify are my two main gripes about this album, neither of which rest at the artist's feet. Solid, fun album.

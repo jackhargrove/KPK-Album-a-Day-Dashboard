@@ -33,3 +33,5 @@ Favorite tracks: slow, thorn, drive it all over me
 Least favorite track: cigarette in your bed
 
 # Aidan's review
+
+This is the second album after sweet trip that I really enjoyed but I don’t think really merits inclusion on the list. mbv is still clearly grasping for an identity, with the baseline on the title track sounding oddly industrial, while thorn is jangly and cigarette in your bed sounds a lot like Carms’s favorite album named after Greek food. I find the medley to be really charming, and it’s a much more approachable album than the imposing wall of sound of shallow. Drive it all over me is probably the song that foreshadows the future of the band the most, but it still keeps a lot more of the softness that I felt was buried in loveless. This is one of those albums that I can’t in good faith say is as good as it is in my heart, but I did really enjoy it.

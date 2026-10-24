@@ -44,3 +44,5 @@ Least Favorite Track: I Love You This Much
 8/10
 
 # Aidan's review
+
+Really liked the more melodic songs, thought the sampling was kinda hit or miss. Not at all what I was expecting having heard other no wave stuff. Overall really nice, took time to get in the groove with it but once I did, I enjoyed it. Felt surprisingly coherent for an album where the creation was “throw out all my remaining ideas” I think I would like it more if I had listened straight through, but it’s hard to find a 2 hour block.

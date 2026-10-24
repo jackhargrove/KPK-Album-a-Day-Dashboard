@@ -38,3 +38,5 @@ Favorite tracks: What’s Going On, What’s Happening Brother, Save the Childre
 Least favorite track: Flyin’ High (In the Friendly Sky)
 
 # Aidan's review
+
+In the time when I am listening to music that is not prescribed by the internet's ____est music nerds, I've been listening to a lot of Northern Soul. Those records mostly came from the mid 60s at Motown, and while there's a magic to how poppy they sound, this is clearly a step forward for a more mature, developed sound. There's interesting production choices, the instruments are more complex and Gaye is singing about more than love and dancing. It's a lot like a jazz record in how it feels, leading off with an incredibly recognizable hook of a song and continuing on a solid level throughout that flows without a hitch. As a political album, it reminds me a lot of the Beach Boys' "Surf's Up" from the same year, and it his on the same topics with a little less acuity, but that doesn't change how much of a pleasure it is to just sit back and enjoy. There's no real high point after the opening single, but I would be hard pressed to find a reason to dislike this album.

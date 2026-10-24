@@ -30,3 +30,5 @@ Favorite tracks: Thick as a Brick
 Least favorite track: Thick as a Brick
 
 # Aidan's review
+
+My favorite prog album so far. The first half avoids all the normal pitfalls of prog, keeping momentum and avoiding noodlely sections with the help of the marching drums and flute. The faux-epic vocals are infectiously fun, and the lyrics are just concrete enough to draw you in. The second half starts out with similar energy, but doesn’t fully match up to the first and starts to return to the natural place of prog, up its own ass, but still, the noodling feels hard won after how breakneck the first 25 minutes were. When the original themes start to reestablish themselves, it makes for a fitting ending. It may be a parody of the genre, but it manages to avoid the worst tropes and that results in a great product.

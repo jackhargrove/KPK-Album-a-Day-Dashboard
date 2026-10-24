@@ -35,3 +35,5 @@ Favorite tracks: Refuge, Spectrum, Dedication
 Least favorite track: Flight 19
 
 # Aidan's review
+
+Another Blue Note jazz album that fails to really impress. I spent most of my focus on this album trying to determine if the griping about Van Gelder's recording of pianos is worthwhile and no matter if you blame him or the music, the piano here feels constrained and the note leave too much space for an album where they are supposed to lead. I like most of the melodies he embarks on, but the sound itself is just so narrow that it doesn't leave the same impression as an Evans or Brubeck. Other than that, it's most of my standard complaint about jazz albums that I don't like. Dolphy's sax was not my favorite on "Out To Lunch!" and I'm not more impressed here, as he tends towards the same knotty melodies. Meh.

@@ -36,3 +36,5 @@ Favorite tracks: Will to Believe, Alive in the Septic Tank, Buck-Toothed Particl
 Least favorite track: One Hand Washes the Other
 
 # Aidan's review
+
+Crazy cool production makes this album work so well. There's just so much going on that all comes together to create a super cool feeling. I don't think any one song really stands out from this album, there's just a ton of very solid songs that flow together to create a seamless whole. Buck-Toothed Particle Smashers and The Gospel Truth was probably my favorites, but it's not that much better than any other song. The totality of the soundscape feels so natural, the chaos creates a great groove and I was pleasantly surprised that it all held together for the hour running time on each listen. It's unique and enjoyable, not outstandingly so, but enough that I was happy to listen to it.

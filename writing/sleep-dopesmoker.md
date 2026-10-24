@@ -42,3 +42,5 @@ Favorite tracks: Dopesmoker
 Least favorite track: Dopesmoker
 
 # Aidan's review
+
+Went in with pretty low expectations, this being the first metal album I’ve ever listened to. The drums were cool throughout but they’re buried pretty deep in the mix. The entire album felt like it was building to something, but it never really has a huge payoff. When the guitar riffs come, they’re great, but they’re few and far between. The lyrics were interesting when I searched them up, but the vocals themselves weren’t my favorite. The album absolutely succeeds at creating an anxious atmosphere, but I didn’t really enjoy it. I liked it a lot more on my second listen and I’ll probably make another pass or two at it, but it’s simply not something I enjoyed listening to.
