@@ -33,7 +33,7 @@ Moving to the instrumental side of the album, I find “V-2 Schneider” consist
 
 “’Heroes’” is better than anything on *Low*, but overall this album has less aura when I listen to it in full. Still, it’s solidly above the average album we’ve listened to, even discounting the title track. I think a high A Tier placement fits.
 
-Favorite tracks: Beauty and the Beast, Joe the Lion, Sons of the Silent Age, V-2 Schneider, Sense of Doubt, The Secret Life of Arabia
+Favorite tracks: Beauty and the Beast, Joe the Lion, “Heroes”, Sons of the Silent Age, V-2 Schneider, Sense of Doubt, The Secret Life of Arabia
 
 Least favorite track: Moss Garden
 
