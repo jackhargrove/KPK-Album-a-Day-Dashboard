@@ -2,6 +2,26 @@
 // Pure functions only (no fs / imports) so build.mjs owns all file I/O.
 
 // ---------------------------------------------------------------------------
+// Link previews (iMessage, Discord, etc.): Open Graph / Twitter tags with absolute URLs
+
+export const SITE_URL = "https://jackhargrove.github.io/KPK-Album-a-Day-Dashboard/";
+export const SITE_DESCRIPTION = "Hargrove and Aidan listened to all 318 albums on the /mu/ essentials 2018 list, one a day: rankings, tiers, charts, and a page of writing for every album.";
+
+export function previewTags({ title, description, path = "", image = "images/preview.jpg", large = true }) {
+  const esc = (t) => String(t).replace(/&/g, "&amp;").replace(/"/g, "&quot;").replace(/</g, "&lt;");
+  return [
+    '<meta name="description" content="' + esc(description) + '">',
+    '<meta property="og:type" content="website">',
+    '<meta property="og:site_name" content="/mu/ essentials · Album a Day">',
+    '<meta property="og:title" content="' + esc(title) + '">',
+    '<meta property="og:description" content="' + esc(description) + '">',
+    '<meta property="og:url" content="' + SITE_URL + path + '">',
+    '<meta property="og:image" content="' + SITE_URL + image + '">',
+    '<meta name="twitter:card" content="' + (large ? "summary_large_image" : "summary") + '">',
+  ].join("\n");
+}
+
+// ---------------------------------------------------------------------------
 // Data: pull the literal constants out of dashboard.jsx
 
 function extractConst(src, name) {
@@ -238,6 +258,16 @@ export function renderAlbumPage({ album, writing, prev, next, data, cover }) {
     '<meta charset="UTF-8">',
     '<meta name="viewport" content="width=device-width, initial-scale=1.0">',
     "<title>" + ar + " – " + t + " · /mu/ essentials</title>",
+    previewTags({
+      title: album.artist + " – " + album.title,
+      description: album.year + " · " + album.genre +
+        (album.tier ? " · Hargrove: " + album.tier + (album.rank ? " (#" + album.rank + ")" : "") : "") +
+        (album.aidanTier ? " · Aidan: " + album.aidanTier : "") +
+        " · Summary, write-up and both reviews from the /mu/ essentials album-a-day project.",
+      path: "album/" + album.slug + "/",
+      image: cover ? "covers/" + cover : undefined,
+      large: false,
+    }),
     '<link rel="preconnect" href="https://fonts.googleapis.com">',
     '<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>',
     '<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=Space+Mono:wght@700&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;1,8..60,400&display=swap" rel="stylesheet">',
@@ -317,6 +347,7 @@ export function renderListsPage(images) {
     '<meta charset="UTF-8">',
     '<meta name="viewport" content="width=device-width, initial-scale=1.0">',
     "<title>The Lists · /mu/ essentials</title>",
+    previewTags({ title: "The Lists · /mu/ essentials", description: "The original /mu/ essentials 2018 chart, Hargrove's and Aidan's final tier lists, and where the artists are from.", path: "lists/" }),
     '<link rel="preconnect" href="https://fonts.googleapis.com">',
     '<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>',
     '<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=Space+Mono:wght@700&display=swap" rel="stylesheet">',

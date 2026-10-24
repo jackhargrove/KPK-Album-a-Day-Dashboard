@@ -1,6 +1,6 @@
 import { readFileSync, writeFileSync, mkdirSync, readdirSync, copyFileSync, existsSync } from "fs";
 import ts from "typescript";
-import { buildAlbumPages, renderListsPage } from "./album-pages.mjs";
+import { buildAlbumPages, renderListsPage, previewTags, SITE_DESCRIPTION } from "./album-pages.mjs";
 
 const jsx = readFileSync("dashboard.jsx", "utf8");
 
@@ -58,13 +58,14 @@ console.log("Built dist/lists/index.html with " + images.length + " images");
 // Build HTML via concatenation (NOT template literals) to avoid
 // backticks in the compiled JS breaking the output.
 // The same app is written twice: the album list at / and the charts at /charts/.
-const page = (name, title) => [
+const page = (name, title, path) => [
   '<!DOCTYPE html>',
   '<html lang="en">',
   '<head>',
   '<meta charset="UTF-8">',
   '<meta name="viewport" content="width=device-width, initial-scale=1.0">',
   '<title>' + title + '</title>',
+  previewTags({ title: name === "home" ? "/mu/ essentials 2018 · Album a Day" : title, description: SITE_DESCRIPTION, path }),
   '<style>',
   '  * { margin: 0; padding: 0; box-sizing: border-box; }',
   '  body { background: #0d0d0d; }',
@@ -89,6 +90,6 @@ const page = (name, title) => [
 ].join("\n");
 
 mkdirSync("dist/charts", { recursive: true });
-writeFileSync("dist/index.html", page("home", "/mu/ essentials - Album a Day Dashboard"));
-writeFileSync("dist/charts/index.html", page("charts", "Charts & Stats · /mu/ essentials"));
+writeFileSync("dist/index.html", page("home", "/mu/ essentials - Album a Day Dashboard", ""));
+writeFileSync("dist/charts/index.html", page("charts", "Charts & Stats · /mu/ essentials", "charts/"));
 console.log("Built dist/index.html and dist/charts/index.html");
