@@ -26,7 +26,7 @@ Artist and album names follow the original /mu/ list as Jack spells them (e.g. "
 ## Site Pages
 
 - `build.mjs` renders dashboard.jsx twice, setting `DASHBOARD_PAGE`: `/` = header (with overall progress bar), link to charts, album list; `/charts/` = header, link back, all charts. Without `DASHBOARD_PAGE` (standalone artifact) everything shows.
-- `/lists/` = "The Lists": `images/mu-essentials-2018.jpg` (original chart), `images/hargrove-tier-list.jpg`, and Aidan's tier list, which appears automatically once a file named `images/aidan-tier-list.<jpg|png|webp>` is added (placeholder until then). build.mjs copies `images/` into the site.
+- `/lists/` = "The Lists": `images/mu-essentials-2018.jpg` (original chart), `images/hargrove-tier-list.jpg`, and `images/aidan-tier-list.jpg`, side by side. build.mjs copies `images/` into the site.
 - The viewer choice travels between the two pages as a URL param (`?viewer=aidan`); clicking a genre or decade on the charts page opens `/?genre=…` or `/?decade=…`.
 
 ## Credits & Locations (from Jack's "Misc." notes)
