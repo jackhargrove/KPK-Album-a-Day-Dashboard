@@ -41,3 +41,5 @@ Favorite tracks: Is This It, Soma, Barely Legal, Someday, Alone, Together, Last 
 Least favorite track: The Modern Age
 
 # Aidan's review
+
+In many ways, I miss the good old days. But somehow every time I come back to Is This It, it's just as good as I remembered it. Such a great record, it just exudes cool in a way that I would have thought was impossible without using copious amounts of heroin. There's no particularly flashy aspect of this album, it's just quietly excellent in every aspect, clever but not overdone songwriting, great sounding production and tight pop riffs. There are albums I think are more important to me as a person, but there are few albums that I both love and feel are as undeniably fantastic as this one. Hard to Explain is my personal favorite, but there's not a bad moment on this album (even the swapped out NYC Cops is a delight). My favorite bits are when they pick up the tempo, something they would do even more in the followup, Room on Fire, but they never regained that sense of youth and possibility that just radiated out of their first album. If only there was some song about that.

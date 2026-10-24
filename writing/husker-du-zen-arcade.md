@@ -40,3 +40,7 @@ Favorite tracks: Something I Learned Today, Broken Home, Broken Heart, Chartered
 Least favorite track: Hare Krsna
 
 # Aidan's review
+
+Full review will be tomorrow bc I’m picking my sister up at the airport, but I broadly agree. I don’t hate Hare Krishna as much as you do (Indecision Time is more annoying for me) and Turn on the News is a top 3 track, but it’s absolutely a case of muddle preventing the album from reaching its full potential
+
+I like the tracks with genre experimentation, of which Hare Krishna is probably one of the less successful. I find the extremely fast hardcore stuff on disc 2 very same-y after their intros, and I have a strong dislike for songs that feel rushed, which happens on occasion there.

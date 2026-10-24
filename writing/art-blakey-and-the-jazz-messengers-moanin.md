@@ -39,3 +39,5 @@ Favorite tracks: Moanin’, Are You Real, Along Came Betty, The Drum Thunder Sui
 Least favorite track: Blues March
 
 # Aidan's review
+
+The run of great jazz albums (and great albums in general) continues. The title track is anchored by an incredibly catchy piano, trumpet and sax call and response that's been stuck in my head all week. Great, robust song, one of the first jazz standards that I've listened to that jumped out as "that's gotta be a standard". Blakey's drumming rarely stands out here, which mildly surprises me due to his status as the band leader, but the album's stars are the piano, trumped and sax working as a trio. The first two tracks are the peak, but what a peak, and the rest of the album manages to keep the momentum going with solid tracks. I could probably listen to this 50 times without getting tired of it, it's just the right combination of enjoyable and unassuming. For most of its run length, it meanders along happily and it's incredibly pleasant to listen alongside. It just puts me in a good mood to listen to this album, one of the best jazz albums we've done so far.

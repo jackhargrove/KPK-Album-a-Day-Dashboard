@@ -37,3 +37,5 @@ Favorite tracks: Responsible
 Least favorite track: Music for Han Bennink I
 
 # Aidan's review
+
+Despite the mountain of distance between the two groups, this album reminded me a lot of Sonic Youth in how it wrestles between chaos and melody. The real magic here comes at the end of every track, after blast of chaos, each track suddenly solidifies into something resembling a melody. In those moments, when the wild energy of the free jazz subsides, it's something magical. Now, there is some 34 minutes of the record that is not that and is instead the most wild free jazz imaginable. That bit is surprisingly not that bad either. In the first track, it's given structure by the periodic horn blasts, the second subsides into relative calm halfway through and the closer has two periods of calms. Th effect of all of this is to make the harshness of the free jazz manageable, a breath of fresh air instead of a pummeling torment. It doesn't make it a breeze to listen to, but it's far more enjoyable than a first impression would have you believe. Unlike anything I've heard before and the magic moments were enough to make me like it despite my initial biases
