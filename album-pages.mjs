@@ -329,7 +329,12 @@ const LISTS_CSS = `
 .pair > section { display:flex; flex-direction:column; min-width:0; }
 .pair .placeholder { flex:1; display:flex; align-items:center; justify-content:center; }
 @media (max-width:640px) { .pair { grid-template-columns:1fr; gap:0; } }
+.linkbox { display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:4px 16px; margin-top:16px; background:#111; border:1px solid var(--line); border-radius:4px; padding:14px 20px; color:#999; font-size:12px; letter-spacing:1px; text-decoration:none; }
+.linkbox:hover { color:#ddd; }
+.linkbox .sub { color:#555; letter-spacing:0; }
 `;
+
+const FAVORITES_PLAYLIST = "https://open.spotify.com/playlist/1EREc3Y9n2Fi4YAk0lYSf1";
 
 export function renderListsPage(images) {
   const find = (stem) => images.find((f) => f.replace(/\.[^.]+$/, "") === stem);
@@ -362,6 +367,8 @@ export function renderListsPage(images) {
     section("Hargrove’s final tier list", "", hargrove, "Hargrove's final tier list", "Coming soon."),
     section("Aidan’s final tier list", "", aidan, "Aidan's final tier list", "Aidan’s tier list is coming soon."),
     "</div>",
+    '<section><h2>Hargrove’s favorite tracks</h2><a class="linkbox" href="' + FAVORITES_PLAYLIST + '" target="_blank" rel="noopener">' +
+      "<span>Listen on Spotify ↗</span><span class=\"sub\">every “Favorite tracks” pick in one playlist</span></a></section>",
     map ? section("Where the artists are from", 'RateYourMusic music map · <a href="../charts/" style="color:inherit">full breakdown on the charts page</a>', map, "RateYourMusic map of where the list's artists are from", "") : "",
     "</div>",
     "</body>",

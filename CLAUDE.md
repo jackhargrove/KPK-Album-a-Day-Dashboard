@@ -65,7 +65,7 @@ Classification principles (Jack has final say but welcomes pushback):
 ## Site Pages
 
 - `build.mjs` renders dashboard.jsx twice, setting `DASHBOARD_PAGE`: `/` = header (overall progress bar), links to Charts and The Lists, album list; `/charts/` = header, link back, all charts. Without `DASHBOARD_PAGE` (standalone artifact) everything shows. The charts' two-column rows stack on narrow screens.
-- `/lists/` = "The Lists": original chart (`images/mu-essentials-2018.jpg`), `images/hargrove-tier-list.jpg` and `images/aidan-tier-list.jpg` side by side, and the RYM map (`images/rym-music-map.jpg`).
+- `/lists/` = "The Lists": original chart (`images/mu-essentials-2018.jpg`), `images/hargrove-tier-list.jpg` and `images/aidan-tier-list.jpg` side by side, a link to Hargrove's favorite-tracks Spotify playlist (`FAVORITES_PLAYLIST`), and the RYM map (`images/rym-music-map.jpg`).
 - The viewer choice travels between pages as a URL param (`?viewer=aidan`); clicking a genre or decade on the charts page opens `/?genre=…` or `/?decade=…`.
 - Every page has link-preview tags: home/charts/lists use `images/preview.jpg` (cover mosaic); album pages use their own cover, title and both tiers.
 
